@@ -1,0 +1,57 @@
+name: Refresh dashboard and video archive
+on:
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+  workflow_dispatch:
+  repository_dispatch:
+    types: [youtube-published]
+  push:
+    branches: [main]
+    paths-ignore: ['data/**']
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: dashboard-publish
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh public data
+        id: refresh
+        continue-on-error: true
+        run: python scripts/refresh_data.py
+      - name: Preserve archive
+        run: |
+          git config user.name 'FedReg Intel data updater'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh Federal Register snapshot and YouTube archive'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - uses: actions/configure-pages@v5
+      - name: Stage public site only
+        run: |
+          mkdir -p _site
+          cp index.html privacy.html CNAME .nojekyll _site/
+          cp -r assets data _site/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Report a failed source refresh
+        if: steps.refresh.outcome == 'failure'
+        run: exit 1
