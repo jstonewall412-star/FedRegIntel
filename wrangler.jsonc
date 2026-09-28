@@ -1,0 +1,8 @@
+{
+  // Cloudflare Worker that serves the static FedReg Intel site at fedregintel.com
+  "name": "fedregintel",
+  "compatibility_date": "2026-09-01",
+  "assets": {
+    "directory": "./public"
+  }
+}
