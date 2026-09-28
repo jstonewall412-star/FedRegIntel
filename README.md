@@ -3,8 +3,8 @@
 Website for [FedReg Intel](https://www.youtube.com/@FedRegIntel), served at
 [fedregintel.com](https://fedregintel.com).
 
-- `public/index.html`: home page
-- `public/privacy.html`: privacy policy for the FedReg Intel publishing app
+- `index.html`: home page
+- `privacy.html`: privacy policy for the FedReg Intel publishing app
 
-The site is plain static HTML. Cloudflare Workers deploys the `public/` folder
-(see `wrangler.jsonc`) whenever `main` changes.
+The site is plain static HTML hosted on GitHub Pages from the `main` branch.
+`CNAME` sets the custom domain.
