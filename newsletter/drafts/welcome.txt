@@ -1,0 +1,19 @@
+Welcome to FedReg Intel
+
+Thanks for joining FedReg Intel. Federal decisions shape everyday life, and understanding the process makes it easier to participate.
+
+Once a month, we’ll send a roundup of our published videos, practical ways to follow federal rulemaking, and news about our books. You can unsubscribe at any time.
+
+Start with the rule dashboard: search a topic you care about, check the comment deadline, and read the official document. Our video archive offers briefings and explainers to help you get oriented.
+
+Want a step-by-step companion? How to Comment on Federal Rules by Jarrett Paul Dudley walks through finding proposals and writing a clear, useful comment. The link below is a promotion for our book.
+
+Have a topic you’d like us to cover? Reply to this email. — Jarrett Paul Dudley, FedReg Intel
+
+Explore the rule dashboard: https://fedregintel.com/#rules
+Watch FedReg Intel: https://fedregintel.com/#videos
+Buy How to Comment on Federal Rules on Amazon: https://www.amazon.com/dp/B0HL97PYTB
+
+You subscribed to FedReg Intel updates and book promotions.
+{{MAILING_ADDRESS}}
+Unsubscribe: {{UNSUBSCRIBE_URL}}
