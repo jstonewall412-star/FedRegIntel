@@ -1,8 +1,15 @@
 {
   "channel_id": "UC9VwALJt5kVlHWQ0rRV1LOg",
   "channel_url": "https://www.youtube.com/@FedRegIntel",
-  "updated_at": "2026-09-29T09:00:54.314133+00:00",
+  "updated_at": "2026-09-29T09:22:14.058301+00:00",
   "videos": [
+    {
+      "id": "7qsoEMc8d-0",
+      "title": "Federal Rules Open for Comment – September 29, 2026",
+      "published": "2026-09-29T09:08:16+00:00",
+      "url": "https://www.youtube.com/watch?v=7qsoEMc8d-0",
+      "thumbnail": "https://i4.ytimg.com/vi/7qsoEMc8d-0/hqdefault.jpg"
+    },
     {
       "id": "QLM-K-VpsHo",
       "title": "The Congressional Review Act: How Congress Can Overturn a Rule | Rulemaking 101",
