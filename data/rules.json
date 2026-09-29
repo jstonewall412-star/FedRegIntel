@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T12:53:12.005701+00:00",
+  "updated_at": "2026-09-29T13:23:58.373425+00:00",
   "latest_date": "2026-09-29",
   "issue_count": 17,
   "documents": [
@@ -64,7 +64,7 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11785-0001",
       "effective_on": "2026-10-14"
     },
     {
@@ -273,7 +273,7 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11788-0001",
       "effective_on": null
     },
     {
@@ -337,7 +337,7 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11790-0001",
       "effective_on": null
     },
     {
@@ -392,7 +392,7 @@
         }
       ],
       "comments_close_on": null,
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/IRS_FRDOC_0001-2420",
       "effective_on": null
     },
     {
