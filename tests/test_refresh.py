@@ -5,6 +5,30 @@ from unittest.mock import patch
 spec=importlib.util.spec_from_file_location('refresh',Path(__file__).parents[1]/'scripts/refresh_data.py')
 m=importlib.util.module_from_spec(spec);spec.loader.exec_module(m)
 class ArchiveTests(unittest.TestCase):
+    def test_temporary_youtube_404_retries_then_recovers(self):
+        from urllib.error import HTTPError
+        from unittest.mock import MagicMock
+        response=MagicMock()
+        response.__enter__.return_value.read.return_value=b'feed'
+        error=HTTPError('https://www.youtube.com/feeds/videos.xml',404,'Not Found',{},None)
+        with patch.object(m.urllib.request,'urlopen',side_effect=[error,response]) as request, patch.object(m.time,'sleep') as sleep:
+            self.assertEqual(m.fetch(error.url),b'feed')
+            self.assertEqual(request.call_count,2)
+            sleep.assert_called_once_with(5)
+
+    def test_retries_are_bounded(self):
+        with patch.object(m.urllib.request,'urlopen',side_effect=TimeoutError) as request, patch.object(m.time,'sleep'):
+            with self.assertRaises(TimeoutError): m.fetch('https://www.youtube.com/feeds/videos.xml')
+            self.assertEqual(request.call_count,4)
+
+    def test_snapshot_grace_expires_and_does_not_change_timestamp(self):
+        with tempfile.TemporaryDirectory() as folder:
+            data=Path(folder); p=data/'videos.json'
+            for hours, expected in [(24,True),(37,False)]:
+                original=json.dumps({'channel_id':m.CHANNEL,'videos':[{'id':'old'}], 'updated_at':(m.datetime.now(m.timezone.utc)-m.timedelta(hours=hours)).isoformat()})
+                p.write_text(original)
+                with patch.object(m,'DATA',data): self.assertEqual(m.recent_video_snapshot(),expected)
+                self.assertEqual(p.read_text(),original)
     def test_merge_retains_old_video_and_updates_existing(self):
         with tempfile.TemporaryDirectory() as folder:
             data=Path(folder)

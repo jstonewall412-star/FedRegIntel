@@ -1,5 +1,5 @@
 """Public feeds only. No YouTube credentials, API keys, or paid services required."""
-import json, sys, urllib.request, urllib.parse, xml.etree.ElementTree as ET
+import json, sys, time, urllib.request, urllib.parse, urllib.error, xml.etree.ElementTree as ET
 from pathlib import Path
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
@@ -10,7 +10,30 @@ CHANNEL = 'UC9VwALJt5kVlHWQ0rRV1LOg'
 FIELDS = ['title','type','abstract','document_number','html_url','pdf_url','publication_date','agencies','comments_close_on','comment_url','effective_on']
 def fetch(url):
     request = urllib.request.Request(url, headers={'User-Agent':'FedRegIntel/1.0 (+https://fedregintel.com)'})
-    with urllib.request.urlopen(request, timeout=45) as response: return response.read()
+    for attempt in range(4):
+        try:
+            with urllib.request.urlopen(request, timeout=45) as response:
+                return response.read()
+        except (urllib.error.URLError, TimeoutError, ConnectionError) as exc:
+            if isinstance(exc, urllib.error.HTTPError):
+                retryable = exc.code in (408, 429, 500, 502, 503, 504) or (
+                    exc.code == 404 and url.startswith('https://www.youtube.com/feeds/'))
+                if not retryable:
+                    raise
+            if attempt == 3:
+                raise
+            time.sleep((5, 20, 60)[attempt])
+
+def recent_video_snapshot():
+    """Allow one missed nightly feed refresh, without pretending it is fresh."""
+    try:
+        data = json.loads((DATA/'videos.json').read_text(encoding='utf-8'))
+        updated = datetime.fromisoformat(data['updated_at'])
+        age = datetime.now(timezone.utc) - updated
+        return (data.get('channel_id') == CHANNEL and bool(data.get('videos'))
+                and timedelta(0) <= age <= timedelta(hours=36))
+    except (OSError, ValueError, KeyError, TypeError):
+        return False
 def save(name,data):
     target=DATA/name
     temp=target.with_suffix('.tmp')
@@ -50,6 +73,12 @@ if __name__=='__main__':
     for task in [refresh_rules,refresh_videos]:
         try: task()
         except Exception as exc:
+            temporary = isinstance(exc, (urllib.error.URLError, TimeoutError, ConnectionError))
+            if isinstance(exc, urllib.error.HTTPError):
+                temporary = exc.code in (404, 408, 429, 500, 502, 503, 504)
+            if task is refresh_videos and temporary and recent_video_snapshot():
+                print('::warning::YouTube unavailable after retries; retaining video snapshot (less than 36 hours old). '+str(exc),file=sys.stderr)
+                continue
             failures.append(task.__name__)
             print(task.__name__+' failed; keeping its last successful snapshot: '+str(exc),file=sys.stderr)
     if failures: sys.exit(1)
