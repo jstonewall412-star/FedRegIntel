@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T03:51:16.894948+00:00",
+  "updated_at": "2026-09-30T04:01:14.058872+00:00",
   "latest_date": "2026-09-29",
   "issue_count": 17,
   "documents": [
@@ -2978,29 +2978,6 @@
       "effective_on": "2026-05-06"
     },
     {
-      "title": "Promoting Employee Accountability",
-      "type": "Proposed Rule",
-      "abstract": "OPM is reopening the public comment period for additional comments on OPM data and a new report published by a nongovernmental organization. OPM is releasing current data that is relevant to the proposed rule published on July 2, 2026, entitled \"Promoting Employee Accountability.\" OPM is also interested in receiving public comment on a report published by We the Doers published on August 27, 2026. Accordingly, OPM is reopening the rulemaking for public comment specifically with respect to the proposed rule as informed by the newly released data and the report. The comment period for the proposed rule closed August 3, 2026; it is now reopened for two weeks.",
-      "document_number": "2026-18943",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/15/2026-18943/promoting-employee-accountability",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-15/pdf/2026-18943.pdf",
-      "publication_date": "2026-09-15",
-      "agencies": [
-        {
-          "raw_name": "OFFICE OF PERSONNEL MANAGEMENT",
-          "name": "Personnel Management Office",
-          "id": 406,
-          "url": "https://www.federalregister.gov/agencies/personnel-management-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/406",
-          "parent_id": null,
-          "slug": "personnel-management-office"
-        }
-      ],
-      "comments_close_on": "2026-09-29",
-      "comment_url": "http://www.regulations.gov/commenton/OPM-2025-0012-0678",
-      "effective_on": "2026-07-02"
-    },
-    {
       "title": "Special Areas; Roadless Area Conservation",
       "type": "Proposed Rule",
       "abstract": "The U.S. Department of Agriculture (USDA or Department) is extending the public comment period for the proposed rule titled Special Areas; Roadless Area Conservation, published in the Federal Register on August 20, 2026 (91 FR 53827). The notice of proposed rulemaking invited public comment on the proposed rule, the associated draft environmental impact statement, and cost benefit analysis, which were published simultaneously. The original comment period is scheduled to close on September 21, 2026. The Department is extending the comment period by 15 days to allow the public additional time to submit comments. The new deadline for comments is October 6, 2026.",
@@ -4308,93 +4285,6 @@
       "comments_close_on": "2026-09-30",
       "comment_url": "http://www.regulations.gov/commenton/MSHA-2025-0072-0018",
       "effective_on": null
-    },
-    {
-      "title": "Qualification and Certification of Locomotive Engineers and Conductors; English Language Proficiency and Other Requirements",
-      "type": "Proposed Rule",
-      "abstract": "FRA proposes to amend its regulations governing the qualification and certification of locomotive engineers and conductors to establish English language proficiency as a requirement for a railroad carrier to certify and recertify locomotive engineers and conductors. FRA also proposes that each railroad carrier conducting a triennial examination of skill performance, and an annual operational monitoring observation for locomotive engineers, which are current requirements, conduct those examinations and observations without engaging energy management systems that limit the need for a locomotive engineer to operate the throttle or braking systems. Further, FRA proposes to codify limitations on operations at the southern border, including a 10 route-mile geographic limitation, to ensure domestic training, testing, and certification requirements for Mexican crew members are adequate. In addition, FRA proposes changes to clarify that a locomotive engineer or conductor's territorial qualification is limited to the specific direction of travel traversed during the qualification process.",
-      "document_number": "2026-15605",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/31/2026-15605/qualification-and-certification-of-locomotive-engineers-and-conductors-english-language-proficiency",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-07-31/pdf/2026-15605.pdf",
-      "publication_date": "2026-07-31",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Railroad Administration",
-          "name": "Federal Railroad Administration",
-          "id": 185,
-          "url": "https://www.federalregister.gov/agencies/federal-railroad-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/185",
-          "parent_id": 492,
-          "slug": "federal-railroad-administration"
-        }
-      ],
-      "comments_close_on": "2026-09-29",
-      "comment_url": "http://www.regulations.gov/commenton/FRA-2026-2014-0001",
-      "effective_on": null
-    },
-    {
-      "title": "Removal of References to the Uniform Guidelines on Employee Selection Procedures in Federal Personnel Regulations",
-      "type": "Rule",
-      "abstract": "The Office of Personnel Management (OPM) is issuing an interim final rule with request for comments to remove references to the Uniform Guidelines on Employee Selection Procedures (UGESP) from Federal civil service regulations. These amendments conform OPM's regulations to the Department of Justice, Office of Legal Counsel's June 9, 2026, opinion finding the UGESP unlawful.",
-      "document_number": "2026-15586",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/31/2026-15586/removal-of-references-to-the-uniform-guidelines-on-employee-selection-procedures-in-federal",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-07-31/pdf/2026-15586.pdf",
-      "publication_date": "2026-07-31",
-      "agencies": [
-        {
-          "raw_name": "OFFICE OF PERSONNEL MANAGEMENT",
-          "name": "Personnel Management Office",
-          "id": 406,
-          "url": "https://www.federalregister.gov/agencies/personnel-management-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/406",
-          "parent_id": null,
-          "slug": "personnel-management-office"
-        }
-      ],
-      "comments_close_on": "2026-09-29",
-      "comment_url": "http://www.regulations.gov/commenton/OPM-2026-0595-0001",
-      "effective_on": "2026-07-31"
-    },
-    {
-      "title": "Clingstone Peach Diversion Program; Amendment of Program Regulations",
-      "type": "Rule",
-      "abstract": "This interim final rule amends the regulatory requirements for the Clingstone Peach Diversion Program (Program). The Program is voluntary, consists of payments for peach tree removal, and is implemented under clause (3) of section 32 of the Agricultural Adjustment Act Amendment of 1935, as amended. The Program is expected to reestablish the purchasing power of clingstone peach growers by making payments to such growers to facilitate reductions in peach production capacity. This action will help to align the domestic supply of clingstone peaches with the market demand for those peaches and thus mitigate the economic effects of systemic oversupply. The parameters established herein will ensure that diversion under this Program is not part of a normal tree replacement cycle for orchard rejuvenation. This rule also announces the Agricultural Marketing Service's intention to request approval by the Office of Management and Budget of new information collection requirements necessary to implement the Program.",
-      "document_number": "2026-15525",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/31/2026-15525/clingstone-peach-diversion-program-amendment-of-program-regulations",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-07-31/pdf/2026-15525.pdf",
-      "publication_date": "2026-07-31",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Agricultural Marketing Service",
-          "name": "Agricultural Marketing Service",
-          "id": 9,
-          "url": "https://www.federalregister.gov/agencies/agricultural-marketing-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/9",
-          "parent_id": 12,
-          "slug": "agricultural-marketing-service"
-        }
-      ],
-      "comments_close_on": "2026-09-29",
-      "comment_url": "http://www.regulations.gov/commenton/AMS-SC-26-0496-0001",
-      "effective_on": "2026-08-03"
     },
     {
       "title": "Fingerprint and Photograph Requirements for Firearms Applications",
