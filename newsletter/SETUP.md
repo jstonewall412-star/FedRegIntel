@@ -1,36 +1,22 @@
-# FedReg Intel email list
+# Signup collection — sending remains off
 
-Status: drafts prepared; subscriber service not connected; no automatic mail enabled.
+The website collects explicit consent for future FedReg Intel updates and book promotions.
+Cloudflare Worker: fedregintel-signups (workers.dev endpoint in signup-section.html).
+Private D1 database: fedregintel-subscribers. Subscriber records must never be exported to this public repository.
+Cloudflare Dashboard > Storage & databases > D1 > fedregintel-subscribers > Studio lets the owner inspect or remove records.
+Keep exports outside the repository and outside the public website.
 
-## Website signup copy
+The Worker accepts POST /signup, checks the website origin, validates email and consent,
+verifies a hostname/action-bound Turnstile token, and stores a deduplicated signup.
+There is no list-reading API, email sender, scheduled campaign, or email-provider connection.
+TURNSTILE_SECRET is a Cloudflare secret; never put it in wrangler.jsonc or git.
+Records are marked pending-launch-unverified because no confirmation email is sent.
 
-**Join the FedReg Intel monthly brief**
+Before launching email: select a provider, establish a valid postal address and unsubscribe handling,
+review stored consent, verify addresses as appropriate, and explicitly authorize sending.
+The existing newsletter drafts do not send mail and must not be scheduled while email is on hold.
 
-The month’s videos, practical rulemaking guidance, and news about books by Jarrett Paul Dudley — delivered to your inbox.
-
-Email address (required); first name (optional).
-
-Consent: “Send me FedReg Intel’s monthly updates and book promotions. I can unsubscribe at any time.”
-
-Button: **Join the email list**
-
-After submission: “Check your inbox for a confirmation link. You’ll join the list after confirming your email address.”
-
-## Sending setup
-
-- Use a provider-hosted double-opt-in form; do not store subscriber addresses in this public repository.
-- Authenticate a sender on fedregintel.com using the selected provider’s DKIM instructions. Preserve existing Cloudflare routing MX records and do not create a second SPF record.
-- Send welcome.html once, only after confirmation. Reply-to: hello@fedregintel.com.
-- Send one monthly roundup for the preceding calendar month, using America/New_York dates, on the first of each month at 10 AM Eastern.
-- Recipients: confirmed subscribers only, excluding all unsubscribed, bounced, and suppressed contacts.
-- Substitute the provider’s unsubscribe merge tag and the owner-supplied public mailing address before activating either email. Include both HTML and plain text.
-- Regenerate drafts from current data/videos.json. Never send a stale archive without investigating refresh failures. Use a per-month campaign ID and check its sent status before retrying to avoid duplicate campaigns.
-- Verify signup, confirmation, welcome delivery, unsubscribe suppression, and a test monthly send before enabling production delivery.
-
-## Draft generation
-
-`python scripts/build_newsletter.py --month 2026-09 --output newsletter/drafts`
-
-September 2026 drafts are previews of the month so far until September ends. The script does not send mail. Templates retain conspicuous placeholders until an email provider is configured.
-
-The current catalog promotes only the verified published book: https://www.amazon.com/dp/B0HL97PYTB. Add additional books only when their publication and purchase links are confirmed.
+Test: node --test tests/signup.test.mjs
+Deploy collector: wrangler deploy (from newsletter/collector; authenticated Cloudflare account required).
+Create schema on initial setup only: wrangler d1 execute fedregintel-subscribers --remote --file schema.sql
+The public site still deploys through GitHub Pages. No Cloudflare hosting/DNS change is required.

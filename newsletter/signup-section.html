@@ -1,10 +1,17 @@
-<!-- Insert before #feedback after replacing the provider URL and testing double opt-in. -->
-<section id="newsletter" class="shell contact-band" aria-labelledby="newsletter-title">
-  <div>
-    <p class="eyebrow">THE MONTHLY BRIEF</p>
-    <h2 id="newsletter-title">Join our email list.</h2>
-    <p>The month’s videos, practical rulemaking guidance, and news about books by Jarrett Paul Dudley — delivered to your inbox.</p>
-    <p>One monthly roundup, plus a welcome email. Unsubscribe at any time.</p>
+<section id="newsletter" class="shell signup-section" aria-labelledby="newsletter-title">
+  <div><p class="eyebrow">STAY IN THE KNOW</p><h2 id="newsletter-title">Join our email list.</h2>
+    <p>Sign up for future FedReg Intel video roundups, practical rulemaking guidance, and book news and offers.</p>
+    <p><strong>Emails are currently on hold.</strong> We’ll save your signup now. No welcome or promotional email will be sent at this time.</p>
   </div>
-  <a class="button" href="{{VERIFIED_PROVIDER_SIGNUP_URL}}">Join the email list ↗</a>
+  <form id="email-signup" data-endpoint="https://fedregintel-signups.jstonewall412.workers.dev/signup">
+    <label for="signup-email">Email address</label>
+    <input id="signup-email" name="email" type="email" autocomplete="email" maxlength="254" required placeholder="you@example.com">
+    <div class="signup-trap" aria-hidden="true"><label>Leave this blank<input name="website" tabindex="-1" autocomplete="off"></label></div>
+    <label class="signup-consent"><input name="consent" type="checkbox" required> <span>I agree to receive future FedReg Intel updates and book promotions. I can withdraw my signup at any time.</span></label>
+    <p class="signup-privacy">We’ll store your email and signup consent privately with Cloudflare. We don’t sell the list. <a href="/privacy.html#email-list">Privacy & removal requests</a>.</p>
+    <div class="cf-turnstile" data-sitekey="0x4AAAAAAFKUTR5SZNO3mwbH" data-action="signup" data-theme="light" data-size="flexible"></div>
+    <button class="button" type="submit">Join the list</button>
+    <p id="signup-status" role="status" aria-live="polite"></p>
+    <noscript><p>JavaScript is required to securely save your signup.</p></noscript>
+  </form>
 </section>

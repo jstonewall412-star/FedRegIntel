@@ -1,0 +1,13 @@
+{
+  "name": "fedregintel-signups",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-09-30",
+  "account_id": "b82891fe350917f5ea94ca6d7d8556c9",
+  "workers_dev": true,
+  "observability": { "enabled": false },
+  "d1_databases": [{
+    "binding": "DB",
+    "database_name": "fedregintel-subscribers",
+    "database_id": "a6be3b43-b9f5-46f0-a683-a6c93509464a"
+  }]
+}

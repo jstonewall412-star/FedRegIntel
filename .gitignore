@@ -5,3 +5,7 @@ token.json
 client_secret*.json
 .env*
 *.tmp
+
+.wrangler/
+.dev.vars*
+subscriber-exports/
