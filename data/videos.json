@@ -1,8 +1,15 @@
 {
   "channel_id": "UC9VwALJt5kVlHWQ0rRV1LOg",
   "channel_url": "https://www.youtube.com/@FedRegIntel",
-  "updated_at": "2026-09-30T10:37:43.849676+00:00",
+  "updated_at": "2026-09-30T10:59:08.910056+00:00",
   "videos": [
+    {
+      "id": "Sx6xo5MF7_M",
+      "title": "Federal Rules Open for Comment – September 30, 2026",
+      "published": "2026-09-30T10:45:49+00:00",
+      "url": "https://www.youtube.com/watch?v=Sx6xo5MF7_M",
+      "thumbnail": "https://i4.ytimg.com/vi/Sx6xo5MF7_M/hqdefault.jpg"
+    },
     {
       "id": "7qsoEMc8d-0",
       "title": "Federal Rules Open for Comment – September 29, 2026",
