@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T12:11:35.830080+00:00",
+  "updated_at": "2026-09-30T15:25:05.307920+00:00",
   "latest_date": "2026-09-30",
   "issue_count": 23,
   "documents": [
@@ -197,7 +197,7 @@
         }
       ],
       "comments_close_on": "2026-10-15",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NOAA_FRDOC_0001-7689",
       "effective_on": "2026-10-30"
     },
     {
