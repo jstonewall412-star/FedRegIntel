@@ -1,14 +1,14 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T20:10:34.937041+00:00",
+  "generated_at": "2026-10-03T20:20:24.054828+00:00",
   "posts": [
     {
       "kind": "trending",
-      "document_number": "2026-18631",
-      "url": "https://fedregintel.com/rules/2026-18631/",
-      "x": "📈 Among the most-commented rules open now: Homeland Security Department's proposed rule, \"Eliminating the Discretionary 60-Day Grace Period\". 24,630 public comments posted on Regulations.gov so far. Comments close Nov 10. Read it and weigh in: https://fedregintel.com/rules/2026-18631/",
-      "bluesky": "📈 Among the most-commented rules open now: Homeland Security Department's proposed rule, \"Eliminating the Discretionary 60-Day Grace Period\". 24,630 public comments posted on Regulations.gov so far. Comments close Nov 10. Read it and weigh in: https://fedregintel.com/rules/2026-18631/",
-      "long": "📈 Among the most-commented rules open now: Homeland Security Department's proposed rule, \"Eliminating the Discretionary 60-Day Grace Period\". 24,630 public comments posted on Regulations.gov so far. Comments close Nov 10. The page links the official document and the comment form: https://fedregintel.com/rules/2026-18631/"
+      "document_number": "2026-18481",
+      "url": "https://fedregintel.com/rules/2026-18481/",
+      "x": "📈 Among the most-commented rules open now: Census Bureau's proposed rule, \"Decennial Census of the Population of Americans; Proposed Residence…\". 33,382 public comments posted on Regulations.gov so far. Comments close Oct 13. Read it and weigh in: https://fedregintel.com/rules/2026-18481/",
+      "bluesky": "📈 Among the most-commented rules open now: Census Bureau's proposed rule, \"Decennial Census of the Population of Americans; Proposed Residence…\". 33,382 public comments posted on Regulations.gov so far. Comments close Oct 13. Read it and weigh in: https://fedregintel.com/rules/2026-18481/",
+      "long": "📈 Among the most-commented rules open now: Census Bureau's proposed rule, \"Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions\". 33,382 public comments posted on Regulations.gov so far. Comments close Oct 13. The page links the official document and the comment form: https://fedregintel.com/rules/2026-18481/"
     },
     {
       "kind": "deadline",
@@ -31,7 +31,7 @@
     {
       "date": "2026-10-03",
       "trending": [
-        "2026-18631"
+        "2026-18481"
       ]
     }
   ]
