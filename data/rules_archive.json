@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T19:14:58.779082+00:00",
+  "updated_at": "2026-10-03T19:15:40.617339+00:00",
   "count": 249,
   "documents": {
     "2026-11545": {
@@ -106,7 +106,10 @@
       "regulation_id_numbers": [
         "1240-AA20"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 6,
+      "docket_id": "WCPO_FRDOC_0001"
     },
     "2026-13047": {
       "title": "Establishment Registration and Product Listing for Tobacco Products",
@@ -287,7 +290,10 @@
       "regulation_id_numbers": [
         "1140-AA63"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 485,
+      "docket_id": "ATF-2026-0397"
     },
     "2026-13639": {
       "title": "Improvements to Rules on Recoupment of Benefit Overpayments",
@@ -525,7 +531,10 @@
       "regulation_id_numbers": [
         "2050-AH50"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 6,
+      "docket_id": "EPA-HQ-OLEM-2026-4159"
     },
     "2026-14118": {
       "title": "Alabama: Approval of State Coal Combustion Residuals Permit Program",
@@ -1572,7 +1581,10 @@
       "regulation_id_numbers": [
         "7100-AH26"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-15777": {
       "title": "Loans to Executive Officers, Directors, and Principal Shareholders of Member Banks; Bank Holding Companies",
@@ -1599,7 +1611,10 @@
       "regulation_id_numbers": [
         "7100-AH27"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-15782": {
       "title": "Revision of Freedom of Information Act Regulations",
@@ -1694,7 +1709,10 @@
       "regulation_id_numbers": [
         "0579-AE89"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 6,
+      "docket_id": "APHIS-2025-0033"
     },
     "2026-15857": {
       "title": "Importation of Coffee Into Hawaii and Puerto Rico",
@@ -1730,7 +1748,10 @@
       "regulation_id_numbers": [
         "0579-AE90"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 12,
+      "docket_id": "APHIS-2023-0073"
     },
     "2026-15867": {
       "title": "OCC Rules Regarding the Availability of OCC Information",
@@ -1766,7 +1787,10 @@
       "regulation_id_numbers": [
         "1557-AF50"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 6,
+      "docket_id": "OCC-2026-0133"
     },
     "2026-15929": {
       "title": "Improving Emergency Medical Kit Efficacy and Flexibility in Commercial Airline Operations",
@@ -1802,7 +1826,10 @@
       "regulation_id_numbers": [
         "2120-AM18"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 1568,
+      "docket_id": "FAA-2026-9178"
     },
     "2026-15948": {
       "title": "Conflicts and Affiliations",
@@ -1829,7 +1856,10 @@
       "regulation_id_numbers": [
         "3038-AF76"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 14,
+      "docket_id": "CFTC-2026-1686"
     },
     "2026-15953": {
       "title": "Oil and Gas and Sulfur Operations on the Outer Continental Shelf-Revisions to the Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf",
@@ -1874,7 +1904,10 @@
       "regulation_id_numbers": [
         "1082-AA05"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 1229,
+      "docket_id": "BSEE-2026-0133"
     },
     "2026-15995": {
       "title": "Extensions of Credit to Insiders",
@@ -1901,7 +1934,10 @@
       "regulation_id_numbers": [
         "3064-AG26"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-16016": {
       "title": "New Mailing Standards for Live Animals",
@@ -1997,7 +2033,10 @@
       "comment_url": "http://www.regulations.gov/commenton/BIS-2026-0364-0001",
       "effective_on": "2026-08-27",
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 8,
+      "docket_id": "BIS-2026-0364"
     },
     "2026-16108": {
       "title": "Personnel Appeals Board; Procedural Rules",
@@ -2117,7 +2156,10 @@
       "regulation_id_numbers": [
         "0970-AD30"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 11340,
+      "docket_id": "ACF-2026-0595"
     },
     "2026-16196": {
       "title": "Build America: Eliminating Barriers to Wireline Deployments",
@@ -2201,7 +2243,10 @@
       "comment_url": "http://www.regulations.gov/commenton/FDA-2026-N-7630-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 2,
+      "docket_id": "FDA-2026-N-7630"
     },
     "2026-16228": {
       "title": "HUD's Implementation of the Fair Housing Act's Disparate Impact Standard; Amendments to HUD's Title VI Regulations",
@@ -2228,7 +2273,10 @@
       "regulation_id_numbers": [
         "2529-AB09"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": true,
+      "comments_count": 43,
+      "docket_id": "HUD-2026-0034"
     },
     "2026-16268": {
       "title": "Television Broadcasting Services Elko, Nevada",
@@ -2289,7 +2337,10 @@
       "regulation_id_numbers": [
         "2120-AM23"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 9,
+      "docket_id": "FAA-2026-9177"
     },
     "2026-16288": {
       "title": "English Language Proficiency; Out of Service Criteria",
@@ -2325,7 +2376,10 @@
       "regulation_id_numbers": [
         "2126-AC99"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 1911,
+      "docket_id": "FMCSA-2026-0826"
     },
     "2026-16296": {
       "title": "Substances Generally Recognized as Safe",
@@ -2361,7 +2415,10 @@
       "regulation_id_numbers": [
         "0910-AJ02"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": true,
+      "comments_count": 589,
+      "docket_id": "FDA-2025-N-3262"
     },
     "2026-16313": {
       "title": "Mandatory Electronic Filing (e-Filing)",
@@ -2388,7 +2445,10 @@
       "regulation_id_numbers": [
         "1615-AD19"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 71,
+      "docket_id": "USCIS-2026-0232"
     },
     "2026-16314": {
       "title": "Employer Contributions to Trump Accounts and Nondiscrimination Rules for Dependent Care Assistance Programs",
@@ -2801,7 +2861,10 @@
         "1557-AF57",
         "3064-AG31"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 81,
+      "docket_id": "OCC-2026-0694"
     },
     "2026-16569": {
       "title": "Foreign Currency Gain or Loss of Controlled Foreign Corporations",
@@ -2837,7 +2900,10 @@
       "regulation_id_numbers": [
         "1545-BS16"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 1,
+      "docket_id": "IRS-2026-0958"
     },
     "2026-16590": {
       "title": "FCC To Review E-Rate Program To Ensure Congress's Vision",
@@ -2862,7 +2928,10 @@
       "comment_url": null,
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-16591": {
       "title": "Atlantic Highly Migratory Species; Revisions to Fishing Gear Regulations",
@@ -2898,7 +2967,10 @@
       "regulation_id_numbers": [
         "0648-BN52"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": 12,
+      "docket_id": "NOAA-NMFS-2024-0050"
     },
     "2026-16630": {
       "title": "Updates and Amendments to the Civil Service Rules",
@@ -2961,7 +3033,10 @@
       "regulation_id_numbers": [
         "1513-AD11"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": 4,
+      "docket_id": "TTB-2026-0003"
     },
     "2026-16669": {
       "title": "Proposed Establishment of the Mill Creek-Walla Walla Valley Viticultural Area",
@@ -2997,7 +3072,10 @@
       "regulation_id_numbers": [
         "1513-AD16"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": 5,
+      "docket_id": "TTB-2026-0004"
     },
     "2026-16670": {
       "title": "Proposed Establishment of the Llano Uplift and Hickory Sands District Viticultural Areas",
@@ -3033,7 +3111,10 @@
       "regulation_id_numbers": [
         "1513-AD09"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": 5,
+      "docket_id": "TTB-2026-0005"
     },
     "2026-16671": {
       "title": "Proposed Establishment of the Rancho Santa Fe Viticultural Area",
@@ -3069,7 +3150,10 @@
       "regulation_id_numbers": [
         "1513-AD14"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": 2,
+      "docket_id": "TTB-2026-0006"
     },
     "2026-16724": {
       "title": "Receipt of Pesticide Petitions Filed for Residues of Pesticide Chemicals in or on Various Commodities-May 2026",
@@ -3128,7 +3212,10 @@
       "comment_url": "http://www.regulations.gov/commenton/FDA-2026-N-8249-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 2,
+      "docket_id": "FDA-2026-N-8249"
     },
     "2026-16729": {
       "title": "Medical Devices; Classification of Accessories Distinct From Other Devices; Proposed List of Accessories Suitable for Class I; Request for Comments",
@@ -3162,7 +3249,10 @@
       "comment_url": "http://www.regulations.gov/commenton/FDA-2025-N-6224-0011",
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 4,
+      "docket_id": "FDA-2025-N-6224"
     },
     "2026-16760": {
       "title": "Supplemental Nutrition Assistance Program: Changes in Federal-State Administrative Cost Sharing; Extension of Comment Period",
@@ -3235,7 +3325,10 @@
       "regulation_id_numbers": [
         "1545-BR58"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": 4,
+      "docket_id": "IRS-2026-0991"
     },
     "2026-16796": {
       "title": "GENIUS Act Regulations on Payment Stablecoin Issuance, Offer, and Sale",
@@ -3262,7 +3355,10 @@
       "regulation_id_numbers": [
         "1505-AC95"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 67,
+      "docket_id": "TREAS-DO-2026-0496"
     },
     "2026-16914": {
       "title": "Rescission of Rural Development's Construction and Repair Regulation",
@@ -3307,7 +3403,10 @@
       "regulation_id_numbers": [
         "0575-AD54"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 6,
+      "docket_id": "RHS_FRDOC_0001"
     },
     "2026-16932": {
       "title": "Air Plan Partial Approval and Partial Conditional Approval; South Carolina; Control of Oxides of Nitrogen and Source Testing Requirements",
@@ -3498,7 +3597,10 @@
       "regulation_id_numbers": [
         "1545-BS06"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 13127,
+      "docket_id": "IRS-2026-1057"
     },
     "2026-16994": {
       "title": "Proposed Deletion From the National Priorities List",
@@ -3587,7 +3689,10 @@
       "regulation_id_numbers": [
         "1545-BR85"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 2,
+      "docket_id": "IRS-2026-1058"
     },
     "2026-17039": {
       "title": "Small Business Size Standards: Revised Size Standards Methodology",
@@ -3667,7 +3772,10 @@
       "regulation_id_numbers": [
         "3038-AF78"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 3,
+      "docket_id": "CFTC-2026-1849"
     },
     "2026-17108": {
       "title": "Withdrawal of International Airport Designation of Chalk Seaplane Base",
@@ -3712,7 +3820,10 @@
       "regulation_id_numbers": [
         "1651-AB51"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": 1,
+      "docket_id": "USCBP-2026-0892"
     },
     "2026-17119": {
       "title": "Genealogy Program Regulations To Clarify the Impact of Federal Records Requirements",
@@ -3739,7 +3850,10 @@
       "regulation_id_numbers": [
         "1615-AD21"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 2,
+      "docket_id": "USCIS-2026-0331"
     },
     "2026-17123": {
       "title": "Guidance on Eligible Investments for Trump Accounts",
@@ -3775,7 +3889,10 @@
       "regulation_id_numbers": [
         "1545-BS14"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 11,
+      "docket_id": "IRS-2026-1090"
     },
     "2026-17163": {
       "title": "Request for Comment on the Listing of Compute Derivatives Contracts",
@@ -3802,7 +3919,10 @@
       "regulation_id_numbers": [
         "3038-AF77"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 31,
+      "docket_id": "CFTC-2026-1850"
     },
     "2026-17183": {
       "title": "Regulation Crypto Assets",
@@ -3829,7 +3949,10 @@
       "regulation_id_numbers": [
         "3235-AN38"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": true,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-17211": {
       "title": "Travel Management; National Forest System Lands",
@@ -3959,7 +4082,10 @@
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-3073-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 3,
+      "docket_id": "FAA-2026-3073"
     },
     "2026-17324": {
       "title": "Fee for Certain H-1B Petitions",
@@ -4023,7 +4149,10 @@
       "regulation_id_numbers": [
         "1545-BR77"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 2,
+      "docket_id": "IRS-2026-1123"
     },
     "2026-17416": {
       "title": "Swap Execution Facility Order Book Requirement for Permitted Transactions",
@@ -4176,7 +4305,10 @@
       "regulation_id_numbers": [
         "2133-AC05"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 1,
+      "docket_id": "MARAD-2026-1288"
     },
     "2026-17641": {
       "title": "Federal Sector Equal Employment Opportunity",
@@ -4231,7 +4363,10 @@
       "regulation_id_numbers": [
         "3064-AG30"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-17652": {
       "title": "Requests for Arbitration Panels",
@@ -4285,7 +4420,10 @@
       "regulation_id_numbers": [
         "1400-AF97"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": true,
+      "comments_count": 4,
+      "docket_id": "DOS-2026-0925"
     },
     "2026-17660": {
       "title": "International Traffic in Arms Regulations: Modification of Civil Aircraft To Incorporate Aircraft Survivability Equipment",
@@ -4346,7 +4484,10 @@
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-1585-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 1,
+      "docket_id": "FAA-2026-1585"
     },
     "2026-17742": {
       "title": "Temporary Exemption From Motor Vehicle Safety and Bumper Standards; Extension of Comment Period",
@@ -4676,7 +4817,10 @@
       "regulation_id_numbers": [
         "1024-AE97"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": 238,
+      "docket_id": "NPS-2026-0166"
     },
     "2026-17926": {
       "title": "Heightened Import Disclosures for Supply Chain Visibility",
@@ -4712,7 +4856,10 @@
       "regulation_id_numbers": [
         "1685-AA47"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 41,
+      "docket_id": "USCBP-2026-1058"
     },
     "2026-17939": {
       "title": "Exemption of Debt Obligations Issued by the European Union Under the Securities Exchange Act of 1934 for Purposes of Trading Futures Contracts on Those Securities",
@@ -4739,7 +4886,10 @@
       "regulation_id_numbers": [
         "3235-AN82"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-17957": {
       "title": "Establishment of Special Air Traffic Rules in the Vicinity of President Donald J. Trump International Airport (DJT)",
@@ -4801,7 +4951,10 @@
       "comment_url": null,
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-18031": {
       "title": "Pacific Halibut Fisheries; Catch Sharing Plan; Modify Pacific Halibut Individual Fishing Quota (IFQ) Vessel Use Caps in IFQ Regulatory Areas 4A, 4B, 4C, 4D, and 4E",
@@ -4837,7 +4990,10 @@
       "regulation_id_numbers": [
         "0648-BO24"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 3,
+      "docket_id": "NOAA-NMFS-2026-1025"
     },
     "2026-18103": {
       "title": "Notice of Availability and Request for Comment: Revision to the Voluntary Standard for Products Containing Button Cell or Coin Batteries",
@@ -4889,7 +5045,10 @@
       "regulation_id_numbers": [
         "2040-AG56"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 62,
+      "docket_id": "EPA-HQ-OW-2026-6965"
     },
     "2026-18162": {
       "title": "Modernizing Medical Standards for Non-Insulin Dependent Diabetes Mellitus Cases",
@@ -4925,7 +5084,10 @@
       "regulation_id_numbers": [
         "2120-AM25"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 35,
+      "docket_id": "FAA-2026-10990"
     },
     "2026-18167": {
       "title": "Reducing Bureaucracy and Burden for the Repatriation of Mentally Ill Nationals",
@@ -4961,7 +5123,10 @@
       "regulation_id_numbers": [
         "0970-AD48"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 4,
+      "docket_id": "ACF-2026-0661"
     },
     "2026-18190": {
       "title": "Transfer Agent Rules",
@@ -4988,7 +5153,10 @@
       "regulation_id_numbers": [
         "3235-AL55"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": true,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-18261": {
       "title": "National Petroleum Reserve in Alaska Production Site Development",
@@ -5024,7 +5192,10 @@
       "regulation_id_numbers": [
         "1004-AF57"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 24439,
+      "docket_id": "BLM-2026-0133"
     },
     "2026-18282": {
       "title": "Unleashing Unlicensed Spectrum for Direct-to-Device",
@@ -5049,7 +5220,10 @@
       "comment_url": null,
       "effective_on": "2026-11-09",
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-18317": {
       "title": "Updated Definition of “Waters of the United States”",
@@ -5094,7 +5268,10 @@
       "regulation_id_numbers": [
         "2040-AG44"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": true,
+      "comments_count": 12580,
+      "docket_id": "EPA-HQ-OW-2025-0322"
     },
     "2026-18337": {
       "title": "Simplified Geographic Preference Procurement in Child Nutrition Programs",
@@ -5130,7 +5307,10 @@
       "regulation_id_numbers": [
         "0584-AF06"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": 3,
+      "docket_id": "FNA-2026-0364"
     },
     "2026-18345": {
       "title": "Registration of Lawful Permanent Residence for Children Born to Foreign Government Employees in the United States",
@@ -5157,7 +5337,10 @@
       "regulation_id_numbers": [
         "1615-AD24"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 27,
+      "docket_id": "USCIS-2026-0496"
     },
     "2026-18366": {
       "title": "Improving the Effectiveness of the Robocall Mitigation Database; Call Authentication Trust Anchor; Advanced Methods To Target and Eliminate Unlawful Robocalls",
@@ -5182,7 +5365,10 @@
       "comment_url": null,
       "effective_on": "2026-10-09",
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-18371": {
       "title": "Labels 888, 889, 891, and 892, Discontinued",
@@ -5207,7 +5393,10 @@
       "comment_url": null,
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-18424": {
       "title": "Political Contributions by Certain Investment Advisers",
@@ -5234,7 +5423,10 @@
       "regulation_id_numbers": [
         "3235-AN65"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-18470": {
       "title": "Endangered and Threatened Wildlife and Plants; Removal of Gila Chub From the List of Endangered and Threatened Wildlife",
@@ -5307,7 +5499,10 @@
       "regulation_id_numbers": [
         "0607-AA75"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 33382,
+      "docket_id": "USBC-2026-0628"
     },
     "2026-18484": {
       "title": "Reef Fish Fishery of the Gulf of America; 2027 Red Grouper Commercial Quota Retention",
@@ -5343,7 +5538,10 @@
       "regulation_id_numbers": [
         "0648-BO57"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 9,
+      "docket_id": "NOAA-NMFS-2026-1882"
     },
     "2026-18504": {
       "title": "In Situ Recovery Monitoring and Decommissioning Timeliness",
@@ -5370,7 +5568,10 @@
       "regulation_id_numbers": [
         "3150-AL48"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 16,
+      "docket_id": "NRC-2025-1204"
     },
     "2026-18531": {
       "title": "Modernization of Regulations Under 9 CFR Parts 101-118 and 123-124",
@@ -5398,7 +5599,10 @@
       "comment_url": "http://www.regulations.gov/commenton/USDA-2026-0298-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 5,
+      "docket_id": "USDA-2026-0298"
     },
     "2026-18552": {
       "title": "Wisconsin: Approval of State Coal Combustion Residuals Permit Program",
@@ -5423,7 +5627,10 @@
       "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OLEM-2026-4324-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 1,
+      "docket_id": "EPA-HQ-OLEM-2026-4324"
     },
     "2026-18574": {
       "title": "Information Reporting Regarding Qualified Opportunity Zones and Updated Qualified Opportunity Fund Certification and Decertification Procedures",
@@ -5459,7 +5666,10 @@
       "regulation_id_numbers": [
         "1545-BR82"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 5,
+      "docket_id": "IRS-2026-1223"
     },
     "2026-18631": {
       "title": "Eliminating the Discretionary 60-Day Grace Period",
@@ -5486,7 +5696,10 @@
       "regulation_id_numbers": [
         "1615-AD22"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 24630,
+      "docket_id": "USCIS-2026-0364"
     },
     "2026-18648": {
       "title": "Special Areas; Roadless Area Conservation",
@@ -5522,7 +5735,10 @@
       "regulation_id_numbers": [
         "0596-AD66"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": true,
+      "comments_count": 10345,
+      "docket_id": "FS-2025-0001"
     },
     "2026-18755": {
       "title": "Clean Data Determination; 1997 8-Hour Ozone Standards; California; Sacramento Metro Area",
@@ -5547,7 +5763,10 @@
       "comment_url": "http://www.regulations.gov/commenton/EPA-R09-OAR-2026-4885-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 4,
+      "docket_id": "EPA-R09-OAR-2026-4885"
     },
     "2026-18766": {
       "title": "Expanded Examination Cycle for Certain Small Insured Depository Institutions and U.S. Branches and Agencies of Foreign Banks",
@@ -5603,7 +5822,10 @@
         "3064-AG33",
         "7100-AH28"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 3,
+      "docket_id": "OCC-2026-0761"
     },
     "2026-18799": {
       "title": "Use of Certain Restricted Category Aircraft for the Transport of Firefighters for Wildfire Suppression",
@@ -5639,7 +5861,10 @@
       "regulation_id_numbers": [
         "2120-AM13"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": 17,
+      "docket_id": "FAA-2026-10991"
     },
     "2026-18828": {
       "title": "Shared Certificates and Pooled Hiring Actions",
@@ -5666,7 +5891,10 @@
       "regulation_id_numbers": [
         "3206-AO24"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": true,
+      "comments_count": 1,
+      "docket_id": "OPM-2017-0004"
     },
     "2026-18854": {
       "title": "Petition for Rulemaking of Robert Michael Vanleeuwen",
@@ -5691,7 +5919,10 @@
       "comment_url": "http://www.regulations.gov/commenton/FTC-2026-1321-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 6,
+      "docket_id": "FTC-2026-1321"
     },
     "2026-18860": {
       "title": "Establishment of United States Area Navigation Route T-337 and Amendment of Very High Frequency Omnidirectional Range Federal Airways V-101 and V-484 Near Twin Falls, ID",
@@ -5727,7 +5958,10 @@
       "regulation_id_numbers": [
         "2120-AA66"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": 1,
+      "docket_id": "FAA-2026-11287"
     },
     "2026-18914": {
       "title": "International Traffic in Arms Regulations: Modification of Civil Aircraft To Incorporate Aircraft Survivability Equipment",
@@ -5806,7 +6040,10 @@
       "regulation_id_numbers": [
         "3206-XXXX"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 149,
+      "docket_id": "OPM-2026-0661"
     },
     "2026-19027": {
       "title": "Indiana: Approval of State Coal Combustion Residuals Permit Program",
@@ -5831,7 +6068,10 @@
       "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OLEM-2026-4326-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 5,
+      "docket_id": "EPA-HQ-OLEM-2026-4326"
     },
     "2026-19072": {
       "title": "Rescission of the Greenhouse Gas Findings for Fossil Fuel-Fired Power Plants and Repeal of Regulations for Power Plant Greenhouse Gas Emissions Under Clean Air Act Section 111",
@@ -5858,7 +6098,10 @@
       "regulation_id_numbers": [
         "2060-AX00"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 4858,
+      "docket_id": "EPA-HQ-OAR-2025-0124"
     },
     "2026-19158": {
       "title": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 14, 28, 36, and 52",
@@ -5921,7 +6164,10 @@
       "regulation_id_numbers": [
         "9000-AO83"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 5,
+      "docket_id": "FAR-2026-0010"
     },
     "2026-19159": {
       "title": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 9, 27, and 47",
@@ -5984,7 +6230,10 @@
       "regulation_id_numbers": [
         "9000-AO84"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 4,
+      "docket_id": "FAR-2026-0011"
     },
     "2026-19160": {
       "title": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 16, 17, and 35",
@@ -6047,7 +6296,10 @@
       "regulation_id_numbers": [
         "9000-AO91"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 8,
+      "docket_id": "FAR-2026-0006"
     },
     "2026-19162": {
       "title": "Federal Acquisition Regulation: Revolutionary FAR Overhaul Parts 8, 12, 13, 15, 38, 44, and 51",
@@ -6110,7 +6362,10 @@
       "regulation_id_numbers": [
         "9000-AO88"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 20,
+      "docket_id": "FAR-2026-0003"
     },
     "2026-19182": {
       "title": "Coral, Coral Reefs, and Live/Hardbottom Habitats of the South Atlantic and the Shrimp Fishery of the South Atlantic Region; Amendments 11/12",
@@ -6146,7 +6401,10 @@
       "regulation_id_numbers": [
         "0648-BN92"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": 13,
+      "docket_id": "NOAA-NMFS-2026-1750"
     },
     "2026-19222": {
       "title": "Employment in the Excepted Service",
@@ -6173,7 +6431,10 @@
       "regulation_id_numbers": [
         "3206-AO92"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": true,
+      "comments_count": 7,
+      "docket_id": "OPM-2026-0166"
     },
     "2026-19254": {
       "title": "Great Lakes Pilotage Rates-2027 Annual Review and Revisions to Methodology",
@@ -6209,7 +6470,10 @@
       "regulation_id_numbers": [
         "1625-AD07"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 2,
+      "docket_id": "USCG-2026-0049"
     },
     "2026-19259": {
       "title": "Proxy Solicitation Modernization",
@@ -6236,7 +6500,10 @@
       "regulation_id_numbers": [
         "3235-AN63"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-19260": {
       "title": "Rescission of Rule 14a-8's Federal Regulation of Shareholder Proposals and Amendments to Rule 14a-4",
@@ -6263,7 +6530,10 @@
       "regulation_id_numbers": [
         "3235-AN47"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": true,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-19290": {
       "title": "Privacy Act Regulations",
@@ -6318,7 +6588,10 @@
       "regulation_id_numbers": [
         "3064-AG18"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-19310": {
       "title": "State Bank Parity",
@@ -6345,7 +6618,10 @@
       "regulation_id_numbers": [
         "3064-AG34"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-19331": {
       "title": "General Services Administration Acquisition Regulation; GSAR Implementation of Executive Order 14275, Federal Supply Schedule Ordering Procedures",
@@ -6372,7 +6648,10 @@
       "regulation_id_numbers": [
         "3090-AL13"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 2,
+      "docket_id": "GSA-GSAR-2026-0563"
     },
     "2026-19332": {
       "title": "Revisions to the Office of Hearings and Appeals Procedural Regulations for the DOE Contractor Employee Protection Program",
@@ -6399,7 +6678,10 @@
       "regulation_id_numbers": [
         "1910-AA55"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": 1,
+      "docket_id": "DOE-HQ-2026-0496"
     },
     "2026-19346": {
       "title": "Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; Pacific Coast Groundfish Fishery Management Plan; Amendment 38; 2027-28 Biennial Specifications and Management Measures",
@@ -6435,7 +6717,10 @@
       "regulation_id_numbers": [
         "0648-BO46"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "NOAA-NMFS-2026-1354"
     },
     "2026-19349": {
       "title": "Nonclinical Testing Terminology",
@@ -6471,7 +6756,10 @@
       "regulation_id_numbers": [
         "0910-AJ27"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 11,
+      "docket_id": "FDA-2026-N-5347"
     },
     "2026-19350": {
       "title": "Nonclinical Testing Terminology",
@@ -6507,7 +6795,10 @@
       "regulation_id_numbers": [
         "0910-AJ27"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 17,
+      "docket_id": "FDA-2026-N-5347"
     },
     "2026-19361": {
       "title": "Periodic Reporting",
@@ -6532,7 +6823,10 @@
       "comment_url": null,
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-19367": {
       "title": "Capital Construction Fund Revision",
@@ -6568,7 +6862,10 @@
       "regulation_id_numbers": [
         "2133-AC06"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "MARAD-2026-1552"
     },
     "2026-19370": {
       "title": "Part 572; Anthropomorphic Test Devices; Test Device for Human Occupant Restraint 50th Percentile Adult Male Dummy (THOR-50M)",
@@ -6604,7 +6901,10 @@
       "regulation_id_numbers": [
         "2127-AM20"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": 1,
+      "docket_id": "NHTSA-2023-0031"
     },
     "2026-19400": {
       "title": "Schedules of Controlled Substances: Placement of 4-Hydroxy-N,N-Diisopropyltryptamine (4-OH-DiPT), 5-Methoxy-alpha-Methyltryptamine (5-MeO-AMT), 5-Methoxy-N-Methyl-N-Isopropyltryptamine (5-MeO-MiPT), 5-Methoxy-N,N-Diethyltryptamine (5-MeO-DET), and N,N-Diisopropyltryptamine (DiPT) Into Schedule I",
@@ -6638,7 +6938,10 @@
       "comment_url": "http://www.regulations.gov/commenton/DEA-2026-1585-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 100,
+      "docket_id": "DEA-2026-1585"
     },
     "2026-19500": {
       "title": "Public Water System Supervision Program Revision for the State of Arkansas",
@@ -6663,7 +6966,10 @@
       "comment_url": "http://www.regulations.gov/commenton/EPA_FRDOC_0001-33165",
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 1,
+      "docket_id": "EPA_FRDOC_0001"
     },
     "2026-19532": {
       "title": "Amendments To Import Requirements for Highly Pathogenic Avian Influenza",
@@ -6699,7 +7005,10 @@
       "regulation_id_numbers": [
         "0579-AE77"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": true,
+      "comments_count": 5,
+      "docket_id": "APHIS-2023-0069"
     },
     "2026-19535": {
       "title": "Request for Information; Medicare Part D Reasonable and Relevant Pharmacy Contracting Standards",
@@ -6735,7 +7044,10 @@
       "regulation_id_numbers": [
         "0938-AW08"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 11,
+      "docket_id": "CMS-2026-3037"
     },
     "2026-19546": {
       "title": "Small Business Size Standards",
@@ -6762,7 +7074,10 @@
       "regulation_id_numbers": [
         "3245-AI67"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 111,
+      "docket_id": "SBA-2026-0199"
     },
     "2026-19568": {
       "title": "Regulatory Enhancements for Reactor Licensing, Decommissioning, and Operational Oversight",
@@ -6789,7 +7104,10 @@
       "regulation_id_numbers": [
         "3150-AL45"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 8,
+      "docket_id": "NRC-2025-1138"
     },
     "2026-19579": {
       "title": "Substantial Product Hazard List: Amendments to Requirements for Window Covering Cords",
@@ -6814,7 +7132,10 @@
       "comment_url": "http://www.regulations.gov/commenton/CPSC-2026-0463-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 11,
+      "docket_id": "CPSC-2026-0463"
     },
     "2026-19584": {
       "title": "Flight Operations: Pilot requirements; Use of oxygen",
@@ -6850,7 +7171,10 @@
       "regulation_id_numbers": [
         "2120-AM24"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 15,
+      "docket_id": "FAA-2026-12145"
     },
     "2026-19656": {
       "title": "Food Additives Permitted for Direct Addition to Food for Human Consumption; Vitamin D2 Inactive Bakers Yeast",
@@ -6884,7 +7208,10 @@
       "comment_url": "http://www.regulations.gov/commenton/FDA-2021-F-1157-0003",
       "effective_on": "2026-09-25",
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "FDA-2021-F-1157"
     },
     "2026-19691": {
       "title": "Explosives Magazine Safety Requirements",
@@ -6920,7 +7247,10 @@
       "regulation_id_numbers": [
         "1140-AA67"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 5,
+      "docket_id": "ATF-2026-0364"
     },
     "2026-19692": {
       "title": "Revising Requirements and Exceptions for Storing Explosives",
@@ -6956,7 +7286,10 @@
       "regulation_id_numbers": [
         "1140-AA86"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 1,
+      "docket_id": "ATF-2026-0365"
     },
     "2026-19710": {
       "title": "Modernization of Regulations Under 9 CFR Parts 101-118 and 123-124; Extension of Comment Period",
@@ -7009,7 +7342,10 @@
       "comment_url": null,
       "effective_on": "2026-09-25",
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-19774": {
       "title": "National Emission Standards for Hazardous Air Pollutants for Gasoline Distribution Facilities and Standards of Performance for Bulk Gasoline Terminals Reconsideration",
@@ -7036,7 +7372,10 @@
       "regulation_id_numbers": [
         "2060-AW66"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": 1,
+      "docket_id": "EPA-HQ-OAR-2025-0302"
     },
     "2026-19860": {
       "title": "Implementing the Federal Reserve Board's Responsibilities Under the GENIUS Act",
@@ -7063,7 +7402,10 @@
       "regulation_id_numbers": [
         "7100-AH29"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-19899": {
       "title": "Application Procedures for Board-Supervised Insured Depository Institutions Seeking Approval for a Subsidiary To Issue Payment Stablecoins",
@@ -7090,7 +7432,10 @@
       "regulation_id_numbers": [
         "7100-AH30"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     "2026-19966": {
       "title": "Forms and Procedures for Review of State Certifications by the Stablecoin Certification Review Committee",
@@ -7117,7 +7462,10 @@
       "regulation_id_numbers": [
         "1505-AC97"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "TREAS-DO-2026-0562"
     },
     "2026-20027": {
       "title": "Trump Accounts",
@@ -7153,7 +7501,10 @@
       "regulation_id_numbers": [
         "1545-BR91"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
     },
     "2026-20038": {
       "title": "Television Broadcasting Services Savannah, Georgia",
@@ -7178,7 +7529,10 @@
       "comment_url": null,
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
     },
     "2026-20078": {
       "title": "Petition for Rulemaking of Malik Tony Singleton",
@@ -7203,7 +7557,10 @@
       "comment_url": "http://www.regulations.gov/commenton/FTC-2026-1453-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 1,
+      "docket_id": "FTC-2026-1453"
     },
     "2026-20079": {
       "title": "International Traffic in Arms Regulations (ITAR): Review of the U.S. Munitions List and Related Definitions and License Exemptions",
@@ -7230,7 +7587,10 @@
       "regulation_id_numbers": [
         "1400-AF40"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": true,
+      "comments_count": 1,
+      "docket_id": "DOS-2026-0991"
     },
     "2026-20084": {
       "title": "Extension of Reexportation Period.",
@@ -7266,7 +7626,10 @@
       "regulation_id_numbers": [
         "1117-AB87"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 1,
+      "docket_id": "DEA-2026-1684"
     },
     "2026-20087": {
       "title": "Clarification of Certain Mariner Training Requirements",
@@ -7302,7 +7665,10 @@
       "regulation_id_numbers": [
         "1625-AC48"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": true,
+      "comments_count": 3,
+      "docket_id": "USCG-2025-0392"
     },
     "2026-20102": {
       "title": "Approval of Implementation Plans for Air Quality Planning Purposes; State of Nevada; Truckee Meadows Second 10-Year Maintenance Plan for the 1987 PM-10 Standard",
@@ -7327,7 +7693,10 @@
       "comment_url": "http://www.regulations.gov/commenton/EPA-R09-OAR-2025-1978-0005",
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "EPA-R09-OAR-2025-1978"
     },
     "2026-20123": {
       "title": "General Provisions; Revised List of Birds Protected by the Migratory Bird Treaty Act",
@@ -7363,7 +7732,10 @@
       "regulation_id_numbers": [
         "1018-BI13"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": 3,
+      "docket_id": "FWS-HQ-MB-2026-0133"
     },
     "2026-20143": {
       "title": "Rule on Impersonation of Government and Businesses",
@@ -7390,7 +7762,10 @@
       "regulation_id_numbers": [
         "3084-AB90"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 7,
+      "docket_id": "FTC-2026-1552"
     },
     "2026-20169": {
       "title": "Petition for Rulemaking; Notification of Petition for Rulemaking; Invalid Specimen Determinations",
@@ -7415,7 +7790,10 @@
       "comment_url": "http://www.regulations.gov/commenton/DOT-OST-2026-3664-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 2,
+      "docket_id": "DOT-OST-2026-3664"
     },
     "2026-20178": {
       "title": "Unleashing American Energy and Economic Prosperity; Rural Energy for America Program (REAP)",
@@ -7451,7 +7829,10 @@
       "regulation_id_numbers": [
         "0570-AB13"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "RBS-26-BUSINESS-0529"
     },
     "2026-20251": {
       "title": "Big Cypress National Preserve; Off-Road Motor Vehicles",
@@ -7487,7 +7868,10 @@
       "regulation_id_numbers": [
         "1024-AE54"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "NPS-2026-0199"
     },
     "2026-20277": {
       "title": "Federal Scholarship Tax Credit",
@@ -7523,7 +7907,10 @@
       "regulation_id_numbers": [
         "1545-BR97"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": 16,
+      "docket_id": "IRS-2026-1354"
     },
     "2026-20296": {
       "title": "Safety Standard for Lithium-Ion Batteries Used in Micromobility Products and Electrical Systems of Micromobility Products Containing Such Batteries",
@@ -7550,7 +7937,10 @@
       "regulation_id_numbers": [
         "3041-AE10"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": null,
+      "docket_id": null
     },
     "2026-20317": {
       "title": "General Services Administration Acquisition Regulation; GSAR Implementation of Executive Order 14275, Acquisition of Utility Services",
@@ -7577,7 +7967,10 @@
       "regulation_id_numbers": [
         "3090-AL14"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
     },
     "2026-20328": {
       "title": "Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions; Extension of Comment Period",
@@ -7613,7 +8006,10 @@
       "regulation_id_numbers": [
         "0607-AA75"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
     },
     "2026-20329": {
       "title": "Reforming Federal Reporting and Assessments in Child Welfare",
@@ -7649,7 +8045,10 @@
       "regulation_id_numbers": [
         "0970-AD32"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
     },
     "2026-20335": {
       "title": "Exemptions From Materials Licensing",
@@ -7676,7 +8075,10 @@
       "regulation_id_numbers": [
         "3150-AL61"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
     },
     "2026-20336": {
       "title": "Exemptions From Materials Licensing",
@@ -7703,7 +8105,10 @@
       "regulation_id_numbers": [
         "3150-AL61"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
     },
     "2026-20350": {
       "title": "Special Conditions: Honda Aircraft Company LLC Model HA-480 Airplane; High Altitude Operation",
@@ -7737,7 +8142,10 @@
       "comment_url": null,
       "effective_on": null,
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
     },
     "2026-20360": {
       "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",
@@ -7764,7 +8172,10 @@
       "regulation_id_numbers": [
         "3235-AN83"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
     },
     "2026-20371": {
       "title": "Proposal of Special Measure Prohibiting the Transmittal of Funds Regarding Transactions Involving the A7 Network's Sub-Agents",
@@ -7800,7 +8211,10 @@
       "regulation_id_numbers": [
         "1506-AB77"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
     },
     "2026-20372": {
       "title": "Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-16, V-184, and Revocation of V-284 and V-577; Eastern United States",
@@ -7836,7 +8250,10 @@
       "regulation_id_numbers": [
         "2120-AA66"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": false,
+      "comments_count": null,
+      "docket_id": null
     },
     "2026-20374": {
       "title": "Section 3 Benchmarks for Creating Economic Opportunities for Low- and Very Low-Income Persons and Eligible Businesses",
@@ -7861,7 +8278,10 @@
       "comment_url": null,
       "effective_on": "2026-11-04",
       "regulation_id_numbers": [],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
     },
     "2026-20386": {
       "title": "Simplifying Physical Containment Requirements",
@@ -7897,7 +8317,10 @@
       "regulation_id_numbers": [
         "2120-AM38"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
     },
     "2026-20387": {
       "title": "Digital Modernization for Licensing Electronic Application Submissions",
@@ -7933,7 +8356,10 @@
       "regulation_id_numbers": [
         "2120-AM39"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
     },
     "2026-20388": {
       "title": "Streamlining Flight Safety Analysis Methodology Means of Compliance",
@@ -7969,7 +8395,10 @@
       "regulation_id_numbers": [
         "2120-AM40"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
     },
     "2026-20391": {
       "title": "Lightning Hazard Mitigation Burden-Reducing Exception",
@@ -8005,7 +8434,10 @@
       "regulation_id_numbers": [
         "2120-AM30"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
     },
     "2026-20392": {
       "title": "Overpressure Blast Effects Analysis Burden Reducing Clarification",
@@ -8041,7 +8473,10 @@
       "regulation_id_numbers": [
         "2120-AM31"
       ],
-      "first_seen": "2026-10-03"
+      "first_seen": "2026-10-03",
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
     }
   }
 }
