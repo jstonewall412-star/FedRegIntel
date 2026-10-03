@@ -69,7 +69,8 @@ def pick(day, open_rules, counts, recent):
 def build(day=None):
     day = day or today()
     previous = load('social.json', {})
-    recent = [n for p in previous.get('history', []) if p['date'] >= (date.fromisoformat(day) - timedelta(days=3)).isoformat()
+    # earlier days only: a rerun later the same day must not skip that day's own pick
+    recent = [n for p in previous.get('history', []) if (date.fromisoformat(day) - timedelta(days=3)).isoformat() <= p['date'] < day
               for n in p.get('trending', [])]
     trending, gained, deadline = pick(day, load('open_rules.json', {}).get('documents', []), load('comment_counts.json', {}), recent)
     posts = []

@@ -39,6 +39,10 @@ class SocialTests(unittest.TestCase):
             self.assertLessEqual(len(p['x'])-len(p['url'])+23,280)
             self.assertTrue(p['x'].endswith(p['url']))
 
+    def test_same_day_rerun_keeps_its_pick(self):
+        out=self.build([rule('top',900),rule('next',800)],previous={'date':'2026-10-03','history':[{'date':'2026-10-03','trending':['top']}]})
+        self.assertEqual(out['posts'][0]['document_number'],'top')
+
     def test_history_records_pick(self):
         out=self.build([rule('a',5)])
         self.assertEqual(out['history'][-1],{'date':'2026-10-03','trending':['a']})
