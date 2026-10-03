@@ -4,7 +4,7 @@ Off until the account owner adds two GitHub Actions secrets: BLUESKY_HANDLE and 
 (an app password from Bluesky Settings > Privacy and security > App passwords, never the main password).
 Skips any post whose link the account already posted in the last two days, so reruns don't duplicate.
 Usage: python scripts/post_bluesky.py [--dry-run]"""
-import json, os, sys, urllib.request
+import json, os, sys, urllib.error, urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -26,14 +26,21 @@ def link_facets(text, url):
              'features': [{'$type': 'app.bsky.richtext.facet#link', 'uri': url}]}]
 
 def main(dry_run=False):
-    handle, password = os.environ.get('BLUESKY_HANDLE'), os.environ.get('BLUESKY_APP_PASSWORD')
+    # strip: a pasted secret often carries a trailing space or newline, which Bluesky rejects
+    handle, password = (os.environ.get(k, '').strip().lstrip('@') for k in ('BLUESKY_HANDLE', 'BLUESKY_APP_PASSWORD'))
     social = json.loads((DATA / 'social.json').read_text(encoding='utf-8'))
     posts = social.get('posts', [])
     if dry_run or not (handle and password):
         print('Bluesky posting is off (no BLUESKY_HANDLE / BLUESKY_APP_PASSWORD secrets).' if not dry_run else 'Dry run.')
         for p in posts: print('-', p['bluesky'])
         return 0
-    session = call('com.atproto.server.createSession', {'identifier': handle, 'password': password})
+    try:
+        session = call('com.atproto.server.createSession', {'identifier': handle, 'password': password})
+    except urllib.error.HTTPError as exc:
+        if exc.code == 401:
+            print(f'Bluesky refused the sign-in for {handle}: check that BLUESKY_APP_PASSWORD is an app password for this account.')
+            return 1
+        raise
     token, did = session['accessJwt'], session['did']
     since = (datetime.now(timezone.utc) - timedelta(days=2)).isoformat()
     feed = call('app.bsky.feed.getAuthorFeed', token=token, query=f'?actor={did}&limit=30')['feed']
