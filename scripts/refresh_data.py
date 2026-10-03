@@ -39,8 +39,8 @@ def save(name,data):
     temp=target.with_suffix('.tmp')
     temp.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     temp.replace(target)
-def fr(conditions=None, count=100):
-    params=[('per_page',str(count)),('order','newest')]+[('fields[]',f) for f in FIELDS]
+def fr(conditions=None, count=100, page=1):
+    params=[('per_page',str(count)),('page',str(page)),('order','newest')]+[('fields[]',f) for f in FIELDS]
     params+=conditions or []
     return json.loads(fetch('https://www.federalregister.gov/api/v1/documents.json?'+urllib.parse.urlencode(params)))
 def refresh_rules():
@@ -54,6 +54,19 @@ def refresh_rules():
     documents={d['document_number']:d for d in recent['results']+closing['results']}
     save('rules.json',dict(updated_at=now.isoformat(),latest_date=latest,issue_count=issue['count'],documents=list(documents.values())))
     print('Saved',len(documents),'rule records')
+def refresh_open_rules():
+    """Every rule and proposed rule still taking comments; feeds the static /rules/ pages."""
+    now=datetime.now(timezone.utc)
+    day=now.astimezone(ZoneInfo('America/New_York')).date().isoformat()
+    types=[('conditions[type][]','RULE'),('conditions[type][]','PRORULE'),('conditions[comment_date][gte]',day)]
+    documents,page={},1
+    while True:
+        batch=fr(types,1000,page)
+        documents.update((d['document_number'],d) for d in batch['results'])
+        if page>=batch.get('total_pages',1): break
+        page+=1
+    save('open_rules.json',dict(updated_at=now.isoformat(),as_of=day,count=len(documents),documents=list(documents.values())))
+    print('Saved',len(documents),'open rule records')
 def refresh_videos():
     path=DATA/'videos.json'
     old=json.loads(path.read_text(encoding='utf-8')) if path.exists() else {'videos':[]}
@@ -64,13 +77,14 @@ def refresh_videos():
     for entry in feed.findall('a:entry',ns):
         video_id=entry.findtext('yt:videoId',namespaces=ns)
         thumb=entry.find('m:group/m:thumbnail',ns)
-        archive[video_id]={**archive.get(video_id,{}),'id':video_id,'title':entry.findtext('a:title',namespaces=ns),'published':entry.findtext('a:published',namespaces=ns),'url':'https://www.youtube.com/watch?v='+video_id,'thumbnail':thumb.attrib['url'] if thumb is not None else 'https://i.ytimg.com/vi/'+video_id+'/hqdefault.jpg'}
+        about=entry.findtext('m:group/m:description',namespaces=ns)
+        archive[video_id]={**archive.get(video_id,{}),**({'description':about} if about else {}),'id':video_id,'title':entry.findtext('a:title',namespaces=ns),'published':entry.findtext('a:published',namespaces=ns),'url':'https://www.youtube.com/watch?v='+video_id,'thumbnail':thumb.attrib['url'] if thumb is not None else 'https://i.ytimg.com/vi/'+video_id+'/hqdefault.jpg'}
     save('videos.json',dict(channel_id=CHANNEL,channel_url='https://www.youtube.com/@FedRegIntel',updated_at=datetime.now(timezone.utc).isoformat(),videos=sorted(archive.values(),key=lambda x:x['published'],reverse=True)))
     print('Saved',len(archive),'public video records')
 if __name__=='__main__':
     DATA.mkdir(exist_ok=True)
     failures=[]
-    for task in [refresh_rules,refresh_videos]:
+    for task in [refresh_rules,refresh_open_rules,refresh_videos]:
         try: task()
         except Exception as exc:
             temporary = isinstance(exc, (urllib.error.URLError, TimeoutError, ConnectionError))
