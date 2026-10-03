@@ -36,12 +36,17 @@ class SocialTests(unittest.TestCase):
         self.assertIn('closes tomorrow',kinds['deadline']['x'])
         for p in out['posts']:
             self.assertLessEqual(len(p['bluesky']),300)
-            self.assertLessEqual(len(p['x'])-len(p['url'])+23,280)
+            self.assertLessEqual(m.x_length(p['x']),280)
             self.assertTrue(p['x'].endswith(p['url']))
 
     def test_same_day_rerun_keeps_its_pick(self):
         out=self.build([rule('top',900),rule('next',800)],previous={'date':'2026-10-03','history':[{'date':'2026-10-03','trending':['top']}]})
         self.assertEqual(out['posts'][0]['document_number'],'top')
+
+    def test_x_length_weights_like_x(self):
+        self.assertEqual(m.x_length('abc https://example.com/a-very-long-path/'),3+1+23)
+        self.assertEqual(m.x_length('📈 a…'),2+1+1+2)
+        self.assertEqual(m.x_length('on Regulations.gov. Done'),3+23+6)
 
     def test_history_records_pick(self):
         out=self.build([rule('a',5)])

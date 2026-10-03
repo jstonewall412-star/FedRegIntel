@@ -66,8 +66,14 @@ def main(dry_run=False):
             print('Posted: https://x.com/FedRegIntel/status/' + post(p['x'], creds))
             state[p['url']] = datetime.now(timezone.utc).isoformat()
         except urllib.error.HTTPError as exc:
+            body = exc.read().decode(errors="replace")[:300]
+            if exc.code == 402:
+                # a billing state, not a fault: no daily failure email; posting resumes once the project has credit
+                print('::warning::X API credits depleted; nothing posted to X. Add credit in the X developer portal '
+                      'or post by hand from https://fedregintel.com/social/.')
+                break
             failed += 1
-            print(f'X refused the post (HTTP {exc.code}): {exc.read().decode(errors="replace")[:300]}')
+            print(f'X refused the post (HTTP {exc.code}): {body}')
             if exc.code in (401, 403):
                 print('Check that the four X secrets belong to @FedRegIntel and the app has Read and Write permission.')
                 diagnose(creds)

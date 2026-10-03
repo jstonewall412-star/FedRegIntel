@@ -7,13 +7,22 @@ Regulations.gov (deadline, public comment count), and links its page on fedregin
   video     - a video published in the last 36 hours
 Rules picked as trending in the last 3 days are skipped so the feed doesn't repeat itself.
 Usage: python scripts/build_social.py"""
-import json, sys
+import json, re, sys
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from build_pages import DATA, SITE, routine, snippet, today
 
 X_LIMIT, BLUESKY_LIMIT, X_LINK = 280, 300, 23   # X counts every link as 23 characters
+LINKISH = re.compile(r'https?://\S+|\b[\w-]+(?:\.[\w-]+)*\.(?:com|org|net|gov|edu|us|io|co|info|app)\b(?:/\S*)?', re.I)
+
+def x_length(text):
+    """X's weighted count: links, including bare domains like Regulations.gov, count 23; most Latin text is
+    1 per character; emoji, '…' and other symbols count 2."""
+    light = ((0, 4351), (8192, 8205), (8208, 8223), (8242, 8247))
+    links = LINKISH.findall(text)
+    rest = LINKISH.sub('', text)
+    return X_LINK * len(links) + sum(1 if any(a <= ord(c) <= b for a, b in light) else 2 for c in rest)
 
 def load(name, default):
     try: return json.loads((DATA / name).read_text(encoding='utf-8'))
@@ -35,7 +44,7 @@ def fit(make, limit, link_cost=None):
     """make(title_length) -> text; shrink the quoted title until the post fits the platform."""
     for n in (110, 90, 70, 55, 40):
         text = make(n)
-        length = len(text) if link_cost is None else len(text) - len(text.split('https://')[-1]) - len('https://') + link_cost
+        length = len(text) if link_cost is None else x_length(text)
         if length <= limit:
             return text
     return make(30)
