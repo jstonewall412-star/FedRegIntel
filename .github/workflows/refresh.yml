@@ -49,7 +49,7 @@ jobs:
         run: |
           mkdir -p _site
           cp index.html privacy.html robots.txt CNAME .nojekyll _site/
-          cp -r assets data _site/
+          cp -r assets data .well-known _site/   # .well-known/atproto-did verifies the @fedregintel.com Bluesky handle
           python scripts/build_pages.py _site
       - uses: actions/upload-pages-artifact@v3
         with:
