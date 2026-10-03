@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T07:32:13.578065+00:00",
+  "updated_at": "2026-10-03T07:33:49.426092+00:00",
   "latest_date": "2026-10-02",
   "issue_count": 14,
   "documents": [
@@ -64,7 +64,7 @@
         }
       ],
       "comments_close_on": "2026-12-01",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/IRS-2026-1354-0001",
       "effective_on": null
     },
     {
@@ -174,7 +174,7 @@
         }
       ],
       "comments_close_on": "2026-12-01",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NPS-2026-0199-0001",
       "effective_on": null
     },
     {
@@ -362,7 +362,7 @@
         }
       ],
       "comments_close_on": null,
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OPP-2025-0090-0003",
       "effective_on": "2026-10-02"
     },
     {
@@ -394,7 +394,7 @@
         }
       ],
       "comments_close_on": "2026-11-16",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8948-0001",
       "effective_on": null
     },
     {
@@ -472,7 +472,7 @@
         }
       ],
       "comments_close_on": "2026-11-02",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/RBS-26-BUSINESS-0529-0001",
       "effective_on": "2026-10-16"
     },
     {
@@ -1232,7 +1232,7 @@
         }
       ],
       "comments_close_on": "2026-11-30",
-      "comment_url": "http://www.regulations.gov/commenton/DOS_FRDOC_0001-7283",
+      "comment_url": "http://www.regulations.gov/commenton/DOS-2026-0991-0001",
       "effective_on": null
     },
     {
@@ -3221,38 +3221,6 @@
       "effective_on": null
     },
     {
-      "title": "Establishment of Special Air Traffic Rules in the Vicinity of President Donald J. Trump International Airport (DJT)",
-      "type": "Proposed Rule",
-      "abstract": "FAA proposes to implement certain Special Air Traffic Rules in the airspace in the vicinity of the President Donald J. Trump International Airport (DJT), formerly Palm Beach International Airport (PBI). U.S. Secret Service (USSS) requested FAA restrict aircraft operations in the vicinity of President Trump's Florida non- Governmental property. To provide adequate safeguards for USSS to secure the non-Governmental property and safeguard USSS protectees in the interest of national security, FAA is proposing to implement Special Air Traffic Rules restricting aircraft from operating in the President Donald J. Trump International Airport Special Flight Rules Area unless certain conditions are met.",
-      "document_number": "2026-17957",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/02/2026-17957/establishment-of-special-air-traffic-rules-in-the-vicinity-of-president-donald-j-trump-international",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-02/pdf/2026-17957.pdf",
-      "publication_date": "2026-09-02",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-02",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-10827-0001",
-      "effective_on": null
-    },
-    {
       "title": "Disclosure of Information; Extension of Comment Period",
       "type": "Proposed Rule",
       "abstract": "The FDIC is extending the public comment period on the proposed rule \"Disclosure of Information,\" which was published in the Federal Register on June 30, 2026. FDIC is extending the public comment period from August 31, 2026, to October 5, 2026, to provide interested parties with additional time to analyze the proposal and prepare comments.",
@@ -3552,70 +3520,6 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8782-0001",
-      "effective_on": null
-    },
-    {
-      "title": "Establishment of Class E Airspace; Trading Bay Production Airport, Trading Bay, AK",
-      "type": "Proposed Rule",
-      "abstract": "This action proposes to establish Class E airspace extending upward from 700 feet above the surface at Trading Bay Production Airport, Trading Bay, AK. This action would support the safety and management of instrument flight rules (IFR) operations at the airport.",
-      "document_number": "2026-16804",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/18/2026-16804/establishment-of-class-e-airspace-trading-bay-production-airport-trading-bay-ak",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-18/pdf/2026-16804.pdf",
-      "publication_date": "2026-08-18",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-02",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-5150-0001",
-      "effective_on": null
-    },
-    {
-      "title": "Airworthiness Directives; The Boeing Company Airplanes",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 737 -300, -400, and -500 series airplanes. This proposed AD was prompted by reports of nuisance stick shaker activation while accelerating to cruise speed at the top of a climb due to frozen angle of airflow (AOA) sensor vanes. This proposed AD would require installing new external case heaters (ECHs) on the left and right AOA sensors, performing repetitive functional tests and applicable corrective actions, and accomplishing applicable concurrent actions. The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-16795",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/18/2026-16795/airworthiness-directives-the-boeing-company-airplanes",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-18/pdf/2026-16795.pdf",
-      "publication_date": "2026-08-18",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-02",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-7237-0001",
       "effective_on": null
     },
     {
@@ -4060,70 +3964,6 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-6934-0001",
-      "effective_on": null
-    },
-    {
-      "title": "High-Speed Train Noise Emission Standards",
-      "type": "Proposed Rule",
-      "abstract": "This NPRM seeks to amend the noise emission regulations to address the unique noise emission characteristics of trains operating at speeds exceeding 160 miles per hour (mph). Specifically, the proposed regulation would provide an alternative standard for noise emissions from train operations exceeding 160 mph, up to 220 mph, and also provide a special approval process for noise emissions from train operations exceeding 220 mph. This alternative noise emission standard and compliance process would effectively remove an existing regulatory barrier to the railroad industry for high-speed rail operations, while continuing to protect public health and welfare. Existing noise emission limits for all train operations at speeds up to 160 mph would continue to apply, and these existing limits would remain available for demonstrating compliance at higher speeds as well.",
-      "document_number": "2026-15724",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15724/high-speed-train-noise-emission-standards",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-03/pdf/2026-15724.pdf",
-      "publication_date": "2026-08-03",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Railroad Administration",
-          "name": "Federal Railroad Administration",
-          "id": 185,
-          "url": "https://www.federalregister.gov/agencies/federal-railroad-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/185",
-          "parent_id": 492,
-          "slug": "federal-railroad-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-02",
-      "comment_url": "http://www.regulations.gov/commenton/FRA-2025-0786-0001",
-      "effective_on": null
-    },
-    {
-      "title": "Modification of Certain Terminology in Title 21; Reopening of the Comment Period",
-      "type": "Proposed Rule",
-      "abstract": "The Food and Drug Administration (FDA or the Agency) is reopening the comment period for the proposed rule that appeared in the Federal Register of May 6, 2026, to modify certain terminology in Title 21 of the Code of Federal Regulations (CFR) to comply with Executive Order (E.O.) 14168, \"Defending Women From Gender Ideology Extremism and Restoring Biological Truth to the Federal Government,\" issued on January 20, 2025. Specifically, this proposed rule, if finalized, will remove the term \"gender\" wherever it appears and either replace it with the term \"sex,\" or delete reference to gender, as applicable, along with other editorial changes to improve readability. The Agency is taking this action to allow interested persons additional time to submit comments.",
-      "document_number": "2026-15671",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15671/modification-of-certain-terminology-in-title-21-reopening-of-the-comment-period",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-03/pdf/2026-15671.pdf",
-      "publication_date": "2026-08-03",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
-          "name": "Health and Human Services Department",
-          "id": 221,
-          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
-          "parent_id": null,
-          "slug": "health-and-human-services-department"
-        },
-        {
-          "raw_name": "Food and Drug Administration",
-          "name": "Food and Drug Administration",
-          "id": 199,
-          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
-          "parent_id": 221,
-          "slug": "food-and-drug-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-02",
-      "comment_url": null,
       "effective_on": null
     },
     {
