@@ -44,7 +44,7 @@ jobs:
       - name: Stage public site only
         run: |
           mkdir -p _site
-          cp index.html privacy.html CNAME .nojekyll _site/
+          cp index.html privacy.html robots.txt sitemap.xml CNAME .nojekyll _site/
           cp -r assets data _site/
       - uses: actions/upload-pages-artifact@v3
         with:
