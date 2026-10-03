@@ -29,7 +29,10 @@ jobs:
       - name: Refresh public data
         id: refresh
         continue-on-error: true
-        run: python scripts/refresh_data.py
+        run: |
+          status=0; python scripts/refresh_data.py || status=$?
+          python scripts/build_social.py   # picks from whatever snapshot exists, even after a partial failure
+          exit $status
       - name: Preserve archive
         run: |
           git config user.name 'FedReg Intel data updater'

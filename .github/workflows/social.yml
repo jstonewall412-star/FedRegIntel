@@ -1,0 +1,22 @@
+name: Post social desk
+# Posts the day's picks (data/social.json, written by the nightly refresh) to Bluesky at 9:30 a.m. Eastern.
+# Does nothing until the BLUESKY_HANDLE and BLUESKY_APP_PASSWORD repository secrets exist.
+on:
+  schedule:
+    - cron: '30 13 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  bluesky:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Post to Bluesky
+        env:
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: python scripts/post_bluesky.py

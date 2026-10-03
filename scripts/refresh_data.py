@@ -41,8 +41,8 @@ def save(name,data):
     temp=target.with_suffix('.tmp')
     temp.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     temp.replace(target)
-def fr(conditions=None, count=100, page=1):
-    params=[('per_page',str(count)),('page',str(page)),('order','newest')]+[('fields[]',f) for f in FIELDS]
+def fr(conditions=None, count=100, page=1, fields=FIELDS):
+    params=[('per_page',str(count)),('page',str(page)),('order','newest')]+[('fields[]',f) for f in fields]
     params+=conditions or []
     return json.loads(fetch('https://www.federalregister.gov/api/v1/documents.json?'+urllib.parse.urlencode(params)))
 def refresh_rules():
@@ -56,10 +56,10 @@ def refresh_rules():
     documents={d['document_number']:d for d in recent['results']+closing['results']}
     save('rules.json',dict(updated_at=now.isoformat(),latest_date=latest,issue_count=issue['count'],documents=list(documents.values())))
     print('Saved',len(documents),'rule records')
-def fr_all(conditions):
+def fr_all(conditions,fields=FIELDS):
     documents,page={},1
     while True:
-        batch=fr(conditions,1000,page)
+        batch=fr(conditions,1000,page,fields)
         documents.update((d['document_number'],d) for d in batch.get('results',[]))
         if page>=batch.get('total_pages',1): break
         page+=1
@@ -97,11 +97,23 @@ def find_final_rules(archive,day,limit=30):
     return found
 def save_archive(archive,now):
     save('rules_archive.json',dict(updated_at=now.isoformat(),count=len(archive),documents=dict(sorted(archive.items()))))
+def record_comment_counts(day,documents,keep=15):
+    """Daily Regulations.gov comment counts per open rule, so the social desk can see which are rising."""
+    try: history=json.loads((DATA/'comment_counts.json').read_text(encoding='utf-8'))
+    except (OSError, ValueError): history={}
+    history[day]={d['document_number']:d['comments_count'] for d in documents if d.get('comments_count') is not None}
+    save('comment_counts.json',dict(sorted(history.items())[-keep:]))
 def refresh_open_rules():
     """Every rule and proposed rule still taking comments; feeds the static /rules/ pages and the archive."""
     now=datetime.now(timezone.utc)
     day=now.astimezone(ZoneInfo('America/New_York')).date().isoformat()
-    documents=fr_all([('conditions[type][]','RULE'),('conditions[type][]','PRORULE'),('conditions[comment_date][gte]',day)])
+    documents=fr_all([('conditions[type][]','RULE'),('conditions[type][]','PRORULE'),('conditions[comment_date][gte]',day)],
+                     FIELDS+['significant','regulations_dot_gov_info'])
+    for d in documents.values():
+        # keep only the comment count and docket from the (large) Regulations.gov block
+        info=d.pop('regulations_dot_gov_info',None) or {}
+        d.update(comments_count=info.get('comments_count'),docket_id=info.get('docket_id'))
+    record_comment_counts(day,documents.values())
     save('open_rules.json',dict(updated_at=now.isoformat(),as_of=day,count=len(documents),documents=list(documents.values())))
     archive=load_archive()
     remember(archive,documents.values(),day)

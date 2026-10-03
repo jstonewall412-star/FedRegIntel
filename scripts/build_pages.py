@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'data'
 SITE = 'https://fedregintel.com'
 BOOK = 'https://www.amazon.com/dp/B0HL97PYTB'
-CSS = '/assets/site.css?v=pages-20261003'
+CSS = '/assets/site.css?v=pages-20261003b'
 VIDEO_ID = re.compile(r'^[A-Za-z0-9_-]{11}$')
 DOC_NUMBER = re.compile(r'^[A-Za-z0-9-]{1,40}$')
 LINK = re.compile(r'https?://[^\s<>"]+')
@@ -54,10 +54,10 @@ def linkify(text):
 def ld_json(data):
     return '<script type="application/ld+json">' + json.dumps(data, ensure_ascii=False).replace('<', '\\u003c') + '</script>'
 
-def page(path, title, description, body, structured=None):
+def page(path, title, description, body, structured=None, robots=None):
     canonical = SITE + path
     return f'''<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title><meta name="description" content="{esc(description)}"><meta name="theme-color" content="#102f35"><link rel="canonical" href="{esc(canonical)}"><meta property="og:type" content="website"><meta property="og:site_name" content="FedReg Intel"><meta property="og:url" content="{esc(canonical)}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(description)}"><meta name="twitter:card" content="summary_large_image"><link rel="stylesheet" href="{CSS}">{ld_json(structured) if structured else ''}</head>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title><meta name="description" content="{esc(description)}"><meta name="theme-color" content="#102f35">{f'<meta name="robots" content="{robots}">' if robots else ''}<link rel="canonical" href="{esc(canonical)}"><meta property="og:type" content="website"><meta property="og:site_name" content="FedReg Intel"><meta property="og:url" content="{esc(canonical)}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(description)}"><meta name="twitter:card" content="summary_large_image"><link rel="stylesheet" href="{CSS}">{ld_json(structured) if structured else ''}</head>
 <body><header><div class="shell nav"><a class="brand" href="/"><span class="brand-mark" aria-hidden="true">F<span>R</span></span><span>FEDREG <b>INTEL</b><small>THE PUBLIC PARTICIPATION BRIEF</small></span></a><nav aria-label="Main navigation"><a href="/rules/">Open for comment</a><a href="/videos/">Video briefings</a><a href="/#book">The book</a><a href="/#newsletter">Email list</a><a class="nav-cta" href="https://www.youtube.com/@FedRegIntel?sub_confirmation=1" target="_blank" rel="noopener">Subscribe ↗</a></nav></div></header>
 <main class="shell static-page">{body}</main>
 <footer class="shell"><a class="footer-brand" href="/">FEDREG INTEL</a><p>Independent educational coverage. Not a government website or legal advice. Verify information against the official publication on <a href="https://www.govinfo.gov/">GovInfo</a>.</p><div><a href="/privacy.html">Privacy policy</a><a href="https://www.youtube.com/@FedRegIntel">YouTube</a><a href="mailto:hello@fedregintel.com">Contact</a></div></footer>
@@ -193,6 +193,25 @@ def sitemap(out, entries):
     rows = ''.join(f'  <url><loc>{esc(SITE + p)}</loc>{f"<lastmod>{m[:10]}</lastmod>" if m else ""}</url>\n' for p, m in entries)
     (out / 'sitemap.xml').write_text(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{rows}</urlset>\n', encoding='utf-8')
 
+def build_social_page(out, day):
+    """Today's ready-to-paste posts (data/social.json) with copy buttons. Kept out of search and the sitemap."""
+    social = load('social.json', {})
+    labels = {'trending': 'Trending rule', 'deadline': 'Closing soon', 'video': 'New video'}
+    def box(label, text, limit):
+        return (f'<label class="social-box"><span>{label} <small>{len(text)} characters (limit {limit})</small></span>'
+                f'<textarea readonly rows="5">{esc(text)}</textarea><button type="button" class="secondary" data-copy>Copy</button></label>')
+    cards = ''.join(f'<section class="aside-note"><h2>{labels.get(p["kind"], p["kind"])}</h2>'
+                    + box('X / Threads', p['x'], 280) + box('Bluesky', p['bluesky'], 300) + box('LinkedIn / Facebook', p['long'], 3000)
+                    + '</section>' for p in social.get('posts', []))
+    body = ('<p class="crumbs"><a href="/">Home</a> / Social desk</p><p class="eyebrow">SOCIAL DESK</p><h1 class="page-title">Today&#39;s posts</h1>'
+            f'<p class="section-intro">Generated {esc(long_date(social.get("date")))} from the Federal Register and Regulations.gov comment counts. '
+            'Check the deadline on the linked page before posting.</p>'
+            + (cards or '<p class="empty">No posts today.</p>')
+            + '<script>document.addEventListener("click",e=>{const b=e.target.closest("[data-copy]");if(!b)return;'
+              'const t=b.previousElementSibling;t.select();navigator.clipboard?.writeText(t.value);b.textContent="Copied";'
+              'setTimeout(()=>b.textContent="Copy",1500);});</script>')
+    write(out, '/social/', page('/social/', 'Social desk | FedReg Intel', 'Daily posts about federal rules open for comment.', body, robots='noindex'))
+
 def build(out, day=None):
     day = day or today()
     out = Path(out)
@@ -211,6 +230,7 @@ def build(out, day=None):
     entries = [('/', day), ('/rules/', day), ('/videos/', day), ('/privacy.html', None)]
     entries += build_rules(out, rules, day, covered_by) + build_videos(out, videos, transcripts, by_number)
     sitemap(out, entries)
+    build_social_page(out, day)
     open_count = sum(d['comments_close_on'] >= day for d in rules)
     print(f'Built {len(rules)} rule pages ({open_count} open) and {len(videos)} video pages '
           f'({sum(v["id"] in transcripts for v in videos)} with transcripts)')
