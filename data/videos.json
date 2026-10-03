@@ -1,8 +1,15 @@
 {
   "channel_id": "UC9VwALJt5kVlHWQ0rRV1LOg",
   "channel_url": "https://www.youtube.com/@FedRegIntel",
-  "updated_at": "2026-10-03T13:54:58.416592+00:00",
+  "updated_at": "2026-10-03T14:24:10.476480+00:00",
   "videos": [
+    {
+      "id": "n1S10MrDmv0",
+      "title": "Before You Submit a Federal Comment: Three Checks | FedReg Intel",
+      "published": "2026-10-03T14:07:35+00:00",
+      "url": "https://www.youtube.com/watch?v=n1S10MrDmv0",
+      "thumbnail": "https://i3.ytimg.com/vi/n1S10MrDmv0/hqdefault.jpg"
+    },
     {
       "id": "i9Q4tbG87dw",
       "title": "Four Federal Comment Deadlines Next Week | October 2, 2026",
