@@ -3,11 +3,13 @@ import json, sys, time, urllib.request, urllib.parse, urllib.error, xml.etree.El
 from pathlib import Path
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from build_pages import routine
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'data'
 CHANNEL = 'UC9VwALJt5kVlHWQ0rRV1LOg'
-FIELDS = ['title','type','abstract','document_number','html_url','pdf_url','publication_date','agencies','comments_close_on','comment_url','effective_on']
+FIELDS = ['title','type','abstract','document_number','html_url','pdf_url','publication_date','agencies','comments_close_on','comment_url','effective_on','regulation_id_numbers']
 def fetch(url):
     request = urllib.request.Request(url, headers={'User-Agent':'FedRegIntel/1.0 (+https://fedregintel.com)'})
     for attempt in range(4):
@@ -54,19 +56,68 @@ def refresh_rules():
     documents={d['document_number']:d for d in recent['results']+closing['results']}
     save('rules.json',dict(updated_at=now.isoformat(),latest_date=latest,issue_count=issue['count'],documents=list(documents.values())))
     print('Saved',len(documents),'rule records')
-def refresh_open_rules():
-    """Every rule and proposed rule still taking comments; feeds the static /rules/ pages."""
-    now=datetime.now(timezone.utc)
-    day=now.astimezone(ZoneInfo('America/New_York')).date().isoformat()
-    types=[('conditions[type][]','RULE'),('conditions[type][]','PRORULE'),('conditions[comment_date][gte]',day)]
+def fr_all(conditions):
     documents,page={},1
     while True:
-        batch=fr(types,1000,page)
-        documents.update((d['document_number'],d) for d in batch['results'])
+        batch=fr(conditions,1000,page)
+        documents.update((d['document_number'],d) for d in batch.get('results',[]))
         if page>=batch.get('total_pages',1): break
         page+=1
+    return documents
+def load_archive():
+    try: return json.loads((DATA/'rules_archive.json').read_text(encoding='utf-8'))['documents']
+    except (OSError, ValueError, KeyError): return {}
+def remember(archive,documents,day):
+    """Keep every non-routine rule we have listed for comment, so its page outlives the comment period."""
+    for d in documents:
+        if routine(d): continue
+        old=archive.get(d['document_number'],{})
+        archive[d['document_number']]={**old,**d,'first_seen':old.get('first_seen',day)}
+def find_final_rules(archive,day,limit=30):
+    """For closed proposals, look for a final rule with the same RIN published after the comment period closed.
+    Catch-all RINs shared by many rules (FAA airspace actions, for example) are ignored. Rechecked at most weekly."""
+    week_ago=(datetime.fromisoformat(day)-timedelta(days=7)).date().isoformat()
+    waiting=[d for d in archive.values() if d.get('type')=='Proposed Rule' and (d.get('comments_close_on') or '9')<day
+             and not d.get('final_rule') and d.get('regulation_id_numbers') and d.get('final_checked','')<=week_ago]
+    found=0
+    try:
+        for d in sorted(waiting,key=lambda d:d.get('final_checked',''))[:limit]:
+            for rin in d['regulation_id_numbers']:
+                batch=fr([('conditions[type][]','RULE'),('conditions[regulation_id_number]',rin),('conditions[publication_date][gte]',d['publication_date'])],20)
+                if batch.get('count',0)>3: continue
+                later=[r for r in batch.get('results',[]) if r['publication_date']>d['comments_close_on']]
+                if later:
+                    r=min(later,key=lambda r:r['publication_date'])
+                    d['final_rule']={k:r.get(k) for k in ('title','document_number','html_url','publication_date')}
+                    found+=1
+                    break
+            d['final_checked']=day
+    except (urllib.error.URLError, TimeoutError, ConnectionError) as exc:
+        print('::warning::Final-rule lookup stopped early; it resumes next run. '+str(exc),file=sys.stderr)
+    return found
+def save_archive(archive,now):
+    save('rules_archive.json',dict(updated_at=now.isoformat(),count=len(archive),documents=dict(sorted(archive.items()))))
+def refresh_open_rules():
+    """Every rule and proposed rule still taking comments; feeds the static /rules/ pages and the archive."""
+    now=datetime.now(timezone.utc)
+    day=now.astimezone(ZoneInfo('America/New_York')).date().isoformat()
+    documents=fr_all([('conditions[type][]','RULE'),('conditions[type][]','PRORULE'),('conditions[comment_date][gte]',day)])
     save('open_rules.json',dict(updated_at=now.isoformat(),as_of=day,count=len(documents),documents=list(documents.values())))
-    print('Saved',len(documents),'open rule records')
+    archive=load_archive()
+    remember(archive,documents.values(),day)
+    found=find_final_rules(archive,day)
+    save_archive(archive,now)
+    print('Saved',len(documents),'open rule records;',len(archive),'archived;',found,'final rules found')
+def backfill(since):
+    """One-off: add rules whose comment periods closed between since and yesterday to the archive."""
+    now=datetime.now(timezone.utc)
+    day=now.astimezone(ZoneInfo('America/New_York')).date()
+    documents=fr_all([('conditions[type][]','RULE'),('conditions[type][]','PRORULE'),('conditions[comment_date][gte]',since),('conditions[comment_date][lte]',(day-timedelta(days=1)).isoformat())])
+    archive=load_archive()
+    remember(archive,documents.values(),since)
+    found=find_final_rules(archive,day.isoformat(),limit=10000)
+    save_archive(archive,now)
+    print('Backfilled',len(documents),'records;',len(archive),'archived;',found,'final rules found')
 def refresh_videos():
     path=DATA/'videos.json'
     old=json.loads(path.read_text(encoding='utf-8')) if path.exists() else {'videos':[]}
@@ -83,6 +134,8 @@ def refresh_videos():
     print('Saved',len(archive),'public video records')
 if __name__=='__main__':
     DATA.mkdir(exist_ok=True)
+    if len(sys.argv)==3 and sys.argv[1]=='--backfill':
+        backfill(sys.argv[2]); sys.exit(0)
     failures=[]
     for task in [refresh_rules,refresh_open_rules,refresh_videos]:
         try: task()
