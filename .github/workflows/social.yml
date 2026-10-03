@@ -1,12 +1,13 @@
 name: Post social desk
-# Posts the day's picks (data/social.json, written by the nightly refresh) to Bluesky at 9:30 a.m. Eastern.
-# Does nothing until the BLUESKY_HANDLE and BLUESKY_APP_PASSWORD repository secrets exist.
+# Posts the day's picks (data/social.json, written by the nightly refresh) to Bluesky and X at 9:30 a.m. Eastern.
+# Each platform does nothing until its secrets exist: BLUESKY_HANDLE + BLUESKY_APP_PASSWORD, and
+# X_API_KEY + X_API_SECRET + X_ACCESS_TOKEN + X_ACCESS_TOKEN_SECRET. The jobs are independent.
 on:
   schedule:
     - cron: '30 13 * * *'
   workflow_dispatch:
 permissions:
-  contents: read
+  contents: write   # the X job records what it posted in data/x_posted.json
 jobs:
   bluesky:
     runs-on: ubuntu-latest
@@ -20,3 +21,28 @@ jobs:
           BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
         run: python scripts/post_bluesky.py
+  x:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Post to X
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+        run: python scripts/post_x.py
+      - name: Remember what was posted
+        if: always()
+        run: |
+          git config user.name 'FedReg Intel data updater'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/x_posted.json 2>/dev/null || exit 0
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record X posts'
+            git pull --rebase -X theirs origin main
+            git push origin HEAD:main
+          fi
