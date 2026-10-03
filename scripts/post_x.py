@@ -31,6 +31,21 @@ def post(text, creds):
     with urllib.request.urlopen(request, timeout=30) as response:
         return json.loads(response.read())['data']['id']
 
+def diagnose(creds):
+    """Safe hints for a refused sign-in: lengths and shapes only, never the values."""
+    expected = {'X_API_KEY': '25', 'X_API_SECRET': '50', 'X_ACCESS_TOKEN': 'about 50, starts with digits and a dash', 'X_ACCESS_TOKEN_SECRET': '45'}
+    for name, value in zip(KEYS, creds):
+        print(f'  {name}: {len(value)} characters (usually {expected[name]})')
+    token = creds[2]
+    if not token.split('-')[0].isdigit():
+        print('  X_ACCESS_TOKEN does not start with digits and a dash: it may be a different key pasted into the wrong secret.')
+    me = 'https://api.x.com/2/users/me'
+    try:
+        with urllib.request.urlopen(urllib.request.Request(me, headers={'Authorization': oauth_header('GET', me, *creds)}), timeout=30) as response:
+            print('  Sign-in check: works as @' + json.loads(response.read())['data']['username'] + ' (so posting itself is what X refused)')
+    except urllib.error.HTTPError as exc:
+        print(f'  Sign-in check: refused too (HTTP {exc.code}), so the keys and tokens do not match each other.')
+
 def main(dry_run=False):
     creds = [os.environ.get(k, '').strip() for k in KEYS]
     posts = json.loads((DATA / 'social.json').read_text(encoding='utf-8')).get('posts', [])
@@ -55,6 +70,7 @@ def main(dry_run=False):
             print(f'X refused the post (HTTP {exc.code}): {exc.read().decode(errors="replace")[:300]}')
             if exc.code in (401, 403):
                 print('Check that the four X secrets belong to @FedRegIntel and the app has Read and Write permission.')
+                diagnose(creds)
                 break
     state_file.write_text(json.dumps(state, indent=2) + '\n', encoding='utf-8')
     return 1 if failed else 0
