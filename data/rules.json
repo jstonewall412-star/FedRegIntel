@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T15:29:41.466145+00:00",
+  "updated_at": "2026-10-03T15:52:13.400070+00:00",
   "latest_date": "2026-10-05",
   "issue_count": 25,
   "documents": [
@@ -33,7 +33,10 @@
       ],
       "comments_close_on": "2026-11-19",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
     },
     {
       "title": "Airworthiness Directives; DG Aviation GmbH (Type Certificate Previously Held by DG Flugzeugbau GmbH) Gliders",
@@ -65,7 +68,10 @@
       ],
       "comments_close_on": "2026-11-19",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
     },
     {
       "title": "Overpressure Blast Effects Analysis Burden Reducing Clarification",
@@ -97,7 +103,10 @@
       ],
       "comments_close_on": "2026-11-04",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AM31"
+      ]
     },
     {
       "title": "Lightning Hazard Mitigation Burden-Reducing Exception",
@@ -129,7 +138,10 @@
       ],
       "comments_close_on": "2026-11-04",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AM30"
+      ]
     },
     {
       "title": "Streamlining Flight Safety Analysis Methodology Means of Compliance",
@@ -161,7 +173,10 @@
       ],
       "comments_close_on": "2026-11-04",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AM40"
+      ]
     },
     {
       "title": "Digital Modernization for Licensing Electronic Application Submissions",
@@ -193,7 +208,10 @@
       ],
       "comments_close_on": "2026-11-04",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AM39"
+      ]
     },
     {
       "title": "Simplifying Physical Containment Requirements",
@@ -225,7 +243,10 @@
       ],
       "comments_close_on": "2026-11-04",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AM38"
+      ]
     },
     {
       "title": "Section 3 Benchmarks for Creating Economic Opportunities for Low- and Very Low-Income Persons and Eligible Businesses",
@@ -248,7 +269,8 @@
       ],
       "comments_close_on": "2026-12-04",
       "comment_url": null,
-      "effective_on": "2026-11-04"
+      "effective_on": "2026-11-04",
+      "regulation_id_numbers": []
     },
     {
       "title": "Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-16, V-184, and Revocation of V-284 and V-577; Eastern United States",
@@ -280,7 +302,10 @@
       ],
       "comments_close_on": "2026-11-19",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ]
     },
     {
       "title": "Proposal of Special Measure Prohibiting the Transmittal of Funds Regarding Transactions Involving the A7 Network's Sub-Agents",
@@ -312,7 +337,10 @@
       ],
       "comments_close_on": "2026-11-04",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1506-AB77"
+      ]
     },
     {
       "title": "Wireline Competition Bureau and Office of Economics and Analytics Adopt 2026 Mandatory Data Collection for Incarcerated People's Communications Services",
@@ -335,7 +363,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",
@@ -358,7 +387,10 @@
       ],
       "comments_close_on": "2026-12-04",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3235-AN83"
+      ]
     },
     {
       "title": "Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From North Carolina to Massachusetts",
@@ -390,7 +422,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-10-02"
+      "effective_on": "2026-10-02",
+      "regulation_id_numbers": []
     },
     {
       "title": "Special Conditions: Honda Aircraft Company LLC Model HA-480 Airplane; High Altitude Operation",
@@ -422,7 +455,8 @@
       ],
       "comments_close_on": "2026-11-19",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Ocean Perch in the Western Regulatory Area of the Gulf of Alaska",
@@ -454,7 +488,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-10-01"
+      "effective_on": "2026-10-01",
+      "regulation_id_numbers": []
     },
     {
       "title": "Exemptions From Materials Licensing",
@@ -477,7 +512,10 @@
       ],
       "comments_close_on": "2026-11-04",
       "comment_url": null,
-      "effective_on": "2026-12-21"
+      "effective_on": "2026-12-21",
+      "regulation_id_numbers": [
+        "3150-AL61"
+      ]
     },
     {
       "title": "Exemptions From Materials Licensing",
@@ -500,7 +538,10 @@
       ],
       "comments_close_on": "2026-11-04",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3150-AL61"
+      ]
     },
     {
       "title": "Fisheries of the Caribbean, Gulf of America, and South Atlantic; Puerto Rico Fishery Management Plan; Amendment 4",
@@ -532,7 +573,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-10-05"
+      "effective_on": "2026-10-05",
+      "regulation_id_numbers": [
+        "0648-BN67"
+      ]
     },
     {
       "title": "Reforming Federal Reporting and Assessments in Child Welfare",
@@ -564,7 +608,10 @@
       ],
       "comments_close_on": "2026-11-04",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0970-AD32"
+      ]
     },
     {
       "title": "Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions; Extension of Comment Period",
@@ -596,7 +643,10 @@
       ],
       "comments_close_on": "2026-11-02",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0607-AA75"
+      ]
     },
     {
       "title": "Clarification to the Applicability of Emergency Exemptions; Response to Petitions for Reconsideration",
@@ -628,7 +678,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-10-05"
+      "effective_on": "2026-10-05",
+      "regulation_id_numbers": [
+        "2126-AC77"
+      ]
     },
     {
       "title": "Special Local Regulation; Allegheny River Mile Marker 20.5-21, Creighton, PA",
@@ -660,7 +713,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-10-10"
+      "effective_on": "2026-10-10",
+      "regulation_id_numbers": [
+        "1625-AA08"
+      ]
     },
     {
       "title": "General Services Administration Acquisition Regulation; GSAR Implementation of Executive Order 14275, Acquisition of Utility Services",
@@ -683,7 +739,10 @@
       ],
       "comments_close_on": "2026-11-04",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3090-AL14"
+      ]
     },
     {
       "title": "Endangered and Threatened Wildlife and Plants; Four Species Not Warranted for Listing as Endangered or Threatened Species",
@@ -715,7 +774,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Safety Standard for Lithium-Ion Batteries Used in Micromobility Products and Electrical Systems of Micromobility Products Containing Such Batteries",
@@ -738,7 +798,10 @@
       ],
       "comments_close_on": "2026-10-15",
       "comment_url": null,
-      "effective_on": "2026-10-21"
+      "effective_on": "2026-10-21",
+      "regulation_id_numbers": [
+        "3041-AE10"
+      ]
     },
     {
       "title": "Global Benchmark for Efficient Drug Pricing (GLOBE) Model",
@@ -770,7 +833,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-11-30"
+      "effective_on": "2026-11-30",
+      "regulation_id_numbers": [
+        "0938-AV66"
+      ]
     },
     {
       "title": "Federal Scholarship Tax Credit",
@@ -802,7 +868,10 @@
       ],
       "comments_close_on": "2026-12-01",
       "comment_url": "http://www.regulations.gov/commenton/IRS-2026-1354-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1545-BR97"
+      ]
     },
     {
       "title": "State of Indiana: Discontinuance of Certain Commission Regulatory Authority Within the State, Notice of Agreement Between the Nuclear Regulatory Commission and the State of Indiana",
@@ -825,7 +894,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-09-30"
+      "effective_on": "2026-09-30",
+      "regulation_id_numbers": []
     },
     {
       "title": "Federal Scholarship Tax Credit",
@@ -857,7 +927,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-12-01"
+      "effective_on": "2026-12-01",
+      "regulation_id_numbers": [
+        "1545-BS17"
+      ]
     },
     {
       "title": "Commission Quorum Requirement",
@@ -880,7 +953,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-10-02"
+      "effective_on": "2026-10-02",
+      "regulation_id_numbers": []
     },
     {
       "title": "Big Cypress National Preserve; Off-Road Motor Vehicles",
@@ -912,7 +986,10 @@
       ],
       "comments_close_on": "2026-12-01",
       "comment_url": "http://www.regulations.gov/commenton/NPS-2026-0199-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1024-AE54"
+      ]
     },
     {
       "title": "Enhanced Transparency and Public Accountability of the Supervisory Stress Test Models and Scenarios; Modifications to the Capital Planning and Stress Capital Buffer Requirement Rule, Enhanced Prudential Standards Rule, and Regulation LL",
@@ -935,7 +1012,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-11-02"
+      "effective_on": "2026-11-02",
+      "regulation_id_numbers": [
+        "7100-AH05"
+      ]
     },
     {
       "title": "Modifications to the Capital Plan Rule and Stress Capital Buffer Requirement",
@@ -958,7 +1038,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-12-01"
+      "effective_on": "2026-12-01",
+      "regulation_id_numbers": [
+        "7100-AG92"
+      ]
     },
     {
       "title": "Fisheries Off West Coast States; Coastal Pelagic Species Fisheries; Annual Specifications; 2026-2027 Annual Specifications and Management Measures for Pacific Sardine",
@@ -990,7 +1073,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-10-02"
+      "effective_on": "2026-10-02",
+      "regulation_id_numbers": []
     },
     {
       "title": "Special Local Regulations; Southern California Annual Marine Events for the San Diego Captain of the Port Zone, San Diego Sharkfest Swim, San Diego Bay, San Diego, CA",
@@ -1013,7 +1097,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Special Local Regulations; Marine Events Within the USCG East District-Ocean City, NJ",
@@ -1045,7 +1130,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Special Local Regulations; Marine Events Within the USCG East District-Philadelphia, PA",
@@ -1077,7 +1163,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Phosphatidylcholine in Pesticide Formulations; Exemption From the Requirement for a Tolerance",
@@ -1100,7 +1187,8 @@
       ],
       "comments_close_on": null,
       "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OPP-2025-0090-0003",
-      "effective_on": "2026-10-02"
+      "effective_on": "2026-10-02",
+      "regulation_id_numbers": []
     },
     {
       "title": "Amendment of Class D and E Airspace, Revocation of Class E Airspace; Montgomery, AL",
@@ -1132,7 +1220,10 @@
       ],
       "comments_close_on": "2026-11-16",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8948-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ]
     },
     {
       "title": "[WC Docket Nos. 25-208, 25-209; FCC 26-19; FR ID 370342] Reducing Barriers to Network Improvements and Service Changes, Accelerating Network Modernization",
@@ -1155,7 +1246,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-10-15"
+      "effective_on": "2026-10-15",
+      "regulation_id_numbers": []
     },
     {
       "title": "Administration of Cross-State Air Pollution Rule Trading Program Assurance Provisions for 2025 Control Period",
@@ -1178,7 +1270,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Unleashing American Energy and Economic Prosperity; Rural Energy for America Program (REAP)",
@@ -1210,7 +1303,10 @@
       ],
       "comments_close_on": "2026-11-02",
       "comment_url": "http://www.regulations.gov/commenton/RBS-26-BUSINESS-0529-0001",
-      "effective_on": "2026-10-16"
+      "effective_on": "2026-10-16",
+      "regulation_id_numbers": [
+        "0570-AB13"
+      ]
     },
     {
       "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Exchange of Flatfish in the Bering Sea and Aleutian Islands Management Area",
@@ -1242,7 +1338,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-10-01"
+      "effective_on": "2026-10-01",
+      "regulation_id_numbers": []
     },
     {
       "title": "Petition for Rulemaking; Notification of Petition for Rulemaking; Invalid Specimen Determinations",
@@ -1265,7 +1362,8 @@
       ],
       "comments_close_on": "2026-11-02",
       "comment_url": "http://www.regulations.gov/commenton/DOT-OST-2026-3664-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Rule on Impersonation of Government and Businesses",
@@ -1288,7 +1386,10 @@
       ],
       "comments_close_on": "2026-11-30",
       "comment_url": "http://www.regulations.gov/commenton/FTC-2026-1552-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3084-AB90"
+      ]
     },
     {
       "title": "Pacific Island Fisheries; Annual Catch Limit and Accountability Measures for Mariana Bottomfish Management Unit Species in the Guam Management Subarea",
@@ -1320,7 +1421,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-11-02"
+      "effective_on": "2026-11-02",
+      "regulation_id_numbers": [
+        "0648-BN73"
+      ]
     },
     {
       "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Pollock Fishing in the Winter Herring Savings Area of the Bering Sea and Aleutian Islands Management Area",
@@ -1352,7 +1456,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-09-30"
+      "effective_on": "2026-09-30",
+      "regulation_id_numbers": []
     },
     {
       "title": "Medicare Program; FY 2027 Inpatient Psychiatric Facilities Prospective Payment System-Rate Update; Correction",
@@ -1384,7 +1489,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-10-01"
+      "effective_on": "2026-10-01",
+      "regulation_id_numbers": [
+        "0938-AV77"
+      ]
     },
     {
       "title": "Medicare Program; Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2027 and Updates to the IRF Quality Reporting Program; Correction",
@@ -1416,7 +1524,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-10-01"
+      "effective_on": "2026-10-01",
+      "regulation_id_numbers": [
+        "0938-AV76"
+      ]
     },
     {
       "title": "Safety Zone; Sector Mobile Captain of the Port Zone, Mobile, AL",
@@ -1448,7 +1559,10 @@
       ],
       "comments_close_on": "2026-10-16",
       "comment_url": "http://www.regulations.gov/commenton/USCG-2026-1214-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1625-AA00"
+      ]
     },
     {
       "title": "General Provisions; Revised List of Birds Protected by the Migratory Bird Treaty Act",
@@ -1480,7 +1594,10 @@
       ],
       "comments_close_on": "2026-11-30",
       "comment_url": "http://www.regulations.gov/commenton/FWS-HQ-MB-2026-0133-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1018-BI13"
+      ]
     },
     {
       "title": "Safety Zone; St. Lawrence River, Massena, NY",
@@ -1512,7 +1629,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-09-30"
+      "effective_on": "2026-09-30",
+      "regulation_id_numbers": [
+        "1625-AA00"
+      ]
     },
     {
       "title": "Special Local Regulations; Englewood Beach Offshore Championship; Gulf of America; Englewood, FL",
@@ -1544,7 +1664,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Airworthiness Directives; The Boeing Company Airplanes",
@@ -1576,7 +1697,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-11-05"
+      "effective_on": "2026-11-05",
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
     },
     {
       "title": "Airworthiness Directives; Airbus SAS Airplanes",
@@ -1608,7 +1732,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-11-05"
+      "effective_on": "2026-11-05",
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
     },
     {
       "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
@@ -1640,7 +1767,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-10-01"
+      "effective_on": "2026-10-01",
+      "regulation_id_numbers": []
     },
     {
       "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
@@ -1672,7 +1800,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-10-01"
+      "effective_on": "2026-10-01",
+      "regulation_id_numbers": []
     },
     {
       "title": "Airworthiness Directives; Airbus Helicopters",
@@ -1704,7 +1833,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-11-05"
+      "effective_on": "2026-11-05",
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
     },
     {
       "title": "Approval of Implementation Plans for Air Quality Planning Purposes; State of Nevada; Truckee Meadows Second 10-Year Maintenance Plan for the 1987 PM-10 Standard",
@@ -1727,7 +1859,8 @@
       ],
       "comments_close_on": "2026-11-02",
       "comment_url": "http://www.regulations.gov/commenton/EPA-R09-OAR-2025-1978-0005",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Air Plan Approval; OR; Lane County Title 36 Rule",
@@ -1750,7 +1883,8 @@
       ],
       "comments_close_on": "2026-11-02",
       "comment_url": "http://www.regulations.gov/commenton/EPA-R10-OAR-2026-3763-0012",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Airworthiness Directives; Leonardo S.p.a. Helicopters",
@@ -1782,7 +1916,10 @@
       ],
       "comments_close_on": "2026-11-16",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11789-0001",
-      "effective_on": "2026-10-16"
+      "effective_on": "2026-10-16",
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
     },
     {
       "title": "Airworthiness Directives; Airbus Helicopters",
@@ -1814,7 +1951,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-11-05"
+      "effective_on": "2026-11-05",
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
     },
     {
       "title": "Attainment Date Extension for the South Coast, California 2012 Annual PM2.5 Fine Particulate Matter Nonattainment Area",
@@ -1837,7 +1977,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-11-02"
+      "effective_on": "2026-11-02",
+      "regulation_id_numbers": []
     },
     {
       "title": "Air Plan Approval; Missouri; Control of NOX Emissions From Large Stationary Internal Combustion Engines",
@@ -1860,7 +2001,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-11-02"
+      "effective_on": "2026-11-02",
+      "regulation_id_numbers": []
     },
     {
       "title": "Clarification of Certain Mariner Training Requirements",
@@ -1892,7 +2034,10 @@
       ],
       "comments_close_on": "2026-12-30",
       "comment_url": "http://www.regulations.gov/commenton/USCG-2025-0392-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1625-AC48"
+      ]
     },
     {
       "title": "Extension of Reexportation Period.",
@@ -1924,7 +2069,10 @@
       ],
       "comments_close_on": "2026-11-30",
       "comment_url": "http://www.regulations.gov/commenton/DEA-2026-1684-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1117-AB87"
+      ]
     },
     {
       "title": "International Traffic in Arms Regulations: Syria Country Policy Revision",
@@ -1947,7 +2095,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-10-01"
+      "effective_on": "2026-10-01",
+      "regulation_id_numbers": [
+        "1400-AG38"
+      ]
     },
     {
       "title": "International Traffic in Arms Regulations (ITAR): Review of the U.S. Munitions List and Related Definitions and License Exemptions",
@@ -1970,7 +2121,10 @@
       ],
       "comments_close_on": "2026-11-30",
       "comment_url": "http://www.regulations.gov/commenton/DOS-2026-0991-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1400-AF40"
+      ]
     },
     {
       "title": "Airworthiness Directives; Embraer S.A. Airplanes",
@@ -2002,7 +2156,10 @@
       ],
       "comments_close_on": "2026-11-16",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11796-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
     },
     {
       "title": "Petition for Rulemaking of Malik Tony Singleton",
@@ -2025,7 +2182,8 @@
       ],
       "comments_close_on": "2026-10-30",
       "comment_url": "http://www.regulations.gov/commenton/FTC-2026-1453-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Medical Devices; Gastroenterology-Urology Devices; Classification of the Flushing and Storage Solution for Vascular Autografts at Room Temperature",
@@ -2057,7 +2215,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-09-30"
+      "effective_on": "2026-09-30",
+      "regulation_id_numbers": []
     },
     {
       "title": "Medicare Program; FY 2027 Hospice Wage Index and Payment Rate Update and Hospice Quality Reporting Program Requirements; Correction",
@@ -2089,7 +2248,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-10-01"
+      "effective_on": "2026-10-01",
+      "regulation_id_numbers": [
+        "0938-AV78"
+      ]
     },
     {
       "title": "Air Plan Approval; Reconsideration and Repeal of Air Plan Partial Approval and Partial Disapproval of North Dakota's Regional Haze State Implementation Plan for the Second Implementation Period; Correction",
@@ -2112,7 +2274,8 @@
       ],
       "comments_close_on": "2026-10-09",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Television Broadcasting Services Norwell, Massachusetts",
@@ -2135,7 +2298,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-09-30"
+      "effective_on": "2026-09-30",
+      "regulation_id_numbers": []
     },
     {
       "title": "Television Broadcasting Services Savannah, Georgia",
@@ -2158,7 +2322,8 @@
       ],
       "comments_close_on": "2026-10-30",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Regulation D: Reserve Requirements of Depository Institutions",
@@ -2181,7 +2346,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-09-30"
+      "effective_on": "2026-09-30",
+      "regulation_id_numbers": [
+        "7100-AH32"
+      ]
     },
     {
       "title": "Regulation A: Extensions of Credit by Federal Reserve Banks",
@@ -2204,7 +2372,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-09-30"
+      "effective_on": "2026-09-30",
+      "regulation_id_numbers": [
+        "7100-AH31"
+      ]
     },
     {
       "title": "Trump Accounts",
@@ -2236,7 +2407,10 @@
       ],
       "comments_close_on": "2026-11-30",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1545-BR91"
+      ]
     },
     {
       "title": "Trump Accounts",
@@ -2268,7 +2442,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-09-30"
+      "effective_on": "2026-09-30",
+      "regulation_id_numbers": [
+        "1545-BS27"
+      ]
     },
     {
       "title": "Employer Contributions to Trump Accounts and Nondiscrimination Rules for Dependent Care Assistance Programs; Hearing",
@@ -2300,7 +2477,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1545-BS19"
+      ]
     },
     {
       "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Groundfish Reserves in the Bering Sea and Aleutian Islands Management Area",
@@ -2332,7 +2512,8 @@
       ],
       "comments_close_on": "2026-10-15",
       "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2025-1098-0026",
-      "effective_on": "2026-10-30"
+      "effective_on": "2026-10-30",
+      "regulation_id_numbers": []
     },
     {
       "title": "U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule",
@@ -2355,7 +2536,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-11-30"
+      "effective_on": "2026-11-30",
+      "regulation_id_numbers": [
+        "1615-AC93"
+      ]
     },
     {
       "title": "Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 131E, 131F, and 131G",
@@ -2387,7 +2571,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Publication of Venezuela Sanctions Regulations Web General License 5W",
@@ -2419,7 +2604,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Publication of Transnational Criminal Organizations Sanctions Regulations Web General License 2",
@@ -2451,7 +2637,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Publication of Iran-Related Web General Licenses X and X1",
@@ -2483,7 +2670,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Publication of Venezuela Sanctions Regulations Web General Licenses 46D, 47B, 48C, 50C, 51C, 52B, 54B, and 61A",
@@ -2515,7 +2703,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Publication of Venezuela Sanctions Regulations Web General Licenses 52, 53, 54, 55, 56, 57, and 58",
@@ -2547,7 +2736,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Removing Duplicative Penalties Information and Reorganizing Certain Parts",
@@ -2579,7 +2769,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-09-30"
+      "effective_on": "2026-09-30",
+      "regulation_id_numbers": []
     },
     {
       "title": "Publication of Venezuela Sanctions Regulations Web General Licenses 46C, 47A, 48B, 50B, 51B, 52A, and 54A",
@@ -2611,7 +2802,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Airworthiness Directives; Airbus Helicopters",
@@ -2643,7 +2835,10 @@
       ],
       "comments_close_on": "2026-11-16",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11795-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
     },
     {
       "title": "Iranian Transactions and Sanctions Regulations",
@@ -2675,7 +2870,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-09-30"
+      "effective_on": "2026-09-30",
+      "regulation_id_numbers": []
     },
     {
       "title": "Cuba Sanctions Regulations",
@@ -2707,7 +2903,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-09-30"
+      "effective_on": "2026-09-30",
+      "regulation_id_numbers": []
     },
     {
       "title": "Cuban Assets Control Regulations",
@@ -2739,7 +2936,8 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-09-30"
+      "effective_on": "2026-09-30",
+      "regulation_id_numbers": []
     },
     {
       "title": "Airworthiness Directives; Vulcanair S.p.A. Airplanes",
@@ -2771,7 +2969,10 @@
       ],
       "comments_close_on": "2026-11-16",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11794-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
     },
     {
       "title": "Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters",
@@ -2803,7 +3004,10 @@
       ],
       "comments_close_on": "2026-11-16",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11792-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
     },
     {
       "title": "Airworthiness Directives; Bell Textron Canada Limited Helicopters",
@@ -2835,7 +3039,10 @@
       ],
       "comments_close_on": "2026-11-16",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11791-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
     },
     {
       "title": "Forms and Procedures for Review of State Certifications by the Stablecoin Certification Review Committee",
@@ -2858,7 +3065,10 @@
       ],
       "comments_close_on": "2026-11-30",
       "comment_url": null,
-      "effective_on": "2026-09-30"
+      "effective_on": "2026-09-30",
+      "regulation_id_numbers": [
+        "1505-AC97"
+      ]
     },
     {
       "title": "The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks",
@@ -2890,7 +3100,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-11-30"
+      "effective_on": "2026-11-30",
+      "regulation_id_numbers": [
+        "2127-AM76"
+      ]
     },
     {
       "title": "NRC Modernization: Rulemaking Procedure, Federal Advisory Committee Act Alignment, Access, and Security; Correction and Confirmation of Effective Date",
@@ -2913,7 +3126,10 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-10-26"
+      "effective_on": "2026-10-26",
+      "regulation_id_numbers": [
+        "3150-AL46"
+      ]
     },
     {
       "title": "Special Areas; Roadless Area Conservation",
@@ -2945,7 +3161,10 @@
       ],
       "comments_close_on": "2026-10-06",
       "comment_url": "http://www.regulations.gov/commenton/FS-2025-0001-342438",
-      "effective_on": "2026-08-20"
+      "effective_on": "2026-08-20",
+      "regulation_id_numbers": [
+        "0596-AD66"
+      ]
     },
     {
       "title": "Labels 888, 889, 891, and 892, Discontinued",
@@ -2968,7 +3187,8 @@
       ],
       "comments_close_on": "2026-10-09",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Registration of Lawful Permanent Residence for Children Born to Foreign Government Employees in the United States",
@@ -2991,7 +3211,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/USCIS-2026-0496-0001",
-      "effective_on": "2026-09-04"
+      "effective_on": "2026-09-04",
+      "regulation_id_numbers": [
+        "1615-AD24"
+      ]
     },
     {
       "title": "Simplified Geographic Preference Procurement in Child Nutrition Programs",
@@ -3023,7 +3246,10 @@
       ],
       "comments_close_on": "2026-10-09",
       "comment_url": "http://www.regulations.gov/commenton/FNA-2026-0364-0001",
-      "effective_on": "2026-11-09"
+      "effective_on": "2026-11-09",
+      "regulation_id_numbers": [
+        "0584-AF06"
+      ]
     },
     {
       "title": "Updated Definition of “Waters of the United States”",
@@ -3064,7 +3290,10 @@
       ],
       "comments_close_on": "2026-10-09",
       "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OW-2025-0322-15447",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2040-AG44"
+      ]
     },
     {
       "title": "Air Plan Approval; Reconsideration and Repeal of Air Plan Partial Approval and Partial Disapproval of North Dakota's Regional Haze State Implementation Plan for the Second Implementation Period",
@@ -3087,7 +3316,8 @@
       ],
       "comments_close_on": "2026-10-09",
       "comment_url": "http://www.regulations.gov/commenton/EPA-R08-OAR-2023-0495-0065",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Reducing Bureaucracy and Burden for the Repatriation of Mentally Ill Nationals",
@@ -3119,7 +3349,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/ACF-2026-0661-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0970-AD48"
+      ]
     },
     {
       "title": "Modernizing Medical Standards for Non-Insulin Dependent Diabetes Mellitus Cases",
@@ -3151,7 +3384,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-10990-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AM25"
+      ]
     },
     {
       "title": "Pacific Halibut Fisheries; Catch Sharing Plan; Modify Pacific Halibut Individual Fishing Quota (IFQ) Vessel Use Caps in IFQ Regulatory Areas 4A, 4B, 4C, 4D, and 4E",
@@ -3183,7 +3419,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2026-1025-0003",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0648-BO24"
+      ]
     },
     {
       "title": "Television Broadcasting Services Colusa, California",
@@ -3206,7 +3445,8 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Disclosure of Information; Extension of Comment Period",
@@ -3229,7 +3469,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": null,
-      "effective_on": "2026-06-30"
+      "effective_on": "2026-06-30",
+      "regulation_id_numbers": [
+        "3064-AG30"
+      ]
     },
     {
       "title": "Special Conditions: Pratt and Whitney Canada, PW220A; New Engine Rating: Idle-Cruise Regime",
@@ -3261,7 +3504,8 @@
       ],
       "comments_close_on": "2026-10-09",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-3073-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Airworthiness Directives; Airbus Helicopters",
@@ -3293,7 +3537,10 @@
       ],
       "comments_close_on": "2026-10-08",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8786-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
     },
     {
       "title": "Commodity Pool Operators and Commodity Trading Advisors: Reduction of Duplicative Regulation Through Intermediary Registration Exemptions; Expansion of the Exemption for Small Commodity Pools",
@@ -3316,7 +3563,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/CFTC-2026-1849-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3038-AF78"
+      ]
     },
     {
       "title": "Airworthiness Directives; The Boeing Company Airplanes",
@@ -3348,7 +3598,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8784-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
     },
     {
       "title": "Application of Section 250(b)(3)(A)(i)(VII) to Sales or Other Dispositions of Property",
@@ -3380,7 +3633,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/IRS-2026-1058-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1545-BR85"
+      ]
     },
     {
       "title": "Application of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to the Refunded Portion of Certain Federal Refundable Tax Credits",
@@ -3412,7 +3668,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/IRS-2026-1057-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1545-BS06"
+      ]
     },
     {
       "title": "Airworthiness Directives; Dassault Aviation Airplanes",
@@ -3444,7 +3703,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8785-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
     },
     {
       "title": "Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines",
@@ -3476,7 +3738,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8783-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
     },
     {
       "title": "Airworthiness Directives; Airbus SAS Airplanes",
@@ -3508,7 +3773,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8782-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
     },
     {
       "title": "English Language Proficiency; Out of Service Criteria",
@@ -3540,7 +3808,10 @@
       ],
       "comments_close_on": "2026-10-09",
       "comment_url": "http://www.regulations.gov/commenton/FMCSA-2026-0826-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2126-AC99"
+      ]
     },
     {
       "title": "Removal of FAA Third-Class Medical Certificate Requirement for Military Pilot Trainees",
@@ -3572,7 +3843,10 @@
       ],
       "comments_close_on": "2026-10-09",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9177-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AM23"
+      ]
     },
     {
       "title": "HUD's Implementation of the Fair Housing Act's Disparate Impact Standard; Amendments to HUD's Title VI Regulations",
@@ -3595,7 +3869,10 @@
       ],
       "comments_close_on": "2026-10-09",
       "comment_url": "http://www.regulations.gov/commenton/HUD-2026-0034-0609",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2529-AB09"
+      ]
     },
     {
       "title": "Radiology Devices; Reclassification of Digital Breast Tomosynthesis System",
@@ -3627,7 +3904,8 @@
       ],
       "comments_close_on": "2026-10-09",
       "comment_url": "http://www.regulations.gov/commenton/FDA-2026-N-7630-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Reducing Federal Burden for Head Start Programs",
@@ -3659,7 +3937,10 @@
       ],
       "comments_close_on": "2026-10-06",
       "comment_url": "http://www.regulations.gov/commenton/ACF-2026-0595-0002",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0970-AD30"
+      ]
     },
     {
       "title": "Extensions of Credit to Insiders",
@@ -3682,7 +3963,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3064-AG26"
+      ]
     },
     {
       "title": "Oil and Gas and Sulfur Operations on the Outer Continental Shelf-Revisions to the Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf",
@@ -3723,7 +4007,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/BSEE-2026-0133-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1082-AA05"
+      ]
     },
     {
       "title": "Conflicts and Affiliations",
@@ -3746,7 +4033,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/CFTC-2026-1686-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3038-AF76"
+      ]
     },
     {
       "title": "Improving Emergency Medical Kit Efficacy and Flexibility in Commercial Airline Operations",
@@ -3778,7 +4068,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9178-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AM18"
+      ]
     },
     {
       "title": "OCC Rules Regarding the Availability of OCC Information",
@@ -3810,7 +4103,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/OCC-2026-0133-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1557-AF50"
+      ]
     },
     {
       "title": "Importation of Coffee Into Hawaii and Puerto Rico",
@@ -3842,7 +4138,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/APHIS-2023-0073-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0579-AE90"
+      ]
     },
     {
       "title": "National Poultry Improvement Plan and Auxiliary Provisions",
@@ -3874,7 +4173,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/APHIS-2025-0033-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0579-AE89"
+      ]
     },
     {
       "title": "Loans to Executive Officers, Directors, and Principal Shareholders of Member Banks; Bank Holding Companies",
@@ -3897,7 +4199,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "7100-AH27"
+      ]
     },
     {
       "title": "Regulatory Modernization and Relief for Mutual Holding Companies",
@@ -3920,7 +4225,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": null,
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "7100-AH26"
+      ]
     },
     {
       "title": "Establishment of Class C Airspace and Removal of Class D Airspace; Wilmington International Airport, NC",
@@ -3952,7 +4260,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-6934-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ]
     },
     {
       "title": "Fingerprint and Photograph Requirements for Firearms Applications",
@@ -3984,7 +4295,10 @@
       ],
       "comments_close_on": "2026-10-05",
       "comment_url": "http://www.regulations.gov/commenton/ATF-2026-0397-0001",
-      "effective_on": null
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1140-AA63"
+      ]
     }
   ]
 }
