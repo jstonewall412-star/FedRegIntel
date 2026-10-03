@@ -14,6 +14,16 @@ VIDEO_ID = re.compile(r'^[A-Za-z0-9_-]{11}$')
 DOC_NUMBER = re.compile(r'^[A-Za-z0-9-]{1,40}$')
 LINK = re.compile(r'https?://[^\s<>"]+')
 esc = lambda s: html.escape(str(s or ''), quote=True)
+# Narrow technical items (one aircraft model, one bridge, one state plan) get no page; same list as the
+# show's register_script.py ROUTINE, so the site and the show leave out the same things.
+ROUTINE = ('Airworthiness Directives', 'Safety Zone', 'Drawbridge Operation', 'Special Local Regulation',
+           'Air Plan Approval', 'Approval and Promulgation', 'Establishment of Class', 'Amendment of Class',
+           'Modification of Class', 'Revocation of Class', 'Establishment, Modification', 'Anchorage',
+           'Pesticide Tolerance', 'Tolerance Exemption', 'Fisheries of the')
+
+def routine(d):
+    title = d.get('title') or ''
+    return any(title.startswith(r) or f'; {r}' in title for r in ROUTINE)
 
 def today():
     return datetime.now(ZoneInfo('America/New_York')).date().isoformat()
@@ -118,7 +128,7 @@ def build_rules(out, rules, day):
                       f'<a href="/rules/{d["document_number"]}/">{esc(d["title"])}</a></li>')
     section = lambda title, docs: f'<h2>{title} ({len(docs)})</h2><ul class="rule-index">{"".join(map(item, docs))}</ul>' if docs else ''
     body = ('<p class="crumbs"><a href="/">Home</a> / Open for comment</p><p class="eyebrow">THE RULEMAKING DESK</p><h1 class="page-title">Federal rules open for public comment</h1>'
-            f'<p class="section-intro">{len(rules)} rules and proposed rules in the Federal Register are accepting public comments as of {esc(long_date(day))}, soonest deadline first. Updated daily.</p>'
+            f'<p class="section-intro">{len(rules)} rules and proposed rules in the Federal Register are accepting public comments as of {esc(long_date(day))}, soonest deadline first. Updated daily. Narrow technical items, such as airworthiness directives and single-site safety zones, are left out; <a href="https://www.federalregister.gov/documents/search">search FederalRegister.gov</a> for those.</p>'
             + (section('Closing in the next 7 days', week) + section('Closing later', later) if rules else '<p class="empty">No open comment periods in the current snapshot. Check FederalRegister.gov directly.</p>'))
     write(out, '/rules/', page('/rules/', 'Federal Rules Open for Public Comment, by Deadline | FedReg Intel',
                                f'{len(rules)} federal rules and proposed rules open for public comment, sorted by deadline, with links to comment on Regulations.gov. Updated daily.', body))
@@ -136,7 +146,7 @@ def build(out, day=None):
     out = Path(out)
     videos = [v for v in load('videos.json', {}).get('videos', []) if VIDEO_ID.match(v.get('id') or '') and v.get('title') and v.get('published')]
     rules = sorted((d for d in load('open_rules.json', {}).get('documents', [])
-                    if DOC_NUMBER.match(d.get('document_number') or '') and d.get('title') and (d.get('comments_close_on') or '') >= day),
+                    if DOC_NUMBER.match(d.get('document_number') or '') and d.get('title') and not routine(d) and (d.get('comments_close_on') or '') >= day),
                    key=lambda d: (d['comments_close_on'], d['title']))
     entries = [('/', day), ('/rules/', day), ('/videos/', day), ('/privacy.html', None)]
     entries += build_rules(out, rules, day) + build_videos(out, videos)

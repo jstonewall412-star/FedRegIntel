@@ -11,6 +11,7 @@ RULES={'documents':[
     {'document_number':'2026-11111','title':'Open proposal','type':'Proposed Rule','comments_close_on':'2026-10-05','publication_date':'2026-09-05','abstract':'An "abstract" & more','agencies':[{'name':'Forest Service'}],'html_url':'https://www.federalregister.gov/d/2026-11111','comment_url':'https://www.regulations.gov/commenton/X'},
     {'document_number':'2026-22222','title':'Later rule','type':'Rule','comments_close_on':'2026-11-30','publication_date':'2026-09-30'},
     {'document_number':'2026-33333','title':'Already closed','type':'Proposed Rule','comments_close_on':'2026-10-02'},
+    {'document_number':'2026-44444','title':'Airworthiness Directives; Airbus Helicopters','type':'Proposed Rule','comments_close_on':'2026-10-20'},
     {'document_number':'../evil','title':'Bad number','type':'Proposed Rule','comments_close_on':'2026-12-01'}]}
 
 class PageTests(unittest.TestCase):
@@ -27,6 +28,7 @@ class PageTests(unittest.TestCase):
         self.assertEqual((rules,videos),(2,1))
         self.assertTrue((out/'rules/2026-11111/index.html').exists())
         self.assertFalse((out/'rules/2026-33333').exists())
+        self.assertFalse((out/'rules/2026-44444').exists())
         self.assertFalse((out/'evil').exists()); self.assertFalse((out/'etc').exists())
         index=(out/'rules/index.html').read_text(encoding='utf-8')
         self.assertLess(index.index('Open proposal'),index.index('Later rule'))
