@@ -49,7 +49,7 @@ def fit(make, limit, link_cost=None):
             return text
     return make(30)
 
-def rule_post(d, lead, day):
+def rule_post(d, lead, day, youtube_lead):
     url = f'{SITE}/rules/{d["document_number"]}/'
     closes = short_date(d['comments_close_on'])
     count = d.get('comments_count')
@@ -58,8 +58,11 @@ def rule_post(d, lead, day):
                       f'Comments close {closes}. Read it and weigh in: {url}')
     long_text = (f'{lead} {agency(d)}\'s {kind(d)}, "{d["title"]}".{counted} Comments close {closes}. '
                  f'The page links the official document and the comment form: {url}')
+    youtube = (f"{youtube_lead} {agency(d)}'s {kind(d)}, \"{d['title']}.\""
+               + (f' {count:,} public comments on Regulations.gov.' if count else '')
+               + ('' if closes in youtube_lead else f' Comments close {closes}.') + f' {url}')
     return {'document_number': d['document_number'], 'url': url, 'x': fit(make, X_LIMIT, X_LINK),
-            'bluesky': fit(make, BLUESKY_LIMIT), 'long': long_text}
+            'bluesky': fit(make, BLUESKY_LIMIT), 'long': long_text, 'youtube': youtube}
 
 def pick(day, open_rules, counts, recent):
     rules = [d for d in open_rules if not routine(d) and (d.get('comments_close_on') or '') >= day]
@@ -85,20 +88,29 @@ def build(day=None):
     posts = []
     if trending:
         lead = (f'📈 Gaining public comments ({gained:+,} since yesterday):' if gained > 0 else '📈 Among the most-commented rules open now:')
-        posts.append({'kind': 'trending', **rule_post(trending, lead, day)})
+        youtube_lead = f'📈 Gaining comments ({gained:+,} since yesterday):' if gained > 0 else '📈 Most-commented:'
+        posts.append({'kind': 'trending', **rule_post(trending, lead, day, youtube_lead)})
     if deadline:
         when = 'today' if deadline['comments_close_on'] == day else 'tomorrow' if deadline['comments_close_on'] == (date.fromisoformat(day) + timedelta(days=1)).isoformat() else 'soon'
-        posts.append({'kind': 'deadline', **rule_post(deadline, f'⏰ Comment period closes {when}:', day)})
+        posts.append({'kind': 'deadline', **rule_post(deadline, f'⏰ Comment period closes {when}:', day,
+                                                      f'⏰ Closing {short_date(deadline["comments_close_on"])}:')})
     cutoff = (datetime.now(timezone.utc) - timedelta(hours=36)).isoformat()
     for v in load('videos.json', {}).get('videos', [])[:3]:
         if v.get('published', '') >= cutoff:
             url = f'{SITE}/videos/{v["id"]}/'
             text = f'🎥 New: {v["title"]}. Watch with the transcript and sources: {url}'
-            posts.append({'kind': 'video', 'url': url, 'x': text, 'bluesky': text, 'long': text})
+            posts.append({'kind': 'video', 'url': url, 'x': text, 'bluesky': text, 'long': text,
+                          'youtube': f'🎥 New video: {v["title"]} https://youtu.be/{v["id"]}'})
             break
+    for p in posts:
+        p['x_length'] = x_length(p['x'])
+    # one combined channel post: YouTube has no API for channel posts, so this one is pasted by hand
+    blank = "\n\n"
+    youtube = ("Today's federal rules to watch 🗳" + blank + blank.join(p["youtube"] for p in posts)
+               + f"{blank}Every rule open for comment, by deadline: {SITE}/rules/") if posts else ""
     history = [p for p in previous.get('history', []) if p['date'] != day][-30:]
     history.append({'date': day, 'trending': [trending['document_number']] if trending else []})
-    out = {'date': day, 'generated_at': datetime.now(timezone.utc).isoformat(), 'posts': posts,
+    out = {'date': day, 'generated_at': datetime.now(timezone.utc).isoformat(), 'posts': posts, 'youtube': youtube,
            'posted': previous.get('posted', {}) if previous.get('date') == day else {}, 'history': history}
     (DATA / 'social.json').write_text(json.dumps(out, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(f'Social desk: {len(posts)} posts for {day}')

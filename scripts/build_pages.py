@@ -197,12 +197,16 @@ def build_social_page(out, day):
     """Today's ready-to-paste posts (data/social.json) with copy buttons. Kept out of search and the sitemap."""
     social = load('social.json', {})
     labels = {'trending': 'Trending rule', 'deadline': 'Closing soon', 'video': 'New video'}
-    def box(label, text, limit):
-        return (f'<label class="social-box"><span>{label} <small>{len(text)} characters (limit {limit})</small></span>'
-                f'<textarea readonly rows="5">{esc(text)}</textarea><button type="button" class="secondary" data-copy>Copy</button></label>')
+    def box(label, text, limit, length=None, rows=5):
+        return (f'<label class="social-box"><span>{label} <small>{length if length is not None else len(text)} characters (limit {limit})</small></span>'
+                f'<textarea readonly rows="{rows}">{esc(text)}</textarea><button type="button" class="secondary" data-copy>Copy</button></label>')
     cards = ''.join(f'<section class="aside-note"><h2>{labels.get(p["kind"], p["kind"])}</h2>'
-                    + box('X / Threads', p['x'], 280) + box('Bluesky', p['bluesky'], 300) + box('LinkedIn / Facebook', p['long'], 3000)
+                    + box('X / Threads', p['x'], 280, p.get('x_length')) + box('Bluesky', p['bluesky'], 300) + box('LinkedIn / Facebook', p['long'], 3000)
                     + '</section>' for p in social.get('posts', []))
+    if social.get('youtube'):
+        cards = ('<section class="aside-note"><h2>YouTube channel post (all picks)</h2>'
+                 '<p>Paste into YouTube Studio, then Create, then Create post. YouTube has no API for channel posts.</p>'
+                 + box('YouTube', social['youtube'], 5000, rows=12) + '</section>') + cards
     body = ('<p class="crumbs"><a href="/">Home</a> / Social desk</p><p class="eyebrow">SOCIAL DESK</p><h1 class="page-title">Today&#39;s posts</h1>'
             f'<p class="section-intro">Generated {esc(long_date(social.get("date")))} from the Federal Register and Regulations.gov comment counts. '
             'Check the deadline on the linked page before posting.</p>'

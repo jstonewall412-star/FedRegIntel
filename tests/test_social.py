@@ -48,6 +48,15 @@ class SocialTests(unittest.TestCase):
         self.assertEqual(m.x_length('📈 a…'),2+1+1+2)
         self.assertEqual(m.x_length('on Regulations.gov. Done'),3+23+6)
 
+    def test_combined_youtube_post(self):
+        out=self.build([rule('a',50,closes='2026-10-04'),rule('b',60)],
+                       videos=[{'id':'abcdefghijk','title':'Rulemaking 101','published':'2999-01-01T00:00:00+00:00'}])
+        yt=out['youtube']
+        self.assertTrue(yt.startswith("Today's federal rules to watch"))
+        self.assertIn('⏰ Closing Oct 4:',yt); self.assertEqual(yt.count('Oct 4'),1)
+        self.assertIn('https://youtu.be/abcdefghijk',yt)
+        self.assertTrue(yt.endswith('https://fedregintel.com/rules/'))
+
     def test_history_records_pick(self):
         out=self.build([rule('a',5)])
         self.assertEqual(out['history'][-1],{'date':'2026-10-03','trending':['a']})
