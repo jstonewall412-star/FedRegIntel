@@ -1,0 +1,30 @@
+name: Refresh backup
+# GitHub sometimes drops scheduled runs (the 07:17 UTC refresh never fired on 2026-10-04), which left the social desk
+# on the previous day's picks. This checks before the 9:30 a.m. ET social post and starts the refresh only if
+# data/social.json isn't dated today (US Eastern).
+on:
+  schedule:
+    - cron: '5 11 * * *'
+    - cron: '50 12 * * *'
+  workflow_dispatch:
+permissions:
+  actions: write
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Start the refresh if today's picks are missing
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          today=$(TZ=America/New_York date +%F)
+          picks=$(python3 -c "import json; print(json.load(open('data/social.json')).get('date', ''))" 2>/dev/null || true)
+          running=$(gh run list --workflow refresh.yml --status in_progress --json databaseId -q length)
+          queued=$(gh run list --workflow refresh.yml --status queued --json databaseId -q length)
+          echo "today=$today picks=$picks running=$running queued=$queued"
+          if [ "$picks" != "$today" ] && [ "$running" = 0 ] && [ "$queued" = 0 ]; then
+            gh workflow run refresh.yml
+            echo "::warning::Social picks were dated '$picks'; started the refresh."
+          fi
