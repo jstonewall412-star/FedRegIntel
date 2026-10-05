@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T07:35:16.783113+00:00",
+  "updated_at": "2026-10-05T14:05:25.653069+00:00",
   "latest_date": "2026-10-05",
   "issue_count": 25,
   "documents": [
@@ -32,7 +32,7 @@
         }
       ],
       "comments_close_on": "2026-11-19",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11800-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
@@ -67,7 +67,7 @@
         }
       ],
       "comments_close_on": "2026-11-19",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11798-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
@@ -102,7 +102,7 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9941-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AM31"
@@ -137,7 +137,7 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9940-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AM30"
@@ -172,7 +172,7 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9936-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AM40"
@@ -207,7 +207,7 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9935-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AM39"
@@ -242,7 +242,7 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9934-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AM38"
@@ -268,7 +268,7 @@
         }
       ],
       "comments_close_on": "2026-12-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/HUD-2026-1651-0001",
       "effective_on": "2026-11-04",
       "regulation_id_numbers": []
     },
@@ -301,7 +301,7 @@
         }
       ],
       "comments_close_on": "2026-11-19",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-12409-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA66"
@@ -336,7 +336,7 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FINCEN_FRDOC_0001-0250",
       "effective_on": null,
       "regulation_id_numbers": [
         "1506-AB77"
@@ -454,7 +454,7 @@
         }
       ],
       "comments_close_on": "2026-11-19",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2025-5730-0001",
       "effective_on": null,
       "regulation_id_numbers": []
     },
@@ -511,7 +511,7 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NRC_FRDOC_0001-10896",
       "effective_on": "2026-12-21",
       "regulation_id_numbers": [
         "3150-AL61"
@@ -537,7 +537,7 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NRC_FRDOC_0001-10895",
       "effective_on": null,
       "regulation_id_numbers": [
         "3150-AL61"
@@ -607,7 +607,7 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/ACF-2026-0562-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "0970-AD32"
@@ -642,7 +642,7 @@
         }
       ],
       "comments_close_on": "2026-11-02",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/USBC_FRDOC_0001-0076",
       "effective_on": null,
       "regulation_id_numbers": [
         "0607-AA75"
@@ -738,7 +738,7 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/GSA_FRDOC_0001-2423",
       "effective_on": null,
       "regulation_id_numbers": [
         "3090-AL14"
@@ -797,7 +797,7 @@
         }
       ],
       "comments_close_on": "2026-10-15",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/CPSC_FRDOC_0001-1554",
       "effective_on": "2026-10-21",
       "regulation_id_numbers": [
         "3041-AE10"
@@ -4006,7 +4006,7 @@
         }
       ],
       "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/BSEE-2026-0133-0001",
+      "comment_url": "http://www.regulations.gov/commenton/BOEM_FRDOC_0001-0797",
       "effective_on": null,
       "regulation_id_numbers": [
         "1082-AA05"

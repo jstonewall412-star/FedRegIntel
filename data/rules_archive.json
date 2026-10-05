@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T07:35:17.311368+00:00",
+  "updated_at": "2026-10-05T14:05:26.167928+00:00",
   "count": 249,
   "documents": {
     "2026-11545": {
@@ -1899,15 +1899,15 @@
         }
       ],
       "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/BSEE-2026-0133-0001",
+      "comment_url": "http://www.regulations.gov/commenton/BOEM_FRDOC_0001-0797",
       "effective_on": null,
       "regulation_id_numbers": [
         "1082-AA05"
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 1230,
-      "docket_id": "BSEE-2026-0133"
+      "comments_count": 18,
+      "docket_id": "BOEM_FRDOC_0001"
     },
     "2026-15995": {
       "title": "Extensions of Credit to Insiders",
@@ -3398,7 +3398,7 @@
         }
       ],
       "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/RHS_FRDOC_0001-0631",
+      "comment_url": "http://www.regulations.gov/commenton/RHS-26-ADMIN-0331-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "0575-AD54"
@@ -3406,7 +3406,7 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 6,
-      "docket_id": "RHS_FRDOC_0001"
+      "docket_id": "RHS-26-ADMIN-0331"
     },
     "2026-16932": {
       "title": "Air Plan Partial Approval and Partial Conditional Approval; South Carolina; Control of Oxides of Nitrogen and Source Testing Requirements",
@@ -7932,15 +7932,15 @@
         }
       ],
       "comments_close_on": "2026-10-15",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/CPSC_FRDOC_0001-1554",
       "effective_on": "2026-10-21",
       "regulation_id_numbers": [
         "3041-AE10"
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "CPSC_FRDOC_0001"
     },
     "2026-20317": {
       "title": "General Services Administration Acquisition Regulation; GSAR Implementation of Executive Order 14275, Acquisition of Utility Services",
@@ -7962,15 +7962,15 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/GSA_FRDOC_0001-2423",
       "effective_on": null,
       "regulation_id_numbers": [
         "3090-AL14"
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "GSA_FRDOC_0001"
     },
     "2026-20328": {
       "title": "Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions; Extension of Comment Period",
@@ -8001,15 +8001,15 @@
         }
       ],
       "comments_close_on": "2026-11-02",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/USBC_FRDOC_0001-0076",
       "effective_on": null,
       "regulation_id_numbers": [
         "0607-AA75"
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "USBC_FRDOC_0001"
     },
     "2026-20329": {
       "title": "Reforming Federal Reporting and Assessments in Child Welfare",
@@ -8040,15 +8040,15 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/ACF-2026-0562-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "0970-AD32"
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "ACF-2026-0562"
     },
     "2026-20335": {
       "title": "Exemptions From Materials Licensing",
@@ -8070,15 +8070,15 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NRC_FRDOC_0001-10895",
       "effective_on": null,
       "regulation_id_numbers": [
         "3150-AL61"
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "NRC_FRDOC_0001"
     },
     "2026-20336": {
       "title": "Exemptions From Materials Licensing",
@@ -8100,15 +8100,15 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NRC_FRDOC_0001-10896",
       "effective_on": "2026-12-21",
       "regulation_id_numbers": [
         "3150-AL61"
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "NRC_FRDOC_0001"
     },
     "2026-20350": {
       "title": "Special Conditions: Honda Aircraft Company LLC Model HA-480 Airplane; High Altitude Operation",
@@ -8139,13 +8139,13 @@
         }
       ],
       "comments_close_on": "2026-11-19",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2025-5730-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FAA-2025-5730"
     },
     "2026-20360": {
       "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",
@@ -8174,7 +8174,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": null,
+      "comments_count": 0,
       "docket_id": null
     },
     "2026-20371": {
@@ -8206,15 +8206,15 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FINCEN_FRDOC_0001-0250",
       "effective_on": null,
       "regulation_id_numbers": [
         "1506-AB77"
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FINCEN_FRDOC_0001"
     },
     "2026-20372": {
       "title": "Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-16, V-184, and Revocation of V-284 and V-577; Eastern United States",
@@ -8245,15 +8245,15 @@
         }
       ],
       "comments_close_on": "2026-11-19",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-12409-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA66"
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FAA-2026-12409"
     },
     "2026-20374": {
       "title": "Section 3 Benchmarks for Creating Economic Opportunities for Low- and Very Low-Income Persons and Eligible Businesses",
@@ -8275,13 +8275,13 @@
         }
       ],
       "comments_close_on": "2026-12-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/HUD-2026-1651-0001",
       "effective_on": "2026-11-04",
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "HUD-2026-1651"
     },
     "2026-20386": {
       "title": "Simplifying Physical Containment Requirements",
@@ -8312,15 +8312,15 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9934-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AM38"
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FAA-2026-9934"
     },
     "2026-20387": {
       "title": "Digital Modernization for Licensing Electronic Application Submissions",
@@ -8351,15 +8351,15 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9935-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AM39"
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FAA-2026-9935"
     },
     "2026-20388": {
       "title": "Streamlining Flight Safety Analysis Methodology Means of Compliance",
@@ -8390,15 +8390,15 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9936-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AM40"
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FAA-2026-9936"
     },
     "2026-20391": {
       "title": "Lightning Hazard Mitigation Burden-Reducing Exception",
@@ -8429,15 +8429,15 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9940-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AM30"
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FAA-2026-9940"
     },
     "2026-20392": {
       "title": "Overpressure Blast Effects Analysis Burden Reducing Clarification",
@@ -8468,15 +8468,15 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9941-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AM31"
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FAA-2026-9941"
     }
   }
 }
