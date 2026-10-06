@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T07:32:48.499767+00:00",
-  "count": 249,
+  "updated_at": "2026-10-06T14:05:37.078236+00:00",
+  "count": 253,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -7979,7 +7979,7 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": "http://www.regulations.gov/commenton/GSA_FRDOC_0001-2423",
+      "comment_url": "http://www.regulations.gov/commenton/GSA-GSAR-2026-0595-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "3090-AL14"
@@ -7987,7 +7987,7 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 1,
-      "docket_id": "GSA_FRDOC_0001"
+      "docket_id": "GSA-GSAR-2026-0595"
     },
     "2026-20328": {
       "title": "Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions; Extension of Comment Period",
@@ -8117,7 +8117,7 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": "http://www.regulations.gov/commenton/NRC-2025-1568-0001",
+      "comment_url": null,
       "effective_on": "2026-12-21",
       "regulation_id_numbers": [
         "3150-AL61"
@@ -8494,6 +8494,124 @@
       "significant": null,
       "comments_count": 1,
       "docket_id": "FAA-2026-9941"
+    },
+    "2026-20466": {
+      "title": "Adviser and Regulated Fund Custody Rules; Crypto Custody Rules",
+      "type": "Proposed Rule",
+      "abstract": "The Securities and Exchange Commission (the \"Commission\" or the \"SEC\") is proposing new custody rules under the Investment Company Act of 1940 (the \"Investment Company Act\") and amendments to related reporting and recordkeeping requirements to address how regulated investment companies may custody crypto securities and similar investments, and amendments to the custody rule and related reporting and recordkeeping rules under the Investment Advisers Act of 1940 (the \"Advisers Act\") to address how registered investment advisers may custody client crypto funds and securities. We are also proposing to amend the current custody rules to modernize their requirements, to better address current industry practices and feedback, and to implement certain conforming amendments. We are also proposing amendments to the recordkeeping rules under the Investment Company Act and Advisers Act related to these proposed modernization amendments to the custody rules. Additionally, we are proposing to redesignate the custody rule under the Advisers Act and to make corresponding amendments to Form ADV and Form ADV-E for registered investment advisers to reflect the Advisers Act custody rule redesignation. We are also proposing amendments to Form ADV for registered investment advisers and Form N-CEN for regulated investment companies and to improve the quality of public disclosures made on these forms. We are also proposing to add new questions to Form ADV and Form N-CEN related to tokenized private funds and regulated investment company shares, respectively.",
+      "document_number": "2026-20466",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20466/adviser-and-regulated-fund-custody-rules-crypto-custody-rules",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20466.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-07",
+      "comment_url": null,
+      "effective_on": "2026-10-06",
+      "regulation_id_numbers": [
+        "3235-AN46"
+      ],
+      "significant": true,
+      "comments_count": 0,
+      "docket_id": null,
+      "first_seen": "2026-10-06"
+    },
+    "2026-20468": {
+      "title": "Initial Air Quality Designations for the 2024 Revised Primary Annual Fine Particle (PM2.5) National Ambient Air Quality Standards (NAAQS)",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA) is providing notice of the Agency's intended approach for area designations for the 2024 primary annual fine particulate matter (PM<INF>2.5</INF>) National Ambient Air Quality Standard (NAAQS) (the 2024 annual PM<INF>2.5</INF> NAAQS) under Clean Air Act (CAA) section 107(d). Details regarding these designations, as well as the EPA's notifications to States, territories, and Tribes regarding their initial area designations are accessible via the Agency's website and public electronic docket. With this notice, the EPA is providing an opportunity for public comment on its intended approach for finalizing area designations during the comment period specified in the DATES section. The EPA sent notifications directly to applicable States, territories, and Tribes regarding their initial area designations on or about October 2, 2026, and anticipates promulgating final designations consistent with CAA requirements.",
+      "document_number": "2026-20468",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20468/initial-air-quality-designations-for-the-2024-revised-primary-annual-fine-particle-pm25-national",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20468.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-11-05",
+      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OAR-2024-0078-0003",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2060-AW33"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "EPA-HQ-OAR-2024-0078",
+      "first_seen": "2026-10-06"
+    },
+    "2026-20474": {
+      "title": "Investment Adviser Performance-Based Compensation Modernization",
+      "type": "Proposed Rule",
+      "abstract": "The Securities and Exchange Commission (the \"Commission\") is proposing to amend the rule under the Investment Advisers Act of 1940 that provides an exemption from the statutory prohibition on registered investment advisers receiving compensation on the basis of a share of capital gains in or capital appreciation of an advisory client's account. Specifically, the proposed amendments would expand the ability of investment advisers to receive this compensation from clients that are registered management investment companies and business development companies (collectively, \"regulated funds\"), subject to certain conditions. The proposal would relatedly amend certain regulated fund registration and reporting forms to require separate disclosure of all performance-based compensation paid by regulated funds to their investment adviser. The proposed rule amendments would also allow investment advisers to receive this compensation from additional clients by revising the rule's \"qualified client\" definition to include investors that meet the \"accredited investor\" definition in Regulation D under the Securities Act of 1933. The proposal would relatedly make conforming amendments to certain other rules under the Investment Advisers Act of 1940 whose provisions reference the \"qualified client\" definition.",
+      "document_number": "2026-20474",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20474/investment-adviser-performance-based-compensation-modernization",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20474.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-07",
+      "comment_url": null,
+      "effective_on": "2026-10-06",
+      "regulation_id_numbers": [
+        "3235-AN59"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null,
+      "first_seen": "2026-10-06"
+    },
+    "2026-20480": {
+      "title": "Basin Regulations; Water Code",
+      "type": "Proposed Rule",
+      "abstract": "The Commission proposes to amend its Water Code and Comprehensive Plan to require water supply systems serving the public (purveyors) to report water use by their largest customers.",
+      "document_number": "2026-20480",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20480/basin-regulations-water-code",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20480.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "DELAWARE RIVER BASIN COMMISSION",
+          "name": "Delaware River Basin Commission",
+          "id": 112,
+          "url": "https://www.federalregister.gov/agencies/delaware-river-basin-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/112",
+          "parent_id": null,
+          "slug": "delaware-river-basin-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-04",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null,
+      "first_seen": "2026-10-06"
     }
   }
 }

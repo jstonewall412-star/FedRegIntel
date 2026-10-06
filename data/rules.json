@@ -1,8 +1,704 @@
 {
-  "updated_at": "2026-10-06T07:32:47.437152+00:00",
-  "latest_date": "2026-10-05",
-  "issue_count": 25,
+  "updated_at": "2026-10-06T14:05:36.101182+00:00",
+  "latest_date": "2026-10-06",
+  "issue_count": 21,
   "documents": [
+    {
+      "title": "Eliminating Obsolete Regulations Related to the 911 Grant Program",
+      "type": "Rule",
+      "abstract": "In this action, NTIA and NHTSA are removing regulations related to the 911 Grant Program because the program is no longer active and there have been no new appropriations to revive or extend it. This removal is intended to eliminate obsolete regulatory language, ensure that the Code of Federal Regulations is accurate and up-to-date, and minimize the risk of confusion regarding the availability of grant funds.",
+      "document_number": "2026-20493",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20493/eliminating-obsolete-regulations-related-to-the-911-grant-program",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20493.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Telecommunications and Information Administration",
+          "name": "National Telecommunications and Information Administration",
+          "id": 373,
+          "url": "https://www.federalregister.gov/agencies/national-telecommunications-and-information-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/373",
+          "parent_id": 54,
+          "slug": "national-telecommunications-and-information-administration"
+        },
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "National Highway Traffic Safety Administration",
+          "name": "National Highway Traffic Safety Administration",
+          "id": 345,
+          "url": "https://www.federalregister.gov/agencies/national-highway-traffic-safety-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/345",
+          "parent_id": 492,
+          "slug": "national-highway-traffic-safety-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-06",
+      "regulation_id_numbers": [
+        "0660-AA40",
+        "2127-AN06"
+      ]
+    },
+    {
+      "title": "Safety Zone; Red Bull Flugtag, Intercoastal Waterway, Biscayne Bay, Miami, FL",
+      "type": "Proposed Rule",
+      "abstract": "The Coast Guard is proposing to establish a temporary safety zone for certain navigable waters on the Intercoastal Waterway portion of Biscayne Bay in Miami, FL. The safety zone is needed to protect spectators, vessels, and the marine environment from potential hazards associated with event proceedings. This proposed rulemaking would prohibit persons and vessels from being in the safety zone unless specifically authorized by the Captain of the Port, Sector Miami. We invite your comments on this proposed rulemaking.",
+      "document_number": "2026-20491",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20491/safety-zone-red-bull-flugtag-intercoastal-waterway-biscayne-bay-miami-fl",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20491.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "comments_close_on": "2026-10-21",
+      "comment_url": "http://www.regulations.gov/commenton/USCG-2026-1057-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1625-AA00"
+      ]
+    },
+    {
+      "title": "Basin Regulations; Water Code",
+      "type": "Proposed Rule",
+      "abstract": "The Commission proposes to amend its Water Code and Comprehensive Plan to require water supply systems serving the public (purveyors) to report water use by their largest customers.",
+      "document_number": "2026-20480",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20480/basin-regulations-water-code",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20480.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "DELAWARE RIVER BASIN COMMISSION",
+          "name": "Delaware River Basin Commission",
+          "id": 112,
+          "url": "https://www.federalregister.gov/agencies/delaware-river-basin-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/112",
+          "parent_id": null,
+          "slug": "delaware-river-basin-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-04",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Establishment of Class E Airspace; Peoria, IL",
+      "type": "Rule",
+      "abstract": "This action establishes Class E airspace at OSF St Francis Medical Center Heliport, Peoria, IL. This action supports new instrument procedures and instrument flight rule (IFR) operations.",
+      "document_number": "2026-20479",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20479/establishment-of-class-e-airspace-peoria-il",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20479.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-12-24",
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ]
+    },
+    {
+      "title": "Security Zone; Patapsco River, Baltimore, MD",
+      "type": "Rule",
+      "abstract": "The Coast Guard is establishing a temporary security zone for certain navigable waters of the Patapsco River. The security zone is needed to protect persons, including those under the protection of the United States Secret Service (USSS), and property from terrorist acts and incidents and to prevent terrorist acts or incidents during a high- ranking public official visit. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Sector Maryland-National Capital Region or a designated representative.",
+      "document_number": "2026-20477",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20477/security-zone-patapsco-river-baltimore-md",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20477.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-06",
+      "regulation_id_numbers": [
+        "1625-AA87"
+      ]
+    },
+    {
+      "title": "Investment Adviser Performance-Based Compensation Modernization",
+      "type": "Proposed Rule",
+      "abstract": "The Securities and Exchange Commission (the \"Commission\") is proposing to amend the rule under the Investment Advisers Act of 1940 that provides an exemption from the statutory prohibition on registered investment advisers receiving compensation on the basis of a share of capital gains in or capital appreciation of an advisory client's account. Specifically, the proposed amendments would expand the ability of investment advisers to receive this compensation from clients that are registered management investment companies and business development companies (collectively, \"regulated funds\"), subject to certain conditions. The proposal would relatedly amend certain regulated fund registration and reporting forms to require separate disclosure of all performance-based compensation paid by regulated funds to their investment adviser. The proposed rule amendments would also allow investment advisers to receive this compensation from additional clients by revising the rule's \"qualified client\" definition to include investors that meet the \"accredited investor\" definition in Regulation D under the Securities Act of 1933. The proposal would relatedly make conforming amendments to certain other rules under the Investment Advisers Act of 1940 whose provisions reference the \"qualified client\" definition.",
+      "document_number": "2026-20474",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20474/investment-adviser-performance-based-compensation-modernization",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20474.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-07",
+      "comment_url": null,
+      "effective_on": "2026-10-06",
+      "regulation_id_numbers": [
+        "3235-AN59"
+      ]
+    },
+    {
+      "title": "Modification of Class E Airspace; Gunnison-Crested Butte Regional Airport, Gunnison, CO",
+      "type": "Proposed Rule",
+      "abstract": "This action proposes to modify the Class E airspace designated as a surface area, the Class E airspace area designated as an extension to a Class E surface area, and the Class E airspace area extending upward from 700 feet above the surface at Gunnison-Crested Butte Regional Airport, Gunnison, CO. These actions would support the safety and management of instrument flight rules (IFR) operations at the airport.",
+      "document_number": "2026-20473",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20473/modification-of-class-e-airspace-gunnison-crested-butte-regional-airport-gunnison-co",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20473.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-20",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-7241-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ]
+    },
+    {
+      "title": "Privacy Act Exemptions",
+      "type": "Rule",
+      "abstract": "In accordance with the Privacy Act of 1974, as amended (Privacy Act), the Department of the Treasury (Treasury) is issuing a final rule, exempting a new system of records entitled \"Department of the Treasury, Treasury .032--Federal Program Waste, Fraud, and Abuse Tip Intake and Referral Records\" from certain provisions of the Privacy Act. This system of records is established to support the receipt, maintenance, review, triage, and referral of tips, complaints, allegations, leads, supporting information, and related correspondence concerning suspected waste, fraud, abuse, improper payments, misuse of Federal funds, or other misconduct affecting Federal programs. The exemption is intended to protect investigatory material compiled for law enforcement purposes.",
+      "document_number": "2026-20469",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20469/privacy-act-exemptions",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20469.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "Office of the Secretary"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-11-05",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Initial Air Quality Designations for the 2024 Revised Primary Annual Fine Particle (PM2.5) National Ambient Air Quality Standards (NAAQS)",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA) is providing notice of the Agency's intended approach for area designations for the 2024 primary annual fine particulate matter (PM<INF>2.5</INF>) National Ambient Air Quality Standard (NAAQS) (the 2024 annual PM<INF>2.5</INF> NAAQS) under Clean Air Act (CAA) section 107(d). Details regarding these designations, as well as the EPA's notifications to States, territories, and Tribes regarding their initial area designations are accessible via the Agency's website and public electronic docket. With this notice, the EPA is providing an opportunity for public comment on its intended approach for finalizing area designations during the comment period specified in the DATES section. The EPA sent notifications directly to applicable States, territories, and Tribes regarding their initial area designations on or about October 2, 2026, and anticipates promulgating final designations consistent with CAA requirements.",
+      "document_number": "2026-20468",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20468/initial-air-quality-designations-for-the-2024-revised-primary-annual-fine-particle-pm25-national",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20468.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-11-05",
+      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OAR-2024-0078-0003",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2060-AW33"
+      ]
+    },
+    {
+      "title": "Adviser and Regulated Fund Custody Rules; Crypto Custody Rules",
+      "type": "Proposed Rule",
+      "abstract": "The Securities and Exchange Commission (the \"Commission\" or the \"SEC\") is proposing new custody rules under the Investment Company Act of 1940 (the \"Investment Company Act\") and amendments to related reporting and recordkeeping requirements to address how regulated investment companies may custody crypto securities and similar investments, and amendments to the custody rule and related reporting and recordkeeping rules under the Investment Advisers Act of 1940 (the \"Advisers Act\") to address how registered investment advisers may custody client crypto funds and securities. We are also proposing to amend the current custody rules to modernize their requirements, to better address current industry practices and feedback, and to implement certain conforming amendments. We are also proposing amendments to the recordkeeping rules under the Investment Company Act and Advisers Act related to these proposed modernization amendments to the custody rules. Additionally, we are proposing to redesignate the custody rule under the Advisers Act and to make corresponding amendments to Form ADV and Form ADV-E for registered investment advisers to reflect the Advisers Act custody rule redesignation. We are also proposing amendments to Form ADV for registered investment advisers and Form N-CEN for regulated investment companies and to improve the quality of public disclosures made on these forms. We are also proposing to add new questions to Form ADV and Form N-CEN related to tokenized private funds and regulated investment company shares, respectively.",
+      "document_number": "2026-20466",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20466/adviser-and-regulated-fund-custody-rules-crypto-custody-rules",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20466.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-07",
+      "comment_url": null,
+      "effective_on": "2026-10-06",
+      "regulation_id_numbers": [
+        "3235-AN46"
+      ]
+    },
+    {
+      "title": "Radio Broadcasting Services; Selmer, Tennessee",
+      "type": "Rule",
+      "abstract": "This document amends the Table of FM Allotments, of the Federal Communications Commission's (Commission) rules, by deleting vacant Channel 288A at Selmer, Tennessee, because it does not comply with the minimum distance separation requirements of the Commission's rules. Channel 288A at Selmer, Tennessee is short-spaced to Station WVNA-FM by nine kilometers, and there are no alternate channels available to alleviate the existing spacing conflict that would comply with the Commission's spacing requirements. The deletion of vacant Channel 288A at Selmer is consistent with the Commission's policy that we will not retain a vacant FM channel that does not comply with the Commission's spacing requirements.",
+      "document_number": "2026-20464",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20464/radio-broadcasting-services-selmer-tennessee",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20464.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL COMMUNICATIONS COMMISSION",
+          "name": "Federal Communications Commission",
+          "id": 161,
+          "url": "https://www.federalregister.gov/agencies/federal-communications-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/161",
+          "parent_id": null,
+          "slug": "federal-communications-commission"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-11-12",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Radio Broadcasting Services; Whitehall, Michigan",
+      "type": "Rule",
+      "abstract": "This document amends the Table of FM Allotments, of the Federal Communications Commission's (Commission) rules, by substituting Channel 258A for vacant Channel 248A at Whitehall, Michigan. A staff engineering analysis determines that Channel 258A can be allotted to Whitehall consistent with the Commission's minimum distance separation requirements, with a site restriction of 13 kilometers (8.1 miles) northwest of the community. The reference coordinates are 43-28-30 NL and 86-27-38 WL. The window period for filing applications for Channel 258A at Whitehall, Michigan will not be opened at this time. Instead, the issue of opening this allotment for filing will be addressed by the Commission in subsequent order. See SUPPLEMENTARY INFORMATION.",
+      "document_number": "2026-20463",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20463/radio-broadcasting-services-whitehall-michigan",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20463.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL COMMUNICATIONS COMMISSION",
+          "name": "Federal Communications Commission",
+          "id": 161,
+          "url": "https://www.federalregister.gov/agencies/federal-communications-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/161",
+          "parent_id": null,
+          "slug": "federal-communications-commission"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-11-12",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Adoption of Updated EDGAR Filer Manual",
+      "type": "Rule",
+      "abstract": "The Securities and Exchange Commission (\"Commission\") is adopting amendments to Volume II of the Electronic Data Gathering, Analysis, and Retrieval system Filer Manual (\"EDGAR Filer Manual\" or \"Filer Manual\") and related rules and forms. EDGAR Release 26.3 will be deployed in the EDGAR system on September 14, 2026.",
+      "document_number": "2026-20461",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20461/adoption-of-updated-edgar-filer-manual",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20461.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-06",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Medical Devices; Exemptions From Premarket Notification: Class II Devices; Certain Clinical Toxicology Test Systems",
+      "type": "Rule",
+      "abstract": "The Food and Drug Administration (FDA) is publishing an order setting forth its final determination to exempt certain class II clinical toxicology test systems from premarket notification (510(k)) requirements, subject to certain limitations. This exemption from 510(k) requirements, subject to certain limitations, is immediately in effect for such devices. This exemption will decrease regulatory burdens on the medical device industry and will eliminate private costs and expenditures required to comply with certain Federal regulations. FDA is amending the classification language within the Code of Federal Regulations (CFR) for certain class II clinical toxicology test systems to reflect this final determination. FDA is publishing this order in accordance with the Federal Food, Drug, and Cosmetic Act (FD&C Act).",
+      "document_number": "2026-20448",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20448/medical-devices-exemptions-from-premarket-notification-class-ii-devices-certain-clinical-toxicology",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20448.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-06",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Transparency in Coverage",
+      "type": "Rule",
+      "abstract": "These final rules set forth requirements that amend the regulations under the Public Health Service Act, the Employee Retirement Income Security Act of 1974, and the Internal Revenue Code regarding price transparency reporting requirements for non- grandfathered group health plans and health insurance issuers offering non-grandfathered group and individual health insurance coverage. Specifically, these final rules are intended to improve the standardization, accuracy, and accessibility of public pricing disclosures in line with the goals of Executive Order 14221, \"Making America Healthy Again by Empowering Patients With Clear, Accurate, and Actionable Healthcare Pricing Information.\" With respect to the In- network Rate and out-of-network Allowed Amount machine-readable files, these final rules aim to achieve these goals by adding new contextual files and additional data elements like product type, provider network name, and provider network identifier; changing the reporting level for aggregation of data; removing in-network rates for unlikely provider- to-service mappings; increasing the reporting period and lowering the claims threshold for out-of-network historical data; and reducing the reporting cadence. These final rules also aim to improve the findability of all publicly disclosed machine-readable files required under the Transparency in Coverage rules, including the prescription drug file, by requiring a text file containing contact information for the files, and a footer with website URLs. These final rules also require pricing information that is made available through an online consumer tool and on paper (upon request), to also be made available by phone, and establish that the satisfaction of such requirement also satisfies the requirements of section 114 of the No Surprises Act (including for grandfathered group health plans and health insurance issuers offering grandfathered group and individual health insurance coverage that are not otherwise subject to these final rules).",
+      "document_number": "2026-20447",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20447/transparency-in-coverage",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20447.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "Internal Revenue Service",
+          "name": "Internal Revenue Service",
+          "id": 254,
+          "url": "https://www.federalregister.gov/agencies/internal-revenue-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/254",
+          "parent_id": 497,
+          "slug": "internal-revenue-service"
+        },
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Employee Benefits Security Administration",
+          "name": "Employee Benefits Security Administration",
+          "id": 131,
+          "url": "https://www.federalregister.gov/agencies/employee-benefits-security-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/131",
+          "parent_id": 271,
+          "slug": "employee-benefits-security-administration"
+        },
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-12-07",
+      "regulation_id_numbers": [
+        "0938-AV64",
+        "1210-AC30",
+        "1545-BR51"
+      ]
+    },
+    {
+      "title": "Medical Devices; Immunology and Microbiology Devices; Classification of the High Throughput DNA Sequencing for Hereditary Cancer Predisposition Assessment Test System",
+      "type": "Rule",
+      "abstract": "The Food and Drug Administration (FDA) is classifying the high throughput DNA sequencing for hereditary cancer predisposition assessment test system into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the high throughput DNA sequencing for hereditary cancer predisposition assessment test system. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.",
+      "document_number": "2026-20443",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20443/medical-devices-immunology-and-microbiology-devices-classification-of-the-high-throughput-dna",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20443.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-06",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Medical Devices; Cardiovascular Devices; Classification of the Hyperoxia Monitoring Device Adjunct to Pulse Oximetry",
+      "type": "Rule",
+      "abstract": "The Food and Drug Administration (FDA) is classifying the hyperoxia monitoring device adjunct to pulse oximetry into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the hyperoxia monitoring device adjunct to pulse oximetry. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.",
+      "document_number": "2026-20441",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20441/medical-devices-cardiovascular-devices-classification-of-the-hyperoxia-monitoring-device-adjunct-to",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20441.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-06",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Medical Devices; General and Plastic Surgery Devices; Classification of the Focused Ultrasound System for Non-Thermal, Mechanical Tissue Ablation",
+      "type": "Rule",
+      "abstract": "The Food and Drug Administration (FDA) is classifying the focused ultrasound system for non-thermal, mechanical tissue ablation into class II (special controls). The special controls that apply to the device type are identified in this order and will be part of the codified language for classification of the focused ultrasound system for non-thermal, mechanical tissue ablation. We are taking this action because we have determined that classifying the device into class II will provide a reasonable assurance of the safety and effectiveness of the device. We believe this action will also enhance patients' access to beneficial innovative devices, in part by reducing regulatory burdens.",
+      "document_number": "2026-20440",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20440/medical-devices-general-and-plastic-surgery-devices-classification-of-the-focused-ultrasound-system",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20440.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-06",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Reef Fish Fishery of the Gulf of America; Amendment 62",
+      "type": "Rule",
+      "abstract": "NMFS issues regulations to implement management measures described in Amendment 62 to the Fishery Management Plan for the Reef Fish Resources of the Gulf (FMP), as prepared and submitted by the Gulf Council (Council). This final rule and Amendment 62 revise the catch limits and sector allocations for Gulf of America (Gulf) red grouper, based on the best scientific information available. Additionally, this final rule removes the shallow-water grouper (SWG) recreational seasonal closure, from February 1 through March 31, in Gulf Federal waters seaward of the 20-fathom boundary.",
+      "document_number": "2026-20435",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20435/reef-fish-fishery-of-the-gulf-of-america-amendment-62",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20435.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-02",
+      "regulation_id_numbers": [
+        "0648-BO10"
+      ]
+    },
+    {
+      "title": "Requirements for Certain Transactions Involving Convertible Virtual Currency or Digital Assets; Withdrawal",
+      "type": "Proposed Rule",
+      "abstract": "FinCEN is withdrawing a notice of proposed rulemaking (NPRM) that proposed requiring banks and money service businesses (MSBs) to submit reports, keep records, and verify the identity of customers in relation to transactions involving convertible virtual currency (CVC) or digital assets with legal tender status (LTDA) held in unhosted wallets or in wallets hosted in a jurisdiction identified by FinCEN. FinCEN will not take any further action on this NPRM.",
+      "document_number": "2026-20430",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20430/requirements-for-certain-transactions-involving-convertible-virtual-currency-or-digital-assets",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20430.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "Financial Crimes Enforcement Network",
+          "name": "Financial Crimes Enforcement Network",
+          "id": 194,
+          "url": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/194",
+          "parent_id": 497,
+          "slug": "financial-crimes-enforcement-network"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1506-AB47"
+      ]
+    },
+    {
+      "title": "Proposal of Special Measure Regarding Convertible Virtual Currency Mixing, as a Class of Transactions of Primary Money Laundering Concern; Withdrawal",
+      "type": "Proposed Rule",
+      "abstract": "FinCEN is withdrawing its finding and proposed rulemaking, pursuant to section 311 of the USA PATRIOT Act, that international Convertible Virtual Currency (CVC) mixing is a class of transactions of primary money laundering concern and that a special measure requiring enhanced recordkeeping and reporting requirements should be imposed regarding this class of transactions.",
+      "document_number": "2026-20429",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20429/proposal-of-special-measure-regarding-convertible-virtual-currency-mixing-as-a-class-of-transactions",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-06/pdf/2026-20429.pdf",
+      "publication_date": "2026-10-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "Financial Crimes Enforcement Network",
+          "name": "Financial Crimes Enforcement Network",
+          "id": 194,
+          "url": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/194",
+          "parent_id": 497,
+          "slug": "financial-crimes-enforcement-network"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1506-AB47"
+      ]
+    },
     {
       "title": "Airworthiness Directives; Airbus Helicopters",
       "type": "Proposed Rule",
@@ -511,7 +1207,7 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": "http://www.regulations.gov/commenton/NRC-2025-1568-0001",
+      "comment_url": null,
       "effective_on": "2026-12-21",
       "regulation_id_numbers": [
         "3150-AL61"
@@ -738,7 +1434,7 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": "http://www.regulations.gov/commenton/GSA_FRDOC_0001-2423",
+      "comment_url": "http://www.regulations.gov/commenton/GSA-GSAR-2026-0595-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "3090-AL14"
@@ -2445,690 +3141,6 @@
       "effective_on": "2026-09-30",
       "regulation_id_numbers": [
         "1545-BS27"
-      ]
-    },
-    {
-      "title": "Employer Contributions to Trump Accounts and Nondiscrimination Rules for Dependent Care Assistance Programs; Hearing",
-      "type": "Proposed Rule",
-      "abstract": "This document announces that the public hearing scheduled for October 15, 2026, at 10 a.m. ET, for the notice of proposed rulemaking and notice of public hearing (REG-101355-26) published in the Federal Register on August 11, 2026, has been changed to a telephonic-only hearing. These proposed regulations would provide guidance with respect to employer contributions to Trump accounts, including applicable nondiscrimination rules, and the nondiscrimination rules for dependent care assistance programs.",
-      "document_number": "2026-20021",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-20021/employer-contributions-to-trump-accounts-and-nondiscrimination-rules-for-dependent-care-assistance",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-20021.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        },
-        {
-          "raw_name": "Internal Revenue Service",
-          "name": "Internal Revenue Service",
-          "id": 254,
-          "url": "https://www.federalregister.gov/agencies/internal-revenue-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/254",
-          "parent_id": 497,
-          "slug": "internal-revenue-service"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1545-BS19"
-      ]
-    },
-    {
-      "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Groundfish Reserves in the Bering Sea and Aleutian Islands Management Area",
-      "type": "Rule",
-      "abstract": "NMFS apportions amounts of the non-specified reserve to the initial total allowable catch (ITAC) of Bering Sea (BS) Pacific ocean perch, Bering Sea and Aleutian Islands (BSAI) northern rockfish, and BSAI \"other flatfish.\" This action is necessary to allow the fisheries to continue operating. It is intended to promote the goals and objectives of the fishery management plan for the BSAI management area.",
-      "document_number": "2026-20019",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-20019/fisheries-of-the-exclusive-economic-zone-off-alaska-groundfish-reserves-in-the-bering-sea-and",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-20019.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF COMMERCE",
-          "name": "Commerce Department",
-          "id": 54,
-          "url": "https://www.federalregister.gov/agencies/commerce-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
-          "parent_id": null,
-          "slug": "commerce-department"
-        },
-        {
-          "raw_name": "National Oceanic and Atmospheric Administration",
-          "name": "National Oceanic and Atmospheric Administration",
-          "id": 361,
-          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
-          "parent_id": 54,
-          "slug": "national-oceanic-and-atmospheric-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-15",
-      "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2025-1098-0026",
-      "effective_on": "2026-10-30",
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule",
-      "type": "Rule",
-      "abstract": "This final rule adjusts the Employment-Based Immigration, Fifth Preference (EB-5) immigration benefit request fees charged by U.S. Citizenship and Immigration Services (USCIS). It also codifies provisions of the EB-5 Reform and Integrity Act of 2022, implements new statutory requirements, and addresses public comments received on the proposed fee rule published on October 23, 2025.",
-      "document_number": "2026-20016",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-20016/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-20016.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-11-30",
-      "regulation_id_numbers": [
-        "1615-AC93"
-      ]
-    },
-    {
-      "title": "Publication of Russian Harmful Foreign Activities Sanctions Regulations Web General Licenses 131E, 131F, and 131G",
-      "type": "Rule",
-      "abstract": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing three general licenses (GLs) issued pursuant to the Russian Harmful Foreign Activities Sanctions Regulations: GLs 131E, 131F, and 131G, each of which was previously made available on OFAC's website.",
-      "document_number": "2026-20014",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-20014/publication-of-russian-harmful-foreign-activities-sanctions-regulations-web-general-licenses-131e",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-20014.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        },
-        {
-          "raw_name": "Office of Foreign Assets Control",
-          "name": "Foreign Assets Control Office",
-          "id": 203,
-          "url": "https://www.federalregister.gov/agencies/foreign-assets-control-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/203",
-          "parent_id": 497,
-          "slug": "foreign-assets-control-office"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Publication of Venezuela Sanctions Regulations Web General License 5W",
-      "type": "Rule",
-      "abstract": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing a general license (GL) issued pursuant to the Venezuela Sanctions Regulations: GL 5W, which was previously made available on OFAC's website.",
-      "document_number": "2026-20012",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-20012/publication-of-venezuela-sanctions-regulations-web-general-license-5w",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-20012.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        },
-        {
-          "raw_name": "Office of Foreign Assets Control",
-          "name": "Foreign Assets Control Office",
-          "id": 203,
-          "url": "https://www.federalregister.gov/agencies/foreign-assets-control-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/203",
-          "parent_id": 497,
-          "slug": "foreign-assets-control-office"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Publication of Transnational Criminal Organizations Sanctions Regulations Web General License 2",
-      "type": "Rule",
-      "abstract": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing a general license (GL) issued pursuant to the Transnational Criminal Organizations Sanctions Regulations: GL 2. This GL was previously made available on OFAC's website.",
-      "document_number": "2026-20011",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-20011/publication-of-transnational-criminal-organizations-sanctions-regulations-web-general-license-2",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-20011.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        },
-        {
-          "raw_name": "Office of Foreign Assets Control",
-          "name": "Foreign Assets Control Office",
-          "id": 203,
-          "url": "https://www.federalregister.gov/agencies/foreign-assets-control-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/203",
-          "parent_id": 497,
-          "slug": "foreign-assets-control-office"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Publication of Iran-Related Web General Licenses X and X1",
-      "type": "Rule",
-      "abstract": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing two Iran-related general licenses (GLs): GL X and GL X1. These GLs were previously made available on OFAC's website. GL X was revoked and superseded by GL X1. GL X1 has expired.",
-      "document_number": "2026-20010",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-20010/publication-of-iran-related-web-general-licenses-x-and-x1",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-20010.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        },
-        {
-          "raw_name": "Office of Foreign Assets Control",
-          "name": "Foreign Assets Control Office",
-          "id": 203,
-          "url": "https://www.federalregister.gov/agencies/foreign-assets-control-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/203",
-          "parent_id": 497,
-          "slug": "foreign-assets-control-office"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Publication of Venezuela Sanctions Regulations Web General Licenses 46D, 47B, 48C, 50C, 51C, 52B, 54B, and 61A",
-      "type": "Rule",
-      "abstract": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing eight general licenses (GLs) issued pursuant to the Venezuela Sanctions Regulations: GLs 46D, 47B, 48C, 50C, 51C, 52B, 54B, and 61A, each of which was previously made available on OFAC's website.",
-      "document_number": "2026-20009",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-20009/publication-of-venezuela-sanctions-regulations-web-general-licenses-46d-47b-48c-50c-51c-52b-54b-and",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-20009.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        },
-        {
-          "raw_name": "Office of Foreign Assets Control",
-          "name": "Foreign Assets Control Office",
-          "id": 203,
-          "url": "https://www.federalregister.gov/agencies/foreign-assets-control-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/203",
-          "parent_id": 497,
-          "slug": "foreign-assets-control-office"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Publication of Venezuela Sanctions Regulations Web General Licenses 52, 53, 54, 55, 56, 57, and 58",
-      "type": "Rule",
-      "abstract": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing seven general licenses (GLs) issued pursuant to the Venezuela Sanctions Regulations: GLs 52, 53, 54, 55, 56, 57, and 58, each of which was previously made available on OFAC's website.",
-      "document_number": "2026-20008",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-20008/publication-of-venezuela-sanctions-regulations-web-general-licenses-52-53-54-55-56-57-and-58",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-20008.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        },
-        {
-          "raw_name": "Office of Foreign Assets Control",
-          "name": "Foreign Assets Control Office",
-          "id": 203,
-          "url": "https://www.federalregister.gov/agencies/foreign-assets-control-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/203",
-          "parent_id": 497,
-          "slug": "foreign-assets-control-office"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Removing Duplicative Penalties Information and Reorganizing Certain Parts",
-      "type": "Rule",
-      "abstract": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is removing duplicative regulatory provisions, and adding a provision to those parts directing readers to the Sanctions Penalties Regulations where the information is located. OFAC is also moving to an expanded subpart at the beginning of each part information regarding delegations of authority, recordkeeping and reporting requirements, and the Paperwork Reduction Act within multiple parts of the Office of Foreign Assets Control chapter of the CFR.",
-      "document_number": "2026-20007",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-20007/removing-duplicative-penalties-information-and-reorganizing-certain-parts",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-20007.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        },
-        {
-          "raw_name": "Office of Foreign Assets Control",
-          "name": "Foreign Assets Control Office",
-          "id": 203,
-          "url": "https://www.federalregister.gov/agencies/foreign-assets-control-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/203",
-          "parent_id": 497,
-          "slug": "foreign-assets-control-office"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-09-30",
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Publication of Venezuela Sanctions Regulations Web General Licenses 46C, 47A, 48B, 50B, 51B, 52A, and 54A",
-      "type": "Rule",
-      "abstract": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing seven general licenses (GLs) issued pursuant to the Venezuela Sanctions Regulations: GLs 46C, 47A, 48B, 50B, 51B, 52A, and 54A, each of which was previously made available on OFAC's website.",
-      "document_number": "2026-20006",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-20006/publication-of-venezuela-sanctions-regulations-web-general-licenses-46c-47a-48b-50b-51b-52a-and-54a",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-20006.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        },
-        {
-          "raw_name": "Office of Foreign Assets Control",
-          "name": "Foreign Assets Control Office",
-          "id": 203,
-          "url": "https://www.federalregister.gov/agencies/foreign-assets-control-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/203",
-          "parent_id": 497,
-          "slug": "foreign-assets-control-office"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Airworthiness Directives; Airbus Helicopters",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2026-10-16, which applies to all Airbus Helicopters Model AS355E, AS355F, AS355F1, AS355F2, AS355N, and AS355NP helicopters. AD 2026-10- 16 requires revising the airworthiness limitations section (ALS) of the existing maintenance manual (MM) or instructions for continued airworthiness (ICA) and the existing approved maintenance or inspection program, as applicable. Since the FAA issued AD 2026-10-16, a determination was made that new or more restrictive airworthiness limitations and maintenance tasks are necessary. This proposed AD would require incorporating these airworthiness limitations into the ALS of the existing MM or ICA and the existing approved maintenance or inspection program, as applicable. The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-19987",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-19987/airworthiness-directives-airbus-helicopters",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-19987.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11795-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ]
-    },
-    {
-      "title": "Iranian Transactions and Sanctions Regulations",
-      "type": "Rule",
-      "abstract": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is adopting a final rule amending the Iranian Transactions and Sanctions Regulations to implement certain provisions of a January 10, 2020 Iran-related Executive order. This amendment also revises an existing definition and an existing exemption, and incorporates two exemptions from the January 10, 2020 Iran-related Executive order.",
-      "document_number": "2026-19978",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-19978/iranian-transactions-and-sanctions-regulations",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-19978.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        },
-        {
-          "raw_name": "Office of Foreign Assets Control",
-          "name": "Foreign Assets Control Office",
-          "id": 203,
-          "url": "https://www.federalregister.gov/agencies/foreign-assets-control-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/203",
-          "parent_id": 497,
-          "slug": "foreign-assets-control-office"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-09-30",
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Cuba Sanctions Regulations",
-      "type": "Rule",
-      "abstract": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is adding regulations to implement a May 1, 2026 Cuba- related Executive order. OFAC intends to supplement these regulations with a more comprehensive set of regulations, which may include additional interpretive guidance and definitions, general licenses, and other regulatory provisions.",
-      "document_number": "2026-19977",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-19977/cuba-sanctions-regulations",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-19977.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        },
-        {
-          "raw_name": "Office of Foreign Assets Control",
-          "name": "Foreign Assets Control Office",
-          "id": 203,
-          "url": "https://www.federalregister.gov/agencies/foreign-assets-control-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/203",
-          "parent_id": 497,
-          "slug": "foreign-assets-control-office"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-09-30",
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Cuban Assets Control Regulations",
-      "type": "Rule",
-      "abstract": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is amending the Cuban Assets Control Regulations to implement portions of the President's foreign policy toward Cuba, including as directed by National Security Presidential Memorandum-5, \"Reissuance of and Amendments to National Security Presidential Memorandum 5 on Strengthening the Policy of the United States Toward Cuba\" (2025 NSPM-5), signed by the President on June 30, 2025. Among other things, this rule adds a prohibition on indirect financial transactions with entities or subentities on the Cuba Restricted List; amends other authorizations related to financial transactions, including removing an authorization for \"U-Turn\" transactions; and amends authorizations related to travel and related transactions, including removing authorizations for group people-to-people travel and professional meetings in Cuba.",
-      "document_number": "2026-19973",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-19973/cuban-assets-control-regulations",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-19973.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        },
-        {
-          "raw_name": "Office of Foreign Assets Control",
-          "name": "Foreign Assets Control Office",
-          "id": 203,
-          "url": "https://www.federalregister.gov/agencies/foreign-assets-control-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/203",
-          "parent_id": 497,
-          "slug": "foreign-assets-control-office"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-09-30",
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Airworthiness Directives; Vulcanair S.p.A. Airplanes",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Vulcanair S.p.A. Model P.68 and P.68B airplanes. This proposed AD was prompted by a report of fuel starvation that resulted in an uncommanded in-flight engine shutdown. This proposed AD would require, for certain airplanes, modification of the fuel level indicator and, for all airplanes, calibration of the fuel level indicator, installation of new quantity and warning placards, and updating the aircraft flight manual (AFM) and the aircraft maintenance manual (AMM). The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-19972",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-19972/airworthiness-directives-vulcanair-spa-airplanes",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-19972.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11794-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ]
-    },
-    {
-      "title": "Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Airbus Helicopters Deutschland GmbH (AHD) Model EC135P1, EC135P2, EC135P2+, EC135P3, EC135T1, EC135T2, EC135T2+, EC135T3, and EC635T2+ helicopters. This proposed AD was prompted by a report of a loss of the tail rotor controls due to a broken control rod of the yaw actuator. This proposed AD would require a one-time inspection of the ball pivot, yaw actuator assembly, and associated parts, and a repetitive inspection of the ball pivot. Depending on the inspection results, this proposed AD would require replacement of affected parts, further inspections, and application of new sealing compound. This proposed AD would also prohibit the installation of an affected part unless it is a serviceable part and certain requirements are met. The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-19971",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-19971/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-19971.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11792-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ]
-    },
-    {
-      "title": "Airworthiness Directives; Bell Textron Canada Limited Helicopters",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Bell Textron Canada Limited (Bell) Model 505 helicopters. This proposed AD was prompted by a determination that new or more restrictive airworthiness limitations are necessary. This proposed AD would require revising the airworthiness limitation schedule (ALS) of the existing maintenance manual (MM) or instructions for continued airworthiness (ICA) and the existing approved maintenance or inspection program, as applicable. The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-19970",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-19970/airworthiness-directives-bell-textron-canada-limited-helicopters",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-19970.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11791-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ]
-    },
-    {
-      "title": "Forms and Procedures for Review of State Certifications by the Stablecoin Certification Review Committee",
-      "type": "Rule",
-      "abstract": "The Department of the Treasury is issuing this interim final rule on behalf of the Stablecoin Certification Review Committee (Committee). The Committee is adopting interim procedural regulations and forms to implement its responsibilities under section 4(c) of the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act or the Act). The regulations set out a process to facilitate the Committee's approval or denial of certifications submitted by State payment stablecoin regulators under section 4(c)(4) of the GENIUS Act, and prescribe the form of such certifications. This interim final rule will ensure that interim forms and procedural regulations are in place to facilitate submission of certifications by the effective date of the GENIUS Act, and the Committee intends to revise these forms and procedural regulations, as appropriate, following consideration of comments.",
-      "document_number": "2026-19966",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-19966/forms-and-procedures-for-review-of-state-certifications-by-the-stablecoin-certification-review",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-19966.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        }
-      ],
-      "comments_close_on": "2026-11-30",
-      "comment_url": "http://www.regulations.gov/commenton/TREAS-DO-2026-0562-0001",
-      "effective_on": "2026-09-30",
-      "regulation_id_numbers": [
-        "1505-AC97"
-      ]
-    },
-    {
-      "title": "The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks",
-      "type": "Rule",
-      "abstract": "NHTSA, on behalf of the U.S. Department of Transportation (DOT), is substantially recalibrating the Corporate Average Fuel Economy (CAFE) program to bring the program into compliance with the law and to remove previous regulatory distortions which have induced manufacturers to make design decisions that have neither aligned with market demand and the needs of American families nor have delivered the consistent improvements in the fuel economy performance of manufacturer fleets, as Congress intended. This recalibration finalizes amendments to fuel economy standards for light-duty vehicles for model years 2022- 2026 and MYs 2027-2031. This final rule also finalizes amendments to compliance aspects of the program, including to vehicle classification and other compliance pathways.",
-      "document_number": "2026-19964",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-19964/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-19964.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "National Highway Traffic Safety Administration",
-          "name": "National Highway Traffic Safety Administration",
-          "id": 345,
-          "url": "https://www.federalregister.gov/agencies/national-highway-traffic-safety-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/345",
-          "parent_id": 492,
-          "slug": "national-highway-traffic-safety-administration"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-11-30",
-      "regulation_id_numbers": [
-        "2127-AM76"
-      ]
-    },
-    {
-      "title": "NRC Modernization: Rulemaking Procedure, Federal Advisory Committee Act Alignment, Access, and Security; Correction and Confirmation of Effective Date",
-      "type": "Rule",
-      "abstract": "The U.S. Nuclear Regulatory Commission (NRC) is correcting a notice that was published in the Federal Register on August 11, 2026. The NRC published a direct final rule amending its regulations by streamlining procedural provisions related to information withholding and post-promulgation comment periods; aligning the NRC's regulations with Committee Management Secretariat Federal Advisory Committee Act standards; and updating national security eligibility criteria. The corrections on the companion proposed rule document are necessary to replace an incorrect citation and incorrect citation date. The NRC is also confirming the effective date of October 26, 2026, for this direct final rule.",
-      "document_number": "2026-19963",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-19963/nrc-modernization-rulemaking-procedure-federal-advisory-committee-act-alignment-access-and-security",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-19963.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "NUCLEAR REGULATORY COMMISSION",
-          "name": "Nuclear Regulatory Commission",
-          "id": 383,
-          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
-          "parent_id": null,
-          "slug": "nuclear-regulatory-commission"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-10-26",
-      "regulation_id_numbers": [
-        "3150-AL46"
       ]
     },
     {
