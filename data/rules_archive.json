@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T14:05:26.167928+00:00",
+  "updated_at": "2026-10-06T07:32:48.499767+00:00",
   "count": 249,
   "documents": {
     "2026-11545": {
@@ -293,7 +293,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 488,
-      "docket_id": "ATF-2026-0397"
+      "docket_id": "ATF-2026-0397",
+      "final_checked": "2026-10-06"
     },
     "2026-13639": {
       "title": "Improvements to Rules on Recoupment of Benefit Overpayments",
@@ -1584,7 +1585,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 0,
-      "docket_id": null
+      "docket_id": null,
+      "final_checked": "2026-10-06"
     },
     "2026-15777": {
       "title": "Loans to Executive Officers, Directors, and Principal Shareholders of Member Banks; Bank Holding Companies",
@@ -1614,7 +1616,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 0,
-      "docket_id": null
+      "docket_id": null,
+      "final_checked": "2026-10-06"
     },
     "2026-15782": {
       "title": "Revision of Freedom of Information Act Regulations",
@@ -1712,7 +1715,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 6,
-      "docket_id": "APHIS-2025-0033"
+      "docket_id": "APHIS-2025-0033",
+      "final_checked": "2026-10-06"
     },
     "2026-15857": {
       "title": "Importation of Coffee Into Hawaii and Puerto Rico",
@@ -1751,7 +1755,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 13,
-      "docket_id": "APHIS-2023-0073"
+      "docket_id": "APHIS-2023-0073",
+      "final_checked": "2026-10-06"
     },
     "2026-15867": {
       "title": "OCC Rules Regarding the Availability of OCC Information",
@@ -1790,7 +1795,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 6,
-      "docket_id": "OCC-2026-0133"
+      "docket_id": "OCC-2026-0133",
+      "final_checked": "2026-10-06"
     },
     "2026-15929": {
       "title": "Improving Emergency Medical Kit Efficacy and Flexibility in Commercial Airline Operations",
@@ -1829,7 +1835,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 1664,
-      "docket_id": "FAA-2026-9178"
+      "docket_id": "FAA-2026-9178",
+      "final_checked": "2026-10-06"
     },
     "2026-15948": {
       "title": "Conflicts and Affiliations",
@@ -1859,7 +1866,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 17,
-      "docket_id": "CFTC-2026-1686"
+      "docket_id": "CFTC-2026-1686",
+      "final_checked": "2026-10-06"
     },
     "2026-15953": {
       "title": "Oil and Gas and Sulfur Operations on the Outer Continental Shelf-Revisions to the Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf",
@@ -1907,7 +1915,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 18,
-      "docket_id": "BOEM_FRDOC_0001"
+      "docket_id": "BOEM_FRDOC_0001",
+      "final_checked": "2026-10-06"
     },
     "2026-15995": {
       "title": "Extensions of Credit to Insiders",
@@ -1937,7 +1946,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 0,
-      "docket_id": null
+      "docket_id": null,
+      "final_checked": "2026-10-06"
     },
     "2026-16016": {
       "title": "New Mailing Standards for Live Animals",
@@ -2158,7 +2168,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 11674,
+      "comments_count": 12588,
       "docket_id": "ACF-2026-0595"
     },
     "2026-16196": {
@@ -2275,7 +2285,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 50,
+      "comments_count": 56,
       "docket_id": "HUD-2026-0034"
     },
     "2026-16268": {
@@ -2378,7 +2388,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 2060,
+      "comments_count": 2087,
       "docket_id": "FMCSA-2026-0826"
     },
     "2026-16296": {
@@ -2417,7 +2427,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 597,
+      "comments_count": 601,
       "docket_id": "FDA-2025-N-3262"
     },
     "2026-16313": {
@@ -2447,7 +2457,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 72,
+      "comments_count": 74,
       "docket_id": "USCIS-2026-0232"
     },
     "2026-16314": {
@@ -2863,7 +2873,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 85,
+      "comments_count": 102,
       "docket_id": "OCC-2026-0694"
     },
     "2026-16569": {
@@ -3035,7 +3045,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "TTB-2026-0003"
     },
     "2026-16669": {
@@ -3357,7 +3367,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 74,
+      "comments_count": 77,
       "docket_id": "TREAS-DO-2026-0496"
     },
     "2026-16914": {
@@ -3600,7 +3610,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 13614,
-      "docket_id": "IRS-2026-1057"
+      "docket_id": "IRS-2026-1057",
+      "final_checked": "2026-10-06"
     },
     "2026-16994": {
       "title": "Proposed Deletion From the National Priorities List",
@@ -3692,7 +3703,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 2,
-      "docket_id": "IRS-2026-1058"
+      "docket_id": "IRS-2026-1058",
+      "final_checked": "2026-10-06"
     },
     "2026-17039": {
       "title": "Small Business Size Standards: Revised Size Standards Methodology",
@@ -3775,7 +3787,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 4,
-      "docket_id": "CFTC-2026-1849"
+      "docket_id": "CFTC-2026-1849",
+      "final_checked": "2026-10-06"
     },
     "2026-17108": {
       "title": "Withdrawal of International Airport Designation of Chalk Seaplane Base",
@@ -3891,7 +3904,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 11,
+      "comments_count": 12,
       "docket_id": "IRS-2026-1090"
     },
     "2026-17163": {
@@ -3921,7 +3934,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 34,
+      "comments_count": 35,
       "docket_id": "CFTC-2026-1850"
     },
     "2026-17183": {
@@ -4366,7 +4379,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 0,
-      "docket_id": null
+      "docket_id": null,
+      "final_checked": "2026-10-06"
     },
     "2026-17652": {
       "title": "Requests for Arbitration Panels",
@@ -4422,7 +4436,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "DOS-2026-0925"
     },
     "2026-17660": {
@@ -4819,7 +4833,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 242,
+      "comments_count": 245,
       "docket_id": "NPS-2026-0166"
     },
     "2026-17926": {
@@ -4993,7 +5007,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 3,
-      "docket_id": "NOAA-NMFS-2026-1025"
+      "docket_id": "NOAA-NMFS-2026-1025",
+      "final_checked": "2026-10-06"
     },
     "2026-18103": {
       "title": "Notice of Availability and Request for Comment: Revision to the Voluntary Standard for Products Containing Button Cell or Coin Batteries",
@@ -5047,7 +5062,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 63,
+      "comments_count": 64,
       "docket_id": "EPA-HQ-OW-2026-6965"
     },
     "2026-18162": {
@@ -5087,7 +5102,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 37,
-      "docket_id": "FAA-2026-10990"
+      "docket_id": "FAA-2026-10990",
+      "final_checked": "2026-10-06"
     },
     "2026-18167": {
       "title": "Reducing Bureaucracy and Burden for the Repatriation of Mentally Ill Nationals",
@@ -5126,7 +5142,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 4,
-      "docket_id": "ACF-2026-0661"
+      "docket_id": "ACF-2026-0661",
+      "final_checked": "2026-10-06"
     },
     "2026-18190": {
       "title": "Transfer Agent Rules",
@@ -5194,7 +5211,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 24639,
+      "comments_count": 24727,
       "docket_id": "BLM-2026-0133"
     },
     "2026-18282": {
@@ -5270,7 +5287,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 13246,
+      "comments_count": 19149,
       "docket_id": "EPA-HQ-OW-2025-0322"
     },
     "2026-18337": {
@@ -5570,7 +5587,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 16,
+      "comments_count": 17,
       "docket_id": "NRC-2025-1204"
     },
     "2026-18531": {
@@ -5698,7 +5715,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 24773,
+      "comments_count": 24880,
       "docket_id": "USCIS-2026-0364"
     },
     "2026-18648": {
@@ -5737,7 +5754,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 11029,
+      "comments_count": 15936,
       "docket_id": "FS-2025-0001"
     },
     "2026-18755": {
@@ -5863,7 +5880,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 17,
+      "comments_count": 20,
       "docket_id": "FAA-2026-10991"
     },
     "2026-18828": {
@@ -6042,7 +6059,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 151,
+      "comments_count": 154,
       "docket_id": "OPM-2026-0661"
     },
     "2026-19027": {
@@ -6100,7 +6117,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 4973,
+      "comments_count": 5121,
       "docket_id": "EPA-HQ-OAR-2025-0124"
     },
     "2026-19158": {
@@ -6298,7 +6315,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 8,
+      "comments_count": 9,
       "docket_id": "FAR-2026-0006"
     },
     "2026-19162": {
@@ -6364,7 +6381,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 20,
+      "comments_count": 21,
       "docket_id": "FAR-2026-0003"
     },
     "2026-19182": {
@@ -6403,7 +6420,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 18,
+      "comments_count": 21,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     "2026-19222": {
@@ -6758,7 +6775,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 13,
+      "comments_count": 14,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19350": {
@@ -6797,7 +6814,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 23,
+      "comments_count": 24,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19361": {
@@ -6940,7 +6957,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 105,
+      "comments_count": 107,
       "docket_id": "DEA-2026-1585"
     },
     "2026-19500": {
@@ -7046,7 +7063,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 12,
+      "comments_count": 13,
       "docket_id": "CMS-2026-3037"
     },
     "2026-19546": {
@@ -7076,7 +7093,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 120,
+      "comments_count": 130,
       "docket_id": "SBA-2026-0199"
     },
     "2026-19568": {
@@ -7173,7 +7190,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 15,
+      "comments_count": 16,
       "docket_id": "FAA-2026-12145"
     },
     "2026-19656": {
@@ -7249,7 +7266,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 5,
+      "comments_count": 6,
       "docket_id": "ATF-2026-0364"
     },
     "2026-19692": {
@@ -7288,7 +7305,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "ATF-2026-0365"
     },
     "2026-19710": {
@@ -7457,14 +7474,14 @@
         }
       ],
       "comments_close_on": "2026-11-30",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/TREAS-DO-2026-0562-0001",
       "effective_on": "2026-09-30",
       "regulation_id_numbers": [
         "1505-AC97"
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "TREAS-DO-2026-0562"
     },
     "2026-20027": {
@@ -7589,7 +7606,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "DOS-2026-0991"
     },
     "2026-20084": {
@@ -7764,7 +7781,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 9,
+      "comments_count": 10,
       "docket_id": "FTC-2026-1552"
     },
     "2026-20169": {
@@ -7831,7 +7848,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 2,
+      "comments_count": 5,
       "docket_id": "RBS-26-BUSINESS-0529"
     },
     "2026-20251": {
@@ -7870,7 +7887,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 7,
+      "comments_count": 8,
       "docket_id": "NPS-2026-0199"
     },
     "2026-20277": {
@@ -7909,7 +7926,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 9877,
+      "comments_count": 10703,
       "docket_id": "IRS-2026-1354"
     },
     "2026-20296": {
@@ -7969,7 +7986,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "GSA_FRDOC_0001"
     },
     "2026-20328": {
@@ -8008,7 +8025,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 13,
       "docket_id": "USBC_FRDOC_0001"
     },
     "2026-20329": {
@@ -8047,7 +8064,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "ACF-2026-0562"
     },
     "2026-20335": {
@@ -8070,15 +8087,15 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": "http://www.regulations.gov/commenton/NRC_FRDOC_0001-10895",
+      "comment_url": "http://www.regulations.gov/commenton/NRC-2025-1568-0002",
       "effective_on": null,
       "regulation_id_numbers": [
         "3150-AL61"
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 0,
-      "docket_id": "NRC_FRDOC_0001"
+      "comments_count": 3,
+      "docket_id": "NRC-2025-1568"
     },
     "2026-20336": {
       "title": "Exemptions From Materials Licensing",
@@ -8100,7 +8117,7 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": "http://www.regulations.gov/commenton/NRC_FRDOC_0001-10896",
+      "comment_url": "http://www.regulations.gov/commenton/NRC-2025-1568-0001",
       "effective_on": "2026-12-21",
       "regulation_id_numbers": [
         "3150-AL61"
@@ -8108,7 +8125,7 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 0,
-      "docket_id": "NRC_FRDOC_0001"
+      "docket_id": "NRC-2025-1568"
     },
     "2026-20350": {
       "title": "Special Conditions: Honda Aircraft Company LLC Model HA-480 Airplane; High Altitude Operation",
@@ -8206,15 +8223,15 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": "http://www.regulations.gov/commenton/FINCEN_FRDOC_0001-0250",
+      "comment_url": "http://www.regulations.gov/commenton/FINCEN-2026-0265-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1506-AB77"
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 0,
-      "docket_id": "FINCEN_FRDOC_0001"
+      "comments_count": 1,
+      "docket_id": "FINCEN-2026-0265"
     },
     "2026-20372": {
       "title": "Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-16, V-184, and Revocation of V-284 and V-577; Eastern United States",
@@ -8252,7 +8269,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-12409"
     },
     "2026-20374": {
@@ -8319,7 +8336,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-9934"
     },
     "2026-20387": {
@@ -8397,7 +8414,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-9936"
     },
     "2026-20391": {
@@ -8436,7 +8453,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-9940"
     },
     "2026-20392": {
@@ -8475,7 +8492,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-9941"
     }
   }

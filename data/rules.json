@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T14:05:25.653069+00:00",
+  "updated_at": "2026-10-06T07:32:47.437152+00:00",
   "latest_date": "2026-10-05",
   "issue_count": 25,
   "documents": [
@@ -336,7 +336,7 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": "http://www.regulations.gov/commenton/FINCEN_FRDOC_0001-0250",
+      "comment_url": "http://www.regulations.gov/commenton/FINCEN-2026-0265-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1506-AB77"
@@ -511,7 +511,7 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": "http://www.regulations.gov/commenton/NRC_FRDOC_0001-10896",
+      "comment_url": "http://www.regulations.gov/commenton/NRC-2025-1568-0001",
       "effective_on": "2026-12-21",
       "regulation_id_numbers": [
         "3150-AL61"
@@ -537,7 +537,7 @@
         }
       ],
       "comments_close_on": "2026-11-04",
-      "comment_url": "http://www.regulations.gov/commenton/NRC_FRDOC_0001-10895",
+      "comment_url": "http://www.regulations.gov/commenton/NRC-2025-1568-0002",
       "effective_on": null,
       "regulation_id_numbers": [
         "3150-AL61"
@@ -796,9 +796,9 @@
           "slug": "consumer-product-safety-commission"
         }
       ],
-      "comments_close_on": "2026-10-15",
-      "comment_url": "http://www.regulations.gov/commenton/CPSC_FRDOC_0001-1554",
-      "effective_on": "2026-10-21",
+      "comments_close_on": null,
+      "comment_url": "http://www.regulations.gov/commenton/CPSC-2025-0012-0055",
+      "effective_on": null,
       "regulation_id_numbers": [
         "3041-AE10"
       ]
@@ -3064,7 +3064,7 @@
         }
       ],
       "comments_close_on": "2026-11-30",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/TREAS-DO-2026-0562-0001",
       "effective_on": "2026-09-30",
       "regulation_id_numbers": [
         "1505-AC97"
@@ -3167,6 +3167,129 @@
       ]
     },
     {
+      "title": "Modernization of Regulations Under 9 CFR Parts 101-118 and 123-124",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Department of Agriculture (USDA) proffers this Request for Information (RFI) to solicit the public's input on regulatory considerations related to 9 CFR parts 101-118, 123-124. The regulations are issued primarily pursuant to Section 154 of the Virus- Serum-Toxin Act (VSTA). USDA intends to evaluate each part and subpart for its effectiveness at upholding the VSTA's statutory mandate to prohibit the preparation, sale, barter, or exchange of \"worthless, contaminated, dangerous, or harmful\" viruses, serums, toxins, or analogous products intended for the use in the treatment of domestic animals, i.e., all animals, other than man, including poultry. The current regulations reflect decades of incremental amendments, technical updates, and revisions adopted at different points in time to address specific scientific, operational, and/or programmatic needs; in recent history, USDA has not holistically reformed the regulations implementing the VSTA. Comprehensive modernization of the regulations will ensure that the framework remains coherent, consistent, and responsive to contemporary technologies, innovation, and practices while continuing to fulfill the statutory requirements of the VSTA.",
+      "document_number": "2026-18531",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/11/2026-18531/modernization-of-regulations-under-9-cfr-parts-101-118-and-123-124",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-11/pdf/2026-18531.pdf",
+      "publication_date": "2026-09-11",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Office of the Secretary"
+        }
+      ],
+      "comments_close_on": "2026-10-13",
+      "comment_url": "http://www.regulations.gov/commenton/USDA-2026-0298-0001",
+      "effective_on": null,
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "In Situ Recovery Monitoring and Decommissioning Timeliness",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Nuclear Regulatory Commission (NRC) proposes to amend its regulations that govern the licensing of uranium mills and the disposition of tailings and waste that arise from the extraction and milling of uranium by issuing risk-informed requirements for groundwater protection at uranium in situ recovery (ISR) facilities. The NRC's current regulations are focused on conventional uranium milling and do not expressly address uranium extraction by the ISR process. Additionally, NRC proposes to amend its regulations that govern decommissioning timeliness for all licensees to provide additional flexibility for licensees to delay the initiation of decommissioning activities in situations where safety would not be impacted.",
+      "document_number": "2026-18504",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18504/in-situ-recovery-monitoring-and-decommissioning-timeliness",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-10/pdf/2026-18504.pdf",
+      "publication_date": "2026-09-10",
+      "agencies": [
+        {
+          "raw_name": "NUCLEAR REGULATORY COMMISSION",
+          "name": "Nuclear Regulatory Commission",
+          "id": 383,
+          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
+          "parent_id": null,
+          "slug": "nuclear-regulatory-commission"
+        }
+      ],
+      "comments_close_on": "2026-10-13",
+      "comment_url": "http://www.regulations.gov/commenton/NRC-2025-1204-0004",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3150-AL48"
+      ]
+    },
+    {
+      "title": "Reef Fish Fishery of the Gulf of America; 2027 Red Grouper Commercial Quota Retention",
+      "type": "Proposed Rule",
+      "abstract": "NMFS proposes to implement management measures described in a framework action under the Fishery Management Plan for the Reef Fish Resources of the Gulf (FMP), as prepared by the Gulf Council (Council). If implemented, this proposed rule would withhold a portion of the commercial allocation of Gulf of America (Gulf) red grouper for the 2027 fishing year in anticipation of the upcoming rulemaking to implement Amendment 63 to the FMP (Amendment 63). If implemented by NMFS, Amendment 63 would establish a pilot program for setting aside a portion of the red grouper commercial quota for a quota pool. This proposed rule would withhold a portion of the red grouper commercial quota for the 2027 fishing year in the amount necessary to establish that quota pool. This withheld quota would otherwise be allocated to shareholders in the Individual Fishing Quota program for Gulf grouper and tilefishes (GT-IFQ) program on January 1, 2027.",
+      "document_number": "2026-18484",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18484/reef-fish-fishery-of-the-gulf-of-america-2027-red-grouper-commercial-quota-retention",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-10/pdf/2026-18484.pdf",
+      "publication_date": "2026-09-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "comments_close_on": "2026-10-13",
+      "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2026-1882-0002",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0648-BO57"
+      ]
+    },
+    {
+      "title": "Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions",
+      "type": "Proposed Rule",
+      "abstract": "The Census Bureau is proposing to add two new parts to the Code of Federal Regulations governing the decennial census of population and housing. First, the Census Bureau is proposing to add a part outlining the residence criteria used for identifying each person's \"usual residence,\" as needed to determine whether and where to count them in the census of the population throughout the United States. Second, the Census Bureau is proposing to add a part establishing standards and restrictions for the inclusion of certain demographic questions on the decennial census short-form questionnaire and any other questionnaire used for the enumeration of the population. The Census Bureau is considering these two additions to better prioritize and fulfill its Constitutional mandate to count for apportionment the \"whole number of persons in each State\" based on the concept of \"usual residence\"--a process that factors in an element of allegiance but otherwise should be colorblind and should not be distorted in any way by questions about immaterial personal characteristics, such as race. Although these two parts are somewhat related and complementary, each is being proposed independently based on its own merits. These proposals are intended to ensure fidelity to the Constitution, improve and protect the core decennial census data, and promote efficiency.",
+      "document_number": "2026-18481",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18481/decennial-census-of-the-population-of-americans-proposed-residence-criteria-and-proposed-regulations",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-10/pdf/2026-18481.pdf",
+      "publication_date": "2026-09-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "Census Bureau",
+          "name": "Census Bureau",
+          "id": 42,
+          "url": "https://www.federalregister.gov/agencies/census-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/42",
+          "parent_id": 54,
+          "slug": "census-bureau"
+        }
+      ],
+      "comments_close_on": "2026-10-13",
+      "comment_url": "http://www.regulations.gov/commenton/USBC-2026-0628-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0607-AA75"
+      ]
+    },
+    {
       "title": "Labels 888, 889, 891, and 892, Discontinued",
       "type": "Proposed Rule",
       "abstract": "The Postal Service is proposing to amend Mailing Standards of the United States Postal Service, Domestic Mail Manual (DMM[supreg]) to discontinue the use of Label 888 and Label 889 respectively. Revisions to the DMM concern only Labels 888 and 889.",
@@ -3189,32 +3312,6 @@
       "comment_url": null,
       "effective_on": null,
       "regulation_id_numbers": []
-    },
-    {
-      "title": "Registration of Lawful Permanent Residence for Children Born to Foreign Government Employees in the United States",
-      "type": "Rule",
-      "abstract": "Department of Homeland Security (DHS), U.S. Citizenship and Immigration Services (USCIS) is amending its regulations to permit children born in the United States to \"foreign government employees\" who are not U.S. citizens to register for permanent residence. DHS is also making corresponding changes to Form I-485, Application to Register Permanent Residence or Adjust Status and Form G-325R, Biographic Information (Registration).",
-      "document_number": "2026-18345",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/09/2026-18345/registration-of-lawful-permanent-residence-for-children-born-to-foreign-government-employees-in-the",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-09/pdf/2026-18345.pdf",
-      "publication_date": "2026-09-09",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        }
-      ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/USCIS-2026-0496-0001",
-      "effective_on": "2026-09-04",
-      "regulation_id_numbers": [
-        "1615-AD24"
-      ]
     },
     {
       "title": "Simplified Geographic Preference Procurement in Child Nutrition Programs",
@@ -3320,48 +3417,13 @@
       "regulation_id_numbers": []
     },
     {
-      "title": "Reducing Bureaucracy and Burden for the Repatriation of Mentally Ill Nationals",
+      "title": "Special Conditions: Skyryse, Robinson Helicopter Company Model R66 Helicopter; Control Margin Awareness",
       "type": "Proposed Rule",
-      "abstract": "The Department of Health and Human Services, Administration for Children and Families proposes to remove the Care and Treatment of Mentally Ill Nationals of the United States, Returned from Foreign Countries regulations to streamline regulations and to renumber it under a different Part.",
-      "document_number": "2026-18167",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/04/2026-18167/reducing-bureaucracy-and-burden-for-the-repatriation-of-mentally-ill-nationals",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/2026-18167.pdf",
-      "publication_date": "2026-09-04",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
-          "name": "Health and Human Services Department",
-          "id": 221,
-          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
-          "parent_id": null,
-          "slug": "health-and-human-services-department"
-        },
-        {
-          "raw_name": "Administration for Children and Families",
-          "name": "Children and Families Administration",
-          "id": 49,
-          "url": "https://www.federalregister.gov/agencies/children-and-families-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/49",
-          "parent_id": 221,
-          "slug": "children-and-families-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/ACF-2026-0661-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "0970-AD48"
-      ]
-    },
-    {
-      "title": "Modernizing Medical Standards for Non-Insulin Dependent Diabetes Mellitus Cases",
-      "type": "Proposed Rule",
-      "abstract": "FAA proposes to amend its regulations to allow applicants with non-insulin dependent diabetes mellitus to apply for airman medical certification that may be issued at the time of their medical examination instead of requiring Special Issuance review by FAA. This action would reduce the burden associated with the process of review for Authorization for Special Issuance while recognizing that modern medical advancements have significantly improved the manageability of certain forms of diabetes.",
-      "document_number": "2026-18162",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/04/2026-18162/modernizing-medical-standards-for-non-insulin-dependent-diabetes-mellitus-cases",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/2026-18162.pdf",
-      "publication_date": "2026-09-04",
+      "abstract": "This action proposes special conditions for the Robinson Helicopter Company (Robinson) Model R66 helicopter. This helicopter, as modified by Skyryse, will have a novel or unusual design feature when compared to the state of technology envisioned in the airworthiness standards for normal category helicopters. This design feature replaces the mechanical flight controls with a digital fly-by-wire FBW system. The applicable airworthiness regulations do not contain adequate or appropriate safety standards for this design feature. These proposed special conditions contain the additional safety standards that the Administrator considers necessary to establish a level of safety equivalent to that established by the existing airworthiness standards.",
+      "document_number": "2026-17661",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17661/special-conditions-skyryse-robinson-helicopter-company-model-r66-helicopter-control-margin-awareness",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-28/pdf/2026-17661.pdf",
+      "publication_date": "2026-08-28",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF TRANSPORTATION",
@@ -3382,96 +3444,114 @@
           "slug": "federal-aviation-administration"
         }
       ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-10990-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AM25"
-      ]
-    },
-    {
-      "title": "Pacific Halibut Fisheries; Catch Sharing Plan; Modify Pacific Halibut Individual Fishing Quota (IFQ) Vessel Use Caps in IFQ Regulatory Areas 4A, 4B, 4C, 4D, and 4E",
-      "type": "Proposed Rule",
-      "abstract": "NMFS proposes regulations to modify the Pacific halibut (halibut) Individual Fishing Quota (IFQ) Program to revise vessel harvest limitations for IFQ halibut harvested in IFQ regulatory Areas (Areas) 4A, 4B, 4C, 4D, and 4E by establishing a vessel harvest limit of five percent of the total annual commercial catch limit across Areas 4A, 4B, 4C, 4D, and 4E. This action would also exclude IFQ halibut harvest derived from quota held by a Community Quota Entity (CQE) in Area 4B from accruing under the proposed five percent vessel harvest limit across Areas 4A, 4B, 4C, 4D, and 4E. This action would provide additional flexibility for halibut IFQ Program fishery participants in Areas 4A, 4B, 4C, 4D, and 4E, where fishery conditions continue to be challenging. This action would promote the goals and objectives of the IFQ Program, the Northern Pacific Halibut Act of 1982 (Halibut Act), and other applicable laws.",
-      "document_number": "2026-18031",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/03/2026-18031/pacific-halibut-fisheries-catch-sharing-plan-modify-pacific-halibut-individual-fishing-quota-ifq",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-03/pdf/2026-18031.pdf",
-      "publication_date": "2026-09-03",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF COMMERCE",
-          "name": "Commerce Department",
-          "id": 54,
-          "url": "https://www.federalregister.gov/agencies/commerce-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
-          "parent_id": null,
-          "slug": "commerce-department"
-        },
-        {
-          "raw_name": "National Oceanic and Atmospheric Administration",
-          "name": "National Oceanic and Atmospheric Administration",
-          "id": 361,
-          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
-          "parent_id": 54,
-          "slug": "national-oceanic-and-atmospheric-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2026-1025-0003",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "0648-BO24"
-      ]
-    },
-    {
-      "title": "Television Broadcasting Services Colusa, California",
-      "type": "Proposed Rule",
-      "abstract": "This document proposes to amend the Table of TV Allotments (Table) of the Federal Communications Commission's (Commission) rules in response to a petition for rulemaking filed by One Ministries, Inc. (Petitioner), the licensee of NCE television station KEDS(TV) (KEDS or Station), Colusa, California (Colusa). The Petitioner requests the substitution of UHF channel *14 in place of its current VHF channel *2 at Colusa in the Table with the technical parameters specified in the Petition. In support of its channel substitution request, the Petitioner asserts that allowing the Station to move to a UHF channel would serve the public interest by improving signal reception for viewers. The Petitioner observes that the Commission has recognized that VHF channels have certain characteristics that have posed challenges for their use in providing digital television service, including propagation characteristics allowing undesired signals and noise to be receivable at relatively farther distances. Additionally, the Petitioner notes that the Commission has observed large variability in the performance of indoor antennas available to consumers, with most antennas receiving fairly well at UHF and the substantial majority not so well to very poor at high-VHF. An engineering statement provided by the Petitioner confirms that the proposed channel *14 contour would provide full principal community coverage to Colusa.",
-      "document_number": "2026-18015",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/03/2026-18015/television-broadcasting-services-colusa-california",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-03/pdf/2026-18015.pdf",
-      "publication_date": "2026-09-03",
-      "agencies": [
-        {
-          "raw_name": "FEDERAL COMMUNICATIONS COMMISSION",
-          "name": "Federal Communications Commission",
-          "id": 161,
-          "url": "https://www.federalregister.gov/agencies/federal-communications-commission",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/161",
-          "parent_id": null,
-          "slug": "federal-communications-commission"
-        }
-      ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": null,
+      "comments_close_on": "2026-10-13",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-1585-0001",
       "effective_on": null,
       "regulation_id_numbers": []
     },
     {
-      "title": "Disclosure of Information; Extension of Comment Period",
-      "type": "Proposed Rule",
-      "abstract": "The FDIC is extending the public comment period on the proposed rule \"Disclosure of Information,\" which was published in the Federal Register on June 30, 2026. FDIC is extending the public comment period from August 31, 2026, to October 5, 2026, to provide interested parties with additional time to analyze the proposal and prepare comments.",
-      "document_number": "2026-17649",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17649/disclosure-of-information-extension-of-comment-period",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-28/pdf/2026-17649.pdf",
+      "title": "Airworthiness Directives; Bell Textron Canada Limited Helicopters",
+      "type": "Rule",
+      "abstract": "The FAA is adopting a new airworthiness directive (AD) for certain Bell Textron Canada Limited Model 222 helicopters. The FAA previously sent this AD as an emergency AD to all known U.S. owners and operators of these helicopters. This AD was prompted by a report of in- flight fatigue failure of a tail rotor pitch horn. This AD requires removing the affected tail rotor pitch horn and associated tail rotor pitch links from service and installing a serviceable tail rotor pitch horn and associated tail rotor pitch links. This AD also prohibits installing an affected tail rotor pitch horn on any helicopter. The FAA is issuing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-17615",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17615/airworthiness-directives-bell-textron-canada-limited-helicopters",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-28/pdf/2026-17615.pdf",
       "publication_date": "2026-08-28",
       "agencies": [
         {
-          "raw_name": "FEDERAL DEPOSIT INSURANCE CORPORATION",
-          "name": "Federal Deposit Insurance Corporation",
-          "id": 164,
-          "url": "https://www.federalregister.gov/agencies/federal-deposit-insurance-corporation",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/164",
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
           "parent_id": null,
-          "slug": "federal-deposit-insurance-corporation"
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
         }
       ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": null,
-      "effective_on": "2026-06-30",
+      "comments_close_on": "2026-10-13",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8788-0001",
+      "effective_on": "2026-09-14",
       "regulation_id_numbers": [
-        "3064-AG30"
+        "2120-AA64"
+      ]
+    },
+    {
+      "title": "Airworthiness Directives; Embraer S.A. Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Embraer S.A. Model EMB-545 and EMB-550 airplanes. This proposed AD was prompted by the possibility of the Ram Air Turbine (RAT) compartment door seal peeling off and becoming entangled with the RAT rotor. This proposed AD would require replacement of the RAT compartment door seal. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-17609",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17609/airworthiness-directives-embraer-sa-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-28/pdf/2026-17609.pdf",
+      "publication_date": "2026-08-28",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-10-13",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8791-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
+    },
+    {
+      "title": "Airworthiness Directives; Lycoming Engines",
+      "type": "Rule",
+      "abstract": "The FAA is adopting a new airworthiness directive (AD) for certain Lycoming Engines (Lycoming) Model O-235, O-540, and IO-540 engines with a certain piston pin installed. This AD was prompted by several reports of piston pin failure that resulted in metal particulate contamination in the engine oil and engine failure. This AD requires replacement of the affected piston pin with a part eligible for installation and, for certain engines, oil change and visual inspection of the engine oil filter, oil pressure screen, and oil suction screen for metal particulates. This AD also prohibits the installation of an affected piston pin on any engine. The FAA is issuing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-17584",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17584/airworthiness-directives-lycoming-engines",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-28/pdf/2026-17584.pdf",
+      "publication_date": "2026-08-28",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-10-13",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8789-0001",
+      "effective_on": "2026-09-14",
+      "regulation_id_numbers": [
+        "2120-AA64"
       ]
     },
     {
@@ -3543,74 +3623,13 @@
       ]
     },
     {
-      "title": "Commodity Pool Operators and Commodity Trading Advisors: Reduction of Duplicative Regulation Through Intermediary Registration Exemptions; Expansion of the Exemption for Small Commodity Pools",
+      "title": "Proposed Establishment of the Rancho Santa Fe Viticultural Area",
       "type": "Proposed Rule",
-      "abstract": "The Commodity Futures Trading Commission (\"Commission\" or \"CFTC\") is proposing several amendments to its registration requirements for certain commodity pool operators (\"CPOs\") and commodity trading advisors (\"CTAs\") to reduce duplicative and overlapping regulation and reflect inflation (\"Proposal\"). The Proposal would add an exemption from CPO registration for certain investment advisers registered with the Securities and Exchange Commission (\"Registered Investment Advisers\" or \"RIAs\") in relation to commodity pools for which the participants are limited to certain sophisticated investors and which meet other conditions; add a related registration exemption for CTAs; and increase the total gross capital contributions threshold in the CPO registration exemption for small commodity pools (commonly referred to as the \"Small Pool Exemption\") to account for inflation. The Commission preliminarily intends for the Proposal, if adopted, to supersede certain no-action positions issued by the Commission's Market Participants Division (\"MPD\").",
-      "document_number": "2026-17079",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17079/commodity-pool-operators-and-commodity-trading-advisors-reduction-of-duplicative-regulation-through",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-21/pdf/2026-17079.pdf",
-      "publication_date": "2026-08-21",
-      "agencies": [
-        {
-          "raw_name": "COMMODITY FUTURES TRADING COMMISSION",
-          "name": "Commodity Futures Trading Commission",
-          "id": 77,
-          "url": "https://www.federalregister.gov/agencies/commodity-futures-trading-commission",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/77",
-          "parent_id": null,
-          "slug": "commodity-futures-trading-commission"
-        }
-      ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/CFTC-2026-1849-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "3038-AF78"
-      ]
-    },
-    {
-      "title": "Airworthiness Directives; The Boeing Company Airplanes",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 787-8 airplanes. This proposed AD was prompted by a report that large forward cargo door (LFCD) split frames may have been manufactured with a material that did not conform to type design. This proposed AD would require an inspection of the LFCD split frames for affected batch numbers and applicable on- condition actions. The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-17056",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/20/2026-17056/airworthiness-directives-the-boeing-company-airplanes",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-20/pdf/2026-17056.pdf",
-      "publication_date": "2026-08-20",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8784-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ]
-    },
-    {
-      "title": "Application of Section 250(b)(3)(A)(i)(VII) to Sales or Other Dispositions of Property",
-      "type": "Proposed Rule",
-      "abstract": "This document contains proposed regulations under section 250 of the Internal Revenue Code (Code) that provide guidance on certain income of a domestic corporation that is excluded in the determination of deduction eligible income. This category of income consists of income and gain from the sale or other disposition of intangible property and any other property of a type that is subject to depreciation, amortization, or depletion. The proposed regulations would affect domestic corporations with foreign-derived deduction eligible income.",
-      "document_number": "2026-17019",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/20/2026-17019/application-of-section-250b3aivii-to-sales-or-other-dispositions-of-property",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-20/pdf/2026-17019.pdf",
-      "publication_date": "2026-08-20",
+      "abstract": "The Alcohol and Tobacco Tax and Trade Bureau (TTB) proposes to establish the 15,827-acre \"Rancho Santa Fe\" American viticultural area (AVA) in San Diego County, California. The proposed AVA is located entirely within the existing South Coast AVA. TTB designates viticultural areas to allow vintners to better describe the origin of their wines and to allow consumers to better identify wines they may purchase. TTB invites comments on these proposals.",
+      "document_number": "2026-16671",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16671/proposed-establishment-of-the-rancho-santa-fe-viticultural-area",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-14/pdf/2026-16671.pdf",
+      "publication_date": "2026-08-14",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF THE TREASURY",
@@ -3622,30 +3641,30 @@
           "slug": "treasury-department"
         },
         {
-          "raw_name": "Internal Revenue Service",
-          "name": "Internal Revenue Service",
-          "id": 254,
-          "url": "https://www.federalregister.gov/agencies/internal-revenue-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/254",
+          "raw_name": "Alcohol and Tobacco Tax and Trade Bureau",
+          "name": "Alcohol and Tobacco Tax and Trade Bureau",
+          "id": 18,
+          "url": "https://www.federalregister.gov/agencies/alcohol-and-tobacco-tax-and-trade-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/18",
           "parent_id": 497,
-          "slug": "internal-revenue-service"
+          "slug": "alcohol-and-tobacco-tax-and-trade-bureau"
         }
       ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/IRS-2026-1058-0001",
+      "comments_close_on": "2026-10-13",
+      "comment_url": "http://www.regulations.gov/commenton/TTB-2026-0006-0001",
       "effective_on": null,
       "regulation_id_numbers": [
-        "1545-BR85"
+        "1513-AD14"
       ]
     },
     {
-      "title": "Application of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to the Refunded Portion of Certain Federal Refundable Tax Credits",
+      "title": "Proposed Establishment of the Llano Uplift and Hickory Sands District Viticultural Areas",
       "type": "Proposed Rule",
-      "abstract": "This document contains proposed regulations that would provide that the refunded portion of certain refundable Federal income tax credits available to individuals is a \"Federal public benefit\" under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWORA). As a result, aliens who are not \"qualified aliens\" under PRWORA would be ineligible to receive the refunded portion of these refundable credits. These regulations would generally affect taxpayers claiming the following Federal income tax credits: the adoption tax credit, the American opportunity tax credit, the child tax credit, and the earned income credit. As required by PRWORA, this document also provides notice to the public and notifies recipients of proposed changes regarding eligibility for the refunded portion of such Federal income tax credits under PRWORA.",
-      "document_number": "2026-16985",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/20/2026-16985/application-of-the-personal-responsibility-and-work-opportunity-reconciliation-act-of-1996-to-the",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-20/pdf/2026-16985.pdf",
-      "publication_date": "2026-08-20",
+      "abstract": "The Alcohol and Tobacco Tax and Trade Bureau (TTB) proposes to establish the 2,096-square mile \"Llano Uplift\" American viticultural area (AVA) in portions of Blanco, Burnet, Gillespie, Llano, Mason, McCulloch, and San Saba Counties in Texas. The proposed AVA entirely encompasses the established Bell Mountain AVA. TTB is also proposing to establish the 193-square mile \"Hickory Sands District\" AVA in portions of Llano, Mason, McCulloch, and San Saba Counties in Texas. TTB is proposing these two AVAs simultaneously because, if established, the proposed Hickory Sands District AVA would be located entirely within the proposed Llano Uplift AVA. Additionally, both proposed AVAs are located entirely within the boundaries of the existing Texas Hill Country AVA. TTB designates viticultural areas to allow vintners to better describe the origin of their wines and to allow consumers to better identify wines they may purchase. TTB invites comments on these proposals.",
+      "document_number": "2026-16670",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16670/proposed-establishment-of-the-llano-uplift-and-hickory-sands-district-viticultural-areas",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-14/pdf/2026-16670.pdf",
+      "publication_date": "2026-08-14",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF THE TREASURY",
@@ -3657,125 +3676,220 @@
           "slug": "treasury-department"
         },
         {
-          "raw_name": "Internal Revenue Service",
-          "name": "Internal Revenue Service",
-          "id": 254,
-          "url": "https://www.federalregister.gov/agencies/internal-revenue-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/254",
+          "raw_name": "Alcohol and Tobacco Tax and Trade Bureau",
+          "name": "Alcohol and Tobacco Tax and Trade Bureau",
+          "id": 18,
+          "url": "https://www.federalregister.gov/agencies/alcohol-and-tobacco-tax-and-trade-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/18",
           "parent_id": 497,
-          "slug": "internal-revenue-service"
+          "slug": "alcohol-and-tobacco-tax-and-trade-bureau"
         }
       ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/IRS-2026-1057-0001",
+      "comments_close_on": "2026-10-13",
+      "comment_url": "http://www.regulations.gov/commenton/TTB-2026-0005-0001",
       "effective_on": null,
       "regulation_id_numbers": [
-        "1545-BS06"
+        "1513-AD09"
       ]
     },
     {
-      "title": "Airworthiness Directives; Dassault Aviation Airplanes",
+      "title": "Proposed Establishment of the Mill Creek-Walla Walla Valley Viticultural Area",
       "type": "Proposed Rule",
-      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2025-13-11, which applies to all Dassault Aviation Model FALCON 7X airplanes. AD 2025-13-11 requires replacing the affected spoiler electrical units (SPECUs) and prohibits the installation of affected parts. Since the FAA issued AD 2025-13-11, it was determined that additional SPECUs are subject to the unsafe condition. This proposed AD would continue to require the actions in AD 2025-13-11 and would require replacing additional SPECUs. This proposed AD would also prohibit the installation of affected parts. The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-16961",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/20/2026-16961/airworthiness-directives-dassault-aviation-airplanes",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-20/pdf/2026-16961.pdf",
-      "publication_date": "2026-08-20",
+      "abstract": "The Alcohol and Tobacco Tax and Trade Bureau (TTB) proposes to establish the approximately 4,898-acre \"Mill Creek--Walla Walla Valley\" American viticultural area (AVA) in Walla Walla County, Washington. The proposed viticultural area lies entirely within the established Columbia Valley and Walla Walla Valley AVAs. TTB designates viticultural areas to allow vintners to better describe the origin of their wines and to allow consumers to better identify wines they may purchase. TTB invites comments on this proposed addition to its regulations.",
+      "document_number": "2026-16669",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16669/proposed-establishment-of-the-mill-creek-walla-walla-valley-viticultural-area",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-14/pdf/2026-16669.pdf",
+      "publication_date": "2026-08-14",
       "agencies": [
         {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
           "parent_id": null,
-          "slug": "transportation-department"
+          "slug": "treasury-department"
         },
         {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
+          "raw_name": "Alcohol and Tobacco Tax and Trade Bureau",
+          "name": "Alcohol and Tobacco Tax and Trade Bureau",
+          "id": 18,
+          "url": "https://www.federalregister.gov/agencies/alcohol-and-tobacco-tax-and-trade-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/18",
+          "parent_id": 497,
+          "slug": "alcohol-and-tobacco-tax-and-trade-bureau"
         }
       ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8785-0001",
+      "comments_close_on": "2026-10-13",
+      "comment_url": "http://www.regulations.gov/commenton/TTB-2026-0004-0001",
       "effective_on": null,
       "regulation_id_numbers": [
-        "2120-AA64"
+        "1513-AD16"
       ]
     },
     {
-      "title": "Airworthiness Directives; Rolls-Royce Deutschland Ltd & Co KG Engines",
+      "title": "Proposed Establishment of the Kaw Valley Viticultural Area",
       "type": "Proposed Rule",
-      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2022-11-15, which applies to all Rolls-Royce Deutschland Ltd & Co KG (RRD) Model Trent7000-72 and Trent7000-72C engines. AD 2022-11-15 requires initial and repetitive on-wing borescope inspections (BSIs) of the high-pressure turbine (HPT) blades to detect axial cracking and, depending on the results of the inspections, replacement of the HPT blade set. Since the FAA issued AD 2022-11-15, RRD issued updated service material providing improved instructions for inspection of the HPT blades, removing the reduced life limit for affected HPT blades, and revising the HPT blade limits for axial cracking. This proposed AD would continue to require initial and repetitive on-wing BSIs of the HPT blades to detect axial cracking and, depending on the results of the inspections, replacement of the HPT blade set. This proposed AD would also remove the reduced life limit for affected HPT blades. The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-16956",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/20/2026-16956/airworthiness-directives-rolls-royce-deutschland-ltd-and-co-kg-engines",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-20/pdf/2026-16956.pdf",
-      "publication_date": "2026-08-20",
+      "abstract": "The Alcohol and Tobacco Tax and Trade Bureau (TTB) proposes to establish the approximately 3,515,482-acre (5,493-square mile) \"Kaw Valley\" American viticultural area in northeastern Kansas. The proposed viticultural area is not within any other established viticultural area. TTB designates viticultural areas to allow vintners to better describe the origin of their wines and to allow consumers to better identify wines they may purchase. TTB invites comments on this proposed addition to its regulations.",
+      "document_number": "2026-16668",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16668/proposed-establishment-of-the-kaw-valley-viticultural-area",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-14/pdf/2026-16668.pdf",
+      "publication_date": "2026-08-14",
       "agencies": [
         {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
           "parent_id": null,
-          "slug": "transportation-department"
+          "slug": "treasury-department"
         },
         {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
+          "raw_name": "Alcohol and Tobacco Tax and Trade Bureau",
+          "name": "Alcohol and Tobacco Tax and Trade Bureau",
+          "id": 18,
+          "url": "https://www.federalregister.gov/agencies/alcohol-and-tobacco-tax-and-trade-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/18",
+          "parent_id": 497,
+          "slug": "alcohol-and-tobacco-tax-and-trade-bureau"
         }
       ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8783-0001",
+      "comments_close_on": "2026-10-13",
+      "comment_url": "http://www.regulations.gov/commenton/TTB-2026-0003-0001",
       "effective_on": null,
       "regulation_id_numbers": [
-        "2120-AA64"
+        "1513-AD11"
       ]
     },
     {
-      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "title": "Atlantic Highly Migratory Species; Revisions to Fishing Gear Regulations",
       "type": "Proposed Rule",
-      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Airbus SAS Model A330-941 airplanes. This proposed AD was prompted by an occurrence of a triple \"PRIM FAULT\" in the Flight Control Primary Computer (FCPC) at touchdown. This proposed AD would require the installation of a new FCPC standard and applicable concurrent modifications. This proposed AD would also prohibit the installation of certain parts The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-16874",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/19/2026-16874/airworthiness-directives-airbus-sas-airplanes",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-19/pdf/2026-16874.pdf",
-      "publication_date": "2026-08-19",
+      "abstract": "NMFS is proposing regulatory revisions to fishing gear requirements in fisheries targeting Atlantic highly migratory species (HMS) to increase flexibility and remove inefficiencies, thus increasing fishing opportunities and the ability of HMS fisheries to achieve optimum yield. Specifically, NMFS is proposing changes to buoy gear regulations that include modifying gear deployment and retrieval requirements, authorizing this gear under additional permits, and allowing the retention of additional species. NMFS is also proposing changes to speargun fishing gear regulations that include authorizing this gear under additional permits and targeting additional species. Finally, NMFS is proposing overarching changes regarding gear used for the collection of bait in all HMS fisheries.",
+      "document_number": "2026-16591",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16591/atlantic-highly-migratory-species-revisions-to-fishing-gear-regulations",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-14/pdf/2026-16591.pdf",
+      "publication_date": "2026-08-14",
       "agencies": [
         {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
           "parent_id": null,
-          "slug": "transportation-department"
+          "slug": "commerce-department"
         },
         {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
         }
       ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8782-0001",
+      "comments_close_on": "2026-10-13",
+      "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2024-0050-0080",
       "effective_on": null,
       "regulation_id_numbers": [
-        "2120-AA64"
+        "0648-BN52"
+      ]
+    },
+    {
+      "title": "FCC To Review E-Rate Program To Ensure Congress's Vision",
+      "type": "Proposed Rule",
+      "abstract": "In this document, the Federal Communications Commission (Commission) seeks comment on measures the Commission can take to better protect children when using E-Rate-funded networks, the Commission's progress in ensuring affordable access to high-speed broadband to and within schools and libraries, and whether the Commission's current interpretation of the Children's Internet Protection Act (CIPA) is the best reading of the statute. The Commission also proposes actions to strengthen E-Rate program integrity and streamline program administration.",
+      "document_number": "2026-16590",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16590/fcc-to-review-e-rate-program-to-ensure-congresss-vision",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-14/pdf/2026-16590.pdf",
+      "publication_date": "2026-08-14",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL COMMUNICATIONS COMMISSION",
+          "name": "Federal Communications Commission",
+          "id": 161,
+          "url": "https://www.federalregister.gov/agencies/federal-communications-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/161",
+          "parent_id": null,
+          "slug": "federal-communications-commission"
+        }
+      ],
+      "comments_close_on": "2026-10-13",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Community Reinvestment Act Regulations",
+      "type": "Proposed Rule",
+      "abstract": "The Office of the Comptroller of the Currency (OCC) and the Federal Deposit Insurance Corporation (FDIC) are proposing to amend their Community Reinvestment Act rules by making certain substantive, technical, and process-oriented changes to refocus on the statutory objective of encouraging banks to meet the credit needs of their communities; to better ensure that community development grants reach the communities they are intended to benefit; to reduce unnecessary burden, particularly for community banks; and to provide greater clarity for how to obtain CRA consideration. The OCC and the FDIC are also proposing certain technical changes to their rules implementing the Community Reinvestment Act sunshine requirements of the Federal Deposit Insurance Act. In addition, the OCC is proposing similar technical changes to its Public Welfare Investments rule and its Rules, Policies, and Procedures for Corporate Activities.",
+      "document_number": "2026-16454",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/12/2026-16454/community-reinvestment-act-regulations",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-12/pdf/2026-16454.pdf",
+      "publication_date": "2026-08-12",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "Office of the Comptroller of the Currency",
+          "name": "Comptroller of the Currency",
+          "id": 80,
+          "url": "https://www.federalregister.gov/agencies/comptroller-of-the-currency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/80",
+          "parent_id": 497,
+          "slug": "comptroller-of-the-currency"
+        },
+        {
+          "raw_name": "FEDERAL DEPOSIT INSURANCE CORPORATION",
+          "name": "Federal Deposit Insurance Corporation",
+          "id": 164,
+          "url": "https://www.federalregister.gov/agencies/federal-deposit-insurance-corporation",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/164",
+          "parent_id": null,
+          "slug": "federal-deposit-insurance-corporation"
+        }
+      ],
+      "comments_close_on": "2026-10-13",
+      "comment_url": "http://www.regulations.gov/commenton/OCC-2026-0694-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1557-AF57",
+        "3064-AG31"
+      ]
+    },
+    {
+      "title": "Mandatory Electronic Filing (e-Filing)",
+      "type": "Rule",
+      "abstract": "This interim final rule (IFR) amends U.S. Department of Homeland Security (DHS) regulations to provide: USCIS may require mandatory electronic filing (e-filing) of certain benefit requests; the process USCIS will follow to require a benefit request to be e-filed; and how a waiver of the e-filing requirement for those individuals unable to file electronically may be requested. This rule is intended to increase digital intake and processing to move USCIS and requestors from a mostly paper process to an electronic process and further enhance the integrity of the immigration system and the security of the United States.",
+      "document_number": "2026-16313",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/11/2026-16313/mandatory-electronic-filing-e-filing",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-11/pdf/2026-16313.pdf",
+      "publication_date": "2026-08-11",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        }
+      ],
+      "comments_close_on": "2026-10-13",
+      "comment_url": "http://www.regulations.gov/commenton/USCIS-2026-0232-0001",
+      "effective_on": "2026-08-11",
+      "regulation_id_numbers": [
+        "1615-AD19"
       ]
     },
     {
@@ -3943,361 +4057,29 @@
       ]
     },
     {
-      "title": "Extensions of Credit to Insiders",
+      "title": "Hazardous and Solid Waste Management System: Disposal of Coal Combustion Residuals From Electric Utilities; Federal CCR Permit Program; General Permit Provisions",
       "type": "Proposed Rule",
-      "abstract": "The Federal Deposit Insurance Corporation (FDIC) is proposing to increase quantitative thresholds for certain extensions of credit to insiders of FDIC-supervised institutions, as restricted by the Federal Reserve Act and regulations promulgated thereunder. Specifically, the proposal would increase the thresholds for certain extensions of credit to executive officers not otherwise specifically authorized by statute from $100,000 to $400,000; and extensions of credit to insiders requiring prior approval by the board of directors from $500,000 to $2,000,000. The proposal would also establish an indexing methodology to periodically update such thresholds over time.",
-      "document_number": "2026-15995",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/06/2026-15995/extensions-of-credit-to-insiders",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-06/pdf/2026-15995.pdf",
-      "publication_date": "2026-08-06",
+      "abstract": "The Environmental Protection Agency (EPA) issued a proposed rule on February 20, 2020, to establish a Federal permit program for disposal of coal combustion residuals (CCR). On April 13, 2026, the EPA proposed to establish new compliance pathways that would allow site- specific considerations to be taken into account during permitting for owners or operators of CCR units complying with groundwater monitoring, corrective action, and closure requirements under a federal or participating-State CCR permit. The EPA is considering whether a general permit could be developed to allow such facilities to temporarily obtain permit coverage until an individual permit issued by EPA or an approved state CCR permit program is in effect. This advance notice of proposed rulemaking (ANPRM) does not propose any regulatory requirements or change any existing regulatory requirements.",
+      "document_number": "2026-14115",
+      "html_url": "https://www.federalregister.gov/documents/2026/07/14/2026-14115/hazardous-and-solid-waste-management-system-disposal-of-coal-combustion-residuals-from-electric",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-07-14/pdf/2026-14115.pdf",
+      "publication_date": "2026-07-14",
       "agencies": [
         {
-          "raw_name": "FEDERAL DEPOSIT INSURANCE CORPORATION",
-          "name": "Federal Deposit Insurance Corporation",
-          "id": 164,
-          "url": "https://www.federalregister.gov/agencies/federal-deposit-insurance-corporation",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/164",
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
           "parent_id": null,
-          "slug": "federal-deposit-insurance-corporation"
+          "slug": "environmental-protection-agency"
         }
       ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": null,
+      "comments_close_on": "2026-10-13",
+      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OLEM-2026-4159-0001",
       "effective_on": null,
       "regulation_id_numbers": [
-        "3064-AG26"
-      ]
-    },
-    {
-      "title": "Oil and Gas and Sulfur Operations on the Outer Continental Shelf-Revisions to the Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf",
-      "type": "Proposed Rule",
-      "abstract": "The Department of the Interior (DOI or Department), acting through BSEE and BOEM (collectively, \"the Bureaus\"), is proposing to revise its existing regulations for exploratory drilling and related operations on the Arctic Outer Continental Shelf (OCS), to reduce unnecessary burdens on stakeholders while ensuring that energy exploration on the Arctic OCS is safe and environmentally responsible.\\1\\ This proposed rule would revise certain requirements promulgated through the rule entitled, Oil and Gas and Sulfur Operations on the Outer Continental Shelf--Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf (\"2016 Arctic Exploratory Drilling Rule\") (see 81 FR 46478). This proposed rule would modify existing Arctic OCS blowout preventer (BOP) real-time monitoring requirements and add new provisions to BSEE's regulations pertaining to requirements for crane operations on artificial islands, suspensions of operations (SOO), and suspensions of production (SOP). This proposed rule would also revise certain parts of the Exploration Plan (EP) and Development and Production Plan (DPP) regulations implemented by BOEM. ---------------------------------------------------------------------------",
-      "document_number": "2026-15953",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/06/2026-15953/oil-and-gas-and-sulfur-operations-on-the-outer-continental-shelf-revisions-to-the-requirements-for",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-06/pdf/2026-15953.pdf",
-      "publication_date": "2026-08-06",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE INTERIOR",
-          "name": "Interior Department",
-          "id": 253,
-          "url": "https://www.federalregister.gov/agencies/interior-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
-          "parent_id": null,
-          "slug": "interior-department"
-        },
-        {
-          "raw_name": "Bureau of Safety and Environmental Enforcement",
-          "name": "Safety and Environmental Enforcement Bureau",
-          "id": 576,
-          "url": "https://www.federalregister.gov/agencies/safety-and-environmental-enforcement-bureau",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/576",
-          "parent_id": 253,
-          "slug": "safety-and-environmental-enforcement-bureau"
-        },
-        {
-          "raw_name": "Bureau of Ocean Energy Management",
-          "name": "Ocean Energy Management Bureau",
-          "id": 575,
-          "url": "https://www.federalregister.gov/agencies/ocean-energy-management-bureau",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/575",
-          "parent_id": 253,
-          "slug": "ocean-energy-management-bureau"
-        }
-      ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/BOEM_FRDOC_0001-0797",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1082-AA05"
-      ]
-    },
-    {
-      "title": "Conflicts and Affiliations",
-      "type": "Proposed Rule",
-      "abstract": "The Commodity Futures Trading Commission (\"CFTC\" or \"Commission\") is proposing new rules and amendments to its existing regulations for futures commission merchants (\"FCMs\"), swap execution facilities (\"SEFs\"), designated contract markets (\"DCMs\"), and derivatives clearing organizations (\"DCOs\") (the \"Proposal\"). The Proposal addresses requirements relating to financial oversight of FCMs by self-regulatory organizations (\"SROs\") and designated self- regulatory organizations (\"DSROs\"), as well as disclosure requirements by FCMs regarding affiliate relationships that an FCM has with a SEF, DCM, or DCO. For SEFs, DCMs, and DCOs, the Proposal would also establish requirements, including conflicts of interest rules, to address those registered entities' relationships with certain affiliates, such as FCM affiliates and affiliated principal trading firms. The Proposal includes guidance regarding the implementation of safeguards to protect the impartiality of SEFs, DCMs, and DCOs, including where applicable in their role as SROs or performing SRO functions with respect to certain affiliates. The guidance addresses the sharing of resources including staffing, technology, and office space, and limitations on the sharing of non-public information.",
-      "document_number": "2026-15948",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/06/2026-15948/conflicts-and-affiliations",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-06/pdf/2026-15948.pdf",
-      "publication_date": "2026-08-06",
-      "agencies": [
-        {
-          "raw_name": "COMMODITY FUTURES TRADING COMMISSION",
-          "name": "Commodity Futures Trading Commission",
-          "id": 77,
-          "url": "https://www.federalregister.gov/agencies/commodity-futures-trading-commission",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/77",
-          "parent_id": null,
-          "slug": "commodity-futures-trading-commission"
-        }
-      ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/CFTC-2026-1686-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "3038-AF76"
-      ]
-    },
-    {
-      "title": "Improving Emergency Medical Kit Efficacy and Flexibility in Commercial Airline Operations",
-      "type": "Proposed Rule",
-      "abstract": "FAA proposes to eliminate the prescriptive list of required items in emergency medical kits and first aid kits and replace it with a performance-based requirement to ensure contents are practical and sufficient to allow crewmembers to address the most common medical emergencies that occur onboard commercial aircraft. FAA seeks to increase flexibility for operators while maintaining predictability for operators to equip their onboard medical kits. This rule would also remove an outdated reference to certain emergency medical kits modified on April 12, 2004. This action is necessary to address requirements in the FAA Reauthorization Act of 2024.",
-      "document_number": "2026-15929",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/05/2026-15929/improving-emergency-medical-kit-efficacy-and-flexibility-in-commercial-airline-operations",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-05/pdf/2026-15929.pdf",
-      "publication_date": "2026-08-05",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9178-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AM18"
-      ]
-    },
-    {
-      "title": "OCC Rules Regarding the Availability of OCC Information",
-      "type": "Proposed Rule",
-      "abstract": "The Office of the Comptroller of the Currency (OCC) is proposing changes to its rules on information disclosure. The proposal would clarify the process for obtaining OCC approval to disclose non- public OCC information and allow for the disclosure of confidential supervisory information without OCC approval in certain circumstances, provided that applicable safeguards are observed. It also refines the OCC's process for requesting records under the Freedom of Information Act (FOIA), amends the rules to provide for expedited process of FOIA requests, and makes other structural and conforming changes.",
-      "document_number": "2026-15867",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/05/2026-15867/occ-rules-regarding-the-availability-of-occ-information",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-05/pdf/2026-15867.pdf",
-      "publication_date": "2026-08-05",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        },
-        {
-          "raw_name": "Office of the Comptroller of the Currency",
-          "name": "Comptroller of the Currency",
-          "id": 80,
-          "url": "https://www.federalregister.gov/agencies/comptroller-of-the-currency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/80",
-          "parent_id": 497,
-          "slug": "comptroller-of-the-currency"
-        }
-      ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/OCC-2026-0133-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1557-AF50"
-      ]
-    },
-    {
-      "title": "Importation of Coffee Into Hawaii and Puerto Rico",
-      "type": "Proposed Rule",
-      "abstract": "We are proposing to amend the regulations regarding the importation of unroasted coffee and related articles into Hawaii and Puerto Rico by establishing a notice-based process for changes to the prohibitions on importing such articles. We would also broaden language regarding coffee pests. We are proposing these amendments because they would allow the Agency to more efficiently respond to market access requests as well as to emerging pest situations. These amendments would allow us to use a streamlined approach to update the importation conditions for unroasted coffee and related articles while continuing to protect plant health.",
-      "document_number": "2026-15857",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/05/2026-15857/importation-of-coffee-into-hawaii-and-puerto-rico",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-05/pdf/2026-15857.pdf",
-      "publication_date": "2026-08-05",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Animal and Plant Health Inspection Service",
-          "name": "Animal and Plant Health Inspection Service",
-          "id": 22,
-          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
-          "parent_id": 12,
-          "slug": "animal-and-plant-health-inspection-service"
-        }
-      ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/APHIS-2023-0073-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "0579-AE90"
-      ]
-    },
-    {
-      "title": "National Poultry Improvement Plan and Auxiliary Provisions",
-      "type": "Proposed Rule",
-      "abstract": "We are proposing to amend the regulations governing the National Poultry Improvement Plan (NPIP). These amendments would, among other things, clarify existing provisions of the regulations, fix editorial errors, and align the regulations more closely with current producer practices. These proposed changes were voted on and approved by the voting delegates at the NPIP's 2024 National Plan Conference.",
-      "document_number": "2026-15845",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/05/2026-15845/national-poultry-improvement-plan-and-auxiliary-provisions",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-05/pdf/2026-15845.pdf",
-      "publication_date": "2026-08-05",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Animal and Plant Health Inspection Service",
-          "name": "Animal and Plant Health Inspection Service",
-          "id": 22,
-          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
-          "parent_id": 12,
-          "slug": "animal-and-plant-health-inspection-service"
-        }
-      ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/APHIS-2025-0033-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "0579-AE89"
-      ]
-    },
-    {
-      "title": "Loans to Executive Officers, Directors, and Principal Shareholders of Member Banks; Bank Holding Companies",
-      "type": "Proposed Rule",
-      "abstract": "The Board is inviting public comment on proposed amendments to Regulation O, which governs loans by member banks to their insiders and insiders of their affiliates. The proposed amendments would update and modernize the regulation, increase transparency by clarifying requirements and incorporating existing interpretations, and promote efficiency by reducing regulatory burden. The proposed amendments also would incorporate existing statutory requirements that are not currently reflected in the regulation. Moreover, the proposed amendments would update several outdated dollar-based thresholds in Regulation O and index these thresholds going forward. In addition, the proposed amendments would address the application of Regulation O to member banks that lend to companies that are presumed to be controlled by large asset management companies through passive investment funds. Finally, the proposed amendments would revise and reorganize the regulation to streamline the text and make it more accessible.",
-      "document_number": "2026-15777",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/04/2026-15777/loans-to-executive-officers-directors-and-principal-shareholders-of-member-banks-bank-holding",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-04/pdf/2026-15777.pdf",
-      "publication_date": "2026-08-04",
-      "agencies": [
-        {
-          "raw_name": "FEDERAL RESERVE SYSTEM",
-          "name": "Federal Reserve System",
-          "id": 188,
-          "url": "https://www.federalregister.gov/agencies/federal-reserve-system",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/188",
-          "parent_id": null,
-          "slug": "federal-reserve-system"
-        }
-      ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "7100-AH27"
-      ]
-    },
-    {
-      "title": "Regulatory Modernization and Relief for Mutual Holding Companies",
-      "type": "Proposed Rule",
-      "abstract": "The Board invites comment on a notice of proposed rulemaking (proposal) to modernize the regulatory framework applicable to mutual holding companies (MHCs), primarily through proposed revisions to Regulation MM (12 CFR part 239), which governs the formation, operations, activities, and conversion of savings and loan holding companies in mutual form. The proposal would amend Regulation MM by, among other things, eliminating certain dividend waiver requirements, reducing burden associated with conversions from mutual-to-stock form, revising certain post-conversion restrictions, eliminating the requirement that subsidiary holding companies of MHCs obtain federal charters, and revising and clarifying other provisions of the regulation. The proposal also would amend the capital rule (12 CFR part 217) to clarify that certain mutual capital instruments may qualify as regulatory capital and to codify model term sheets for mutual capital certificates as appendices to the regulation.",
-      "document_number": "2026-15774",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/04/2026-15774/regulatory-modernization-and-relief-for-mutual-holding-companies",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-04/pdf/2026-15774.pdf",
-      "publication_date": "2026-08-04",
-      "agencies": [
-        {
-          "raw_name": "FEDERAL RESERVE SYSTEM",
-          "name": "Federal Reserve System",
-          "id": 188,
-          "url": "https://www.federalregister.gov/agencies/federal-reserve-system",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/188",
-          "parent_id": null,
-          "slug": "federal-reserve-system"
-        }
-      ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "7100-AH26"
-      ]
-    },
-    {
-      "title": "Establishment of Class C Airspace and Removal of Class D Airspace; Wilmington International Airport, NC",
-      "type": "Proposed Rule",
-      "abstract": "This action proposes to establish Class C airspace and remove Class D airspace at Wilmington International Airport (ILM), NC. The FAA is proposing this action to enhance the efficient management of air traffic operations and reduce the potential for midair collision in the Wilmington, NC, terminal area. The Class C airspace would replace the existing Class D airspace at ILM. In addition, the non-regulatory Terminal Radar Service Area (TRSA) would be removed.",
-      "document_number": "2026-15758",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/04/2026-15758/establishment-of-class-c-airspace-and-removal-of-class-d-airspace-wilmington-international-airport",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-04/pdf/2026-15758.pdf",
-      "publication_date": "2026-08-04",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-6934-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA66"
-      ]
-    },
-    {
-      "title": "Fingerprint and Photograph Requirements for Firearms Applications",
-      "type": "Proposed Rule",
-      "abstract": "The Bureau of Alcohol, Tobacco, Firearms, and Explosives (\"ATF\") proposes amending regulatory requirements to submit fingerprints and photographs with firearms applications. Currently, applicants must submit 2\" x 2\" passport-style photographs and either one or two fingerprint cards, depending on the application type. ATF proposes that all applicants, whether individuals or responsible persons (\"RPs\") for entity applicants, could instead submit a copy of a photo ID, and that individuals and Gun Control Act RPs would submit just one fingerprint card. RPs under the National Firearms Act would submit one fingerprint card only if needed to facilitate a background check.",
-      "document_number": "2026-13587",
-      "html_url": "https://www.federalregister.gov/documents/2026/07/06/2026-13587/fingerprint-and-photograph-requirements-for-firearms-applications",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-07-06/pdf/2026-13587.pdf",
-      "publication_date": "2026-07-06",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF JUSTICE",
-          "name": "Justice Department",
-          "id": 268,
-          "url": "https://www.federalregister.gov/agencies/justice-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/268",
-          "parent_id": null,
-          "slug": "justice-department"
-        },
-        {
-          "raw_name": "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
-          "name": "Alcohol, Tobacco, Firearms, and Explosives Bureau",
-          "id": 19,
-          "url": "https://www.federalregister.gov/agencies/alcohol-tobacco-firearms-and-explosives-bureau",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/19",
-          "parent_id": 268,
-          "slug": "alcohol-tobacco-firearms-and-explosives-bureau"
-        }
-      ],
-      "comments_close_on": "2026-10-05",
-      "comment_url": "http://www.regulations.gov/commenton/ATF-2026-0397-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1140-AA63"
+        "2050-AH50"
       ]
     }
   ]
