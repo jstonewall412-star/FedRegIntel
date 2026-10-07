@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T07:33:55.761988+00:00",
+  "updated_at": "2026-10-07T14:05:47.282925+00:00",
   "as_of": "2026-10-07",
   "count": 208,
   "documents": [
@@ -23,12 +23,12 @@
         }
       ],
       "comments_close_on": "2026-11-06",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA_FRDOC_0001-33198",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "EPA_FRDOC_0001"
     },
     {
       "title": "Drawbridge Operation Regulation; Bay St. Louis, Bay St. Louis, MS; Back Bay of Biloxi, Biloxi, MS; Pascagoula River, Pascagoula, MS; Three Mile Creek, Mobile, AL; Chickasaw Creek, Saraland, AL.",
@@ -59,14 +59,14 @@
         }
       ],
       "comments_close_on": "2026-11-06",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/USCG-2026-0889-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1625-AA09"
       ],
       "significant": false,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "USCG-2026-0889"
     },
     {
       "title": "Airworthiness Directives; Airbus SAS Airplanes",
@@ -97,14 +97,14 @@
         }
       ],
       "comments_close_on": "2026-11-23",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-1338-0004",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FAA-2026-1338"
     },
     {
       "title": "Privacy Act of 1974; Implementation",
@@ -126,12 +126,12 @@
         }
       ],
       "comments_close_on": "2026-11-06",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/DOJ_FRDOC_0001-0334",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "DOJ_FRDOC_0001"
     },
     {
       "title": "Loans to Executive Officers, Directors, and Principal Shareholders of Member Banks: Bank Holding Companies",
@@ -159,7 +159,7 @@
         "7100-AH27"
       ],
       "significant": null,
-      "comments_count": null,
+      "comments_count": 0,
       "docket_id": null
     },
     {

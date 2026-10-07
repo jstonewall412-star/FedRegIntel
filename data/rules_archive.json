@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T07:33:55.761988+00:00",
+  "updated_at": "2026-10-07T14:05:47.282925+00:00",
   "count": 255,
   "documents": {
     "2026-11545": {
@@ -8641,7 +8641,7 @@
         "7100-AH27"
       ],
       "significant": null,
-      "comments_count": null,
+      "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-10-07"
     },
@@ -8665,12 +8665,12 @@
         }
       ],
       "comments_close_on": "2026-11-06",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/DOJ_FRDOC_0001-0334",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "DOJ_FRDOC_0001",
       "first_seen": "2026-10-07"
     }
   }
