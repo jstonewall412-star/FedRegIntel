@@ -168,10 +168,12 @@
         }
 
         .tier-selection {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            gap: 15px;
             margin-bottom: 30px;
+            flex-wrap: wrap;
         }
 
         .tier-card {
@@ -183,6 +185,9 @@
             transition: all 0.3s;
             background: #253545;
             position: relative;
+            flex: 0 1 calc(33.333% - 10px);
+            max-width: 280px;
+            min-width: 200px;
         }
 
         .tier-card:hover {
@@ -219,12 +224,11 @@
             border-color: #c4a574;
             background: #2a3f52;
             position: relative;
-            transform: scale(1.05);
         }
 
         .tier-card.featured:hover {
             background: #334455;
-            transform: scale(1.05) translateY(-4px);
+            transform: translateY(-4px);
         }
 
         .tier-card.featured .badge {
@@ -906,7 +910,7 @@
 
             <div class="form-group">
                 <label>Select Your Course</label>
-                <div class="tier-selection" style="grid-template-columns: repeat(3, 1fr); gap: 15px;">
+                <div class="tier-selection" style="display: flex; justify-content: center; gap: 15px; align-items: flex-start; flex-wrap: wrap;">
                     <div class="tier-card" onclick="selectTier('associate', this)">
                         <h3>Associate</h3>
                         <div class="price">$49</div>
