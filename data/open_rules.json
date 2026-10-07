@@ -1,8 +1,167 @@
 {
-  "updated_at": "2026-10-06T14:05:37.078236+00:00",
-  "as_of": "2026-10-06",
-  "count": 205,
+  "updated_at": "2026-10-07T07:33:55.761988+00:00",
+  "as_of": "2026-10-07",
+  "count": 208,
   "documents": [
+    {
+      "title": "Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; West Virginia; Negative Declarations for Existing Large Municipal Waste Combustors and Other Solid Waste Incinerators",
+      "type": "Proposed Rule",
+      "abstract": "The Environmental Protection Agency (EPA) is proposing to approve the negative declarations submitted by the West Virginia Department of Environmental Protection (WVDEP) on July 13, 2026. The negative declarations submitted by WVDEP certify that there are no existing large municipal waste combustors (LMWC) or other solid waste incinerators (OSWI) subject to sections 111(d) and 129 of the Clean Air Act (CAA) within the jurisdiction of West Virginia.",
+      "document_number": "2026-20611",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/07/2026-20611/approval-and-promulgation-of-state-air-quality-plans-for-designated-facilities-and-pollutants-west",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-07/pdf/2026-20611.pdf",
+      "publication_date": "2026-10-07",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-11-06",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Drawbridge Operation Regulation; Bay St. Louis, Bay St. Louis, MS; Back Bay of Biloxi, Biloxi, MS; Pascagoula River, Pascagoula, MS; Three Mile Creek, Mobile, AL; Chickasaw Creek, Saraland, AL.",
+      "type": "Proposed Rule",
+      "abstract": "The Coast Guard proposes to change the operating procedures governing the five CSX Transportation drawbridges across Bay St. Louis, Bay St. Louis, MS; Back Bay of Biloxi, Biloxi, MS; Pascagoula River, Pascagoula, MS; Three Mile Creek, Mobile, AL; Chickasaw Creek, Saraland, AL. CSX has proposed to operate each of these bridges from a remote location within the CSX Seibert Railroad Yard located in Mobile, AL. We invite your comments on this proposed rulemaking.",
+      "document_number": "2026-20545",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/07/2026-20545/drawbridge-operation-regulation-bay-st-louis-bay-st-louis-ms-back-bay-of-biloxi-biloxi-ms-pascagoula",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-07/pdf/2026-20545.pdf",
+      "publication_date": "2026-10-07",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "comments_close_on": "2026-11-06",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1625-AA09"
+      ],
+      "significant": false,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA is revising a notice of proposed rulemaking (NPRM) to supersede Airworthiness Directive (AD) 2014-16-22 and AD 2017-25-13, which apply to certain Airbus SAS Model A330-200, A330-200 Freighter, A330-300, A340-200, A340-300, A340-500, and A340-600 series airplanes; and AD 2024-25-11, which applies to certain Airbus SAS Model A330-200, A330-200 Freighter, A330-300, A330-800 and A330-900 series airplanes. This action revises the NPRM by referencing later service information with new or more restrictive airworthiness limitations and expanding the applicability. The FAA is proposing this airworthiness directive (AD) to address the unsafe condition on these products. Since these actions would impose an additional burden over those in the NPRM, the FAA is requesting comments on this SNPRM.",
+      "document_number": "2026-20543",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/07/2026-20543/airworthiness-directives-airbus-sas-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-07/pdf/2026-20543.pdf",
+      "publication_date": "2026-10-07",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-23",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ],
+      "significant": false,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Privacy Act of 1974; Implementation",
+      "type": "Proposed Rule",
+      "abstract": "In the Notice section of today's Federal Register, the Office of the Pardon Attorney (PARDON), a component within the United States Department of Justice (DOJ or Department), has published a notice of a new system of records, Firearms Rights Restoration Electronic Records Database (FRRERD), JUSTICE/OPA-002. In this notice of proposed rulemaking, PARDON proposes to exempt this system of records from certain provisions of the Privacy Act in order to safeguard confidential information compiled at various stages of the criminal law enforcement process; and compiled for the purpose of ensuring the integrity of the adjudicatory process involving eligibility and suitability determinations concerning the restoration of an applicant's federal firearms rights pursuant to 18 U.S.C. 925(c) and 28 CFR 107.1 et seq. For the reasons provided below, the Department proposes to amend its Privacy Act regulations by establishing an exemption for records in this system from certain provisions of the Privacy Act. Public comment is invited.",
+      "document_number": "2026-20532",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/07/2026-20532/privacy-act-of-1974-implementation",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-07/pdf/2026-20532.pdf",
+      "publication_date": "2026-10-07",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF JUSTICE",
+          "name": "Justice Department",
+          "id": 268,
+          "url": "https://www.federalregister.gov/agencies/justice-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/268",
+          "parent_id": null,
+          "slug": "justice-department"
+        }
+      ],
+      "comments_close_on": "2026-11-06",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Loans to Executive Officers, Directors, and Principal Shareholders of Member Banks: Bank Holding Companies",
+      "type": "Proposed Rule",
+      "abstract": "On August 4, 2026, the Board of Governors of the Federal Reserve System (Board) published in the Federal Register a proposal that would update Regulation O, the Board's rule governing loans by member banks to their insiders and insiders of their affiliates. The proposal provided for a comment period ending on October 5, 2026. The Board is extending the comment period for 30 days, until November 4, 2026.",
+      "document_number": "2026-20509",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/07/2026-20509/loans-to-executive-officers-directors-and-principal-shareholders-of-member-banks-bank-holding",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-07/pdf/2026-20509.pdf",
+      "publication_date": "2026-10-07",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL RESERVE SYSTEM",
+          "name": "Federal Reserve System",
+          "id": 188,
+          "url": "https://www.federalregister.gov/agencies/federal-reserve-system",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/188",
+          "parent_id": null,
+          "slug": "federal-reserve-system"
+        }
+      ],
+      "comments_close_on": "2026-11-04",
+      "comment_url": null,
+      "effective_on": "2026-08-04",
+      "regulation_id_numbers": [
+        "7100-AH27"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
     {
       "title": "Safety Zone; Red Bull Flugtag, Intercoastal Waterway, Biscayne Bay, Miami, FL",
       "type": "Proposed Rule",
@@ -161,7 +320,7 @@
         "2060-AW33"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 3,
       "docket_id": "EPA-HQ-OAR-2024-0078"
     },
     {
@@ -228,7 +387,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-11800"
     },
     {
@@ -825,7 +984,7 @@
         "1545-BR97"
       ],
       "significant": null,
-      "comments_count": 10703,
+      "comments_count": 10974,
       "docket_id": "IRS-2026-1354"
     },
     {
@@ -863,7 +1022,7 @@
         "1024-AE54"
       ],
       "significant": false,
-      "comments_count": 8,
+      "comments_count": 9,
       "docket_id": "NPS-2026-0199"
     },
     {
@@ -939,7 +1098,7 @@
         "0570-AB13"
       ],
       "significant": false,
-      "comments_count": 5,
+      "comments_count": 7,
       "docket_id": "RBS-26-BUSINESS-0529"
     },
     {
@@ -995,7 +1154,7 @@
         "3084-AB90"
       ],
       "significant": null,
-      "comments_count": 10,
+      "comments_count": 12,
       "docket_id": "FTC-2026-1552"
     },
     {
@@ -1333,7 +1492,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "FTC-2026-1453"
     },
     {
@@ -1419,14 +1578,14 @@
         }
       ],
       "comments_close_on": "2026-11-30",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/IRS-2026-1321-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1545-BR91"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 38,
+      "docket_id": "IRS-2026-1321"
     },
     {
       "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Groundfish Reserves in the Bering Sea and Aleutian Islands Management Area",
@@ -2033,7 +2192,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-11787"
     },
     {
@@ -2425,7 +2584,7 @@
         "3245-AI67"
       ],
       "significant": null,
-      "comments_count": 130,
+      "comments_count": 177,
       "docket_id": "SBA-2026-0199"
     },
     {
@@ -2463,7 +2622,7 @@
         "0938-AW08"
       ],
       "significant": null,
-      "comments_count": 13,
+      "comments_count": 14,
       "docket_id": "CMS-2026-3037"
     },
     {
@@ -2555,7 +2714,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "EPA-R04-OAR-2025-0223"
     },
     {
@@ -2631,7 +2790,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-8818"
     },
     {
@@ -2667,7 +2826,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 107,
+      "comments_count": 112,
       "docket_id": "DEA-2026-1585"
     },
     {
@@ -2922,7 +3081,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 24,
+      "comments_count": 25,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -2960,7 +3119,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 14,
+      "comments_count": 15,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -3429,7 +3588,7 @@
         "0648-BN92"
       ],
       "significant": false,
-      "comments_count": 21,
+      "comments_count": 23,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     {
@@ -3570,7 +3729,7 @@
         "9000-AO88"
       ],
       "significant": null,
-      "comments_count": 21,
+      "comments_count": 23,
       "docket_id": "FAR-2026-0003"
     },
     {
@@ -3635,7 +3794,7 @@
         "9000-AO91"
       ],
       "significant": null,
-      "comments_count": 9,
+      "comments_count": 10,
       "docket_id": "FAR-2026-0006"
     },
     {
@@ -3700,7 +3859,7 @@
         "9000-AO84"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 6,
       "docket_id": "FAR-2026-0011"
     },
     {
@@ -3803,7 +3962,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "FAA-2026-8816"
     },
     {
@@ -3879,7 +4038,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-8813"
     },
     {
@@ -3908,7 +4067,7 @@
         "2060-AX00"
       ],
       "significant": null,
-      "comments_count": 5121,
+      "comments_count": 5248,
       "docket_id": "EPA-HQ-OAR-2025-0124"
     },
     {
@@ -4116,7 +4275,7 @@
         "3206-XXXX"
       ],
       "significant": null,
-      "comments_count": 154,
+      "comments_count": 155,
       "docket_id": "OPM-2026-0661"
     },
     {
@@ -4362,7 +4521,7 @@
         "2120-AM13"
       ],
       "significant": false,
-      "comments_count": 20,
+      "comments_count": 21,
       "docket_id": "FAA-2026-10991"
     },
     {
@@ -4512,7 +4671,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "EPA-R09-OAR-2026-4885"
     },
     {
@@ -4657,44 +4816,6 @@
       "docket_id": "FAA-2026-8808"
     },
     {
-      "title": "Special Areas; Roadless Area Conservation",
-      "type": "Proposed Rule",
-      "abstract": "The U.S. Department of Agriculture (USDA or Department) is extending the public comment period for the proposed rule titled Special Areas; Roadless Area Conservation, published in the Federal Register on August 20, 2026 (91 FR 53827). The notice of proposed rulemaking invited public comment on the proposed rule, the associated draft environmental impact statement, and cost benefit analysis, which were published simultaneously. The original comment period is scheduled to close on September 21, 2026. The Department is extending the comment period by 15 days to allow the public additional time to submit comments. The new deadline for comments is October 6, 2026.",
-      "document_number": "2026-18648",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/11/2026-18648/special-areas-roadless-area-conservation",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-11/pdf/2026-18648.pdf",
-      "publication_date": "2026-09-11",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Forest Service",
-          "name": "Forest Service",
-          "id": 209,
-          "url": "https://www.federalregister.gov/agencies/forest-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/209",
-          "parent_id": 12,
-          "slug": "forest-service"
-        }
-      ],
-      "comments_close_on": "2026-10-06",
-      "comment_url": "http://www.regulations.gov/commenton/FS-2025-0001-342438",
-      "effective_on": "2026-08-20",
-      "regulation_id_numbers": [
-        "0596-AD66"
-      ],
-      "significant": true,
-      "comments_count": 15936,
-      "docket_id": "FS-2025-0001"
-    },
-    {
       "title": "Eliminating the Discretionary 60-Day Grace Period",
       "type": "Proposed Rule",
       "abstract": "The Department of Homeland Security (DHS) proposes to remove regulations at 8 CFR 214.1(l)(2) to restore its previous and long- standing policy of not providing aliens in certain nonimmigrant classifications (and their dependents) with an up to 60-day grace period upon cessation of employment prior to the expiration of the alien's authorized period of stay. This proposal restores a direct relationship between an alien's nonimmigrant status and the specific employment or activity that formed the basis of his or her admission or grant of status in the United States and reduces administrative burden.",
@@ -4720,7 +4841,7 @@
         "1615-AD22"
       ],
       "significant": null,
-      "comments_count": 24880,
+      "comments_count": 24957,
       "docket_id": "USCIS-2026-0364"
     },
     {
@@ -4758,7 +4879,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-8806"
     },
     {
@@ -4853,7 +4974,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 5,
+      "comments_count": 6,
       "docket_id": "USDA-2026-0298"
     },
     {
@@ -5034,7 +5155,7 @@
         "0607-AA75"
       ],
       "significant": null,
-      "comments_count": 38780,
+      "comments_count": 44792,
       "docket_id": "USBC-2026-0628"
     },
     {
@@ -5354,7 +5475,7 @@
         "2040-AG44"
       ],
       "significant": true,
-      "comments_count": 19149,
+      "comments_count": 28659,
       "docket_id": "EPA-HQ-OW-2025-0322"
     },
     {
@@ -5446,7 +5567,7 @@
         "1004-AF57"
       ],
       "significant": null,
-      "comments_count": 24727,
+      "comments_count": 24827,
       "docket_id": "BLM-2026-0133"
     },
     {
@@ -5580,7 +5701,7 @@
         "2040-AG56"
       ],
       "significant": null,
-      "comments_count": 64,
+      "comments_count": 65,
       "docket_id": "EPA-HQ-OW-2026-6965"
     },
     {
@@ -5875,7 +5996,7 @@
         "1024-AE97"
       ],
       "significant": false,
-      "comments_count": 245,
+      "comments_count": 246,
       "docket_id": "NPS-2026-0166"
     },
     {
@@ -6016,7 +6137,7 @@
         "1400-AF97"
       ],
       "significant": true,
-      "comments_count": 5,
+      "comments_count": 6,
       "docket_id": "DOS-2026-0925"
     },
     {
@@ -6130,7 +6251,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-8791"
     },
     {
@@ -6338,7 +6459,7 @@
         "3038-AF77"
       ],
       "significant": null,
-      "comments_count": 35,
+      "comments_count": 36,
       "docket_id": "CFTC-2026-1850"
     },
     {
@@ -6493,14 +6614,14 @@
         }
       ],
       "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/RHS-26-ADMIN-0331-0001",
+      "comment_url": "http://www.regulations.gov/commenton/RBS_FRDOC_0001-0635",
       "effective_on": null,
       "regulation_id_numbers": [
         "0575-AD54"
       ],
       "significant": null,
-      "comments_count": 6,
-      "docket_id": "RHS-26-ADMIN-0331"
+      "comments_count": 3,
+      "docket_id": "RBS_FRDOC_0001"
     },
     {
       "title": "GENIUS Act Regulations on Payment Stablecoin Issuance, Offer, and Sale",
@@ -6528,7 +6649,7 @@
         "1505-AC95"
       ],
       "significant": null,
-      "comments_count": 77,
+      "comments_count": 79,
       "docket_id": "TREAS-DO-2026-0496"
     },
     {
@@ -6828,7 +6949,7 @@
         "0648-BN52"
       ],
       "significant": false,
-      "comments_count": 12,
+      "comments_count": 15,
       "docket_id": "NOAA-NMFS-2024-0050"
     },
     {
@@ -6941,7 +7062,7 @@
         "3064-AG31"
       ],
       "significant": null,
-      "comments_count": 102,
+      "comments_count": 126,
       "docket_id": "OCC-2026-0694"
     },
     {
@@ -7008,7 +7129,7 @@
         "0910-AJ02"
       ],
       "significant": true,
-      "comments_count": 601,
+      "comments_count": 674,
       "docket_id": "FDA-2025-N-3262"
     },
     {
@@ -7046,7 +7167,7 @@
         "2126-AC99"
       ],
       "significant": null,
-      "comments_count": 2087,
+      "comments_count": 2124,
       "docket_id": "FMCSA-2026-0826"
     },
     {
@@ -7113,7 +7234,7 @@
         "2529-AB09"
       ],
       "significant": true,
-      "comments_count": 56,
+      "comments_count": 70,
       "docket_id": "HUD-2026-0034"
     },
     {
@@ -7149,46 +7270,8 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "FDA-2026-N-7630"
-    },
-    {
-      "title": "Reducing Federal Burden for Head Start Programs",
-      "type": "Proposed Rule",
-      "abstract": "This NPRM proposes to rescind and replace the Head Start Program Performance Standards (Performance Standards), last revised in 2024. The proposed Performance Standards would significantly reduce Federal bureaucratic burden on programs; defer to State policies wherever possible; return substantial local control to Head Start agencies delivering the services and to parents as the primary caregivers and decision-makers for their children; reduce unnecessary duplication of Head Start regulations with Federal statute and other regulations; and emphasize the critical role of health, nutrition, and physical exercise for young children.",
-      "document_number": "2026-16134",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/07/2026-16134/reducing-federal-burden-for-head-start-programs",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-07/pdf/2026-16134.pdf",
-      "publication_date": "2026-08-07",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
-          "name": "Health and Human Services Department",
-          "id": 221,
-          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
-          "parent_id": null,
-          "slug": "health-and-human-services-department"
-        },
-        {
-          "raw_name": "Administration for Children and Families",
-          "name": "Children and Families Administration",
-          "id": 49,
-          "url": "https://www.federalregister.gov/agencies/children-and-families-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/49",
-          "parent_id": 221,
-          "slug": "children-and-families-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-06",
-      "comment_url": "http://www.regulations.gov/commenton/ACF-2026-0595-0002",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "0970-AD30"
-      ],
-      "significant": null,
-      "comments_count": 12588,
-      "docket_id": "ACF-2026-0595"
     },
     {
       "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",

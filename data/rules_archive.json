@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T14:05:37.078236+00:00",
-  "count": 253,
+  "updated_at": "2026-10-07T07:33:55.761988+00:00",
+  "count": 255,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -2169,7 +2169,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 12588,
-      "docket_id": "ACF-2026-0595"
+      "docket_id": "ACF-2026-0595",
+      "final_checked": "2026-10-07"
     },
     "2026-16196": {
       "title": "Build America: Eliminating Barriers to Wireline Deployments",
@@ -2255,7 +2256,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "FDA-2026-N-7630"
     },
     "2026-16228": {
@@ -2285,7 +2286,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 56,
+      "comments_count": 70,
       "docket_id": "HUD-2026-0034"
     },
     "2026-16268": {
@@ -2388,7 +2389,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 2087,
+      "comments_count": 2124,
       "docket_id": "FMCSA-2026-0826"
     },
     "2026-16296": {
@@ -2427,7 +2428,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 601,
+      "comments_count": 674,
       "docket_id": "FDA-2025-N-3262"
     },
     "2026-16313": {
@@ -2873,7 +2874,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 102,
+      "comments_count": 126,
       "docket_id": "OCC-2026-0694"
     },
     "2026-16569": {
@@ -2979,7 +2980,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 12,
+      "comments_count": 15,
       "docket_id": "NOAA-NMFS-2024-0050"
     },
     "2026-16630": {
@@ -3367,7 +3368,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 77,
+      "comments_count": 79,
       "docket_id": "TREAS-DO-2026-0496"
     },
     "2026-16914": {
@@ -3408,15 +3409,15 @@
         }
       ],
       "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/RHS-26-ADMIN-0331-0001",
+      "comment_url": "http://www.regulations.gov/commenton/RBS_FRDOC_0001-0635",
       "effective_on": null,
       "regulation_id_numbers": [
         "0575-AD54"
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 6,
-      "docket_id": "RHS-26-ADMIN-0331"
+      "comments_count": 3,
+      "docket_id": "RBS_FRDOC_0001"
     },
     "2026-16932": {
       "title": "Air Plan Partial Approval and Partial Conditional Approval; South Carolina; Control of Oxides of Nitrogen and Source Testing Requirements",
@@ -3934,7 +3935,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 35,
+      "comments_count": 36,
       "docket_id": "CFTC-2026-1850"
     },
     "2026-17183": {
@@ -4436,7 +4437,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 5,
+      "comments_count": 6,
       "docket_id": "DOS-2026-0925"
     },
     "2026-17660": {
@@ -4833,7 +4834,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 245,
+      "comments_count": 246,
       "docket_id": "NPS-2026-0166"
     },
     "2026-17926": {
@@ -5062,7 +5063,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 64,
+      "comments_count": 65,
       "docket_id": "EPA-HQ-OW-2026-6965"
     },
     "2026-18162": {
@@ -5211,7 +5212,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 24727,
+      "comments_count": 24827,
       "docket_id": "BLM-2026-0133"
     },
     "2026-18282": {
@@ -5287,7 +5288,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 19149,
+      "comments_count": 28659,
       "docket_id": "EPA-HQ-OW-2025-0322"
     },
     "2026-18337": {
@@ -5518,7 +5519,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 38780,
+      "comments_count": 44792,
       "docket_id": "USBC-2026-0628"
     },
     "2026-18484": {
@@ -5618,7 +5619,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 5,
+      "comments_count": 6,
       "docket_id": "USDA-2026-0298"
     },
     "2026-18552": {
@@ -5715,7 +5716,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 24880,
+      "comments_count": 24957,
       "docket_id": "USCIS-2026-0364"
     },
     "2026-18648": {
@@ -5755,7 +5756,8 @@
       "first_seen": "2026-10-03",
       "significant": true,
       "comments_count": 15936,
-      "docket_id": "FS-2025-0001"
+      "docket_id": "FS-2025-0001",
+      "final_checked": "2026-10-07"
     },
     "2026-18755": {
       "title": "Clean Data Determination; 1997 8-Hour Ozone Standards; California; Sacramento Metro Area",
@@ -5782,7 +5784,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "EPA-R09-OAR-2026-4885"
     },
     "2026-18766": {
@@ -5880,7 +5882,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 20,
+      "comments_count": 21,
       "docket_id": "FAA-2026-10991"
     },
     "2026-18828": {
@@ -6059,7 +6061,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 154,
+      "comments_count": 155,
       "docket_id": "OPM-2026-0661"
     },
     "2026-19027": {
@@ -6117,7 +6119,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 5121,
+      "comments_count": 5248,
       "docket_id": "EPA-HQ-OAR-2025-0124"
     },
     "2026-19158": {
@@ -6249,7 +6251,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 6,
       "docket_id": "FAR-2026-0011"
     },
     "2026-19160": {
@@ -6315,7 +6317,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 9,
+      "comments_count": 10,
       "docket_id": "FAR-2026-0006"
     },
     "2026-19162": {
@@ -6381,7 +6383,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 21,
+      "comments_count": 23,
       "docket_id": "FAR-2026-0003"
     },
     "2026-19182": {
@@ -6420,7 +6422,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 21,
+      "comments_count": 23,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     "2026-19222": {
@@ -6775,7 +6777,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 14,
+      "comments_count": 15,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19350": {
@@ -6814,7 +6816,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 24,
+      "comments_count": 25,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19361": {
@@ -6957,7 +6959,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 107,
+      "comments_count": 112,
       "docket_id": "DEA-2026-1585"
     },
     "2026-19500": {
@@ -7063,7 +7065,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 13,
+      "comments_count": 14,
       "docket_id": "CMS-2026-3037"
     },
     "2026-19546": {
@@ -7093,7 +7095,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 130,
+      "comments_count": 177,
       "docket_id": "SBA-2026-0199"
     },
     "2026-19568": {
@@ -7513,15 +7515,15 @@
         }
       ],
       "comments_close_on": "2026-11-30",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/IRS-2026-1321-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1545-BR91"
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 38,
+      "docket_id": "IRS-2026-1321"
     },
     "2026-20038": {
       "title": "Television Broadcasting Services Savannah, Georgia",
@@ -7576,7 +7578,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "FTC-2026-1453"
     },
     "2026-20079": {
@@ -7781,7 +7783,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 10,
+      "comments_count": 12,
       "docket_id": "FTC-2026-1552"
     },
     "2026-20169": {
@@ -7848,7 +7850,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 5,
+      "comments_count": 7,
       "docket_id": "RBS-26-BUSINESS-0529"
     },
     "2026-20251": {
@@ -7887,7 +7889,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 8,
+      "comments_count": 9,
       "docket_id": "NPS-2026-0199"
     },
     "2026-20277": {
@@ -7926,7 +7928,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 10703,
+      "comments_count": 10974,
       "docket_id": "IRS-2026-1354"
     },
     "2026-20296": {
@@ -8551,7 +8553,7 @@
         "2060-AW33"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 3,
       "docket_id": "EPA-HQ-OAR-2024-0078",
       "first_seen": "2026-10-06"
     },
@@ -8612,6 +8614,64 @@
       "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-10-06"
+    },
+    "2026-20509": {
+      "title": "Loans to Executive Officers, Directors, and Principal Shareholders of Member Banks: Bank Holding Companies",
+      "type": "Proposed Rule",
+      "abstract": "On August 4, 2026, the Board of Governors of the Federal Reserve System (Board) published in the Federal Register a proposal that would update Regulation O, the Board's rule governing loans by member banks to their insiders and insiders of their affiliates. The proposal provided for a comment period ending on October 5, 2026. The Board is extending the comment period for 30 days, until November 4, 2026.",
+      "document_number": "2026-20509",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/07/2026-20509/loans-to-executive-officers-directors-and-principal-shareholders-of-member-banks-bank-holding",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-07/pdf/2026-20509.pdf",
+      "publication_date": "2026-10-07",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL RESERVE SYSTEM",
+          "name": "Federal Reserve System",
+          "id": 188,
+          "url": "https://www.federalregister.gov/agencies/federal-reserve-system",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/188",
+          "parent_id": null,
+          "slug": "federal-reserve-system"
+        }
+      ],
+      "comments_close_on": "2026-11-04",
+      "comment_url": null,
+      "effective_on": "2026-08-04",
+      "regulation_id_numbers": [
+        "7100-AH27"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-07"
+    },
+    "2026-20532": {
+      "title": "Privacy Act of 1974; Implementation",
+      "type": "Proposed Rule",
+      "abstract": "In the Notice section of today's Federal Register, the Office of the Pardon Attorney (PARDON), a component within the United States Department of Justice (DOJ or Department), has published a notice of a new system of records, Firearms Rights Restoration Electronic Records Database (FRRERD), JUSTICE/OPA-002. In this notice of proposed rulemaking, PARDON proposes to exempt this system of records from certain provisions of the Privacy Act in order to safeguard confidential information compiled at various stages of the criminal law enforcement process; and compiled for the purpose of ensuring the integrity of the adjudicatory process involving eligibility and suitability determinations concerning the restoration of an applicant's federal firearms rights pursuant to 18 U.S.C. 925(c) and 28 CFR 107.1 et seq. For the reasons provided below, the Department proposes to amend its Privacy Act regulations by establishing an exemption for records in this system from certain provisions of the Privacy Act. Public comment is invited.",
+      "document_number": "2026-20532",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/07/2026-20532/privacy-act-of-1974-implementation",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-07/pdf/2026-20532.pdf",
+      "publication_date": "2026-10-07",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF JUSTICE",
+          "name": "Justice Department",
+          "id": 268,
+          "url": "https://www.federalregister.gov/agencies/justice-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/268",
+          "parent_id": null,
+          "slug": "justice-department"
+        }
+      ],
+      "comments_close_on": "2026-11-06",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-07"
     }
   }
 }
