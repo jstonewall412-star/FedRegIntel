@@ -1,0 +1,1396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FedReg Intel Training Course</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background: #f5f5f5;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background: white;
+            border-bottom: 1px solid #ddd;
+            padding: 20px 0;
+            margin-bottom: 40px;
+        }
+
+        header h1 {
+            color: #003366;
+            font-size: 24px;
+            margin-bottom: 5px;
+        }
+
+        header p {
+            color: #666;
+            font-size: 14px;
+        }
+
+        .user-info {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .user-info button {
+            background: #ff6b6b;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .user-info button:hover {
+            background: #ff5252;
+        }
+
+        /* Auth Pages */
+        .auth-container {
+            max-width: 400px;
+            margin: 80px auto;
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .auth-container h2 {
+            margin-bottom: 30px;
+            color: #003366;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 500;
+            color: #333;
+        }
+
+        .form-group input {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+
+        .form-group input:focus {
+            outline: none;
+            border-color: #003366;
+            box-shadow: 0 0 0 3px rgba(0,51,102,0.1);
+        }
+
+        .btn {
+            width: 100%;
+            padding: 12px;
+            background: #003366;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+            font-weight: 600;
+        }
+
+        .btn:hover {
+            background: #002244;
+        }
+
+        .btn-secondary {
+            background: #666;
+            margin-top: 10px;
+        }
+
+        .btn-secondary:hover {
+            background: #555;
+        }
+
+        .auth-link {
+            text-align: center;
+            margin-top: 20px;
+            color: #666;
+            font-size: 14px;
+        }
+
+        .auth-link a {
+            color: #003366;
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .auth-link a:hover {
+            text-decoration: underline;
+        }
+
+        .tier-selection {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .tier-card {
+            border: 2px solid #ddd;
+            padding: 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            text-align: center;
+            transition: all 0.3s;
+        }
+
+        .tier-card:hover {
+            border-color: #003366;
+            background: #f0f5ff;
+        }
+
+        .tier-card.selected {
+            border-color: #003366;
+            background: #003366;
+            color: white;
+        }
+
+        .tier-card h3 {
+            margin-bottom: 10px;
+            font-size: 18px;
+        }
+
+        .tier-card .price {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .tier-card .duration {
+            font-size: 12px;
+            opacity: 0.8;
+        }
+
+        .tier-card.featured {
+            border-color: #ff6b6b;
+            background: #fff8f8;
+            position: relative;
+            transform: scale(1.02);
+        }
+
+        .tier-card.featured:hover {
+            background: #ffe8e8;
+        }
+
+        .tier-card.featured .badge {
+            position: absolute;
+            top: -12px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #ff6b6b;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: 600;
+        }
+
+        .tier-card .savings {
+            display: block;
+            font-size: 12px;
+            color: #ff6b6b;
+            font-weight: 600;
+        }
+
+        .email-preview {
+            background: #f0f5ff;
+            border: 2px dashed #003366;
+            padding: 30px;
+            border-radius: 8px;
+            margin-top: 30px;
+            text-align: center;
+        }
+
+        .email-preview h3 {
+            color: #003366;
+            margin-bottom: 10px;
+        }
+
+        .email-preview p {
+            color: #666;
+            margin-bottom: 20px;
+            font-size: 14px;
+        }
+
+        .email-preview form {
+            display: flex;
+            gap: 10px;
+            max-width: 400px;
+            margin: 0 auto;
+        }
+
+        .email-preview input {
+            flex: 1;
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+
+        .email-preview button {
+            padding: 12px 20px;
+            background: #666;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: 600;
+            white-space: nowrap;
+        }
+
+        .email-preview button:hover {
+            background: #555;
+        }
+
+        .preview-success {
+            background: #e8f5e9;
+            color: #2e7d32;
+            padding: 12px;
+            border-radius: 4px;
+            margin-top: 15px;
+            font-size: 14px;
+        }
+
+        /* Free Starter */
+        .free-starter {
+            display: none;
+        }
+
+        .free-starter.active {
+            display: block;
+        }
+
+        .free-badge {
+            display: inline-block;
+            background: #4CAF50;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .free-cta {
+            background: linear-gradient(135deg, #4CAF50, #45a049);
+            color: white;
+            padding: 30px;
+            border-radius: 8px;
+            margin-top: 30px;
+            text-align: center;
+        }
+
+        .free-cta h3 {
+            margin-bottom: 15px;
+            font-size: 18px;
+        }
+
+        .free-cta p {
+            margin-bottom: 20px;
+            opacity: 0.95;
+        }
+
+        .free-cta .btn {
+            background: white;
+            color: #4CAF50;
+            font-weight: 600;
+            padding: 12px 30px;
+            display: inline-block;
+            margin: 0 10px;
+        }
+
+        .free-cta .btn:hover {
+            background: #f5f5f5;
+        }
+
+        .signup-link {
+            color: #003366;
+            text-decoration: none;
+            font-weight: 600;
+            cursor: pointer;
+        }
+
+        .signup-link:hover {
+            text-decoration: underline;
+        }
+
+        /* Dashboard */
+        .dashboard {
+            display: none;
+        }
+
+        .dashboard.active {
+            display: block;
+        }
+
+        .welcome-banner {
+            background: linear-gradient(135deg, #003366, #004488);
+            color: white;
+            padding: 30px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+
+        .welcome-banner h2 {
+            margin-bottom: 10px;
+        }
+
+        .progress-section {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 8px;
+            background: #ddd;
+            border-radius: 4px;
+            overflow: hidden;
+            margin-top: 10px;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: #4CAF50;
+            transition: width 0.3s;
+        }
+
+        .modules-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .module-card {
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .module-card:hover {
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            border-color: #003366;
+        }
+
+        .module-card.locked {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+
+        .module-card h3 {
+            color: #003366;
+            margin-bottom: 10px;
+        }
+
+        .module-status {
+            display: inline-block;
+            font-size: 12px;
+            padding: 4px 12px;
+            border-radius: 12px;
+            margin-bottom: 10px;
+        }
+
+        .module-status.completed {
+            background: #4CAF50;
+            color: white;
+        }
+
+        .module-status.in-progress {
+            background: #FFC107;
+            color: white;
+        }
+
+        .module-status.not-started {
+            background: #ddd;
+            color: #666;
+        }
+
+        .module-duration {
+            font-size: 12px;
+            color: #666;
+            margin-top: 10px;
+        }
+
+        /* Lesson Page */
+        .lesson {
+            display: none;
+        }
+
+        .lesson.active {
+            display: block;
+        }
+
+        .lesson-header {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .lesson-header h2 {
+            color: #003366;
+            margin-bottom: 10px;
+        }
+
+        .video-player {
+            width: 100%;
+            height: 400px;
+            background: #000;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+
+        .video-player button {
+            background: #ff6b6b;
+            color: white;
+            border: none;
+            padding: 16px 32px;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        .objectives {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .objectives h3 {
+            margin-bottom: 15px;
+            color: #003366;
+        }
+
+        .objectives ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .objectives li {
+            padding: 8px 0;
+            padding-left: 24px;
+            position: relative;
+        }
+
+        .objectives li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #4CAF50;
+            font-weight: bold;
+        }
+
+        .key-points {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .key-points h3 {
+            margin-bottom: 15px;
+            color: #003366;
+        }
+
+        .key-points ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .key-points li {
+            padding: 10px 0;
+            padding-left: 24px;
+            position: relative;
+            border-bottom: 1px solid #eee;
+        }
+
+        .key-points li:last-child {
+            border-bottom: none;
+        }
+
+        .key-points li:before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            color: #003366;
+            font-weight: bold;
+        }
+
+        .quiz-button {
+            background: #003366;
+            color: white;
+            border: none;
+            padding: 16px 32px;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 20px;
+            font-weight: 600;
+        }
+
+        .quiz-button:hover {
+            background: #002244;
+        }
+
+        /* Quiz Page */
+        .quiz {
+            display: none;
+        }
+
+        .quiz.active {
+            display: block;
+        }
+
+        .quiz-container {
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .quiz-question {
+            margin-bottom: 40px;
+        }
+
+        .quiz-question h3 {
+            margin-bottom: 20px;
+            color: #003366;
+            font-size: 18px;
+        }
+
+        .quiz-options {
+            list-style: none;
+            padding: 0;
+        }
+
+        .quiz-options li {
+            margin-bottom: 12px;
+        }
+
+        .quiz-options input[type="radio"] {
+            margin-right: 10px;
+        }
+
+        .quiz-options label {
+            cursor: pointer;
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            display: block;
+        }
+
+        .quiz-options input[type="radio"]:checked + label {
+            border-color: #003366;
+            background: #f0f5ff;
+        }
+
+        .quiz-results {
+            background: #f5f5f5;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+
+        .quiz-results.passed {
+            background: #e8f5e9;
+        }
+
+        .quiz-results.failed {
+            background: #ffebee;
+        }
+
+        .result-item {
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .result-item:last-child {
+            border-bottom: none;
+        }
+
+        .result-item.correct {
+            color: #4CAF50;
+        }
+
+        .result-item.incorrect {
+            color: #ff6b6b;
+        }
+
+        /* Certificate */
+        .certificate {
+            display: none;
+        }
+
+        .certificate.active {
+            display: block;
+        }
+
+        .certificate-container {
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .certificate-image {
+            width: 100%;
+            height: 400px;
+            background: linear-gradient(135deg, #003366, #004488);
+            border-radius: 8px;
+            margin: 30px 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .certificate-preview {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+
+        .certificate-text {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .certificate-details {
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+
+        .share-buttons {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            margin-top: 30px;
+            flex-wrap: wrap;
+        }
+
+        .share-buttons button {
+            background: #003366;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .share-buttons button:hover {
+            background: #002244;
+        }
+
+        .error {
+            background: #ffebee;
+            color: #c62828;
+            padding: 12px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+        }
+
+        .success {
+            background: #e8f5e9;
+            color: #2e7d32;
+            padding: 12px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+        }
+
+        @media (max-width: 900px) {
+            .tier-selection {
+                grid-template-columns: 1fr !important;
+            }
+
+            .tier-card.featured {
+                transform: scale(1);
+            }
+
+            .email-preview form {
+                flex-direction: column;
+            }
+
+            .email-preview button {
+                width: 100%;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .modules-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .video-player {
+                height: 250px;
+            }
+
+            .quiz-container {
+                padding: 20px;
+            }
+
+            .certificate-image {
+                height: 250px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1>FedReg Intel Training Course</h1>
+            <p>Learn federal rulemaking and how to influence policy</p>
+            <div class="user-info" id="userInfo" style="display: none;">
+                <span id="userName"></span>
+                <button onclick="logout()">Log Out</button>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <!-- Free Starter Module -->
+        <div id="freeStarterPage" class="free-starter">
+            <button class="btn-secondary" onclick="showSignupPage()" style="margin-bottom: 20px;">← Back</button>
+
+            <div class="lesson-header">
+                <span class="free-badge">🎁 Free Lesson</span>
+                <h2>Why Federal Rules Matter: Your Introduction to Rulemaking</h2>
+                <p style="color: #666; margin-top: 10px;">A free lesson to get you started understanding federal regulations and how you can influence them.</p>
+            </div>
+
+            <div class="video-player">
+                <div style="text-align: center;">
+                    <div style="font-size: 48px; margin-bottom: 20px;">🎥</div>
+                    <p>Free introductory video</p>
+                    <p style="font-size: 12px; margin-top: 10px; opacity: 0.8;">Ready for Runway upload</p>
+                </div>
+            </div>
+
+            <div class="objectives">
+                <h3>What You'll Learn</h3>
+                <ul>
+                    <li>What federal rules are and why they affect your life</li>
+                    <li>How agencies create and change rules</li>
+                    <li>Why your voice matters in the rulemaking process</li>
+                    <li>Real examples of how public comments changed federal policy</li>
+                </ul>
+            </div>
+
+            <div class="key-points">
+                <h3>Key Takeaways</h3>
+                <ul>
+                    <li><strong>Rulemaking is a democratic process.</strong> Agencies must consider public input before finalizing rules.</li>
+                    <li><strong>Your participation has power.</strong> Well-informed comments have influenced major federal policies.</li>
+                    <li><strong>It's not as complicated as it seems.</strong> We'll walk you through the entire process step by step.</li>
+                    <li><strong>Timing matters.</strong> There are specific windows when you can comment on rules—we'll show you how to find them.</li>
+                </ul>
+            </div>
+
+            <div class="free-cta">
+                <h3>Ready to Go Deeper?</h3>
+                <p>This free lesson is just the beginning. Learn everything you need to know about influencing federal policy with our complete courses.</p>
+                <button class="btn" onclick="showSignupPage()">Explore Our Courses</button>
+            </div>
+        </div>
+
+        <!-- Signup Page -->
+        <div id="signupPage" class="auth-container" style="display: block;">
+            <h2>Sign Up</h2>
+
+            <div style="background: #f0f5ff; border-left: 4px solid #003366; padding: 15px; border-radius: 4px; margin-bottom: 20px;">
+                <p style="color: #333; font-size: 14px;">
+                    <strong>Not ready to enroll?</strong> <a href="#" class="signup-link" onclick="showFreeStarter()">Take our free intro lesson</a> — no signup required!
+                </p>
+            </div>
+            <div id="signupError" class="error" style="display: none;"></div>
+
+            <div class="form-group">
+                <label>Name</label>
+                <input type="text" id="signupName" placeholder="Your name">
+            </div>
+
+            <div class="form-group">
+                <label>Email</label>
+                <input type="email" id="signupEmail" placeholder="your@email.com">
+            </div>
+
+            <div class="form-group">
+                <label>Password</label>
+                <input type="password" id="signupPassword" placeholder="Create a password">
+            </div>
+
+            <div class="form-group">
+                <label>Select Your Course</label>
+                <div class="tier-selection" style="grid-template-columns: repeat(3, 1fr); gap: 15px;">
+                    <div class="tier-card" onclick="selectTier('associate', this)">
+                        <h3>Associate</h3>
+                        <div class="price">$49</div>
+                        <div class="duration">5 modules • Foundations</div>
+                    </div>
+                    <div class="tier-card featured" onclick="selectTier('both', this)">
+                        <div class="badge">Best Value</div>
+                        <h3>Both Tiers</h3>
+                        <div class="price">$149 <span class="savings">Save $49</span></div>
+                        <div class="duration">10 modules • Complete</div>
+                    </div>
+                    <div class="tier-card" onclick="selectTier('certified', this)">
+                        <h3>Certified</h3>
+                        <div class="price">$149</div>
+                        <div class="duration">10 modules • Everything</div>
+                    </div>
+                </div>
+                <input type="hidden" id="selectedTier" value="">
+            </div>
+
+            <button class="btn" onclick="signup()">Continue to Payment</button>
+
+            <div class="auth-link">
+                Already have an account? <a href="#" onclick="showLoginPage()">Log in</a>
+            </div>
+
+            <div class="email-preview">
+                <h3>Not Ready Yet?</h3>
+                <p>Get a free sample lesson and course overview sent to your email</p>
+                <form id="previewForm" onsubmit="handlePreviewSignup(event)">
+                    <input type="email" placeholder="your@email.com" required>
+                    <button type="submit">Get Free Preview</button>
+                </form>
+                <div id="previewSuccess" class="preview-success" style="display: none;">
+                    Check your email for your free preview!
+                </div>
+            </div>
+        </div>
+
+        <!-- Login Page -->
+        <div id="loginPage" class="auth-container" style="display: none;">
+            <h2>Log In</h2>
+            <div id="loginError" class="error" style="display: none;"></div>
+
+            <div class="form-group">
+                <label>Email</label>
+                <input type="email" id="loginEmail" placeholder="your@email.com">
+            </div>
+
+            <div class="form-group">
+                <label>Password</label>
+                <input type="password" id="loginPassword" placeholder="Your password">
+            </div>
+
+            <button class="btn" onclick="login()">Log In</button>
+
+            <div class="auth-link">
+                Don't have an account? <a href="#" onclick="showSignupPage()">Sign up</a>
+            </div>
+        </div>
+
+        <!-- Dashboard -->
+        <div id="dashboard" class="dashboard">
+            <div class="welcome-banner">
+                <h2>Welcome, <span id="dashboardUserName"></span>!</h2>
+                <p>You're enrolled in the <strong id="tierBadge"></strong> course.</p>
+            </div>
+
+            <div class="progress-section">
+                <h3>Your Progress</h3>
+                <p id="progressText"></p>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill" style="width: 0%"></div>
+                </div>
+            </div>
+
+            <h3 style="margin-bottom: 20px;">Modules</h3>
+            <div class="modules-grid" id="modulesGrid"></div>
+        </div>
+
+        <!-- Lesson Page -->
+        <div id="lessonPage" class="lesson">
+            <button class="btn-secondary" onclick="showDashboard()" style="margin-bottom: 20px;">← Back to Dashboard</button>
+
+            <div class="lesson-header">
+                <h2 id="lessonTitle"></h2>
+            </div>
+
+            <div class="video-player">
+                <div style="text-align: center;">
+                    <div style="font-size: 48px; margin-bottom: 20px;">▶️</div>
+                    <p>Video content will appear here</p>
+                    <p style="font-size: 12px; margin-top: 10px; opacity: 0.8;">Ready for Runway upload</p>
+                </div>
+            </div>
+
+            <div class="objectives">
+                <h3>Learning Objectives</h3>
+                <ul id="objectives"></ul>
+            </div>
+
+            <div class="key-points">
+                <h3>Key Points</h3>
+                <ul id="keyPoints"></ul>
+            </div>
+
+            <button class="quiz-button" onclick="showQuiz()">Take Quiz</button>
+        </div>
+
+        <!-- Quiz Page -->
+        <div id="quizPage" class="quiz">
+            <button class="btn-secondary" onclick="showLesson()" style="margin-bottom: 20px;">← Back to Lesson</button>
+
+            <div class="quiz-container">
+                <h2 id="quizTitle"></h2>
+                <form id="quizForm" style="margin-top: 30px;"></form>
+                <button class="btn" onclick="submitQuiz()" style="margin-top: 30px;">Submit Quiz</button>
+            </div>
+        </div>
+
+        <!-- Certificate Page -->
+        <div id="certificatePage" class="certificate">
+            <button class="btn-secondary" onclick="showDashboard()" style="margin-bottom: 20px;">← Back to Dashboard</button>
+
+            <div class="certificate-container">
+                <h2>🎉 Congratulations!</h2>
+                <p style="margin: 20px 0; font-size: 18px;">You've completed the course</p>
+
+                <div class="certificate-image">
+                    <div>
+                        <div class="certificate-preview">📜</div>
+                        <div class="certificate-text" id="certificateText"></div>
+                        <div class="certificate-details">
+                            <div id="certificateDate"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <button class="btn" style="margin-bottom: 10px;" onclick="downloadCertificate()">Download Certificate</button>
+
+                <div class="share-buttons">
+                    <button onclick="shareCertificate('twitter')">Share on X</button>
+                    <button onclick="shareCertificate('linkedin')">Share on LinkedIn</button>
+                    <button onclick="shareCertificate('facebook')">Share on Facebook</button>
+                    <button onclick="copyCertificateLink()">Copy Link</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const API_URL = 'https://fedregintel.com/api';
+        const MODULES = {
+            1: { title: 'What Is a Federal Rule?', objectives: ['Understand what a federal rule is and why it matters', 'Distinguish between proposed, interim, and final rules', 'Recognize where rules appear in the Federal Register'], duration: '12 minutes' },
+            2: { title: 'The Administrative Procedure Act', objectives: ['Understand the Administrative Procedure Act (APA) and its purpose', 'Know the basic steps agencies must follow to issue rules', 'Recognize your rights under the APA'], duration: '14 minutes' },
+            3: { title: 'Finding Rules and Reading the Federal Register', objectives: ['Navigate the Federal Register website', 'Find rules relevant to your interests', 'Understand the structure of a Federal Register document', 'Extract key information from a rule'], duration: '15 minutes' },
+            4: { title: 'Writing and Submitting Your Comment', objectives: ['Understand what makes an effective comment', 'Know how to structure a comment for maximum impact', 'Learn the process of submitting a comment on regulations.gov', 'Understand what happens to your comment after submission'], duration: '16 minutes' },
+            5: { title: 'Rules That Changed—Case Studies', objectives: ['See real examples of how public comments influenced rules', 'Understand the types of changes that are possible', 'Build confidence that your participation matters'], duration: '12 minutes' },
+            6: { title: 'After the Comment—What Happens Next', objectives: ['Understand the timeline from final rule to implementation', 'Know how to track a rule\'s status after it\'s finalized', 'Understand reconsideration requests and when they\'re possible', 'Learn how the effective date works'], duration: '16 minutes' },
+            7: { title: 'The Congressional Review Act and Challenging Rules', objectives: ['Understand the Congressional Review Act (CRA)', 'Know when Congress can disapprove a rule', 'Understand how the CRA process works', 'Recognize when a rule is vulnerable to CRA challenge'], duration: '14 minutes' },
+            8: { title: 'Judicial Review and When to Challenge a Rule in Court', objectives: ['Understand judicial review of agency rules', 'Know what grounds exist to challenge a rule in court', 'Understand standing and locus standi', 'Learn about the timeline and cost of court challenges'], duration: '15 minutes' },
+            9: { title: 'FOIA and Getting Agency Information', objectives: ['Understand the Freedom of Information Act (FOIA)', 'Know what information agencies must disclose', 'Learn how to file a FOIA request', 'Understand exemptions and how to handle denials'], duration: '14 minutes' },
+            10: { title: 'Advanced Strategies and Capstone', objectives: ['Integrate all previous modules into a comprehensive strategy', 'Learn advanced tactics: coalitions, media, organizing, expertise', 'Understand how to build a case that influences policy', 'Apply learning to a mock rule scenario'], duration: '18 minutes' },
+        };
+
+        let currentUser = null;
+        let currentTier = null;
+        let currentModule = null;
+
+        function showSignupPage() {
+            document.getElementById('signupPage').style.display = 'block';
+            document.getElementById('loginPage').style.display = 'none';
+            document.getElementById('freeStarterPage').classList.remove('active');
+            document.getElementById('dashboard').classList.remove('active');
+            document.getElementById('lessonPage').classList.remove('active');
+            document.getElementById('quizPage').classList.remove('active');
+            document.getElementById('certificatePage').classList.remove('active');
+        }
+
+        function showFreeStarter() {
+            document.getElementById('signupPage').style.display = 'none';
+            document.getElementById('loginPage').style.display = 'none';
+            document.getElementById('freeStarterPage').classList.add('active');
+            document.getElementById('dashboard').classList.remove('active');
+            document.getElementById('lessonPage').classList.remove('active');
+            document.getElementById('quizPage').classList.remove('active');
+            document.getElementById('certificatePage').classList.remove('active');
+        }
+
+        function showLoginPage() {
+            document.getElementById('signupPage').style.display = 'none';
+            document.getElementById('loginPage').style.display = 'block';
+            document.getElementById('freeStarterPage').classList.remove('active');
+        }
+
+        function showDashboard() {
+            if (!currentUser) {
+                showSignupPage();
+                return;
+            }
+            document.getElementById('signupPage').style.display = 'none';
+            document.getElementById('loginPage').style.display = 'none';
+            document.getElementById('dashboard').classList.add('active');
+            document.getElementById('lessonPage').classList.remove('active');
+            document.getElementById('quizPage').classList.remove('active');
+            document.getElementById('certificatePage').classList.remove('active');
+            loadDashboard();
+        }
+
+        function showLesson(moduleId) {
+            if (!moduleId && !currentModule) {
+                alert('No module selected');
+                return;
+            }
+            if (moduleId) currentModule = moduleId;
+
+            const module = MODULES[currentModule];
+            document.getElementById('lessonTitle').textContent = `Module ${currentModule}: ${module.title}`;
+            document.getElementById('objectives').innerHTML = module.objectives.map(obj => `<li>${obj}</li>`).join('');
+            document.getElementById('keyPoints').innerHTML = module.objectives.map(obj => `<li>${obj}</li>`).join('');
+
+            document.getElementById('signupPage').style.display = 'none';
+            document.getElementById('loginPage').style.display = 'none';
+            document.getElementById('dashboard').classList.remove('active');
+            document.getElementById('lessonPage').classList.add('active');
+            document.getElementById('quizPage').classList.remove('active');
+            document.getElementById('certificatePage').classList.remove('active');
+        }
+
+        function showQuiz() {
+            const module = MODULES[currentModule];
+            document.getElementById('quizTitle').textContent = `Module ${currentModule} Quiz: ${module.title}`;
+
+            // Sample quiz questions (would come from API)
+            const quizHTML = `
+                <div class="quiz-question">
+                    <h3>1. Which of these is a federal rule?</h3>
+                    <ul class="quiz-options">
+                        <li><input type="radio" name="q1" value="0" id="q1_a"><label for="q1_a">A law passed by Congress</label></li>
+                        <li><input type="radio" name="q1" value="1" id="q1_b"><label for="q1_b">An agency's binding requirement that implements a law</label></li>
+                        <li><input type="radio" name="q1" value="2" id="q1_c"><label for="q1_c">A court decision</label></li>
+                        <li><input type="radio" name="q1" value="3" id="q1_d"><label for="q1_d">A recommendation from the President</label></li>
+                    </ul>
+                </div>
+                <div class="quiz-question">
+                    <h3>2. When can the public comment on a federal rule?</h3>
+                    <ul class="quiz-options">
+                        <li><input type="radio" name="q2" value="0" id="q2_a"><label for="q2_a">After it becomes final</label></li>
+                        <li><input type="radio" name="q2" value="1" id="q2_b"><label for="q2_b">When it's proposed, before it becomes final</label></li>
+                        <li><input type="radio" name="q2" value="2" id="q2_c"><label for="q2_c">Never; agencies don't accept public input</label></li>
+                        <li><input type="radio" name="q2" value="3" id="q2_d"><label for="q2_d">Only if you work in the affected industry</label></li>
+                    </ul>
+                </div>
+                <div class="quiz-question">
+                    <h3>3. Where are federal rules first published?</h3>
+                    <ul class="quiz-options">
+                        <li><input type="radio" name="q3" value="0" id="q3_a"><label for="q3_a">In newspapers</label></li>
+                        <li><input type="radio" name="q3" value="1" id="q3_b"><label for="q3_b">On individual agency websites</label></li>
+                        <li><input type="radio" name="q3" value="2" id="q3_c"><label for="q3_c">In the Federal Register</label></li>
+                        <li><input type="radio" name="q3" value="3" id="q3_d"><label for="q3_d">In law libraries only</label></li>
+                    </ul>
+                </div>
+            `;
+
+            document.getElementById('quizForm').innerHTML = quizHTML;
+
+            document.getElementById('dashboard').classList.remove('active');
+            document.getElementById('lessonPage').classList.remove('active');
+            document.getElementById('quizPage').classList.add('active');
+            document.getElementById('certificatePage').classList.remove('active');
+        }
+
+        async function submitQuiz() {
+            const answers = [
+                { question_id: 1, answer: parseInt(document.querySelector('input[name="q1"]:checked')?.value || '-1') },
+                { question_id: 2, answer: parseInt(document.querySelector('input[name="q2"]:checked')?.value || '-1') },
+                { question_id: 3, answer: parseInt(document.querySelector('input[name="q3"]:checked')?.value || '-1') },
+            ];
+
+            if (answers.some(a => a.answer === -1)) {
+                alert('Please answer all questions');
+                return;
+            }
+
+            try {
+                const response = await fetch(`${API_URL}/course/module/${currentModule}/quiz`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Authorization': `Bearer ${localStorage.getItem('sessionToken')}`,
+                    },
+                    body: JSON.stringify({ answers }),
+                });
+
+                const data = await response.json();
+
+                if (response.ok && data.passed) {
+                    // Check if completed
+                    const progressResponse = await fetch(`${API_URL}/course/progress`, {
+                        headers: { 'Authorization': `Bearer ${localStorage.getItem('sessionToken')}` },
+                    });
+                    const progress = await progressResponse.json();
+
+                    if (progress.current_progress === 100) {
+                        showCertificate();
+                    } else {
+                        alert(`Quiz passed! Score: ${data.score}%\n\nNext module: ${MODULES[progress.next_module]?.title}`);
+                        loadDashboard();
+                    }
+                } else {
+                    alert(`Quiz failed! Score: ${data.score}%\n\nPlease review the material and try again.`);
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                alert('Error submitting quiz');
+            }
+        }
+
+        function showCertificate() {
+            document.getElementById('certificateText').textContent = `${currentTier === 'associate' ? 'Associate' : 'Certified'} Course Completed`;
+            document.getElementById('certificateDate').textContent = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+
+            document.getElementById('dashboard').classList.remove('active');
+            document.getElementById('lessonPage').classList.remove('active');
+            document.getElementById('quizPage').classList.remove('active');
+            document.getElementById('certificatePage').classList.add('active');
+        }
+
+        function selectTier(tier, element) {
+            document.querySelectorAll('.tier-card').forEach(card => card.classList.remove('selected'));
+            element.classList.add('selected');
+            document.getElementById('selectedTier').value = tier;
+        }
+
+        async function handlePreviewSignup(event) {
+            event.preventDefault();
+            const email = event.target.querySelector('input[type="email"]').value;
+
+            try {
+                const response = await fetch(`${API_URL}/course/preview-email`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ email }),
+                });
+
+                if (response.ok) {
+                    document.getElementById('previewSuccess').style.display = 'block';
+                    event.target.reset();
+                    setTimeout(() => {
+                        document.getElementById('previewSuccess').style.display = 'none';
+                    }, 3000);
+                } else {
+                    alert('Error sending preview. Please try again.');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                alert('Error sending preview email');
+            }
+        }
+
+        async function signup() {
+            const name = document.getElementById('signupName').value;
+            const email = document.getElementById('signupEmail').value;
+            const password = document.getElementById('signupPassword').value;
+            const tier = document.getElementById('selectedTier').value;
+
+            if (!name || !email || !password || !tier) {
+                document.getElementById('signupError').style.display = 'block';
+                document.getElementById('signupError').textContent = 'Please fill all fields';
+                return;
+            }
+
+            try {
+                const response = await fetch(`${API_URL}/auth/signup`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ name, email, password, tier }),
+                });
+
+                if (response.ok) {
+                    // Redirect to Stripe checkout
+                    // Both tier and certified tier both cost $149
+                    const priceId = (tier === 'associate') ? 'price_associate' : 'price_certified';
+                    window.location.href = `https://checkout.stripe.com/pay/cs_live_${priceId}`;
+                } else {
+                    const error = await response.json();
+                    document.getElementById('signupError').style.display = 'block';
+                    document.getElementById('signupError').textContent = error.error;
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('signupError').style.display = 'block';
+                document.getElementById('signupError').textContent = 'Error signing up';
+            }
+        }
+
+        async function login() {
+            const email = document.getElementById('loginEmail').value;
+            const password = document.getElementById('loginPassword').value;
+
+            if (!email || !password) {
+                document.getElementById('loginError').style.display = 'block';
+                document.getElementById('loginError').textContent = 'Please enter email and password';
+                return;
+            }
+
+            try {
+                const response = await fetch(`${API_URL}/auth/login`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ email, password }),
+                });
+
+                if (response.ok) {
+                    const data = await response.json();
+                    localStorage.setItem('sessionToken', data.session_token);
+                    currentUser = data.user;
+                    currentTier = data.user.tier;
+                    updateUserInfo();
+                    showDashboard();
+                } else {
+                    const error = await response.json();
+                    document.getElementById('loginError').style.display = 'block';
+                    document.getElementById('loginError').textContent = error.error;
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('loginError').style.display = 'block';
+                document.getElementById('loginError').textContent = 'Error logging in';
+            }
+        }
+
+        function logout() {
+            localStorage.removeItem('sessionToken');
+            currentUser = null;
+            currentTier = null;
+            showSignupPage();
+        }
+
+        async function loadDashboard() {
+            const token = localStorage.getItem('sessionToken');
+            if (!token) {
+                showSignupPage();
+                return;
+            }
+
+            try {
+                const response = await fetch(`${API_URL}/course/progress`, {
+                    headers: { 'Authorization': `Bearer ${token}` },
+                });
+
+                if (response.ok) {
+                    const progress = await response.json();
+                    document.getElementById('dashboardUserName').textContent = currentUser.name;
+                    document.getElementById('tierBadge').textContent = progress.tier === 'associate' ? 'Associate' : 'Certified';
+                    document.getElementById('progressText').textContent = `${progress.modules_completed.length} of ${progress.modules_available.length} modules completed`;
+                    document.getElementById('progressFill').style.width = `${progress.current_progress}%`;
+
+                    const modulesHTML = progress.modules_available.map(moduleId => {
+                        const module = MODULES[moduleId];
+                        const completed = progress.modules_completed.includes(moduleId);
+                        const status = completed ? 'completed' : 'not-started';
+                        return `
+                            <div class="module-card ${completed ? '' : ''}" onclick="showLesson(${moduleId})">
+                                <h3>Module ${moduleId}: ${module.title}</h3>
+                                <span class="module-status ${status}">${completed ? '✓ Completed' : 'Not Started'}</span>
+                                <div class="module-duration">${module.duration}</div>
+                            </div>
+                        `;
+                    }).join('');
+
+                    document.getElementById('modulesGrid').innerHTML = modulesHTML;
+                } else {
+                    alert('Error loading progress');
+                    logout();
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                logout();
+            }
+        }
+
+        function updateUserInfo() {
+            if (currentUser) {
+                document.getElementById('userName').textContent = currentUser.name;
+                document.getElementById('userInfo').style.display = 'flex';
+            } else {
+                document.getElementById('userInfo').style.display = 'none';
+            }
+        }
+
+        function downloadCertificate() {
+            alert('Certificate download will be available once certificates are generated');
+        }
+
+        function shareCertificate(platform) {
+            const text = encodeURIComponent(`I just completed the FedReg Intel ${currentTier === 'associate' ? 'Associate' : 'Certified'} Course!`);
+            const url = encodeURIComponent(window.location.href);
+
+            const urls = {
+                twitter: `https://x.com/intent/tweet?text=${text}&url=${url}`,
+                linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${url}`,
+                facebook: `https://www.facebook.com/sharer/sharer.php?u=${url}`,
+            };
+
+            if (urls[platform]) {
+                window.open(urls[platform], '_blank', 'width=600,height=400');
+            }
+        }
+
+        function copyCertificateLink() {
+            const shareUrl = `${window.location.origin}/certificate/${Math.random().toString(36).substr(2, 9)}`;
+            navigator.clipboard.writeText(shareUrl);
+            alert('Certificate link copied!');
+        }
+
+        // Check if user is logged in on page load
+        window.addEventListener('load', () => {
+            const token = localStorage.getItem('sessionToken');
+            if (token) {
+                // Decode token to get user info (simplified - in production use proper JWT verification)
+                showSignupPage();
+            }
+        });
+    </script>
+</body>
+</html>
