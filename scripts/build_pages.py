@@ -58,7 +58,7 @@ def page(path, title, description, body, structured=None, robots=None):
     canonical = SITE + path
     return f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title><meta name="description" content="{esc(description)}"><meta name="theme-color" content="#102f35">{f'<meta name="robots" content="{robots}">' if robots else ''}<link rel="canonical" href="{esc(canonical)}"><meta property="og:type" content="website"><meta property="og:site_name" content="FedReg Intel"><meta property="og:url" content="{esc(canonical)}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(description)}"><meta name="twitter:card" content="summary_large_image"><link rel="stylesheet" href="{CSS}">{ld_json(structured) if structured else ''}</head>
-<body><header><div class="shell nav"><a class="brand" href="/"><span class="brand-mark" aria-hidden="true">F<span>R</span></span><span>FEDREG <b>INTEL</b><small>THE PUBLIC PARTICIPATION BRIEF</small></span></a><nav aria-label="Main navigation"><a href="/rules/">Open for comment</a><a href="/videos/">Video briefings</a><a href="/#book">The book</a><a href="/#newsletter">Email list</a><a class="nav-cta" href="https://www.youtube.com/@FedRegIntel?sub_confirmation=1" target="_blank" rel="noopener">Subscribe ↗</a></nav></div></header>
+<body><header><div class="shell nav"><a class="brand" href="/"><span class="brand-mark" aria-hidden="true">F<span>R</span></span><span>FEDREG <b>INTEL</b><small>THE PUBLIC PARTICIPATION BRIEF</small></span></a><nav aria-label="Main navigation"><a href="/rules/">Open for comment</a><a href="/rules/#closing-this-week">Upcoming deadlines</a><a href="/videos/">Video briefings</a><a href="/#book">The book</a><a href="/#newsletter">Email list</a><a class="nav-cta" href="https://www.youtube.com/@FedRegIntel?sub_confirmation=1" target="_blank" rel="noopener">Subscribe ↗</a></nav></div></header>
 <main class="shell static-page">{body}</main>
 <footer class="shell"><a class="footer-brand" href="/">FEDREG INTEL</a><p>Independent educational coverage. Not a government website or legal advice. Verify information against the official publication on <a href="https://www.govinfo.gov/">GovInfo</a>.</p><div><a href="/privacy.html">Privacy policy</a><a href="https://www.youtube.com/@FedRegIntel">YouTube</a><a href="https://bsky.app/profile/fedregintel.com" rel="me noopener">Bluesky</a><a href="https://x.com/FedRegIntel" rel="me noopener">X</a><a href="mailto:hello@fedregintel.com">Contact</a></div></footer>
 </body></html>
@@ -170,11 +170,12 @@ def build_rules(out, rules, day, covered_by):
     recent = [d for d in closed if d['comments_close_on'] >= month_ago]
     week = [d for d in open_rules if d['comments_close_on'] <= week_out(day)]
     later = [d for d in open_rules if d['comments_close_on'] > week_out(day)]
-    def section(title, docs):
-        return f'<h2>{title} ({len(docs)})</h2><ul class="rule-index">{"".join(rule_item(d, day) for d in docs)}</ul>' if docs else ''
+    def section(title, docs, anchor=""):
+        attribute = f' id="{anchor}"' if anchor else ""
+        return f'<h2{attribute}>{title} ({len(docs)})</h2><ul class="rule-index">{"".join(rule_item(d, day) for d in docs)}</ul>' if docs else ''
     body = ('<p class="crumbs"><a href="/">Home</a> / Open for comment</p><p class="eyebrow">THE RULEMAKING DESK</p><h1 class="page-title">Federal rules open for public comment</h1>'
             f'<p class="section-intro">{len(open_rules)} rules and proposed rules in the Federal Register are accepting public comments as of {esc(long_date(day))}, soonest deadline first. Updated daily. Narrow technical items, such as airworthiness directives and single-site safety zones, are left out; <a href="https://www.federalregister.gov/documents/search">search FederalRegister.gov</a> for those.</p>'
-            + (section('Closing in the next 7 days', week) + section('Closing later', later) if open_rules else '<p class="empty">No open comment periods in the current snapshot. Check FederalRegister.gov directly.</p>')
+            + (section('Closing in the next 7 days', week, 'closing-this-week') + section('Closing later', later) if open_rules else '<p class="empty">No open comment periods in the current snapshot. Check FederalRegister.gov directly.</p>')
             + section('Closed in the last 30 days', recent)
             + (f'<p><a class="text-link" href="/rules/archive/">All {len(closed)} closed comment periods →</a></p>' if closed else ''))
     write(out, '/rules/', page('/rules/', 'Federal Rules Open for Public Comment, by Deadline | FedReg Intel',
