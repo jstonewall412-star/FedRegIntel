@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FedReg Intel Training Course</title>
+    <script src="https://js.stripe.com/v3/"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Inter:wght@400;500;600&display=swap');
 
@@ -1058,6 +1059,14 @@
 
     <script>
         const API_URL = 'https://fedregintel.com/api';
+        const STRIPE_PUBLISHABLE_KEY = 'pk_live_51UO14HBB0rYCEKxCn3apWSJ1KM6k7SB3nyy9oK18AZp5QKNEFnhM8nL4YQCDCoGARpjv0squzOUSyrp1PefHFtNs00GyJCCgVa';
+        const STRIPE_PRODUCTS = {
+            'associate': 'prod_VOp0d0KxcdyVl7',
+            'certified': 'prod_VOp1gCfgb0zKgS'
+        };
+
+        const stripe = Stripe(STRIPE_PUBLISHABLE_KEY);
+
         const MODULES = {
             1: { title: 'What Is a Federal Rule?', objectives: ['Understand what a federal rule is and why it matters', 'Distinguish between proposed, interim, and final rules', 'Recognize where rules appear in the Federal Register'], duration: '12 minutes' },
             2: { title: 'The Administrative Procedure Act', objectives: ['Understand the Administrative Procedure Act (APA) and its purpose', 'Know the basic steps agencies must follow to issue rules', 'Recognize your rights under the APA'], duration: '14 minutes' },
@@ -1279,26 +1288,51 @@
             }
 
             try {
-                const response = await fetch(`${API_URL}/auth/signup`, {
+                // Step 1: Create user account (pre-payment)
+                const signupResponse = await fetch(`${API_URL}/auth/signup`, {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ name, email, password, tier }),
                 });
 
-                if (response.ok) {
-                    // Redirect to Stripe checkout
-                    // Both tier and certified tier both cost $149
-                    const priceId = (tier === 'associate') ? 'price_associate' : 'price_certified';
-                    window.location.href = `https://checkout.stripe.com/pay/cs_live_${priceId}`;
-                } else {
-                    const error = await response.json();
+                if (!signupResponse.ok) {
+                    const error = await signupResponse.json();
                     document.getElementById('signupError').style.display = 'block';
                     document.getElementById('signupError').textContent = error.error;
+                    return;
+                }
+
+                const user = await signupResponse.json();
+
+                // Step 2: Create Stripe checkout session
+                const checkoutResponse = await fetch(`${API_URL}/checkout/create-session`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        email,
+                        product_id: STRIPE_PRODUCTS[tier],
+                        user_id: user.user_id,
+                        tier
+                    }),
+                });
+
+                if (!checkoutResponse.ok) {
+                    throw new Error('Failed to create checkout session');
+                }
+
+                const { session_id } = await checkoutResponse.json();
+
+                // Step 3: Redirect to Stripe checkout
+                const result = await stripe.redirectToCheckout({ sessionId: session_id });
+
+                if (result.error) {
+                    document.getElementById('signupError').style.display = 'block';
+                    document.getElementById('signupError').textContent = result.error.message;
                 }
             } catch (error) {
                 console.error('Error:', error);
                 document.getElementById('signupError').style.display = 'block';
-                document.getElementById('signupError').textContent = 'Error signing up';
+                document.getElementById('signupError').textContent = 'Error processing signup. Please try again.';
             }
         }
 
