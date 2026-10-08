@@ -33,8 +33,7 @@ Regression checks: `python -m unittest discover -s tests`.
 
 ### Publishing
 
-Push to `main` to run the refresh/deploy workflow. Only `index.html`, `privacy.html`, `CNAME`,
-`.nojekyll`, `assets/` and `data/` are deployed. Scripts and repository files stay out of the
+Push to `main` to run the refresh/deploy workflow. The deploy artifact includes `index.html`, `privacy.html`, `CNAME`, `.nojekyll`, `assets/`, `data/`, and `course/`. Scripts and repository files stay out of the
 Pages artifact. Never add OAuth token files, client secrets or local publishing credentials.
 
 ---
