@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T07:35:25.846781+00:00",
-  "count": 255,
+  "updated_at": "2026-10-08T19:55:35.832864+00:00",
+  "count": 259,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -8672,6 +8672,142 @@
       "comments_count": 3,
       "docket_id": "DOJ_FRDOC_0001",
       "first_seen": "2026-10-07"
+    },
+    "2026-20612": {
+      "title": "Air Quality Plan; Arizona; Maricopa County Air Quality Department; New Source Review; Emission Reduction Credits-Rule 204",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA) is proposing to approve a revision to the Maricopa County Air Quality Department (MCAQD or \"Department\") portion of the Arizona State Implementation Plan (SIP). This revision establishes a federally enforceable program allowing nonroad engine fleet owners/operators to generate emission reduction credits (ERCs) by either retrofitting their nonroad engines or replacing their nonroad engines with lower-emitting nonroad engines while meeting other Clean Air Act (CAA or \"Act\") requirements. These ERCs are intended for use as offsets for major stationary sources under the Department's Nonattainment New Source Review (NNSR) program. We are proposing to approve a local rule to allow for the generation of ERCs through voluntary nonroad engine emission reductions under the CAA.",
+      "document_number": "2026-20612",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20612/air-quality-plan-arizona-maricopa-county-air-quality-department-new-source-review-emission-reduction",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20612.pdf",
+      "publication_date": "2026-10-08",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-11-09",
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R09-OAR-2026-4654-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "EPA-R09-OAR-2026-4654",
+      "first_seen": "2026-10-08"
+    },
+    "2026-20613": {
+      "title": "Clinical Laboratory Improvement Amendments of 1988 (CLIA); Virtual Access, Gynecologic Cytology Proficiency Testing (PT), Personnel Qualifications, and Other Changes",
+      "type": "Proposed Rule",
+      "abstract": "This proposed rule would amend the Clinical Laboratory Improvement Amendments of 1988 (CLIA) regulations to allow for virtual access under the CLIA certificate of the primary testing laboratory that generated the data, with the exception of the subspecialty of cytology, and the use of digital images for gynecologic cytology proficiency testing. This proposed rule also includes proposed changes to personnel qualification requirements and other proposed changes pertaining to SARS-CoV-2 reporting requirements, certificate requirements, test reporting requirements, enforcement requirements, public consultation requirements, and editorial and technical updates. These proposed updates aim to strengthen the Federal oversight of clinical laboratories and ensure accurate and reliable patient test results while adapting to modern technological capabilities and industry needs, including workforce shortages.",
+      "document_number": "2026-20613",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20613/clinical-laboratory-improvement-amendments-of-1988-clia-virtual-access-gynecologic-cytology",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20613.pdf",
+      "publication_date": "2026-10-08",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Centers for Medicare & Medicaid Services",
+          "name": "Centers for Medicare & Medicaid Services",
+          "id": 45,
+          "url": "https://www.federalregister.gov/agencies/centers-for-medicare-medicaid-services",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/45",
+          "parent_id": 221,
+          "slug": "centers-for-medicare-medicaid-services"
+        }
+      ],
+      "comments_close_on": "2026-12-07",
+      "comment_url": "http://www.regulations.gov/commenton/CMS-2026-3235-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0938-AV89"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "CMS-2026-3235",
+      "first_seen": "2026-10-08"
+    },
+    "2026-20650": {
+      "title": "Low-Value Shipments",
+      "type": "Proposed Rule",
+      "abstract": "This document proposes to amend the U.S. Customs and Border Protection regulations to modify filing requirements for informal entries of goods valued at $2,500 or less and to establish a new electronic informal entry type for merchandise entering through the mail environment. This document also proposes other related changes such as requiring an additional data element for carriers pertaining to mail shipments and imposing bonding requirements for certain informal entries.",
+      "document_number": "2026-20650",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20650/low-value-shipments",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20650.pdf",
+      "publication_date": "2026-10-08",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "U.S. Customs and Border Protection",
+          "name": "U.S. Customs and Border Protection",
+          "id": 501,
+          "url": "https://www.federalregister.gov/agencies/u-s-customs-and-border-protection",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/501",
+          "parent_id": 227,
+          "slug": "u-s-customs-and-border-protection"
+        }
+      ],
+      "comments_close_on": "2026-12-07",
+      "comment_url": "http://www.regulations.gov/commenton/USCBP-2026-0298-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1685-AA38"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "USCBP-2026-0298",
+      "first_seen": "2026-10-08"
+    },
+    "2026-20660": {
+      "title": "Optional Practical Training Fees",
+      "type": "Proposed Rule",
+      "abstract": "This rule proposes new fees for Optional Practical Training (OPT) to combat fraud, strengthen the integrity of the immigration system, and protect U.S. workers. The following fees would apply for each F-1 nonimmigrant student to engage in OPT through a Student and Exchange Visitor Program-certified institution: $70,000 for initial OPT; and $30,000 for any subsequent OPT.",
+      "document_number": "2026-20660",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20660/optional-practical-training-fees",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20660.pdf",
+      "publication_date": "2026-10-08",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        }
+      ],
+      "comments_close_on": "2026-11-09",
+      "comment_url": "http://www.regulations.gov/commenton/ICEB-2026-0100-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1653-AB01"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "ICEB-2026-0100",
+      "first_seen": "2026-10-08"
     }
   }
 }
