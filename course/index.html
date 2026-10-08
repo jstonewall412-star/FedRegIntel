@@ -928,7 +928,7 @@
                         <div class="duration">10 modules • Everything</div>
                     </div>
                 </div>
-                <input type="hidden" id="selectedTier" value="">
+                <input type="hidden" id="selectedTier" value="both">
             </div>
 
             <button class="btn" onclick="signup()">Continue to Payment</button>
@@ -1062,7 +1062,7 @@
     </div>
 
     <script>
-        const API_URL = 'https://api.fedregintel.com'; // updated 2026-10-08
+        const API_URL = 'https://api.fedregintel.com';
         const STRIPE_PUBLISHABLE_KEY = 'pk_live_51UO14HBB0rYCEKxCn3apWSJ1KM6k7SB3nyy9oK18AZp5QKNEFnhM8nL4YQCDCoGARpjv0squzOUSyrp1PefHFtNs00GyJCCgVa';
         const STRIPE_PRODUCTS = {
             'associate': 'prod_VOp0d0KxcdyVl7',
@@ -1285,7 +1285,10 @@
             const password = document.getElementById('signupPassword').value;
             const tier = document.getElementById('selectedTier').value;
 
+            console.log('Signup attempt:', { name, email, password: '***', tier });
+
             if (!name || !email || !password || !tier) {
+                console.error('Validation failed:', { name: !!name, email: !!email, password: !!password, tier: !!tier });
                 document.getElementById('signupError').style.display = 'block';
                 document.getElementById('signupError').textContent = 'Please fill all fields';
                 return;
