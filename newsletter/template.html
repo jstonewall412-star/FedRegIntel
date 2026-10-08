@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="x-apple-disable-message-reformatting">
+<meta name="color-scheme" content="light">
+<meta name="supported-color-schemes" content="light">
+<title>{{SUBJECT}}</title>
+<!--
+  FedReg Intel email template.
+  Fill in every placeholder in double curly braces. Delete any optional block (marked OPTIONAL BLOCK ... END) you don't need.
+  Layout uses tables and inline styles on purpose: Gmail and Outlook ignore most <style> rules.
+  Colors: navy #102033, gold #d7b56d, dark gold #806124, paper #f6f3eb, line #ded8ca.
+-->
+<style>
+  @media (max-width:620px){
+    .wrap{width:100%!important}
+    .pad{padding-left:22px!important;padding-right:22px!important}
+    .h1{font-size:28px!important}
+    .stack{display:block!important;width:100%!important;text-align:left!important}
+    .edition{padding-top:6px!important}
+  }
+</style>
+</head>
+<body style="margin:0;padding:0;background:#f6f3eb;">
+<!-- Preheader: the preview line inbox lists show next to the subject. -->
+<div style="display:none;max-height:0;overflow:hidden;mso-hide:all;font-size:1px;line-height:1px;color:#f6f3eb;">{{PREHEADER}}&#8199;&#65279;&#847;&#8199;&#65279;&#847;&#8199;&#65279;&#847;</div>
+
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f6f3eb;">
+<tr><td align="center" style="padding:28px 12px;">
+
+  <table role="presentation" class="wrap" width="600" cellpadding="0" cellspacing="0" border="0" style="width:600px;max-width:600px;background:#ffffff;border:1px solid #ded8ca;">
+
+    <!-- Header -->
+    <tr><td class="pad" style="background:#102033;padding:26px 40px;border-bottom:3px solid #d7b56d;">
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+        <td class="stack" style="font-family:Georgia,'Times New Roman',serif;font-size:22px;letter-spacing:1px;color:#f4eddc;">
+          <a href="https://fedregintel.com/" style="color:#f4eddc;text-decoration:none;">FEDREG <span style="color:#d7b56d;">INTEL</span></a>
+        </td>
+        <td class="stack edition" align="right" style="font-family:Arial,Helvetica,sans-serif;font-size:11px;letter-spacing:2px;color:#d7b56d;">{{EDITION_LABEL}}</td>
+      </tr></table>
+    </td></tr>
+
+    <!-- Title and intro -->
+    <tr><td class="pad" style="padding:38px 40px 8px;">
+      <p style="margin:0 0 10px;font-family:Arial,Helvetica,sans-serif;font-size:11px;font-weight:bold;letter-spacing:2px;color:#806124;">{{EYEBROW}}</p>
+      <h1 class="h1" style="margin:0 0 18px;font-family:Georgia,'Times New Roman',serif;font-size:32px;line-height:1.2;font-weight:normal;color:#102033;">{{TITLE}}</h1>
+      <p style="margin:0 0 16px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.65;color:#2d3a48;">{{INTRO}}</p>
+    </td></tr>
+
+    <!-- OPTIONAL BLOCK: rule spotlight. Copy it once per rule. -->
+    <tr><td class="pad" style="padding:10px 40px;">
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #ded8ca;border-top:3px solid #d7b56d;">
+        <tr><td style="padding:20px 22px;">
+          <p style="margin:0 0 4px;font-family:Arial,Helvetica,sans-serif;font-size:10px;font-weight:bold;letter-spacing:1px;">
+            <span style="display:inline-block;margin:0 4px 6px 0;background:#ede6d6;color:#5d4a1f;padding:4px 8px;">{{RULE_TYPE}}</span>
+            <span style="display:inline-block;margin:0 0 6px;background:#fff1cc;color:#795b1a;padding:4px 8px;">COMMENTS DUE {{RULE_DEADLINE}}</span>
+          </p>
+          <p style="margin:0 0 4px;font-family:Georgia,'Times New Roman',serif;font-size:19px;line-height:1.35;color:#102033;"><a href="{{RULE_URL}}" style="color:#102033;text-decoration:none;">{{RULE_TITLE}}</a></p>
+          <p style="margin:0 0 10px;font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#646976;">{{RULE_AGENCY}}</p>
+          <p style="margin:0 0 12px;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.6;color:#2d3a48;">{{RULE_SUMMARY}}</p>
+          <p style="margin:0;font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:bold;">
+            <a href="{{RULE_URL}}" style="display:inline-block;margin:0 16px 6px 0;color:#102033;">Read the rule &#8599;</a>
+            <a href="{{RULE_COMMENT_URL}}" style="display:inline-block;margin:0 0 6px;color:#102033;">Comment on Regulations.gov &#8599;</a>
+          </p>
+        </td></tr>
+      </table>
+    </td></tr>
+    <!-- END rule spotlight -->
+
+    <!-- Main body text: paragraphs, each in its own <p> with the same style. -->
+    <tr><td class="pad" style="padding:18px 40px 6px;">
+      <p style="margin:0 0 16px;font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.65;color:#2d3a48;">{{BODY}}</p>
+    </td></tr>
+
+    <!-- Call-to-action button -->
+    <tr><td class="pad" style="padding:6px 40px 30px;">
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
+        <td style="background:#d7b56d;">
+          <a href="{{CTA_URL}}" style="display:inline-block;padding:13px 22px;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;color:#102033;text-decoration:none;">{{CTA_LABEL}} &#8594;</a>
+        </td>
+      </tr></table>
+    </td></tr>
+
+    <!-- OPTIONAL BLOCK: video -->
+    <tr><td class="pad" style="padding:0 40px 30px;">
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f6f3eb;border:1px solid #ded8ca;">
+        <tr><td style="padding:18px 20px;">
+          <p style="margin:0 0 6px;font-family:Arial,Helvetica,sans-serif;font-size:10px;font-weight:bold;letter-spacing:2px;color:#806124;">WATCH</p>
+          <p style="margin:0 0 8px;font-family:Georgia,'Times New Roman',serif;font-size:17px;line-height:1.35;color:#102033;"><a href="{{VIDEO_URL}}" style="color:#102033;text-decoration:none;">{{VIDEO_TITLE}}</a></p>
+          <a href="{{VIDEO_URL}}" style="font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:bold;color:#102033;">Watch on YouTube &#8599;</a>
+        </td></tr>
+      </table>
+    </td></tr>
+    <!-- END video -->
+
+    <!-- OPTIONAL BLOCK: book promotion -->
+    <tr><td class="pad" style="background:#102033;padding:28px 40px;">
+      <p style="margin:0 0 6px;font-family:Arial,Helvetica,sans-serif;font-size:10px;font-weight:bold;letter-spacing:2px;color:#d7b56d;">FROM FEDREG INTEL</p>
+      <p style="margin:0 0 8px;font-family:Georgia,'Times New Roman',serif;font-size:20px;line-height:1.3;color:#f4eddc;">How to Comment on Federal Rules</p>
+      <p style="margin:0 0 14px;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.6;color:#ddd9ce;">A plain-English guide to finding federal proposals and writing a public comment with a clear point and useful evidence.</p>
+      <a href="https://www.amazon.com/dp/B0HL97PYTB" style="font-family:Arial,Helvetica,sans-serif;font-size:13px;font-weight:bold;color:#d7b56d;">Get the book on Amazon &#8599;</a>
+    </td></tr>
+    <!-- END book promotion -->
+
+    <!-- Sign-off -->
+    <tr><td class="pad" style="padding:28px 40px 30px;">
+      <p style="margin:0 0 4px;font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#2d3a48;">Have a rule you want us to cover? Just reply to this email.</p>
+      <p style="margin:0;font-family:Georgia,'Times New Roman',serif;font-size:16px;color:#102033;">&mdash; Jarrett Paul Dudley, FedReg Intel</p>
+    </td></tr>
+
+    <!-- Footer -->
+    <tr><td class="pad" style="background:#f6f3eb;border-top:1px solid #ded8ca;padding:22px 40px;">
+      <p style="margin:0 0 10px;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.6;color:#646976;">
+        <a href="https://fedregintel.com/" style="color:#102033;">fedregintel.com</a>&nbsp;&middot;&nbsp;
+        <a href="https://www.youtube.com/@FedRegIntel" style="color:#102033;">YouTube</a>&nbsp;&middot;&nbsp;
+        <a href="mailto:hello@fedregintel.com" style="color:#102033;">hello@fedregintel.com</a>
+      </p>
+      <p style="margin:0 0 10px;font-family:Arial,Helvetica,sans-serif;font-size:11px;line-height:1.6;color:#646976;">Independent educational coverage. Not a government publication or legal advice. Always check the official document before commenting.</p>
+      <p style="margin:0;font-family:Arial,Helvetica,sans-serif;font-size:11px;line-height:1.6;color:#646976;">{{MAILING_ADDRESS}}<br>You're receiving this because you signed up at fedregintel.com. <a href="{{UNSUBSCRIBE_URL}}" style="color:#646976;">Unsubscribe</a></p>
+    </td></tr>
+
+  </table>
+</td></tr>
+</table>
+</body>
+</html>
