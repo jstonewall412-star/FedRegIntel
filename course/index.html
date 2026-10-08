@@ -1096,6 +1096,26 @@
             document.getElementById('lessonPage').classList.remove('active');
             document.getElementById('quizPage').classList.remove('active');
             document.getElementById('certificatePage').classList.remove('active');
+            // Show all form fields by default
+            if (document.getElementById('signupName')) {
+                document.getElementById('signupName').parentElement.style.display = 'block';
+                document.getElementById('signupEmail').parentElement.style.display = 'block';
+                document.getElementById('signupPassword').parentElement.style.display = 'block';
+            }
+        }
+
+        function showEnrollmentPage() {
+            // For logged-in users who need to enroll
+            showSignupPage();
+            // Hide form fields and button for logged-in users
+            if (document.getElementById('signupName')) {
+                document.getElementById('signupName').parentElement.style.display = 'none';
+                document.getElementById('signupEmail').parentElement.style.display = 'none';
+                document.getElementById('signupPassword').parentElement.style.display = 'none';
+                // Change the button text
+                const btn = document.querySelector('#signupPage .btn');
+                if (btn) btn.textContent = 'Continue to Payment';
+            }
         }
 
         function showFreeStarter() {
@@ -1419,8 +1439,11 @@
                     }).join('');
 
                     document.getElementById('modulesGrid').innerHTML = modulesHTML;
+                } else if (response.status === 404) {
+                    // User is logged in but not enrolled yet, show enrollment page
+                    showEnrollmentPage();
                 } else {
-                    alert('Error loading progress');
+                    console.error('Unexpected error:', response.status);
                     logout();
                 }
             } catch (error) {
