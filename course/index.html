@@ -330,6 +330,25 @@
             display: block;
         }
 
+        .video-player iframe {
+            width: 100%;
+            height: 100%;
+            border: 0;
+            border-radius: 8px;
+        }
+        .back-link {
+            background: none;
+            border: 0;
+            color: #d7b56d;
+            font-size: 14px;
+            font-weight: 600;
+            padding: 6px 0;
+            margin: 0 0 16px;
+            cursor: pointer;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
         .free-badge {
             display: inline-block;
             background: #4CAF50;
@@ -509,7 +528,7 @@
 
         .video-player {
             width: 100%;
-            height: 400px;
+            aspect-ratio: 16 / 9;
             background: #000;
             border-radius: 8px;
             display: flex;
@@ -548,6 +567,7 @@
         }
 
         .objectives li {
+            color: #333;
             padding: 8px 0;
             padding-left: 24px;
             position: relative;
@@ -579,6 +599,7 @@
         }
 
         .key-points li {
+            color: #333;
             padding: 10px 0;
             padding-left: 24px;
             position: relative;
@@ -839,7 +860,7 @@
     <div class="container">
         <!-- Free Starter Module -->
         <div id="freeStarterPage" class="free-starter">
-            <button class="btn-secondary" onclick="showSignupPage()" style="margin-bottom: 20px;">← Back</button>
+            <button class="back-link" onclick="showSignupPage()">← Back to the course</button>
 
             <div class="lesson-header">
                 <span class="free-badge">🎁 Free Lesson</span>
@@ -848,11 +869,7 @@
             </div>
 
             <div class="video-player">
-                <div style="text-align: center;">
-                    <div style="font-size: 48px; margin-bottom: 20px;">🎥</div>
-                    <p>Free introductory video</p>
-                    <p style="font-size: 12px; margin-top: 10px; opacity: 0.8;">Ready for Runway upload</p>
-                </div>
+                <iframe src="https://www.youtube.com/embed/dQuh-6AeEHI?rel=0" title="Who Writes Federal Rules? Agencies, Congress and the Federal Register" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
             </div>
 
             <div class="objectives">
@@ -1000,7 +1017,7 @@
             </div>
 
             <div class="video-player" id="videoContainer">
-                <iframe id="videoEmbed" width="100%" height="500" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius: 8px;"></iframe>
+                <iframe id="videoEmbed" src="" title="Module video" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius: 8px;"></iframe>
             </div>
 
             <div class="objectives">
