@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T01:38:05.928863+00:00",
+  "updated_at": "2026-10-08T07:35:25.005165+00:00",
   "latest_date": "2026-10-07",
   "issue_count": 10,
   "documents": [
@@ -3188,6 +3188,63 @@
       ],
       "comments_close_on": "2026-10-09",
       "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Groundfish Reserves in the Bering Sea and Aleutian Islands Management Area",
+      "type": "Rule",
+      "abstract": "NMFS apportions amounts of the non-specified reserve to the initial total allowable catch (ITAC) of Bering Sea (BS) Pacific ocean perch, Bering Sea and Aleutian Islands (BSAI) northern rockfish, and BSAI \"other flatfish.\" This action is necessary to allow the fisheries to continue operating. It is intended to promote the goals and objectives of the fishery management plan for the BSAI management area.",
+      "document_number": "2026-20019",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-20019/fisheries-of-the-exclusive-economic-zone-off-alaska-groundfish-reserves-in-the-bering-sea-and",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-20019.pdf",
+      "publication_date": "2026-09-30",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "comments_close_on": "2026-10-15",
+      "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2025-1098-0026",
+      "effective_on": "2026-10-30",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Petition for Rulemaking of Robert Michael Vanleeuwen",
+      "type": "Proposed Rule",
+      "abstract": "Please take notice that the Federal Trade Commission (\"Commission\") received a petition for rulemaking from Robert Michael Vanleeuwen and has published that petition online at https:// www.regulations.gov. The Commission invites written comments concerning the petition. Publication of this petition is pursuant to the Commission's Rules of Practice and Procedure and does not affect the legal status of the petition or its final disposition.",
+      "document_number": "2026-18854",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/15/2026-18854/petition-for-rulemaking-of-robert-michael-vanleeuwen",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-15/pdf/2026-18854.pdf",
+      "publication_date": "2026-09-15",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL TRADE COMMISSION",
+          "name": "Federal Trade Commission",
+          "id": 192,
+          "url": "https://www.federalregister.gov/agencies/federal-trade-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/192",
+          "parent_id": null,
+          "slug": "federal-trade-commission"
+        }
+      ],
+      "comments_close_on": "2026-10-15",
+      "comment_url": "http://www.regulations.gov/commenton/FTC-2026-1321-0001",
       "effective_on": null,
       "regulation_id_numbers": []
     },
