@@ -10,7 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'data'
 SITE = 'https://fedregintel.com'
 BOOK = 'https://www.amazon.com/dp/B0HL97PYTB'
-CSS = '/assets/site.css?v=pages-20261003b'
+CSS = '/assets/site.css?v=pages-20261009'
 VIDEO_ID = re.compile(r'^[A-Za-z0-9_-]{11}$')
 DOC_NUMBER = re.compile(r'^[A-Za-z0-9-]{1,40}$')
 LINK = re.compile(r'https?://[^\s<>"]+')
