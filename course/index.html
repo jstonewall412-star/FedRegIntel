@@ -999,12 +999,8 @@
                 <h2 id="lessonTitle"></h2>
             </div>
 
-            <div class="video-player">
-                <div style="text-align: center;">
-                    <div style="font-size: 48px; margin-bottom: 20px;">▶️</div>
-                    <p>Video content will appear here</p>
-                    <p style="font-size: 12px; margin-top: 10px; opacity: 0.8;">Ready for Runway upload</p>
-                </div>
+            <div class="video-player" id="videoContainer">
+                <iframe id="videoEmbed" width="100%" height="500" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius: 8px;"></iframe>
             </div>
 
             <div class="objectives">
@@ -1070,6 +1066,20 @@
         };
 
         const stripe = Stripe(STRIPE_PUBLISHABLE_KEY);
+
+        // YouTube video IDs for each module
+        const VIDEO_IDS = {
+            1: 'u2XFLMZk1TA',  // Administrative Procedure Act
+            2: 'IpDmCPenY2g',  // Federal Rulemaking Process
+            3: 'TVaOZkpT6bg',  // Proposed Rules and Public Comments
+            4: 'RMJT7vvNL9w',  // VA Disability Compensation Rules
+            5: 'r9LzGRZ3_Bw',  // Final Rules and Effective Dates
+            6: '-crL1-nZchk',  // How to Read a Federal Register Document
+            7: 'gUUsiW4OPFM',  // How to Write a Public Comment
+            8: 'LIpoeXO8yHY',  // Interim Final and Direct Final Rules
+            9: 'QLM-K-VpsHo',  // Congressional Review Act
+            10: '_jZNFey5Zac', // Petition for Rulemaking
+        };
 
         const MODULES = {
             1: { title: 'What Is a Federal Rule?', objectives: ['Understand what a federal rule is and why it matters', 'Distinguish between proposed, interim, and final rules', 'Recognize where rules appear in the Federal Register'], duration: '12 minutes' },
@@ -1156,9 +1166,16 @@
             if (moduleId) currentModule = moduleId;
 
             const module = MODULES[currentModule];
+            const videoId = VIDEO_IDS[currentModule];
+
             document.getElementById('lessonTitle').textContent = `Module ${currentModule}: ${module.title}`;
             document.getElementById('objectives').innerHTML = module.objectives.map(obj => `<li>${obj}</li>`).join('');
             document.getElementById('keyPoints').innerHTML = module.objectives.map(obj => `<li>${obj}</li>`).join('');
+
+            // Embed YouTube video
+            if (videoId) {
+                document.getElementById('videoEmbed').src = `https://www.youtube.com/embed/${videoId}?rel=0`;
+            }
 
             document.getElementById('signupPage').style.display = 'none';
             document.getElementById('loginPage').style.display = 'none';
