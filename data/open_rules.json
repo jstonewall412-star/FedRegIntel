@@ -1,8 +1,73 @@
 {
-  "updated_at": "2026-10-09T00:48:43.716645+00:00",
-  "as_of": "2026-10-08",
-  "count": 216,
+  "updated_at": "2026-10-09T07:34:35.730111+00:00",
+  "as_of": "2026-10-09",
+  "count": 217,
   "documents": [
+    {
+      "title": "Extensions of Credit to Insiders",
+      "type": "Proposed Rule",
+      "abstract": "The FDIC is extending the public comment period on the proposed rule \"Extensions of Credit to Insiders,\" which was published in the Federal Register on August 6, 2026. The FDIC is extending the public comment period from October 5, 2026, to November 4, 2026, to provide interested parties with additional time to analyze the proposal and prepare comments.",
+      "document_number": "2026-20735",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/09/2026-20735/extensions-of-credit-to-insiders",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/pdf/2026-20735.pdf",
+      "publication_date": "2026-10-09",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL DEPOSIT INSURANCE CORPORATION",
+          "name": "Federal Deposit Insurance Corporation",
+          "id": 164,
+          "url": "https://www.federalregister.gov/agencies/federal-deposit-insurance-corporation",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/164",
+          "parent_id": null,
+          "slug": "federal-deposit-insurance-corporation"
+        }
+      ],
+      "comments_close_on": "2026-11-04",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3064-AG26"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Requirements for Additional Traceability Records for Certain Foods: Enforcement Policy for Certain Retail Food Establishments and Restaurants; Draft Guidance for Industry; Availability",
+      "type": "Proposed Rule",
+      "abstract": "The Food and Drug Administration (FDA, we, or the Agency) is announcing the availability of a draft guidance for industry titled \"Requirements for Additional Traceability Records for Certain Foods: Enforcement Policy for Certain Retail Food Establishments and Restaurants.\" The draft guidance states that, at this time and based on our current understanding of the risks, FDA does not intend to enforce certain regulatory requirements as they apply to certain entities and/or activities. The applicable requirements are established in our regulation titled \"Requirements for Additional Traceability Records for Certain Foods.\"",
+      "document_number": "2026-20721",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/09/2026-20721/requirements-for-additional-traceability-records-for-certain-foods-enforcement-policy-for-certain",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/pdf/2026-20721.pdf",
+      "publication_date": "2026-10-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-23",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
     {
       "title": "Airworthiness Directives; Airbus SAS Airplanes",
       "type": "Proposed Rule",
@@ -76,7 +141,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-11803"
     },
     {
@@ -181,7 +246,7 @@
         "1653-AB01"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 774,
       "docket_id": "ICEB-2026-0100"
     },
     {
@@ -219,7 +284,7 @@
         "1685-AA38"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 3,
       "docket_id": "USCBP-2026-0298"
     },
     {
@@ -257,7 +322,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 3,
       "docket_id": "CMS-2026-3235"
     },
     {
@@ -284,7 +349,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 3,
       "docket_id": "EPA-R09-OAR-2026-4654"
     },
     {
@@ -349,7 +414,7 @@
         "1625-AA09"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "USCG-2026-0889"
     },
     {
@@ -414,7 +479,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 5,
       "docket_id": "DOJ_FRDOC_0001"
     },
     {
@@ -604,7 +669,7 @@
         "2060-AW33"
       ],
       "significant": false,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "EPA-HQ-OAR-2024-0078"
     },
     {
@@ -861,7 +926,7 @@
         "2120-AM39"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "FAA-2026-9935"
     },
     {
@@ -1163,7 +1228,7 @@
         "0970-AD32"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 6,
       "docket_id": "ACF-2026-0562"
     },
     {
@@ -1230,7 +1295,7 @@
         "3090-AL14"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "GSA-GSAR-2026-0595"
     },
     {
@@ -1268,7 +1333,7 @@
         "1545-BR97"
       ],
       "significant": null,
-      "comments_count": 11150,
+      "comments_count": 11268,
       "docket_id": "IRS-2026-1354"
     },
     {
@@ -1382,7 +1447,7 @@
         "0570-AB13"
       ],
       "significant": false,
-      "comments_count": 9,
+      "comments_count": 10,
       "docket_id": "RBS-26-BUSINESS-0529"
     },
     {
@@ -1438,7 +1503,7 @@
         "3084-AB90"
       ],
       "significant": null,
-      "comments_count": 15,
+      "comments_count": 17,
       "docket_id": "FTC-2026-1552"
     },
     {
@@ -1776,7 +1841,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "FTC-2026-1453"
     },
     {
@@ -1868,7 +1933,7 @@
         "1545-BR91"
       ],
       "significant": null,
-      "comments_count": 46,
+      "comments_count": 54,
       "docket_id": "IRS-2026-1321"
     },
     {
@@ -2579,7 +2644,7 @@
         "1140-AA86"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "ATF-2026-0365"
     },
     {
@@ -2745,7 +2810,7 @@
         "2120-AM24"
       ],
       "significant": null,
-      "comments_count": 18,
+      "comments_count": 17,
       "docket_id": "FAA-2026-12145"
     },
     {
@@ -2772,7 +2837,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 12,
+      "comments_count": 13,
       "docket_id": "CPSC-2026-0463"
     },
     {
@@ -2868,7 +2933,7 @@
         "3245-AI67"
       ],
       "significant": null,
-      "comments_count": 203,
+      "comments_count": 216,
       "docket_id": "SBA-2026-0199"
     },
     {
@@ -3110,7 +3175,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 114,
+      "comments_count": 118,
       "docket_id": "DEA-2026-1585"
     },
     {
@@ -3365,7 +3430,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 26,
+      "comments_count": 27,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -3555,7 +3620,7 @@
         "0648-BO36"
       ],
       "significant": null,
-      "comments_count": 9,
+      "comments_count": 10,
       "docket_id": "NOAA-NMFS-2026-1651"
     },
     {
@@ -3872,7 +3937,7 @@
         "0648-BN92"
       ],
       "significant": false,
-      "comments_count": 24,
+      "comments_count": 25,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     {
@@ -4351,7 +4416,7 @@
         "2060-AX00"
       ],
       "significant": null,
-      "comments_count": 5872,
+      "comments_count": 5960,
       "docket_id": "EPA-HQ-OAR-2025-0124"
     },
     {
@@ -5296,7 +5361,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "FAA-2026-8796"
     },
     {
@@ -5363,7 +5428,7 @@
         "3150-AL48"
       ],
       "significant": null,
-      "comments_count": 18,
+      "comments_count": 19,
       "docket_id": "NRC-2025-1204"
     },
     {
@@ -5759,7 +5824,7 @@
         "2040-AG44"
       ],
       "significant": true,
-      "comments_count": 28659,
+      "comments_count": 59105,
       "docket_id": "EPA-HQ-OW-2025-0322"
     },
     {
@@ -5851,7 +5916,7 @@
         "1004-AF57"
       ],
       "significant": null,
-      "comments_count": 24907,
+      "comments_count": 24958,
       "docket_id": "BLM-2026-0133"
     },
     {
@@ -6242,7 +6307,7 @@
         "1685-AA47"
       ],
       "significant": null,
-      "comments_count": 42,
+      "comments_count": 43,
       "docket_id": "USCBP-2026-1058"
     },
     {
@@ -6280,7 +6345,7 @@
         "1024-AE97"
       ],
       "significant": false,
-      "comments_count": 249,
+      "comments_count": 251,
       "docket_id": "NPS-2026-0166"
     },
     {
@@ -6318,7 +6383,7 @@
         "2120-AA66"
       ],
       "significant": false,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "FAA-2026-9967"
     },
     {
@@ -6651,44 +6716,6 @@
       "docket_id": "FAA-2026-3073"
     },
     {
-      "title": "Airworthiness Directives; Airbus Helicopters",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2025-17-03, which applies to all Airbus Helicopters Model AS332L, AS332L1, AS332L2, and EC225LP helicopters. AD 2025-17-03 requires inspecting the emergency sea anchor and, depending on the result, replacing the emergency sea anchor. Since the FAA issued AD 2025-17-03, it has been determined that an additional inspection of an affected emergency sea anchor must be accomplished. This proposed AD would retain all of the requirements of AD 2025-17-03, would also require an additional inspection, and depending on the result, replacing the emergency sea anchor. The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-17209",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/24/2026-17209/airworthiness-directives-airbus-helicopters",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-24/pdf/2026-17209.pdf",
-      "publication_date": "2026-08-24",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-08",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8786-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ],
-      "significant": false,
-      "comments_count": 0,
-      "docket_id": "FAA-2026-8786"
-    },
-    {
       "title": "Regulation Crypto Assets",
       "type": "Proposed Rule",
       "abstract": "The Securities and Exchange Commission (\"Commission\") is proposing new rules to create a tailored offering regime for certain investment contracts involving crypto assets. The proposed offering regime is intended to facilitate capital formation and accommodate innovation within the crypto asset markets while, at the same time, ensuring that investors are adequately protected and provided with the information they need to make informed investment decisions. The proposed rules would be set forth in a new regulation titled \"Regulation Crypto Assets\" and would include two exemptions from the registration requirements of section 5 of the Securities Act of 1933. The first exemption would permit offerings of up to $5 million during a four-year period. The second exemption would permit offerings of up to $75 million during each 12-month period. Under both exemptions, issuers would be required to make certain principles-based narrative disclosures available to their investors. In addition, issuers under the second exemption would be required to provide financial statements and would be subject to ongoing reporting requirements. Issuers that rely on these exemptions would remain subject to the antifraud and antimanipulation provisions of the Federal securities laws. The proposed rules also would include a conditional safe harbor from the term \"investment contract\" in the definitions of \"security\" in the Securities Act of 1933 and the Securities Exchange Act of 1934. If the conditions of that proposed safe harbor are satisfied, then a crypto asset would be deemed not to be subject to an investment contract for purposes of those definitions of \"security.\"",
@@ -6898,14 +6925,14 @@
         }
       ],
       "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/RBS_FRDOC_0001-0635",
+      "comment_url": "http://www.regulations.gov/commenton/RHS-26-ADMIN-0331-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "0575-AD54"
       ],
       "significant": null,
-      "comments_count": 3,
-      "docket_id": "RBS_FRDOC_0001"
+      "comments_count": 7,
+      "docket_id": "RHS-26-ADMIN-0331"
     },
     {
       "title": "GENIUS Act Regulations on Payment Stablecoin Issuance, Offer, and Sale",
@@ -7346,7 +7373,7 @@
         "3064-AG31"
       ],
       "significant": null,
-      "comments_count": 159,
+      "comments_count": 187,
       "docket_id": "OCC-2026-0694"
     },
     {
@@ -7451,7 +7478,7 @@
         "2126-AC99"
       ],
       "significant": null,
-      "comments_count": 2149,
+      "comments_count": 2172,
       "docket_id": "FMCSA-2026-0826"
     },
     {
@@ -7489,7 +7516,7 @@
         "2120-AM23"
       ],
       "significant": null,
-      "comments_count": 11,
+      "comments_count": 15,
       "docket_id": "FAA-2026-9177"
     },
     {
@@ -7518,7 +7545,7 @@
         "2529-AB09"
       ],
       "significant": true,
-      "comments_count": 76,
+      "comments_count": 90,
       "docket_id": "HUD-2026-0034"
     },
     {
@@ -7554,7 +7581,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "FDA-2026-N-7630"
     },
     {
@@ -7590,7 +7617,7 @@
       "effective_on": "2026-08-27",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 10,
+      "comments_count": 11,
       "docket_id": "BIS-2026-0364"
     },
     {

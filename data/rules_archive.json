@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T00:48:43.716645+00:00",
-  "count": 259,
+  "updated_at": "2026-10-09T07:34:35.730111+00:00",
+  "count": 261,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -2045,7 +2045,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 10,
+      "comments_count": 11,
       "docket_id": "BIS-2026-0364"
     },
     "2026-16108": {
@@ -2256,7 +2256,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "FDA-2026-N-7630"
     },
     "2026-16228": {
@@ -2286,7 +2286,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 76,
+      "comments_count": 90,
       "docket_id": "HUD-2026-0034"
     },
     "2026-16268": {
@@ -2350,7 +2350,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 11,
+      "comments_count": 15,
       "docket_id": "FAA-2026-9177"
     },
     "2026-16288": {
@@ -2389,7 +2389,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 2149,
+      "comments_count": 2172,
       "docket_id": "FMCSA-2026-0826"
     },
     "2026-16296": {
@@ -2874,7 +2874,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 159,
+      "comments_count": 187,
       "docket_id": "OCC-2026-0694"
     },
     "2026-16569": {
@@ -3409,15 +3409,15 @@
         }
       ],
       "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/RBS_FRDOC_0001-0635",
+      "comment_url": "http://www.regulations.gov/commenton/RHS-26-ADMIN-0331-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "0575-AD54"
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 3,
-      "docket_id": "RBS_FRDOC_0001"
+      "comments_count": 7,
+      "docket_id": "RHS-26-ADMIN-0331"
     },
     "2026-16932": {
       "title": "Air Plan Partial Approval and Partial Conditional Approval; South Carolina; Control of Oxides of Nitrogen and Source Testing Requirements",
@@ -4834,7 +4834,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 249,
+      "comments_count": 251,
       "docket_id": "NPS-2026-0166"
     },
     "2026-17926": {
@@ -4873,7 +4873,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 42,
+      "comments_count": 43,
       "docket_id": "USCBP-2026-1058"
     },
     "2026-17939": {
@@ -5212,7 +5212,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 24907,
+      "comments_count": 24958,
       "docket_id": "BLM-2026-0133"
     },
     "2026-18282": {
@@ -5288,7 +5288,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 28659,
+      "comments_count": 59105,
       "docket_id": "EPA-HQ-OW-2025-0322"
     },
     "2026-18337": {
@@ -5588,7 +5588,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 18,
+      "comments_count": 19,
       "docket_id": "NRC-2025-1204"
     },
     "2026-18531": {
@@ -6119,7 +6119,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 5872,
+      "comments_count": 5960,
       "docket_id": "EPA-HQ-OAR-2025-0124"
     },
     "2026-19158": {
@@ -6422,7 +6422,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 24,
+      "comments_count": 25,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     "2026-19222": {
@@ -6816,7 +6816,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 26,
+      "comments_count": 27,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19361": {
@@ -6959,7 +6959,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 114,
+      "comments_count": 118,
       "docket_id": "DEA-2026-1585"
     },
     "2026-19500": {
@@ -7095,7 +7095,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 203,
+      "comments_count": 216,
       "docket_id": "SBA-2026-0199"
     },
     "2026-19568": {
@@ -7153,7 +7153,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 12,
+      "comments_count": 13,
       "docket_id": "CPSC-2026-0463"
     },
     "2026-19584": {
@@ -7192,7 +7192,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 18,
+      "comments_count": 17,
       "docket_id": "FAA-2026-12145"
     },
     "2026-19656": {
@@ -7307,7 +7307,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "ATF-2026-0365"
     },
     "2026-19710": {
@@ -7522,7 +7522,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 46,
+      "comments_count": 54,
       "docket_id": "IRS-2026-1321"
     },
     "2026-20038": {
@@ -7578,7 +7578,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "FTC-2026-1453"
     },
     "2026-20079": {
@@ -7783,7 +7783,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 15,
+      "comments_count": 17,
       "docket_id": "FTC-2026-1552"
     },
     "2026-20169": {
@@ -7850,7 +7850,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 9,
+      "comments_count": 10,
       "docket_id": "RBS-26-BUSINESS-0529"
     },
     "2026-20251": {
@@ -7928,7 +7928,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 11150,
+      "comments_count": 11268,
       "docket_id": "IRS-2026-1354"
     },
     "2026-20296": {
@@ -7988,7 +7988,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "GSA-GSAR-2026-0595"
     },
     "2026-20328": {
@@ -8066,7 +8066,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 6,
       "docket_id": "ACF-2026-0562"
     },
     "2026-20335": {
@@ -8377,7 +8377,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "FAA-2026-9935"
     },
     "2026-20388": {
@@ -8553,7 +8553,7 @@
         "2060-AW33"
       ],
       "significant": false,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "EPA-HQ-OAR-2024-0078",
       "first_seen": "2026-10-06"
     },
@@ -8669,7 +8669,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 5,
       "docket_id": "DOJ_FRDOC_0001",
       "first_seen": "2026-10-07"
     },
@@ -8697,7 +8697,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 3,
       "docket_id": "EPA-R09-OAR-2026-4654",
       "first_seen": "2026-10-08"
     },
@@ -8736,7 +8736,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 3,
       "docket_id": "CMS-2026-3235",
       "first_seen": "2026-10-08"
     },
@@ -8775,7 +8775,7 @@
         "1685-AA38"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 3,
       "docket_id": "USCBP-2026-0298",
       "first_seen": "2026-10-08"
     },
@@ -8805,9 +8805,76 @@
         "1653-AB01"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 774,
       "docket_id": "ICEB-2026-0100",
       "first_seen": "2026-10-08"
+    },
+    "2026-20721": {
+      "title": "Requirements for Additional Traceability Records for Certain Foods: Enforcement Policy for Certain Retail Food Establishments and Restaurants; Draft Guidance for Industry; Availability",
+      "type": "Proposed Rule",
+      "abstract": "The Food and Drug Administration (FDA, we, or the Agency) is announcing the availability of a draft guidance for industry titled \"Requirements for Additional Traceability Records for Certain Foods: Enforcement Policy for Certain Retail Food Establishments and Restaurants.\" The draft guidance states that, at this time and based on our current understanding of the risks, FDA does not intend to enforce certain regulatory requirements as they apply to certain entities and/or activities. The applicable requirements are established in our regulation titled \"Requirements for Additional Traceability Records for Certain Foods.\"",
+      "document_number": "2026-20721",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/09/2026-20721/requirements-for-additional-traceability-records-for-certain-foods-enforcement-policy-for-certain",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/pdf/2026-20721.pdf",
+      "publication_date": "2026-10-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-23",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-09"
+    },
+    "2026-20735": {
+      "title": "Extensions of Credit to Insiders",
+      "type": "Proposed Rule",
+      "abstract": "The FDIC is extending the public comment period on the proposed rule \"Extensions of Credit to Insiders,\" which was published in the Federal Register on August 6, 2026. The FDIC is extending the public comment period from October 5, 2026, to November 4, 2026, to provide interested parties with additional time to analyze the proposal and prepare comments.",
+      "document_number": "2026-20735",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/09/2026-20735/extensions-of-credit-to-insiders",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/pdf/2026-20735.pdf",
+      "publication_date": "2026-10-09",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL DEPOSIT INSURANCE CORPORATION",
+          "name": "Federal Deposit Insurance Corporation",
+          "id": 164,
+          "url": "https://www.federalregister.gov/agencies/federal-deposit-insurance-corporation",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/164",
+          "parent_id": null,
+          "slug": "federal-deposit-insurance-corporation"
+        }
+      ],
+      "comments_close_on": "2026-11-04",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3064-AG26"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-09"
     }
   }
 }
