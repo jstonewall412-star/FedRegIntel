@@ -645,20 +645,32 @@
 
         .quiz-container {
             background: white;
+            color: #102033;
             padding: 40px;
             border-radius: 8px;
-            max-width: 600px;
+            border-top: 4px solid #d7b56d;
+            max-width: 720px;
             margin: 0 auto;
+        }
+        .quiz-container h2 {
+            color: #102033;
+            font-family: Georgia, 'Times New Roman', serif;
+            font-weight: 400;
+            font-size: 28px;
+            line-height: 1.25;
         }
 
         .quiz-question {
-            margin-bottom: 40px;
+            margin-bottom: 32px;
+            padding-top: 24px;
+            border-top: 1px solid #ece6d8;
         }
 
         .quiz-question h3 {
-            margin-bottom: 20px;
-            color: #003366;
+            margin-bottom: 16px;
+            color: #102033;
             font-size: 18px;
+            line-height: 1.4;
         }
 
         .quiz-options {
@@ -667,24 +679,66 @@
         }
 
         .quiz-options li {
-            margin-bottom: 12px;
+            margin-bottom: 10px;
+            position: relative;
         }
 
+        /* The real radio stays in the page for keyboards and screen readers; the label draws the circle. */
         .quiz-options input[type="radio"] {
-            margin-right: 10px;
+            position: absolute;
+            opacity: 0;
+            width: 1px;
+            height: 1px;
         }
 
         .quiz-options label {
             cursor: pointer;
-            padding: 12px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
+            position: relative;
             display: block;
+            padding: 14px 16px 14px 48px;
+            border: 1px solid #d9d2c2;
+            border-radius: 6px;
+            background: #fff;
+            color: #2d3a48;
+            font-size: 16px;
+            line-height: 1.45;
+            transition: border-color .15s, background .15s;
+        }
+
+        .quiz-options label::before {
+            content: "";
+            position: absolute;
+            left: 16px;
+            top: 50%;
+            width: 18px;
+            height: 18px;
+            margin-top: -10px;
+            border: 2px solid #9aa3ad;
+            border-radius: 50%;
+            background: #fff;
+        }
+
+        .quiz-options label:hover {
+            border-color: #d7b56d;
+            background: #fcfaf4;
         }
 
         .quiz-options input[type="radio"]:checked + label {
-            border-color: #003366;
-            background: #f0f5ff;
+            border-color: #102033;
+            background: #f6f1e4;
+            color: #102033;
+            font-weight: 600;
+        }
+
+        .quiz-options input[type="radio"]:checked + label::before {
+            border-color: #102033;
+            background: #102033;
+            box-shadow: inset 0 0 0 3px #fff;
+        }
+
+        .quiz-options input[type="radio"]:focus-visible + label {
+            outline: 3px solid #d7b56d;
+            outline-offset: 2px;
         }
 
         .quiz-results {
@@ -832,7 +886,7 @@
             }
 
             .video-player {
-                height: 250px;
+                height: auto;
             }
 
             .quiz-container {
@@ -1010,7 +1064,7 @@
 
         <!-- Lesson Page -->
         <div id="lessonPage" class="lesson">
-            <button class="btn-secondary" onclick="showDashboard()" style="margin-bottom: 20px;">← Back to Dashboard</button>
+            <button class="back-link" onclick="showDashboard()">← Back to Dashboard</button>
 
             <div class="lesson-header">
                 <h2 id="lessonTitle"></h2>
@@ -1035,7 +1089,7 @@
 
         <!-- Quiz Page -->
         <div id="quizPage" class="quiz">
-            <button class="btn-secondary" onclick="showLesson()" style="margin-bottom: 20px;">← Back to Lesson</button>
+            <button class="back-link" onclick="showLesson()">← Back to Lesson</button>
 
             <div class="quiz-container">
                 <h2 id="quizTitle"></h2>
@@ -1046,7 +1100,7 @@
 
         <!-- Certificate Page -->
         <div id="certificatePage" class="certificate">
-            <button class="btn-secondary" onclick="showDashboard()" style="margin-bottom: 20px;">← Back to Dashboard</button>
+            <button class="back-link" onclick="showDashboard()">← Back to Dashboard</button>
 
             <div class="certificate-container">
                 <h2>🎉 Congratulations!</h2>
