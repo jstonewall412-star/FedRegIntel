@@ -103,3 +103,11 @@ Tell me the handles and I'll (each with your OK before anything goes live):
 - add the Bluesky verification record in Cloudflare.
 
 Ongoing posts can come from the same data the site uses (rules closing in the next 7 days), so a weekly batch like section 5 can be generated each Friday.
+
+## Required brand separation before publishing
+
+FedReg Intel posts are about federal rules open for public comment, verified deadlines, official documents, and how to comment. Keep FedReg Intel captions, thumbnails, links, and account identity together. Do not attach Ministry of Petty Affairs product media or link previews to a "rules to watch" or deadline post, and do not reuse FedReg Intel copy for a Ministry post.
+
+The Ministry of Petty Affairs is a separate comedy/satire novelty-certificate product: Royal Court writs for household grievances and funny HR incident reports for workplace situations. It is not a source for federal rules or legal guidance; its documents have no legal standing. A planned cross-promotion must be explicitly labeled as a FedReg Intel creator spotlight, describe the Ministry product accurately, link to ministryofpetty.com, and retain the satire/no-legal-standing disclosure.
+
+Preflight every post by checking the account, caption, attached media/thumbnail, and URL as a single set. They must all match the intended brand. If one element belongs to another brand, stop and fix the mismatch before publishing.
