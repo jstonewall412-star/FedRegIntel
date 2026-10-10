@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T12:00:40.911557+00:00",
+  "updated_at": "2026-10-10T07:31:20.857780+00:00",
   "latest_date": "2026-10-09",
   "issue_count": 12,
   "documents": [
@@ -349,8 +349,8 @@
           "slug": "federal-aviation-administration"
         }
       ],
-      "comments_close_on": null,
-      "comment_url": null,
+      "comments_close_on": "2026-11-23",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11805-0001",
       "effective_on": "2026-10-26",
       "regulation_id_numbers": [
         "2120-AA64"
@@ -385,7 +385,7 @@
         }
       ],
       "comments_close_on": "2026-11-23",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FDA-2025-D-6952-0001",
       "effective_on": null,
       "regulation_id_numbers": []
     },
@@ -3206,30 +3206,6 @@
       ]
     },
     {
-      "title": "Air Plan Approval; Reconsideration and Repeal of Air Plan Partial Approval and Partial Disapproval of North Dakota's Regional Haze State Implementation Plan for the Second Implementation Period; Correction",
-      "type": "Proposed Rule",
-      "abstract": "On September 9, 2026 the U.S. Environmental Protection Agency (EPA or Agency) proposed to repeal a final rule published in the Federal Register (FR) on December 2, 2024, partially approving and partially disapproving North Dakota's 2022 regional haze State Implementation Plan (SIP) submission for the second implementation period. The EPA proposed in the same action to approve the portions of North Dakota's 2022 SIP submission for the second implementation period that were disapproved in the EPA's 2024 partial approval/partial disapproval. The ADDRESSES section of the proposed rulemaking contained an incorrect Docket Identification Number (Docket ID No.) in the Federal Register. This document corrects an inadvertent typographical error in the Federal Register. This correction does not result in any substantive changes to the proposed rule.",
-      "document_number": "2026-20060",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-20060/air-plan-approval-reconsideration-and-repeal-of-air-plan-partial-approval-and-partial-disapproval-of",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-20060.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": "2026-10-09",
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": []
-    },
-    {
       "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Groundfish Reserves in the Bering Sea and Aleutian Islands Management Area",
       "type": "Rule",
       "abstract": "NMFS apportions amounts of the non-specified reserve to the initial total allowable catch (ITAC) of Bering Sea (BS) Pacific ocean perch, Bering Sea and Aleutian Islands (BSAI) northern rockfish, and BSAI \"other flatfish.\" This action is necessary to allow the fisheries to continue operating. It is intended to promote the goals and objectives of the fishery management plan for the BSAI management area.",
@@ -3259,7 +3235,7 @@
       ],
       "comments_close_on": "2026-10-15",
       "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2025-1098-0026",
-      "effective_on": "2026-10-30",
+      "effective_on": "2026-09-30",
       "regulation_id_numbers": []
     },
     {
@@ -3572,133 +3548,6 @@
       ]
     },
     {
-      "title": "Labels 888, 889, 891, and 892, Discontinued",
-      "type": "Proposed Rule",
-      "abstract": "The Postal Service is proposing to amend Mailing Standards of the United States Postal Service, Domestic Mail Manual (DMM[supreg]) to discontinue the use of Label 888 and Label 889 respectively. Revisions to the DMM concern only Labels 888 and 889.",
-      "document_number": "2026-18371",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/09/2026-18371/labels-888-889-891-and-892-discontinued",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-09/pdf/2026-18371.pdf",
-      "publication_date": "2026-09-09",
-      "agencies": [
-        {
-          "raw_name": "POSTAL SERVICE",
-          "name": "Postal Service",
-          "id": 410,
-          "url": "https://www.federalregister.gov/agencies/postal-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/410",
-          "parent_id": null,
-          "slug": "postal-service"
-        }
-      ],
-      "comments_close_on": "2026-10-09",
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Simplified Geographic Preference Procurement in Child Nutrition Programs",
-      "type": "Rule",
-      "abstract": "This direct final rule amends geographic preference option language in National School Lunch Program, School Breakfast Program, Special Milk Program for Children, Child and Adult Care Program, and Summer Food Service Program regulations. The changes are customer- focused and intended to simplify program regulations and make them easier to understand. They do not change the meaning of the regulations or their implementation.",
-      "document_number": "2026-18337",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/09/2026-18337/simplified-geographic-preference-procurement-in-child-nutrition-programs",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-09/pdf/2026-18337.pdf",
-      "publication_date": "2026-09-09",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Food and Nutrition Administration",
-          "name": "Food and Nutrition Administration",
-          "id": 625,
-          "url": "https://www.federalregister.gov/agencies/food-and-nutrition-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/625",
-          "parent_id": 12,
-          "slug": "food-and-nutrition-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-09",
-      "comment_url": "http://www.regulations.gov/commenton/FNA-2026-0364-0001",
-      "effective_on": "2026-11-09",
-      "regulation_id_numbers": [
-        "0584-AF06"
-      ]
-    },
-    {
-      "title": "Updated Definition of “Waters of the United States”",
-      "type": "Proposed Rule",
-      "abstract": "The purpose of this supplemental notice of proposed rulemaking is for the U.S. Environmental Protection Agency (EPA) and the Department of the Army (\"the agencies\") to supplement and seek additional comment on certain aspects of an earlier proposal, published on November 20, 2025, to revise the regulations defining the scope of waters federally covered under the Clean Water Act in light of the U.S. Supreme Court's 2023 decision in Sackett v. Environmental Protection Agency. As stated in the agencies' November 20, 2025 Notice of Proposed Rulemaking (NPRM), the agencies intend for this rulemaking to provide greater regulatory certainty and increase Clean Water Act program predictability and consistency by clarifying the definition of \"waters of the United States.\" After consideration of the public comments received on the NPRM, the agencies are issuing this notice to supplement the NPRM with additional regulatory options on certain aspects of the proposed rule.",
-      "document_number": "2026-18317",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/09/2026-18317/updated-definition-of-waters-of-the-united-states",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-09/pdf/2026-18317.pdf",
-      "publication_date": "2026-09-09",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF DEFENSE",
-          "name": "Defense Department",
-          "id": 103,
-          "url": "https://www.federalregister.gov/agencies/defense-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/103",
-          "parent_id": null,
-          "slug": "defense-department"
-        },
-        {
-          "raw_name": "Department of the Army, Corps of Engineers",
-          "name": "Engineers Corps",
-          "id": 142,
-          "url": "https://www.federalregister.gov/agencies/engineers-corps",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/142",
-          "parent_id": 103,
-          "slug": "engineers-corps"
-        },
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": "2026-10-09",
-      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OW-2025-0322-15447",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2040-AG44"
-      ]
-    },
-    {
-      "title": "Air Plan Approval; Reconsideration and Repeal of Air Plan Partial Approval and Partial Disapproval of North Dakota's Regional Haze State Implementation Plan for the Second Implementation Period",
-      "type": "Proposed Rule",
-      "abstract": "The U.S. Environmental Protection Agency (EPA or Agency) is proposing to repeal a final rule published in the Federal Register on December 2, 2024, partially approving and partially disapproving North Dakota's 2022 regional haze State Implementation Plan (SIP) submission for the second implementation period. As a result, the EPA is proposing to approve the portions of North Dakota's 2022 SIP submission for the second implementation period that were disapproved in the EPA's 2024 partial approval/partial disapproval. In the December 2024 final rule, the EPA determined that North Dakota submitted a regional haze SIP that did not meet all the statutory and regulatory requirements for the regional haze second implementation period. On January 31, 2025, and February 6, 2025, EPA received petitions for reconsideration from the State of North Dakota, Basin Electric Power Cooperative, Lignite Energy Council (LEC), Rainbow Energy Center, and the Coyote Station Co-Owners. On January 31, 2025, the State of North Dakota, Montana-Dakota Utilities Company, NACCO Natural Resources Corporation, Basin Electric Power Cooperative, Rainbow Energy Center, and Lignite Energy Center filed petitions for review in the Eighth Circuit Court of Appeals. EPA granted reconsideration on April 30, 2025, sending letters to the State of North Dakota, Basin Electric, LEC, Rainbow Energy Center, and Coyote Station Co-Owners. The petitions for review were held in abeyance by the Eighth Circuit on June 4, 2025 pending the administrative reconsideration process.",
-      "document_number": "2026-18290",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/09/2026-18290/air-plan-approval-reconsideration-and-repeal-of-air-plan-partial-approval-and-partial-disapproval-of",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-09/pdf/2026-18290.pdf",
-      "publication_date": "2026-09-09",
-      "agencies": [
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": "2026-10-09",
-      "comment_url": "http://www.regulations.gov/commenton/EPA-R08-OAR-2023-0495-0065",
-      "effective_on": null,
-      "regulation_id_numbers": []
-    },
-    {
       "title": "Amendment of Class D Airspace and Class E Airspace Over New Haven, CT",
       "type": "Proposed Rule",
       "abstract": "This action proposes to amend Class D and Class E airspace over New Haven, CT. This action would modify the dimensions of the New Haven, CT Class D airspace to appropriately contain Instrument Flight Rules (IFR) operations at the Tweed/New Haven Airport. This action would also update verbiage in the Class D airspace legal description to comply with current FAA guidance. This action would also update the airport name and geographic coordinates for Tweed/New Haven airport in both the Class D and Class E5 airspace legal descriptions. This action would also remove the exclusions for adjacent Class E5 airspace from the New Haven, CT Class E5 airspace legal description.",
@@ -3905,39 +3754,6 @@
       "regulation_id_numbers": [
         "2120-AA64"
       ]
-    },
-    {
-      "title": "Special Conditions: Pratt and Whitney Canada, PW220A; New Engine Rating: Idle-Cruise Regime",
-      "type": "Proposed Rule",
-      "abstract": "This action proposes special conditions for the Pratt and Whitney Canada (P&WC) aircraft engine Model PW220A. This engine will have a novel or unusual design feature when compared to the state of technology envisioned in the airworthiness standards for engines. This design feature will incorporate an unusual power rating structure that includes an \"idle cruise regime\" (ICR). The applicable airworthiness regulations do not contain adequate or appropriate safety standards for this design feature. These proposed special conditions contain the additional safety standards that the Administrator considers necessary to establish a level of safety equivalent to that established by the existing airworthiness standards.",
-      "document_number": "2026-17298",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/25/2026-17298/special-conditions-pratt-and-whitney-canada-pw220a-new-engine-rating-idle-cruise-regime",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-25/pdf/2026-17298.pdf",
-      "publication_date": "2026-08-25",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-09",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-3073-0001",
-      "effective_on": null,
-      "regulation_id_numbers": []
     },
     {
       "title": "Proposed Removal of a Reporting Requirement for Trusts Whose Charitable Contribution Deductions Are Solely for Contributions Made by Passthrough Entities",
@@ -4309,135 +4125,6 @@
       "regulation_id_numbers": [
         "1615-AD19"
       ]
-    },
-    {
-      "title": "English Language Proficiency; Out of Service Criteria",
-      "type": "Proposed Rule",
-      "abstract": "FMCSA proposes to codify the English language proficiency (ELP) driver qualification requirement as an out-of-service (OOS) violation. The rulemaking would ensure uniform enforcement by aligning the Federal Motor Carrier Safety Regulations (FMCSR) with the current enforcement tolerances in the North American Standard Out-of-Service Criteria issued by the Commercial Vehicle Safety Alliance (CVSA). The rulemaking responds to a petition from CVSA.",
-      "document_number": "2026-16288",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/10/2026-16288/english-language-proficiency-out-of-service-criteria",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-10/pdf/2026-16288.pdf",
-      "publication_date": "2026-08-10",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Motor Carrier Safety Administration",
-          "name": "Federal Motor Carrier Safety Administration",
-          "id": 181,
-          "url": "https://www.federalregister.gov/agencies/federal-motor-carrier-safety-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/181",
-          "parent_id": 492,
-          "slug": "federal-motor-carrier-safety-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-09",
-      "comment_url": "http://www.regulations.gov/commenton/FMCSA-2026-0826-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2126-AC99"
-      ]
-    },
-    {
-      "title": "Removal of FAA Third-Class Medical Certificate Requirement for Military Pilot Trainees",
-      "type": "Proposed Rule",
-      "abstract": "FAA proposes to amend regulations to extend the existing exception for U.S. military pilots from the requirement to hold an FAA third-class medical certificate to military pilot trainees who already meet U.S. military pilot medical examination requirements. FAA has determined that U.S. military pilot medical examinations meet or exceed the level of safety established by FAA third-class medical certificate standards. Therefore, it is redundant to require military pilot trainees to meet both standards. The proposed rule would support streamlining the U.S. military use of civilian flight schools. The intended effects are to reduce administrative burdens and costs while maintaining safety standards.",
-      "document_number": "2026-16272",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/10/2026-16272/removal-of-faa-third-class-medical-certificate-requirement-for-military-pilot-trainees",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-10/pdf/2026-16272.pdf",
-      "publication_date": "2026-08-10",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-09",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9177-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AM23"
-      ]
-    },
-    {
-      "title": "HUD's Implementation of the Fair Housing Act's Disparate Impact Standard; Amendments to HUD's Title VI Regulations",
-      "type": "Proposed Rule",
-      "abstract": "HUD published a notice of proposed rulemaking in January of 2026 that proposed to remove HUD's disparate-impact regulations and leave interpretation of disparate-impact liability under the Fair Housing Act to the courts. This supplemental notice of proposed rulemaking continues HUD's efforts to remove or revise regulations that prohibit conduct having a disparate impact without evidence of discriminatory intent. Through this rule, HUD is proposing to remove provisions in HUD's Title VI implementing regulations that impose disparate-impact liability on recipients of HUD Federal financial assistance. If finalized, this rule would improve consistency within HUD's own regulations and between HUD's regulations and the Title VI regulations recently revised by the Department of Justice (DOJ). This rule reopens the public comment period of HUD's January 2026 proposed rule on disparate-impact liability; HUD will only consider comments on topics related to this supplemental notice of proposed rulemaking during the reopened comment period.",
-      "document_number": "2026-16228",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/10/2026-16228/huds-implementation-of-the-fair-housing-acts-disparate-impact-standard-amendments-to-huds-title-vi",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-10/pdf/2026-16228.pdf",
-      "publication_date": "2026-08-10",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT",
-          "name": "Housing and Urban Development Department",
-          "id": 228,
-          "url": "https://www.federalregister.gov/agencies/housing-and-urban-development-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/228",
-          "parent_id": null,
-          "slug": "housing-and-urban-development-department"
-        }
-      ],
-      "comments_close_on": "2026-10-09",
-      "comment_url": "http://www.regulations.gov/commenton/HUD-2026-0034-0609",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2529-AB09"
-      ]
-    },
-    {
-      "title": "Radiology Devices; Reclassification of Digital Breast Tomosynthesis System",
-      "type": "Proposed Rule",
-      "abstract": "The Food and Drug Administration (FDA) is proposing to reclassify digital breast tomosynthesis (DBT) systems, product code OTE, which are postamendments class III devices, from class III (premarket approval) into class II (special controls), subject to premarket notification. FDA is also proposing a new device classification regulation with the name \"Digital Breast Tomosynthesis System,\" to identify these devices along with special controls that FDA believes are necessary to provide a reasonable assurance of the safety and effectiveness of these devices.",
-      "document_number": "2026-16209",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/10/2026-16209/radiology-devices-reclassification-of-digital-breast-tomosynthesis-system",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-10/pdf/2026-16209.pdf",
-      "publication_date": "2026-08-10",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
-          "name": "Health and Human Services Department",
-          "id": 221,
-          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
-          "parent_id": null,
-          "slug": "health-and-human-services-department"
-        },
-        {
-          "raw_name": "Food and Drug Administration",
-          "name": "Food and Drug Administration",
-          "id": 199,
-          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
-          "parent_id": 221,
-          "slug": "food-and-drug-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-09",
-      "comment_url": "http://www.regulations.gov/commenton/FDA-2026-N-7630-0001",
-      "effective_on": null,
-      "regulation_id_numbers": []
     },
     {
       "title": "Hazardous and Solid Waste Management System: Disposal of Coal Combustion Residuals From Electric Utilities; Federal CCR Permit Program; General Permit Provisions",
