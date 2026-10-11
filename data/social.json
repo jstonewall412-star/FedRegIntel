@@ -1,28 +1,29 @@
 {
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T07:31:25.447318+00:00",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T07:32:08.409278+00:00",
   "posts": [
     {
       "kind": "trending",
-      "document_number": "2026-18631",
-      "url": "https://fedregintel.com/rules/2026-18631/",
-      "x": "📈 Gaining public comments (+154 since yesterday): Homeland Security Department's proposed rule, \"Eliminating the Discretionary 60-Day…\". 25,223 public comments posted on Regulations.gov so far. Comments close Nov 10. Read it and weigh in: https://fedregintel.com/rules/2026-18631/",
-      "bluesky": "📈 Gaining public comments (+154 since yesterday): Homeland Security Department's proposed rule, \"Eliminating the Discretionary 60-Day Grace Period\". 25,223 public comments posted on Regulations.gov so far. Comments close Nov 10. Read it and weigh in: https://fedregintel.com/rules/2026-18631/",
-      "long": "📈 Gaining public comments (+154 since yesterday): Homeland Security Department's proposed rule, \"Eliminating the Discretionary 60-Day Grace Period\". 25,223 public comments posted on Regulations.gov so far. Comments close Nov 10. The page links the official document and the comment form: https://fedregintel.com/rules/2026-18631/",
-      "youtube": "📈 Gaining comments (+154 since yesterday): Homeland Security Department's proposed rule, \"Eliminating the Discretionary 60-Day Grace Period.\" 25,223 public comments on Regulations.gov. Comments close Nov 10. https://fedregintel.com/rules/2026-18631/",
-      "x_length": 272
+      "document_number": "2026-18481",
+      "url": "https://fedregintel.com/rules/2026-18481/",
+      "x": "📈 Among the most-commented rules open now: Census Bureau's proposed rule, \"Decennial Census of the Population of Americans;…\". 54,023 public comments posted on Regulations.gov so far. Comments close Oct 13. Read it and weigh in: https://fedregintel.com/rules/2026-18481/",
+      "bluesky": "📈 Among the most-commented rules open now: Census Bureau's proposed rule, \"Decennial Census of the Population of Americans; Proposed Residence…\". 54,023 public comments posted on Regulations.gov so far. Comments close Oct 13. Read it and weigh in: https://fedregintel.com/rules/2026-18481/",
+      "long": "📈 Among the most-commented rules open now: Census Bureau's proposed rule, \"Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions\". 54,023 public comments posted on Regulations.gov so far. Comments close Oct 13. The page links the official document and the comment form: https://fedregintel.com/rules/2026-18481/",
+      "youtube": "📈 Most-commented: Census Bureau's proposed rule, \"Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions.\" 54,023 public comments on Regulations.gov. Comments close Oct 13. https://fedregintel.com/rules/2026-18481/",
+      "x_length": 262
     },
     {
-      "kind": "video",
-      "url": "https://fedregintel.com/videos/068Wxnp8mhE/",
-      "x": "🎥 New: The Blanket Has Been Annexed | Funny Anniversary Gift #Shorts. Watch with the transcript and sources: https://fedregintel.com/videos/068Wxnp8mhE/",
-      "bluesky": "🎥 New: The Blanket Has Been Annexed | Funny Anniversary Gift #Shorts. Watch with the transcript and sources: https://fedregintel.com/videos/068Wxnp8mhE/",
-      "long": "🎥 New: The Blanket Has Been Annexed | Funny Anniversary Gift #Shorts. Watch with the transcript and sources: https://fedregintel.com/videos/068Wxnp8mhE/",
-      "youtube": "🎥 New video: The Blanket Has Been Annexed | Funny Anniversary Gift #Shorts https://youtu.be/068Wxnp8mhE",
-      "x_length": 133
+      "kind": "deadline",
+      "document_number": "2026-16454",
+      "url": "https://fedregintel.com/rules/2026-16454/",
+      "x": "⏰ Comment period closes soon: Federal Deposit Insurance Corporation's proposed rule, \"Community Reinvestment Act Regulations\". 224 public comments posted on Regulations.gov so far. Comments close Oct 13. Read it and weigh in: https://fedregintel.com/rules/2026-16454/",
+      "bluesky": "⏰ Comment period closes soon: Federal Deposit Insurance Corporation's proposed rule, \"Community Reinvestment Act Regulations\". 224 public comments posted on Regulations.gov so far. Comments close Oct 13. Read it and weigh in: https://fedregintel.com/rules/2026-16454/",
+      "long": "⏰ Comment period closes soon: Federal Deposit Insurance Corporation's proposed rule, \"Community Reinvestment Act Regulations\". 224 public comments posted on Regulations.gov so far. Comments close Oct 13. The page links the official document and the comment form: https://fedregintel.com/rules/2026-16454/",
+      "youtube": "⏰ Closing Oct 13: Federal Deposit Insurance Corporation's proposed rule, \"Community Reinvestment Act Regulations.\" 224 public comments on Regulations.gov. https://fedregintel.com/rules/2026-16454/",
+      "x_length": 258
     }
   ],
-  "youtube": "Today's federal rules to watch 🗳\n\n📈 Gaining comments (+154 since yesterday): Homeland Security Department's proposed rule, \"Eliminating the Discretionary 60-Day Grace Period.\" 25,223 public comments on Regulations.gov. Comments close Nov 10. https://fedregintel.com/rules/2026-18631/\n\n🎥 New video: The Blanket Has Been Annexed | Funny Anniversary Gift #Shorts https://youtu.be/068Wxnp8mhE\n\nEvery rule open for comment, by deadline: https://fedregintel.com/rules/",
+  "youtube": "Today's federal rules to watch 🗳\n\n📈 Most-commented: Census Bureau's proposed rule, \"Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions.\" 54,023 public comments on Regulations.gov. Comments close Oct 13. https://fedregintel.com/rules/2026-18481/\n\n⏰ Closing Oct 13: Federal Deposit Insurance Corporation's proposed rule, \"Community Reinvestment Act Regulations.\" 224 public comments on Regulations.gov. https://fedregintel.com/rules/2026-16454/\n\nEvery rule open for comment, by deadline: https://fedregintel.com/rules/",
   "posted": {},
   "history": [
     {
@@ -71,6 +72,12 @@
       "date": "2026-10-10",
       "trending": [
         "2026-18631"
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "trending": [
+        "2026-18481"
       ]
     }
   ]

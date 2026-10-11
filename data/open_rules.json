@@ -1,8 +1,178 @@
 {
-  "updated_at": "2026-10-10T07:31:21.126121+00:00",
-  "as_of": "2026-10-10",
-  "count": 208,
+  "updated_at": "2026-10-11T07:32:01.986918+00:00",
+  "as_of": "2026-10-11",
+  "count": 213,
   "documents": [
+    {
+      "title": "Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets",
+      "type": "Proposed Rule",
+      "abstract": "The Commodity Futures Trading Commission (\"Commission\" or \"CFTC\") is issuing an advanced notice of proposed rulemaking regarding section 2(c)(2)(D) of the Commodity Exchange Act (\"CEA\" or \"Act\") to provide notice and seek public comment on its intent to develop and establish fit-for-purpose rules implementing section 2(c)(2)(D) of the Act with respect to transactions and markets in crypto assets.",
+      "document_number": "2026-20888",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20888.pdf",
+      "publication_date": "2026-10-13",
+      "agencies": [
+        {
+          "raw_name": "COMMODITY FUTURES TRADING COMMISSION",
+          "name": "Commodity Futures Trading Commission",
+          "id": 77,
+          "url": "https://www.federalregister.gov/agencies/commodity-futures-trading-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/77",
+          "parent_id": null,
+          "slug": "commodity-futures-trading-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-14",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3038-AF80"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Airworthiness Directives; Airbus Helicopters",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus Helicopters Model H160-B helicopters. This proposed AD was prompted by a report of the inability to operate the jettisoning function of a window due to a blocked jettisoning mechanism. This proposed AD would require removing the jettisonable windows, cleaning the ropes of the jettisonable windows, and performing an operational test of the windows jettison systems. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-20885",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20885/airworthiness-directives-airbus-helicopters",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20885.pdf",
+      "publication_date": "2026-10-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-27",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ],
+      "significant": false,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Advance Traveler Information for Rail",
+      "type": "Proposed Rule",
+      "abstract": "U.S. Customs and Border Protection (CBP) is proposing to require rail carriers to transmit advance electronic traveler information to CBP for any individual (crew and passengers) who is arriving in or departing from the United States on board a train. The rail carrier also would be required to transmit an advance notice of arrival or departure, as applicable, for the train. This rule would enhance security while facilitating legitimate international travel on board trains.",
+      "document_number": "2026-20884",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20884/advance-traveler-information-for-rail",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20884.pdf",
+      "publication_date": "2026-10-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "U.S. Customs and Border Protection",
+          "name": "U.S. Customs and Border Protection",
+          "id": 501,
+          "url": "https://www.federalregister.gov/agencies/u-s-customs-and-border-protection",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/501",
+          "parent_id": 227,
+          "slug": "u-s-customs-and-border-protection"
+        }
+      ],
+      "comments_close_on": "2026-12-14",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1651-AB60"
+      ],
+      "significant": true,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Periodic Reporting",
+      "type": "Proposed Rule",
+      "abstract": "The Commission is acknowledging a recent Postal Service filing requesting the Commission initiate a rulemaking proceeding to consider changes to analytical principles relating to periodic reports. This document informs the public of the filing, invites public comment, and takes other administrative steps.",
+      "document_number": "2026-20865",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20865/periodic-reporting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20865.pdf",
+      "publication_date": "2026-10-13",
+      "agencies": [
+        {
+          "raw_name": "POSTAL REGULATORY COMMISSION",
+          "name": "Postal Regulatory Commission",
+          "id": 409,
+          "url": "https://www.federalregister.gov/agencies/postal-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/409",
+          "parent_id": null,
+          "slug": "postal-regulatory-commission"
+        }
+      ],
+      "comments_close_on": "2026-10-28",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Magnuson-Stevens Fishery Conservation and Management Act Provisions; Fisheries of the Northeastern United States; Framework Adjustment 7 to the Atlantic Spiny Dogfish Fishery Management Plan",
+      "type": "Proposed Rule",
+      "abstract": "NMFS proposes measures included in Framework Adjustment 7 to the Spiny Dogfish Fishery Management Plan (FMP), as recommended by the Mid-Atlantic and New England Fishery Management Councils. Framework 7 proposes fishing year 2026 and projected 2027 specifications, which would establish allowable harvest levels for the spiny dogfish fishery to prevent overfishing while enabling optimum yield based on the best scientific information available. Framework 7 also proposes changes to the Atlantic spiny dogfish accountability measures intended to provide the commercial fishery with greater flexibility by no longer requiring full payback of annual catch limit (ACL) overages when the Atlantic spiny dogfish stock is considered healthy.",
+      "document_number": "2026-20863",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20863/magnuson-stevens-fishery-conservation-and-management-act-provisions-fisheries-of-the-northeastern",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20863.pdf",
+      "publication_date": "2026-10-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-12",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0648-BO48"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
     {
       "title": "Extensions of Credit to Insiders",
       "type": "Proposed Rule",

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T07:31:21.126121+00:00",
-  "count": 261,
+  "updated_at": "2026-10-11T07:32:01.986918+00:00",
+  "count": 264,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -1299,7 +1299,7 @@
         "2130-AD65"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-15614": {
       "title": "Section 898(c) Transition Rule for Allocating Foreign Taxes and Section 960(d)(4) Foreign Tax Credit Disallowance",
@@ -1336,7 +1336,7 @@
         "1545-BR76"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-15624": {
       "title": "Amendment to 3,4-MDP-2-P Methyl Glycidic Acid, a List I Chemical",
@@ -1407,7 +1407,7 @@
         "1219-AC18"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-15671": {
       "title": "Modification of Certain Terminology in Title 21; Reopening of the Comment Period",
@@ -1444,7 +1444,7 @@
         "0910-AJ26"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-15717": {
       "title": "Ventilation Plan Approval Criteria",
@@ -1481,7 +1481,7 @@
         "1219-AC21"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-15724": {
       "title": "High-Speed Train Noise Emission Standards",
@@ -1518,7 +1518,7 @@
         "2130-AC83"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-15743": {
       "title": "Federal Motor Vehicle Safety Standards; Child Restraint Anchorage Systems; Child Restraint Systems",
@@ -1555,7 +1555,7 @@
         "2127-AM74"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-15774": {
       "title": "Regulatory Modernization and Relief for Mutual Holding Companies",
@@ -2009,7 +2009,7 @@
         "2120-AL42"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-16078": {
       "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
@@ -2499,7 +2499,7 @@
         "1545-BS19"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-16317": {
       "title": "Television Broadcasting Services St. George, Utah",
@@ -2561,7 +2561,7 @@
         "0648-BO18"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-16331": {
       "title": "Response to Clean Air Act Section 176A Petition From New Hampshire",
@@ -2802,7 +2802,13 @@
         "1625-AA87"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11",
+      "final_rule": {
+        "title": "Security Zone; Patapsco River, Baltimore, MD",
+        "document_number": "2026-20477",
+        "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20477/security-zone-patapsco-river-baltimore-md",
+        "publication_date": "2026-10-06"
+      }
     },
     "2026-16425": {
       "title": "Rescission of DOE's Procedures for Traffic Control on the Nevada Test Site",
@@ -3303,7 +3309,7 @@
         "0584-AF22"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-16769": {
       "title": "Proposed Removal of a Reporting Requirement for Trusts Whose Charitable Contribution Deductions Are Solely for Contributions Made by Passthrough Entities",
@@ -3550,7 +3556,7 @@
         "0596-AD66"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-16976": {
       "title": "Receipt of Pesticide Petitions Filed for Residues of Pesticide Chemicals in or on Various Commodities-June 2026",
@@ -3668,7 +3674,7 @@
         "1840-AD82"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-17019": {
       "title": "Application of Section 250(b)(3)(A)(i)(VII) to Sales or Other Dispositions of Property",
@@ -3761,7 +3767,7 @@
         "3245-AI67"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-17079": {
       "title": "Commodity Pool Operators and Commodity Trading Advisors: Reduction of Duplicative Regulation Through Intermediary Registration Exemptions; Expansion of the Exemption for Small Commodity Pools",
@@ -4031,7 +4037,7 @@
         "1875-AA14"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-17296": {
       "title": "Membership Adjustment of the Mushroom Council",
@@ -4130,7 +4136,7 @@
         "1615-AD20"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-17365": {
       "title": "Pro Rata Share of Subpart F Income, Tested Income, or Tested Loss",
@@ -4197,7 +4203,7 @@
         "3038-AF79"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-17445": {
       "title": "List of Approved Spent Fuel Storage Casks: TN Americas, LLC Standardized NUHOMS® Horizontal Modular Storage System for Irradiated Nuclear Fuel, Certificate of Compliance No. 1004, Renewed Amendment No. 19",
@@ -4252,7 +4258,7 @@
         "3150-AL72"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-17536": {
       "title": "Schedules of Controlled Substances: Placement of Cipepofol in Schedule IV",
@@ -4353,7 +4359,7 @@
         "3046-AB46"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-17649": {
       "title": "Disclosure of Information; Extension of Comment Period",
@@ -4637,7 +4643,7 @@
         "1545-BR76"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-17767": {
       "title": "Promoting Telehealth in Rural America",
@@ -4699,7 +4705,7 @@
         "1557-AF56"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-17865": {
       "title": "Reciprocal Deposits: Implementing the 21st Century ROAD to Housing Act",
@@ -4763,7 +4769,7 @@
         "1506-AB76"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-17895": {
       "title": "National Wildlife Refuge System; 2026-2027 Station-Specific Hunting and Sport Fishing Regulations",
@@ -4944,7 +4950,7 @@
         "2120-AM36"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-18015": {
       "title": "Television Broadcasting Services Colusa, California",
@@ -5485,7 +5491,7 @@
         "1018-BG36"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-18481": {
       "title": "Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions",
@@ -6584,7 +6590,7 @@
         "3038-AF26"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-11"
     },
     "2026-19308": {
       "title": "Merger Transactions",
@@ -8879,6 +8885,103 @@
       "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-10-09"
+    },
+    "2026-20865": {
+      "title": "Periodic Reporting",
+      "type": "Proposed Rule",
+      "abstract": "The Commission is acknowledging a recent Postal Service filing requesting the Commission initiate a rulemaking proceeding to consider changes to analytical principles relating to periodic reports. This document informs the public of the filing, invites public comment, and takes other administrative steps.",
+      "document_number": "2026-20865",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20865/periodic-reporting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20865.pdf",
+      "publication_date": "2026-10-13",
+      "agencies": [
+        {
+          "raw_name": "POSTAL REGULATORY COMMISSION",
+          "name": "Postal Regulatory Commission",
+          "id": 409,
+          "url": "https://www.federalregister.gov/agencies/postal-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/409",
+          "parent_id": null,
+          "slug": "postal-regulatory-commission"
+        }
+      ],
+      "comments_close_on": "2026-10-28",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-11"
+    },
+    "2026-20884": {
+      "title": "Advance Traveler Information for Rail",
+      "type": "Proposed Rule",
+      "abstract": "U.S. Customs and Border Protection (CBP) is proposing to require rail carriers to transmit advance electronic traveler information to CBP for any individual (crew and passengers) who is arriving in or departing from the United States on board a train. The rail carrier also would be required to transmit an advance notice of arrival or departure, as applicable, for the train. This rule would enhance security while facilitating legitimate international travel on board trains.",
+      "document_number": "2026-20884",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20884/advance-traveler-information-for-rail",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20884.pdf",
+      "publication_date": "2026-10-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "U.S. Customs and Border Protection",
+          "name": "U.S. Customs and Border Protection",
+          "id": 501,
+          "url": "https://www.federalregister.gov/agencies/u-s-customs-and-border-protection",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/501",
+          "parent_id": 227,
+          "slug": "u-s-customs-and-border-protection"
+        }
+      ],
+      "comments_close_on": "2026-12-14",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1651-AB60"
+      ],
+      "significant": true,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-11"
+    },
+    "2026-20888": {
+      "title": "Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets",
+      "type": "Proposed Rule",
+      "abstract": "The Commodity Futures Trading Commission (\"Commission\" or \"CFTC\") is issuing an advanced notice of proposed rulemaking regarding section 2(c)(2)(D) of the Commodity Exchange Act (\"CEA\" or \"Act\") to provide notice and seek public comment on its intent to develop and establish fit-for-purpose rules implementing section 2(c)(2)(D) of the Act with respect to transactions and markets in crypto assets.",
+      "document_number": "2026-20888",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20888.pdf",
+      "publication_date": "2026-10-13",
+      "agencies": [
+        {
+          "raw_name": "COMMODITY FUTURES TRADING COMMISSION",
+          "name": "Commodity Futures Trading Commission",
+          "id": 77,
+          "url": "https://www.federalregister.gov/agencies/commodity-futures-trading-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/77",
+          "parent_id": null,
+          "slug": "commodity-futures-trading-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-14",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3038-AF80"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-11"
     }
   }
 }
