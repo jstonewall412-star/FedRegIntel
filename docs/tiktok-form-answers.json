@@ -1,0 +1,18 @@
+{
+  "app_name": "FedReg Intel Uploads",
+  "app_id": "7695696910073595956",
+  "organization": "FedReg Intel",
+  "category": "News",
+  "description": "Review original FedReg Intel videos and send TikTok drafts for creator approval. Educational; not legal advice.",
+  "platform": "Desktop",
+  "website_url": "https://fedregintel.com/tiktok/",
+  "terms_url": "https://fedregintel.com/tiktok/terms.html",
+  "privacy_url": "https://fedregintel.com/tiktok/privacy.html",
+  "icon_file": "tiktok/app-icon-1024.png",
+  "redirect_uri": "http://127.0.0.1:8769/callback/",
+  "products": ["Login Kit", "Content Posting API"],
+  "scopes": ["user.info.basic", "video.upload"],
+  "direct_post": false,
+  "posting_account": "jstonewall412",
+  "status": "Prepared; public URL deployment, verification, sandbox authorization and genuine demo are pending."
+}
