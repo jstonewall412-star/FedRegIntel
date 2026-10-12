@@ -1435,9 +1435,13 @@
                     throw new Error('Failed to create checkout session');
                 }
 
-                const { session_id } = await checkoutResponse.json();
+                const { session_id, url } = await checkoutResponse.json();
 
-                // Step 3: Redirect to Stripe checkout
+                // Step 3: Redirect to Stripe checkout (hosted URL; older Worker builds only return session_id)
+                if (url) {
+                    window.location.assign(url);
+                    return;
+                }
                 const result = await stripe.redirectToCheckout({ sessionId: session_id });
 
                 if (result.error) {
