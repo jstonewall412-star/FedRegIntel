@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T07:39:19.390408+00:00",
+  "updated_at": "2026-10-13T14:04:44.784426+00:00",
   "latest_date": "2026-10-13",
   "issue_count": 24,
   "documents": [
@@ -205,7 +205,7 @@
         }
       ],
       "comments_close_on": "2026-12-14",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/CFTC_FRDOC_0001-0055",
       "effective_on": null,
       "regulation_id_numbers": [
         "3038-AF80"
@@ -240,7 +240,7 @@
         }
       ],
       "comments_close_on": "2026-11-27",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11806-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
@@ -275,7 +275,7 @@
         }
       ],
       "comments_close_on": "2026-12-14",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/USCBP-2026-0992-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1651-AB60"
@@ -437,7 +437,7 @@
         }
       ],
       "comments_close_on": "2026-11-12",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2026-1321-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "0648-BO48"
@@ -759,7 +759,7 @@
         }
       ],
       "comments_close_on": null,
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11804-0001",
       "effective_on": "2026-10-14",
       "regulation_id_numbers": [
         "2120-AA64"

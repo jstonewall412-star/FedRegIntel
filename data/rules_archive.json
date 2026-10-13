@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T07:39:20.368408+00:00",
+  "updated_at": "2026-10-13T14:04:45.170826+00:00",
   "count": 264,
   "documents": {
     "2026-11545": {
@@ -8910,7 +8910,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
+      "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-10-11"
     },
@@ -8943,14 +8943,14 @@
         }
       ],
       "comments_close_on": "2026-12-14",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/USCBP-2026-0992-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1651-AB60"
       ],
       "significant": true,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "USCBP-2026-0992",
       "first_seen": "2026-10-11"
     },
     "2026-20888": {
@@ -8973,14 +8973,14 @@
         }
       ],
       "comments_close_on": "2026-12-14",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/CFTC_FRDOC_0001-0055",
       "effective_on": null,
       "regulation_id_numbers": [
         "3038-AF80"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "CFTC_FRDOC_0001",
       "first_seen": "2026-10-11"
     }
   }
