@@ -1,0 +1,43 @@
+name: Deploy FedReg Intel public site
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Assemble public site
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p site
+          cp index.html privacy.html robots.txt CNAME site/
+          cp -R assets course data social-launch newsletter tiktok site/
+          cp tiktokWiEDgaJHMYjDAfuJhVwRnGr6jSeYfvmJ.txt site/
+      - name: Upload public site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
