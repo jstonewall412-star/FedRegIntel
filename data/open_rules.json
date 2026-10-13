@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-13T14:04:45.170826+00:00",
+  "updated_at": "2026-10-13T23:48:19.561760+00:00",
   "as_of": "2026-10-13",
-  "count": 213,
+  "count": 214,
   "documents": [
     {
       "title": "Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets",
@@ -23,14 +23,14 @@
         }
       ],
       "comments_close_on": "2026-12-14",
-      "comment_url": "http://www.regulations.gov/commenton/CFTC_FRDOC_0001-0055",
+      "comment_url": "http://www.regulations.gov/commenton/CFTC-2026-2179-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "3038-AF80"
       ],
       "significant": null,
       "comments_count": 0,
-      "docket_id": "CFTC_FRDOC_0001"
+      "docket_id": "CFTC-2026-2179"
     },
     {
       "title": "Airworthiness Directives; Airbus Helicopters",
@@ -172,6 +172,44 @@
       "significant": null,
       "comments_count": 0,
       "docket_id": "NOAA-NMFS-2026-1321"
+    },
+    {
+      "title": "Airworthiness Directives; Elixir Aircraft",
+      "type": "Rule",
+      "abstract": "The FAA is adopting a new airworthiness directive (AD) for all Elixir Aircraft Model Elixir airplanes. This AD was prompted by a fatal accident on a Model Elixir airplane during a production flight. The cause of the accident is still under investigation. This AD prohibits operation until approved inspection or modification procedures are identified, accomplished, and incorporated. The FAA is issuing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-20818",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20818/airworthiness-directives-elixir-aircraft",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20818.pdf",
+      "publication_date": "2026-10-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-27",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11804-0001",
+      "effective_on": "2026-10-14",
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-11804"
     },
     {
       "title": "Extensions of Credit to Insiders",

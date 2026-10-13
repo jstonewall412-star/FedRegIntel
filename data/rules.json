@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T14:04:44.784426+00:00",
+  "updated_at": "2026-10-13T23:48:18.666254+00:00",
   "latest_date": "2026-10-13",
   "issue_count": 24,
   "documents": [
@@ -205,7 +205,7 @@
         }
       ],
       "comments_close_on": "2026-12-14",
-      "comment_url": "http://www.regulations.gov/commenton/CFTC_FRDOC_0001-0055",
+      "comment_url": "http://www.regulations.gov/commenton/CFTC-2026-2179-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "3038-AF80"
@@ -758,7 +758,7 @@
           "slug": "federal-aviation-administration"
         }
       ],
-      "comments_close_on": null,
+      "comments_close_on": "2026-11-27",
       "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11804-0001",
       "effective_on": "2026-10-14",
       "regulation_id_numbers": [

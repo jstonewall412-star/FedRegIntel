@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T14:04:45.170826+00:00",
+  "updated_at": "2026-10-13T23:48:19.561760+00:00",
   "count": 264,
   "documents": {
     "2026-11545": {
@@ -8973,14 +8973,14 @@
         }
       ],
       "comments_close_on": "2026-12-14",
-      "comment_url": "http://www.regulations.gov/commenton/CFTC_FRDOC_0001-0055",
+      "comment_url": "http://www.regulations.gov/commenton/CFTC-2026-2179-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "3038-AF80"
       ],
       "significant": null,
       "comments_count": 0,
-      "docket_id": "CFTC_FRDOC_0001",
+      "docket_id": "CFTC-2026-2179",
       "first_seen": "2026-10-11"
     }
   }
