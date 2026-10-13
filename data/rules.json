@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T20:39:44.957556+00:00",
+  "updated_at": "2026-10-13T07:39:19.390408+00:00",
   "latest_date": "2026-10-13",
   "issue_count": 24,
   "documents": [
@@ -4440,6 +4440,163 @@
       "effective_on": "2026-09-14",
       "regulation_id_numbers": [
         "2120-AA64"
+      ]
+    },
+    {
+      "title": "Regulation Crypto Assets",
+      "type": "Proposed Rule",
+      "abstract": "The Securities and Exchange Commission (\"Commission\") is proposing new rules to create a tailored offering regime for certain investment contracts involving crypto assets. The proposed offering regime is intended to facilitate capital formation and accommodate innovation within the crypto asset markets while, at the same time, ensuring that investors are adequately protected and provided with the information they need to make informed investment decisions. The proposed rules would be set forth in a new regulation titled \"Regulation Crypto Assets\" and would include two exemptions from the registration requirements of section 5 of the Securities Act of 1933. The first exemption would permit offerings of up to $5 million during a four-year period. The second exemption would permit offerings of up to $75 million during each 12-month period. Under both exemptions, issuers would be required to make certain principles-based narrative disclosures available to their investors. In addition, issuers under the second exemption would be required to provide financial statements and would be subject to ongoing reporting requirements. Issuers that rely on these exemptions would remain subject to the antifraud and antimanipulation provisions of the Federal securities laws. The proposed rules also would include a conditional safe harbor from the term \"investment contract\" in the definitions of \"security\" in the Securities Act of 1933 and the Securities Exchange Act of 1934. If the conditions of that proposed safe harbor are satisfied, then a crypto asset would be deemed not to be subject to an investment contract for purposes of those definitions of \"security.\"",
+      "document_number": "2026-17183",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17183/regulation-crypto-assets",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-21/pdf/2026-17183.pdf",
+      "publication_date": "2026-08-21",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "comments_close_on": "2026-10-20",
+      "comment_url": null,
+      "effective_on": "2026-08-21",
+      "regulation_id_numbers": [
+        "3235-AN38"
+      ]
+    },
+    {
+      "title": "Request for Comment on the Listing of Compute Derivatives Contracts",
+      "type": "Proposed Rule",
+      "abstract": "The Commodity Futures Trading Commission (\"CFTC\" or \"Commission\") is seeking public responses to this Request for Comment to better inform its understanding and oversight of derivatives markets in compute.",
+      "document_number": "2026-17163",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17163/request-for-comment-on-the-listing-of-compute-derivatives-contracts",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-21/pdf/2026-17163.pdf",
+      "publication_date": "2026-08-21",
+      "agencies": [
+        {
+          "raw_name": "COMMODITY FUTURES TRADING COMMISSION",
+          "name": "Commodity Futures Trading Commission",
+          "id": 77,
+          "url": "https://www.federalregister.gov/agencies/commodity-futures-trading-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/77",
+          "parent_id": null,
+          "slug": "commodity-futures-trading-commission"
+        }
+      ],
+      "comments_close_on": "2026-10-20",
+      "comment_url": "http://www.regulations.gov/commenton/CFTC-2026-1850-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3038-AF77"
+      ]
+    },
+    {
+      "title": "Guidance on Eligible Investments for Trump Accounts",
+      "type": "Proposed Rule",
+      "abstract": "This document contains proposed regulations relating to Trump accounts. The proposed regulations would provide guidance regarding eligible investments, which are the only assets in which Trump account funds may be invested before the first day of the calendar year in which the account beneficiary attains age 18. The proposed regulations would affect account beneficiaries and trustees of Trump accounts.",
+      "document_number": "2026-17123",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17123/guidance-on-eligible-investments-for-trump-accounts",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-21/pdf/2026-17123.pdf",
+      "publication_date": "2026-08-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "Internal Revenue Service",
+          "name": "Internal Revenue Service",
+          "id": 254,
+          "url": "https://www.federalregister.gov/agencies/internal-revenue-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/254",
+          "parent_id": 497,
+          "slug": "internal-revenue-service"
+        }
+      ],
+      "comments_close_on": "2026-10-20",
+      "comment_url": "http://www.regulations.gov/commenton/IRS-2026-1090-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1545-BS14"
+      ]
+    },
+    {
+      "title": "Genealogy Program Regulations To Clarify the Impact of Federal Records Requirements",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Department of Homeland Security (DHS) proposes to amend its regulation governing genealogy program related records requests to revise its genealogy program regulations to clarify the impact of statutory and regulatory federal records requirements. This is necessary for individuals who request immigration records through the agency's genealogy program to better understand which records may be requested.",
+      "document_number": "2026-17119",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17119/genealogy-program-regulations-to-clarify-the-impact-of-federal-records-requirements",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-21/pdf/2026-17119.pdf",
+      "publication_date": "2026-08-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        }
+      ],
+      "comments_close_on": "2026-10-20",
+      "comment_url": "http://www.regulations.gov/commenton/USCIS-2026-0331-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1615-AD21"
+      ]
+    },
+    {
+      "title": "Withdrawal of International Airport Designation of Chalk Seaplane Base",
+      "type": "Proposed Rule",
+      "abstract": "U.S. Customs and Border Protection (CBP) is proposing to withdraw the international airport designation of Chalk Seaplane Base, now operating as Miami Seaplane Base. This proposal is based on evidence that the facility at this location has not been in compliance with CBP regulatory and security standards and the amount of business clearing through the airport does not justify continued maintenance of inspection equipment and personnel. The proposed change is part of CBP's continued efforts to use its personnel, facilities, and resources more efficiently and to provide better service to carriers, importers, and the public.",
+      "document_number": "2026-17108",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17108/withdrawal-of-international-airport-designation-of-chalk-seaplane-base",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-21/pdf/2026-17108.pdf",
+      "publication_date": "2026-08-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "U.S. Customs and Border Protection",
+          "name": "U.S. Customs and Border Protection",
+          "id": 501,
+          "url": "https://www.federalregister.gov/agencies/u-s-customs-and-border-protection",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/501",
+          "parent_id": 227,
+          "slug": "u-s-customs-and-border-protection"
+        }
+      ],
+      "comments_close_on": "2026-10-20",
+      "comment_url": "http://www.regulations.gov/commenton/USCBP-2026-0892-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1651-AB51"
       ]
     },
     {
