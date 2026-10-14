@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T14:01:52.400177+00:00",
+  "updated_at": "2026-10-14T19:03:26.697296+00:00",
   "latest_date": "2026-10-14",
   "issue_count": 21,
   "documents": [
@@ -23,7 +23,7 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": "http://www.regulations.gov/commenton/NRC_FRDOC_0001-10908",
+      "comment_url": "http://www.regulations.gov/commenton/NRC-2026-2377-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "3150-AL70"
@@ -49,7 +49,7 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": "http://www.regulations.gov/commenton/NRC_FRDOC_0001-10910",
+      "comment_url": "http://www.regulations.gov/commenton/NRC-2026-2377-0002",
       "effective_on": "2026-12-28",
       "regulation_id_numbers": [
         "3150-AL70"
@@ -413,7 +413,7 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": "http://www.regulations.gov/commenton/FDA_FRDOC_0001-14550",
+      "comment_url": "http://www.regulations.gov/commenton/FDA-2026-F-2048-0005",
       "effective_on": "2026-10-14",
       "regulation_id_numbers": []
     },
