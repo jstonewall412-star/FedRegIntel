@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T07:50:42.409035+00:00",
+  "updated_at": "2026-10-14T14:01:52.887685+00:00",
   "as_of": "2026-10-14",
   "count": 209,
   "documents": [
@@ -23,14 +23,14 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NRC_FRDOC_0001-10908",
       "effective_on": null,
       "regulation_id_numbers": [
         "3150-AL70"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "NRC_FRDOC_0001"
     },
     {
       "title": "AP1000 Design Certification Renewal",
@@ -52,14 +52,14 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NRC_FRDOC_0001-10910",
       "effective_on": "2026-12-28",
       "regulation_id_numbers": [
         "3150-AL70"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "NRC_FRDOC_0001"
     },
     {
       "title": "Airworthiness Directives; Leonardo S.p.a. Helicopters",
@@ -90,14 +90,14 @@
         }
       ],
       "comments_close_on": "2026-11-30",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11808-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FAA-2026-11808"
     },
     {
       "title": "Airworthiness Directives; Baykar Piaggio Aerospace S.p.A. (Type Certificate Previously Held by Piaggio Aviation S.p.A.) Airplanes",
@@ -128,14 +128,14 @@
         }
       ],
       "comments_close_on": "2026-11-30",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11809-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FAA-2026-11809"
     },
     {
       "title": "Further Reducing Bureaucracy and Burden From the Administration for Native Americans",
@@ -166,14 +166,14 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/ACF_FRDOC_0001-0172",
       "effective_on": null,
       "regulation_id_numbers": [
         "0970-AD50"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "ACF_FRDOC_0001"
     },
     {
       "title": "Periodic Reporting",
@@ -199,7 +199,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
+      "comments_count": 0,
       "docket_id": null
     },
     {
@@ -222,14 +222,14 @@
         }
       ],
       "comments_close_on": "2026-11-30",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OAR-2025-0186-1587",
       "effective_on": "2026-10-14",
       "regulation_id_numbers": [
         "2060-AX07"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "EPA-HQ-OAR-2025-0186"
     },
     {
       "title": "Food Additives Permitted in Feed and Drinking Water of Animals; Chromium Propionate",
@@ -260,12 +260,12 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FDA_FRDOC_0001-14550",
       "effective_on": "2026-10-14",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FDA_FRDOC_0001"
     },
     {
       "title": "Trichloroethylene (TCE); Regulation Under the Toxic Substances Control Act (TSCA); Compliance Date Extensions",
@@ -287,14 +287,14 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OPPT-2026-7327-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2070-AL45"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "EPA-HQ-OPPT-2026-7327"
     },
     {
       "title": "Removing 30-Day Refugee Termination Notice",
@@ -316,14 +316,14 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/USCIS-2026-0397-0001",
       "effective_on": "2026-10-14",
       "regulation_id_numbers": [
         "1615-AD23"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "USCIS-2026-0397"
     },
     {
       "title": "Removing Deference to Prior USCIS Determinations of Eligibility",
@@ -345,14 +345,14 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/USCIS-2026-0529-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1615-AD26"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "USCIS-2026-0529"
     },
     {
       "title": "Airworthiness Directives; Leonardo S.p.A. Helicopters",
@@ -383,14 +383,14 @@
         }
       ],
       "comments_close_on": "2026-11-30",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11807-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FAA-2026-11807"
     },
     {
       "title": "Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets",

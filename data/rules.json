@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T07:50:42.018626+00:00",
+  "updated_at": "2026-10-14T14:01:52.400177+00:00",
   "latest_date": "2026-10-14",
   "issue_count": 21,
   "documents": [
@@ -23,7 +23,7 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NRC_FRDOC_0001-10908",
       "effective_on": null,
       "regulation_id_numbers": [
         "3150-AL70"
@@ -49,7 +49,7 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NRC_FRDOC_0001-10910",
       "effective_on": "2026-12-28",
       "regulation_id_numbers": [
         "3150-AL70"
@@ -153,7 +153,7 @@
         }
       ],
       "comments_close_on": "2026-11-30",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11808-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
@@ -258,7 +258,7 @@
         }
       ],
       "comments_close_on": "2026-11-30",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11809-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
@@ -293,7 +293,7 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/ACF_FRDOC_0001-0172",
       "effective_on": null,
       "regulation_id_numbers": [
         "0970-AD50"
@@ -378,7 +378,7 @@
         }
       ],
       "comments_close_on": "2026-11-30",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OAR-2025-0186-1587",
       "effective_on": "2026-10-14",
       "regulation_id_numbers": [
         "2060-AX07"
@@ -413,7 +413,7 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FDA_FRDOC_0001-14550",
       "effective_on": "2026-10-14",
       "regulation_id_numbers": []
     },
@@ -472,7 +472,7 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OPPT-2026-7327-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2070-AL45"
@@ -498,7 +498,7 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/USCIS-2026-0397-0001",
       "effective_on": "2026-10-14",
       "regulation_id_numbers": [
         "1615-AD23"
@@ -616,7 +616,7 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/USCIS-2026-0529-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1615-AD26"
@@ -651,7 +651,7 @@
         }
       ],
       "comments_close_on": "2026-11-30",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11807-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
