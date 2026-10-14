@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-14T00:03:52.900520+00:00",
-  "count": 264,
+  "updated_at": "2026-10-14T07:50:42.409035+00:00",
+  "count": 273,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -535,7 +535,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 7,
-      "docket_id": "EPA-HQ-OLEM-2026-4159"
+      "docket_id": "EPA-HQ-OLEM-2026-4159",
+      "final_checked": "2026-10-14"
     },
     "2026-14118": {
       "title": "Alabama: Approval of State Coal Combustion Residuals Permit Program",
@@ -2170,7 +2171,7 @@
       "significant": null,
       "comments_count": 12588,
       "docket_id": "ACF-2026-0595",
-      "final_checked": "2026-10-07"
+      "final_checked": "2026-10-14"
     },
     "2026-16196": {
       "title": "Build America: Eliminating Barriers to Wireline Deployments",
@@ -2431,7 +2432,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 717,
+      "comments_count": 726,
       "docket_id": "FDA-2025-N-3262"
     },
     "2026-16313": {
@@ -2884,7 +2885,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 234,
-      "docket_id": "OCC-2026-0694"
+      "docket_id": "OCC-2026-0694",
+      "final_checked": "2026-10-14"
     },
     "2026-16569": {
       "title": "Foreign Currency Gain or Loss of Controlled Foreign Corporations",
@@ -2990,7 +2992,8 @@
       "first_seen": "2026-10-03",
       "significant": false,
       "comments_count": 19,
-      "docket_id": "NOAA-NMFS-2024-0050"
+      "docket_id": "NOAA-NMFS-2024-0050",
+      "final_checked": "2026-10-14"
     },
     "2026-16630": {
       "title": "Updates and Amendments to the Civil Service Rules",
@@ -3056,7 +3059,8 @@
       "first_seen": "2026-10-03",
       "significant": false,
       "comments_count": 7,
-      "docket_id": "TTB-2026-0003"
+      "docket_id": "TTB-2026-0003",
+      "final_checked": "2026-10-14"
     },
     "2026-16669": {
       "title": "Proposed Establishment of the Mill Creek-Walla Walla Valley Viticultural Area",
@@ -3095,7 +3099,8 @@
       "first_seen": "2026-10-03",
       "significant": false,
       "comments_count": 5,
-      "docket_id": "TTB-2026-0004"
+      "docket_id": "TTB-2026-0004",
+      "final_checked": "2026-10-14"
     },
     "2026-16670": {
       "title": "Proposed Establishment of the Llano Uplift and Hickory Sands District Viticultural Areas",
@@ -3134,7 +3139,8 @@
       "first_seen": "2026-10-03",
       "significant": false,
       "comments_count": 5,
-      "docket_id": "TTB-2026-0005"
+      "docket_id": "TTB-2026-0005",
+      "final_checked": "2026-10-14"
     },
     "2026-16671": {
       "title": "Proposed Establishment of the Rancho Santa Fe Viticultural Area",
@@ -3173,7 +3179,8 @@
       "first_seen": "2026-10-03",
       "significant": false,
       "comments_count": 2,
-      "docket_id": "TTB-2026-0006"
+      "docket_id": "TTB-2026-0006",
+      "final_checked": "2026-10-14"
     },
     "2026-16724": {
       "title": "Receipt of Pesticide Petitions Filed for Residues of Pesticide Chemicals in or on Various Commodities-May 2026",
@@ -3271,7 +3278,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "FDA-2025-N-6224"
     },
     "2026-16760": {
@@ -3347,7 +3354,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "IRS-2026-0991"
     },
     "2026-16796": {
@@ -3377,7 +3384,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 84,
+      "comments_count": 89,
       "docket_id": "TREAS-DO-2026-0496"
     },
     "2026-16914": {
@@ -3875,7 +3882,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "USCIS-2026-0331"
     },
     "2026-17123": {
@@ -3914,7 +3921,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 18,
+      "comments_count": 19,
       "docket_id": "IRS-2026-1090"
     },
     "2026-17163": {
@@ -3944,7 +3951,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 40,
+      "comments_count": 45,
       "docket_id": "CFTC-2026-1850"
     },
     "2026-17183": {
@@ -4446,7 +4453,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 7,
+      "comments_count": 8,
       "docket_id": "DOS-2026-0925"
     },
     "2026-17660": {
@@ -4843,7 +4850,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 254,
+      "comments_count": 263,
       "docket_id": "NPS-2026-0166"
     },
     "2026-17926": {
@@ -4882,7 +4889,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 43,
+      "comments_count": 45,
       "docket_id": "USCBP-2026-1058"
     },
     "2026-17939": {
@@ -5072,7 +5079,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 67,
+      "comments_count": 69,
       "docket_id": "EPA-HQ-OW-2026-6965"
     },
     "2026-18162": {
@@ -5221,7 +5228,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 29370,
+      "comments_count": 32514,
       "docket_id": "BLM-2026-0133"
     },
     "2026-18282": {
@@ -5530,7 +5537,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 55915,
-      "docket_id": "USBC-2026-0628"
+      "docket_id": "USBC-2026-0628",
+      "final_checked": "2026-10-14"
     },
     "2026-18484": {
       "title": "Reef Fish Fishery of the Gulf of America; 2027 Red Grouper Commercial Quota Retention",
@@ -5569,7 +5577,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 10,
-      "docket_id": "NOAA-NMFS-2026-1882"
+      "docket_id": "NOAA-NMFS-2026-1882",
+      "final_checked": "2026-10-14"
     },
     "2026-18504": {
       "title": "In Situ Recovery Monitoring and Decommissioning Timeliness",
@@ -5599,7 +5608,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 20,
-      "docket_id": "NRC-2025-1204"
+      "docket_id": "NRC-2025-1204",
+      "final_checked": "2026-10-14"
     },
     "2026-18531": {
       "title": "Modernization of Regulations Under 9 CFR Parts 101-118 and 123-124",
@@ -5696,7 +5706,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 5,
+      "comments_count": 6,
       "docket_id": "IRS-2026-1223"
     },
     "2026-18631": {
@@ -5767,7 +5777,7 @@
       "significant": true,
       "comments_count": 15936,
       "docket_id": "FS-2025-0001",
-      "final_checked": "2026-10-07"
+      "final_checked": "2026-10-14"
     },
     "2026-18755": {
       "title": "Clean Data Determination; 1997 8-Hour Ozone Standards; California; Sacramento Metro Area",
@@ -5794,7 +5804,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 5,
+      "comments_count": 7,
       "docket_id": "EPA-R09-OAR-2026-4885"
     },
     "2026-18766": {
@@ -5892,7 +5902,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 22,
+      "comments_count": 23,
       "docket_id": "FAA-2026-10991"
     },
     "2026-18828": {
@@ -6071,7 +6081,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 156,
+      "comments_count": 158,
       "docket_id": "OPM-2026-0661"
     },
     "2026-19027": {
@@ -6129,7 +6139,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 6063,
+      "comments_count": 6133,
       "docket_id": "EPA-HQ-OAR-2025-0124"
     },
     "2026-19158": {
@@ -6195,7 +6205,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 7,
+      "comments_count": 9,
       "docket_id": "FAR-2026-0010"
     },
     "2026-19159": {
@@ -6261,7 +6271,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 7,
+      "comments_count": 9,
       "docket_id": "FAR-2026-0011"
     },
     "2026-19160": {
@@ -6393,7 +6403,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 27,
+      "comments_count": 30,
       "docket_id": "FAR-2026-0003"
     },
     "2026-19182": {
@@ -6432,7 +6442,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 26,
+      "comments_count": 30,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     "2026-19222": {
@@ -6501,7 +6511,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "USCG-2026-0049"
     },
     "2026-19259": {
@@ -6709,7 +6719,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "DOE-HQ-2026-0496"
     },
     "2026-19346": {
@@ -6787,7 +6797,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 55,
+      "comments_count": 97,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19350": {
@@ -6826,7 +6836,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 604,
+      "comments_count": 1405,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19361": {
@@ -6932,7 +6942,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "NHTSA-2023-0031"
     },
     "2026-19400": {
@@ -6969,7 +6979,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 121,
+      "comments_count": 124,
       "docket_id": "DEA-2026-1585"
     },
     "2026-19500": {
@@ -7036,7 +7046,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "APHIS-2023-0069"
     },
     "2026-19535": {
@@ -7075,7 +7085,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 18,
+      "comments_count": 22,
       "docket_id": "CMS-2026-3037"
     },
     "2026-19546": {
@@ -7105,7 +7115,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 269,
+      "comments_count": 320,
       "docket_id": "SBA-2026-0199"
     },
     "2026-19568": {
@@ -7135,7 +7145,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 10,
+      "comments_count": 12,
       "docket_id": "NRC-2025-1138"
     },
     "2026-19579": {
@@ -7163,7 +7173,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 14,
+      "comments_count": 15,
       "docket_id": "CPSC-2026-0463"
     },
     "2026-19584": {
@@ -7403,7 +7413,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 2,
+      "comments_count": 4,
       "docket_id": "EPA-HQ-OAR-2025-0302"
     },
     "2026-19860": {
@@ -7493,7 +7503,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "TREAS-DO-2026-0562"
     },
     "2026-20027": {
@@ -7532,7 +7542,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 73,
+      "comments_count": 92,
       "docket_id": "IRS-2026-1321"
     },
     "2026-20038": {
@@ -7618,7 +7628,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "DOS-2026-0991"
     },
     "2026-20084": {
@@ -7657,7 +7667,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "DEA-2026-1684"
     },
     "2026-20087": {
@@ -7763,7 +7773,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 4,
+      "comments_count": 6,
       "docket_id": "FWS-HQ-MB-2026-0133"
     },
     "2026-20143": {
@@ -7793,7 +7803,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 21,
+      "comments_count": 26,
       "docket_id": "FTC-2026-1552"
     },
     "2026-20169": {
@@ -7860,7 +7870,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 11,
+      "comments_count": 50,
       "docket_id": "RBS-26-BUSINESS-0529"
     },
     "2026-20251": {
@@ -7899,7 +7909,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 11,
+      "comments_count": 48,
       "docket_id": "NPS-2026-0199"
     },
     "2026-20277": {
@@ -7938,7 +7948,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 13667,
+      "comments_count": 17420,
       "docket_id": "IRS-2026-1354"
     },
     "2026-20296": {
@@ -8076,7 +8086,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 11,
+      "comments_count": 15,
       "docket_id": "ACF-2026-0562"
     },
     "2026-20335": {
@@ -8387,7 +8397,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "FAA-2026-9935"
     },
     "2026-20388": {
@@ -8746,7 +8756,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 22,
+      "comments_count": 57,
       "docket_id": "CMS-2026-3235",
       "first_seen": "2026-10-08"
     },
@@ -8785,7 +8795,7 @@
         "1685-AA38"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 7,
       "docket_id": "USCBP-2026-0298",
       "first_seen": "2026-10-08"
     },
@@ -8815,7 +8825,7 @@
         "1653-AB01"
       ],
       "significant": null,
-      "comments_count": 1615,
+      "comments_count": 2172,
       "docket_id": "ICEB-2026-0100",
       "first_seen": "2026-10-08"
     },
@@ -8949,7 +8959,7 @@
         "1651-AB60"
       ],
       "significant": true,
-      "comments_count": 0,
+      "comments_count": 2,
       "docket_id": "USCBP-2026-0992",
       "first_seen": "2026-10-11"
     },
@@ -8979,9 +8989,293 @@
         "3038-AF80"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 6,
       "docket_id": "CFTC-2026-2179",
       "first_seen": "2026-10-11"
+    },
+    "2026-20941": {
+      "title": "Removing Deference to Prior USCIS Determinations of Eligibility",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Department of Homeland Security (DHS), U.S. Citizenship and Immigration Services (USCIS), proposes to remove 8 CFR 214.1(c)(5), which generally provides that USCIS gives deference to a prior approval involving the same facts when adjudicating a request to extend a petition for an alien's employment or stay. This change would better align DHS regulations with the statute, which places the burden of proving eligibility for all immigration benefits on the petitioner, applicant, or beneficiary; strengthen adjudicatory review; and support agency priorities to improve the integrity of the immigration system and better protect the interests of U.S. workers.",
+      "document_number": "2026-20941",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20941/removing-deference-to-prior-uscis-determinations-of-eligibility",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20941.pdf",
+      "publication_date": "2026-10-14",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        }
+      ],
+      "comments_close_on": "2026-11-13",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1615-AD26"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-14"
+    },
+    "2026-20956": {
+      "title": "Removing 30-Day Refugee Termination Notice",
+      "type": "Rule",
+      "abstract": "This interim final rule (IFR) amends Department of Homeland Security (DHS) regulations to expedite termination of refugee status when DHS determines an alien was not a refugee within the meaning of section 101(a)(42) of the Immigration and Nationality Act at the time of admission to the United States. The response period to a Notice of Intent to Terminate (NOIT) is reduced from thirty to ten days. These changes aim to restore integrity to the immigration system, mitigate risks to national security and public safety, and prevent fraud and exploitation.",
+      "document_number": "2026-20956",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20956/removing-30-day-refugee-termination-notice",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20956.pdf",
+      "publication_date": "2026-10-14",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        }
+      ],
+      "comments_close_on": "2026-11-13",
+      "comment_url": null,
+      "effective_on": "2026-10-14",
+      "regulation_id_numbers": [
+        "1615-AD23"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-14"
+    },
+    "2026-20964": {
+      "title": "Trichloroethylene (TCE); Regulation Under the Toxic Substances Control Act (TSCA); Compliance Date Extensions",
+      "type": "Proposed Rule",
+      "abstract": "The Environmental Protection Agency (EPA or Agency) is proposing to extend certain compliance dates applicable to certain entities subject to the regulation of trichloroethylene (TCE) under the Toxic Substances Control Act (TSCA) until December 31, 2027, including for certain chemical processors in meeting the prohibition compliance deadline for the processing of TCE, industrial and commercial use of TCE as a processing aid, and associated wastewater disposal; and for refrigerant manufacturers in meeting the compliance deadline for phasing down TCE feedstock in the production of HFC-134a. This proposed compliance extension would allow for necessary and reasonable transition periods for regulated entities under TSCA section 6(d).",
+      "document_number": "2026-20964",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20964/trichloroethylene-tce-regulation-under-the-toxic-substances-control-act-tsca-compliance-date",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20964.pdf",
+      "publication_date": "2026-10-14",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-11-13",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2070-AL45"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-14"
+    },
+    "2026-20979": {
+      "title": "Food Additives Permitted in Feed and Drinking Water of Animals; Chromium Propionate",
+      "type": "Rule",
+      "abstract": "The Food and Drug Administration (FDA, we, or the Agency) is amending the regulations for food additives permitted in feed and drinking water of animals to provide for the safe use of chromium propionate as a source of chromium in food for laying hens and breeder chickens. This action is in response to a food additive petition filed by Kemin Industries, Inc.",
+      "document_number": "2026-20979",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20979/food-additives-permitted-in-feed-and-drinking-water-of-animals-chromium-propionate",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20979.pdf",
+      "publication_date": "2026-10-14",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-13",
+      "comment_url": null,
+      "effective_on": "2026-10-14",
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-14"
+    },
+    "2026-20982": {
+      "title": "Extending the Reporting Deadline Under the Greenhouse Gas Reporting Rule for Reporting Year 2025 to March 10, 2027",
+      "type": "Rule",
+      "abstract": "The Environmental Protection Agency (EPA) is taking interim final action to extend the reporting deadline under the Greenhouse Gas Reporting Rule for reporting year 2025 data from October 30, 2026, to March 10, 2027. This final action only changes the reporting deadline for annual greenhouse gas reports for reporting year 2025 and makes no other changes to the rule. The EPA is requesting comments on all aspects of this interim final rule.",
+      "document_number": "2026-20982",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20982/extending-the-reporting-deadline-under-the-greenhouse-gas-reporting-rule-for-reporting-year-2025-to",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20982.pdf",
+      "publication_date": "2026-10-14",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-11-30",
+      "comment_url": null,
+      "effective_on": "2026-10-14",
+      "regulation_id_numbers": [
+        "2060-AX07"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-14"
+    },
+    "2026-21000": {
+      "title": "Periodic Reporting",
+      "type": "Proposed Rule",
+      "abstract": "The Commission is acknowledging a recent Postal Service filing requesting the Commission initiate a rulemaking proceeding to consider changes to analytical principles relating to periodic reports. This document informs the public of the filing, invites public comment, and takes other administrative steps.",
+      "document_number": "2026-21000",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-21000/periodic-reporting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-21000.pdf",
+      "publication_date": "2026-10-14",
+      "agencies": [
+        {
+          "raw_name": "POSTAL REGULATORY COMMISSION",
+          "name": "Postal Regulatory Commission",
+          "id": 409,
+          "url": "https://www.federalregister.gov/agencies/postal-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/409",
+          "parent_id": null,
+          "slug": "postal-regulatory-commission"
+        }
+      ],
+      "comments_close_on": "2026-11-19",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-14"
+    },
+    "2026-21004": {
+      "title": "Further Reducing Bureaucracy and Burden From the Administration for Native Americans",
+      "type": "Proposed Rule",
+      "abstract": "The Department of Health and Human Services, Administration for Children and Families proposes to further amend the Native American Programs Act regulations to streamline the part.",
+      "document_number": "2026-21004",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-21004/further-reducing-bureaucracy-and-burden-from-the-administration-for-native-americans",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-21004.pdf",
+      "publication_date": "2026-10-14",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Administration for Children and Families",
+          "name": "Children and Families Administration",
+          "id": 49,
+          "url": "https://www.federalregister.gov/agencies/children-and-families-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/49",
+          "parent_id": 221,
+          "slug": "children-and-families-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-13",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0970-AD50"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-14"
+    },
+    "2026-21030": {
+      "title": "AP1000 Design Certification Renewal",
+      "type": "Rule",
+      "abstract": "The U.S. Nuclear Regulatory Commission (NRC) is amending its regulations to renew the AP1000 design certification and incorporate Revision 20 of the AP1000 design control document. The purpose of this rulemaking action is to update the AP1000 design to be consistent with changes made to the design during the licensing, construction, and operation of Vogtle Electric Generating Plant, Units 3 and 4. This rulemaking incorporates AP1000 design control document Revision 20, which includes updates made to the AP1000 design to represent a current, construction-validated design. The NRC is also issuing an environmental assessment supporting this rule.",
+      "document_number": "2026-21030",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-21030/ap1000-design-certification-renewal",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-21030.pdf",
+      "publication_date": "2026-10-14",
+      "agencies": [
+        {
+          "raw_name": "NUCLEAR REGULATORY COMMISSION",
+          "name": "Nuclear Regulatory Commission",
+          "id": 383,
+          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
+          "parent_id": null,
+          "slug": "nuclear-regulatory-commission"
+        }
+      ],
+      "comments_close_on": "2026-11-13",
+      "comment_url": null,
+      "effective_on": "2026-12-28",
+      "regulation_id_numbers": [
+        "3150-AL70"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-14"
+    },
+    "2026-21031": {
+      "title": "AP1000 Design Certification Renewal",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Nuclear Regulatory Commission (NRC) is proposing to amend its regulations to renew the AP1000 design certification and incorporate Revision 20 of the AP1000 design control document. The purpose of this rulemaking action is to update the AP1000 design to be consistent with changes made to the design during the licensing, construction, and operation of Vogtle Electric Generating Plant, Units 3 and 4. This rulemaking incorporates AP1000 design control document Revision 20, which includes updates made to the AP1000 design to represent a current, construction-validated design. The NRC also proposes to issue an environmental assessment supporting this rule.",
+      "document_number": "2026-21031",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-21031/ap1000-design-certification-renewal",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-21031.pdf",
+      "publication_date": "2026-10-14",
+      "agencies": [
+        {
+          "raw_name": "NUCLEAR REGULATORY COMMISSION",
+          "name": "Nuclear Regulatory Commission",
+          "id": 383,
+          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
+          "parent_id": null,
+          "slug": "nuclear-regulatory-commission"
+        }
+      ],
+      "comments_close_on": "2026-11-13",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3150-AL70"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-14"
     }
   }
 }
