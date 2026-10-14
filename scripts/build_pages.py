@@ -1,5 +1,5 @@
 """Build static, crawlable pages from the data snapshots: one per video (with its transcript), one per
-rule we have listed for comment (open or closed), the index pages and sitemap.xml.
+rule we have listed for comment (open or closed), and the index pages (all noindex; no sitemap).
 Usage: python scripts/build_pages.py _site"""
 import html, json, re, sys
 from datetime import date, datetime, timedelta
@@ -54,10 +54,10 @@ def linkify(text):
 def ld_json(data):
     return '<script type="application/ld+json">' + json.dumps(data, ensure_ascii=False).replace('<', '\\u003c') + '</script>'
 
-def page(path, title, description, body, structured=None, robots=None):
+def page(path, title, description, body, structured=None, robots='noindex,nofollow'):
     canonical = SITE + path
     return f'''<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title><meta name="description" content="{esc(description)}"><meta name="theme-color" content="#102f35">{f'<meta name="robots" content="{robots}">' if robots else ''}<link rel="canonical" href="{esc(canonical)}"><meta property="og:type" content="website"><meta property="og:site_name" content="FedReg Intel"><meta property="og:url" content="{esc(canonical)}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(description)}"><meta name="twitter:card" content="summary_large_image"><link rel="stylesheet" href="{CSS}">{ld_json(structured) if structured else ''}</head>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title><meta name="description" content="{esc(description)}"><meta name="theme-color" content="#102f35"><meta name="robots" content="{robots}"><link rel="canonical" href="{esc(canonical)}"><meta property="og:type" content="website"><meta property="og:site_name" content="FedReg Intel"><meta property="og:url" content="{esc(canonical)}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(description)}"><meta name="twitter:card" content="summary_large_image"><link rel="stylesheet" href="{CSS}">{ld_json(structured) if structured else ''}</head>
 <body><header><div class="shell nav"><a class="brand" href="/"><span class="brand-mark" aria-hidden="true">F<span>R</span></span><span>FEDREG <b>INTEL</b><small>THE PUBLIC PARTICIPATION BRIEF</small></span></a><nav aria-label="Main navigation"><a href="/rules/">Open for comment</a><a href="/rules/#closing-this-week">Upcoming deadlines</a><a href="/videos/">Video briefings</a><a href="/#book">The book</a><a href="/#newsletter">Email list</a><a class="nav-cta" href="https://www.youtube.com/@FedRegIntel?sub_confirmation=1" target="_blank" rel="noopener">Subscribe ↗</a></nav></div></header>
 <main class="shell static-page">{body}</main>
 <footer class="shell"><a class="footer-brand" href="/">FEDREG INTEL</a><p>Independent educational coverage. Not a government website or legal advice. Verify information against the official publication on <a href="https://www.govinfo.gov/">GovInfo</a>.</p><div><a href="/privacy.html">Privacy policy</a><a href="https://www.youtube.com/@FedRegIntel">YouTube</a><a href="https://bsky.app/profile/fedregintel.com" rel="me noopener">Bluesky</a><a href="https://x.com/FedRegIntel" rel="me noopener">X</a><a href="mailto:hello@fedregintel.com">Contact</a></div></footer>
@@ -234,7 +234,7 @@ def build(out, day=None):
                 covered_by.setdefault(n, []).append(v)
     entries = [('/', day), ('/rules/', day), ('/videos/', day), ('/privacy.html', None)]
     entries += build_rules(out, rules, day, covered_by) + build_videos(out, videos, transcripts, by_number)
-    sitemap(out, entries)
+    # Not submitted to search engines: the site is kept out of results (noindex), so no sitemap is written.
     build_social_page(out, day)
     open_count = sum(d['comments_close_on'] >= day for d in rules)
     print(f'Built {len(rules)} rule pages ({open_count} open) and {len(videos)} video pages '

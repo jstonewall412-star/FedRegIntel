@@ -1,4 +1,3 @@
+# Keep FedReg Intel out of search results. Crawling stays allowed so the noindex tags are read.
 User-agent: *
 Allow: /
-
-Sitemap: https://fedregintel.com/sitemap.xml

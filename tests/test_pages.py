@@ -77,21 +77,19 @@ class PageTests(unittest.TestCase):
         self.assertIn('An &quot;abstract&quot; &amp; more',rule)
         self.assertIn('https://www.regulations.gov/commenton/X',rule)
 
-    def test_structured_data_and_sitemap(self):
+    def test_structured_data_and_noindex(self):
         self.build()
         video=self.read('videos/abcdefghijk')
         ld=json.loads(re.search(r'<script type="application/ld\+json">(.*?)</script>',video,re.S).group(1))
         self.assertEqual((ld['@type'],ld['uploadDate']),('VideoObject','2026-10-01T10:00:00+00:00'))
         self.assertIn('<link rel="canonical" href="https://fedregintel.com/videos/abcdefghijk/">',video)
-        sitemap=(self.out/'sitemap.xml').read_text(encoding='utf-8')
-        for path in ['/','/rules/','/rules/archive/','/videos/','/rules/2026-11111/','/rules/2026-33333/','/videos/abcdefghijk/']:
-            self.assertIn(f'<loc>https://fedregintel.com{path}</loc>',sitemap)
-        self.assertIn('<lastmod>2026-10-01</lastmod>',sitemap)
-        self.assertNotIn('2026-44444',sitemap)
+        self.assertIn('<meta name="robots" content="noindex,nofollow">',video)
+        self.assertFalse((self.out/'sitemap.xml').exists())
+        self.assertNotIn('2026-44444',video)
 
     def test_missing_data_still_builds_index_pages(self):
         with tempfile.TemporaryDirectory() as data, tempfile.TemporaryDirectory() as out:
             with patch.object(m,'DATA',Path(data)): self.assertEqual(m.build(out,'2026-10-03'),(0,0))
             self.assertIn('No open comment periods',(Path(out)/'rules/index.html').read_text(encoding='utf-8'))
-            self.assertTrue((Path(out)/'sitemap.xml').exists())
+            self.assertIn('<meta name="robots" content="noindex,nofollow">',(Path(out)/'rules/index.html').read_text(encoding='utf-8'))
 if __name__=='__main__': unittest.main()
