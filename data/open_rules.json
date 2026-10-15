@@ -1,8 +1,348 @@
 {
-  "updated_at": "2026-10-15T00:03:11.659362+00:00",
-  "as_of": "2026-10-14",
-  "count": 209,
+  "updated_at": "2026-10-15T07:51:10.156109+00:00",
+  "as_of": "2026-10-15",
+  "count": 216,
   "documents": [
+    {
+      "title": "Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus Helicopters Deutschland GmbH (AHD) Model MBB-BK 117 D-2 helicopters. This proposed AD was prompted by certification test results of a certain common cargo hook beam (CCHB) on the affected helicopters, which revealed that the installed CCHB could result in fuel leakage following a survivable accident. This proposed AD would require modification of the CCHB and fuel system and installation of structural reinforcement. This proposed AD would also prohibit installing a certain CCHB on any helicopter. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-21123",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/15/2026-21123/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-15/pdf/2026-21123.pdf",
+      "publication_date": "2026-10-15",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-30",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ],
+      "significant": false,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Family and Medical Leave Act",
+      "type": "Rule",
+      "abstract": "The Office of Personnel Management (OPM) is issuing a direct final rule making technical revisions to OPM's Family and Medical Leave Act (FMLA) regulations to incorporate various statutory amendments. The rule reflects statutory changes making virtually all Federal civilian service and certain honorable active military service qualify for determining FMLA eligibility, making clear that annual and sick leave provided under an authority outside of title 5, United States Code, may be substituted for unpaid FMLA leave, and excluding certain Veterans Health Administration (VHA) employees from title 5 FMLA coverage.",
+      "document_number": "2026-21104",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/15/2026-21104/family-and-medical-leave-act",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-15/pdf/2026-21104.pdf",
+      "publication_date": "2026-10-15",
+      "agencies": [
+        {
+          "raw_name": "OFFICE OF PERSONNEL MANAGEMENT",
+          "name": "Personnel Management Office",
+          "id": 406,
+          "url": "https://www.federalregister.gov/agencies/personnel-management-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/406",
+          "parent_id": null,
+          "slug": "personnel-management-office"
+        }
+      ],
+      "comments_close_on": "2026-11-16",
+      "comment_url": null,
+      "effective_on": "2026-12-14",
+      "regulation_id_numbers": [
+        "3206-AP18"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Central Liquidity Facility",
+      "type": "Proposed Rule",
+      "abstract": "The NCUA Board (Board) is proposing to adopt as final the revisions to the Central Liquidity Facility (CLF) rule made under two interim final rules (IFRs) published in the Federal Register on April 29, 2020, and March 24, 2021. The proposal would adopt the amendments made by these IFRs and, where appropriate, would remove provisions from the NCUA's regulations that have lapsed under the terms of the IFRs. The proposal would also remove or modify certain filing requirements and criteria the Board uses to approve CLF members. Finally, the proposal would amend the timing requirements related to pay adjustments to the capital stock subscription, clarify various regulatory provisions, and make necessary conforming edits.",
+      "document_number": "2026-21089",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/15/2026-21089/central-liquidity-facility",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-15/pdf/2026-21089.pdf",
+      "publication_date": "2026-10-15",
+      "agencies": [
+        {
+          "raw_name": "NATIONAL CREDIT UNION ADMINISTRATION",
+          "name": "National Credit Union Administration",
+          "id": 335,
+          "url": "https://www.federalregister.gov/agencies/national-credit-union-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/335",
+          "parent_id": null,
+          "slug": "national-credit-union-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-14",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3133-AF91"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Powers of Federal Credit Unions",
+      "type": "Proposed Rule",
+      "abstract": "The NCUA Board (Board) is proposing to amend the NCUA's regulations regarding incidental powers to clarify that federal credit unions (FCUs) are not required to seek an advisory opinion from the NCUA's Office of General Counsel before petitioning the Board to engage in an activity that does not fall within an FCU's preapproved incidental powers.",
+      "document_number": "2026-21088",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/15/2026-21088/powers-of-federal-credit-unions",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-15/pdf/2026-21088.pdf",
+      "publication_date": "2026-10-15",
+      "agencies": [
+        {
+          "raw_name": "NATIONAL CREDIT UNION ADMINISTRATION",
+          "name": "National Credit Union Administration",
+          "id": 335,
+          "url": "https://www.federalregister.gov/agencies/national-credit-union-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/335",
+          "parent_id": null,
+          "slug": "national-credit-union-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-14",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3133-AF90"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Corporate Credit Unions; Fidelity Bond and Insurance Coverage for Federally Insured Credit Unions",
+      "type": "Proposed Rule",
+      "abstract": "The NCUA Board (Board) seeks comment on proposed amendments to its regulations governing fidelity bond and insurance coverage for federally insured credit unions (FICUs). The proposed rule would eliminate certain prescriptive procedural mandates and simplify requirements for coverage amounts and deductibles. The intended effect is greater flexibility for FICUs, simplified compliance, and reduced administrative costs without compromising safety and soundness.",
+      "document_number": "2026-21087",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/15/2026-21087/corporate-credit-unions-fidelity-bond-and-insurance-coverage-for-federally-insured-credit-unions",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-15/pdf/2026-21087.pdf",
+      "publication_date": "2026-10-15",
+      "agencies": [
+        {
+          "raw_name": "NATIONAL CREDIT UNION ADMINISTRATION",
+          "name": "National Credit Union Administration",
+          "id": 335,
+          "url": "https://www.federalregister.gov/agencies/national-credit-union-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/335",
+          "parent_id": null,
+          "slug": "national-credit-union-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-14",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3133-AG04"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Investigation Into Conditions Affecting Shipping in the Foreign Trade and Denial of Entry of Vessels Into Spanish Ports and Proposed Remedies To Meet or Adjust the Unfavorable Conditions",
+      "type": "Proposed Rule",
+      "abstract": "The Federal Maritime Commission (Commission) proposes to adjust or meet unfavorable shipping conditions created by the Government of Spain. The Commission proposes a per-voyage fee on all Spanish vessels of $200,000 and restrictions on the import of certain Spanish goods into the United States. The Commission also proposes using additional statutory authority to impose these remedies because the Government of Spain has unduly impaired the access of U.S. flag vessels to trade between foreign ports. The Commission herein offers an opportunity for a public hearing. The Commission invites public comment on all aspects of this proposed rule.",
+      "document_number": "2026-21067",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/15/2026-21067/investigation-into-conditions-affecting-shipping-in-the-foreign-trade-and-denial-of-entry-of-vessels",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-15/pdf/2026-21067.pdf",
+      "publication_date": "2026-10-15",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL MARITIME COMMISSION",
+          "name": "Federal Maritime Commission",
+          "id": 178,
+          "url": "https://www.federalregister.gov/agencies/federal-maritime-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/178",
+          "parent_id": null,
+          "slug": "federal-maritime-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-14",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Privacy Act of 1974; Implementation",
+      "type": "Proposed Rule",
+      "abstract": "In the Notice section of today's Federal Register, the Executive Office for Immigration Review (EOIR), a component within the United States Department of Justice (DOJ or Department), has published a notice of a new system of records titled \"Fraud and Abuse Prevention Program Records\" and numbered JUSTICE/EOIR-006. This system of records is exempt from U.S.C. 552a(c)(3) and (d) pursuant to 5 U.S.C. 552a (k)(2). EOIR proposes to exempt this system of records from certain provisions of the Privacy Act in order to protect law enforcement sensitive materials maintained in the system. For the reasons provided below, the Department proposes to amend its Privacy Act regulations by exempting records in this system from certain provisions of the Privacy Act. Public comment is invited.",
+      "document_number": "2026-21063",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/15/2026-21063/privacy-act-of-1974-implementation",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-15/pdf/2026-21063.pdf",
+      "publication_date": "2026-10-15",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF JUSTICE",
+          "name": "Justice Department",
+          "id": 268,
+          "url": "https://www.federalregister.gov/agencies/justice-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/268",
+          "parent_id": null,
+          "slug": "justice-department"
+        }
+      ],
+      "comments_close_on": "2026-11-16",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Privacy Act of 1974; Implementation",
+      "type": "Proposed Rule",
+      "abstract": "In the Notice section of today's Federal Register, the Office of Justice Programs (OJP), a component within the United States Department of Justice (DOJ or Department), has published a notice of a new system of records, Bureau of Justice Statistics (BJS) Statistical Data, JUSTICE/OJP-017, for the statistical data collections that BJS conducts under 34 U.S.C. 10132. In this notice of proposed rulemaking, the OJP proposes to exempt this system of records from certain provisions of the Privacy Act in order to comply with the confidentiality provisions of 34 U.S.C. 10231 and 34 U.S.C. 30303 and the requirement of 34 U.S.C. 10134 that the data are to be used solely for statistical or research purposes. Additionally, data are to be used for authorized purposes under the Prison Rape Elimination Act of 2003 (PREA; 44 U.S.C. 3563) and the Death in Custody Reporting Act of 2013 (DCRA; Pub. L. 113-242). Consistent with the data use requirements set forth in 34 U.S.C. 10134, no adverse determinations are made from these records as to any identifiable individual. For the reasons provided below, the Department proposes to amend its Privacy Act regulations by establishing an exemption for records in this system from certain provisions of the Privacy Act. Public comment is invited.",
+      "document_number": "2026-21060",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/15/2026-21060/privacy-act-of-1974-implementation",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-15/pdf/2026-21060.pdf",
+      "publication_date": "2026-10-15",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF JUSTICE",
+          "name": "Justice Department",
+          "id": 268,
+          "url": "https://www.federalregister.gov/agencies/justice-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/268",
+          "parent_id": null,
+          "slug": "justice-department"
+        }
+      ],
+      "comments_close_on": "2026-11-16",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Premium Tax Credit",
+      "type": "Proposed Rule",
+      "abstract": "This document contains proposed regulations that would amend regulations regarding an individual taxpayer's eligibility for a premium tax credit (PTC), the computation of a PTC, and an individual's tax liability due to excess advance payments of the PTC. The proposed regulations would affect taxpayers who enroll themselves or a family member in individual health insurance coverage through a Health Insurance Exchange and may be allowed a PTC for this coverage. This document also provides a notice of a public hearing on these proposed regulations.",
+      "document_number": "2026-21056",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/15/2026-21056/premium-tax-credit",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-15/pdf/2026-21056.pdf",
+      "publication_date": "2026-10-15",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "Internal Revenue Service",
+          "name": "Internal Revenue Service",
+          "id": 254,
+          "url": "https://www.federalregister.gov/agencies/internal-revenue-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/254",
+          "parent_id": 497,
+          "slug": "internal-revenue-service"
+        }
+      ],
+      "comments_close_on": "2026-11-30",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1545-BS15"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus SAS Model A318 series airplanes; Model A319 series airplanes; Model A320 series airplanes; and Model A321 series airplanes. This proposed AD was prompted by reports of door evacuation slide systems failing to inflate during emergency evacuations, due to the fracture and separation of the connector on the inflation hose assembly. This proposed AD would require the replacement of each affected slide with a serviceable slide. This proposed AD would also prohibit the installation of affected parts. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-21047",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/15/2026-21047/airworthiness-directives-airbus-sas-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-15/pdf/2026-21047.pdf",
+      "publication_date": "2026-10-15",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-30",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ],
+      "significant": false,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Investment Company Cross Trading",
+      "type": "Proposed Rule",
+      "abstract": "The Securities and Exchange Commission (the \"Commission\") is proposing to amend the rule under the Investment Company Act of 1940 (the \"Investment Company Act\") that permits securities transactions between a registered investment company and certain affiliates (referred to as \"cross trades\"), subject to conditions. The proposed amendments are designed to expand the scope of securities that are eligible for cross trading, modernize the rule's conditions, and enhance investor protection. The Commission also proposes to require aggregated reporting of trading activity and cross trades in Form N- PORT and Form N-MFP.",
+      "document_number": "2026-21037",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/15/2026-21037/investment-company-cross-trading",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-15/pdf/2026-21037.pdf",
+      "publication_date": "2026-10-15",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-14",
+      "comment_url": null,
+      "effective_on": "2026-10-15",
+      "regulation_id_numbers": [
+        "3235-AN45"
+      ],
+      "significant": true,
+      "comments_count": null,
+      "docket_id": null
+    },
     {
       "title": "AP1000 Design Certification Renewal",
       "type": "Proposed Rule",
@@ -29,7 +369,7 @@
         "3150-AL70"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 2,
       "docket_id": "NRC-2026-2377"
     },
     {
@@ -58,7 +398,7 @@
         "3150-AL70"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "NRC-2026-2377"
     },
     {
@@ -96,7 +436,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 2,
       "docket_id": "FAA-2026-11808"
     },
     {
@@ -134,7 +474,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-11809"
     },
     {
@@ -172,7 +512,7 @@
         "0970-AD50"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "ACF_FRDOC_0001"
     },
     {
@@ -228,7 +568,7 @@
         "2060-AX07"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "EPA-HQ-OAR-2025-0186"
     },
     {
@@ -293,7 +633,7 @@
         "2070-AL45"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 3,
       "docket_id": "EPA-HQ-OPPT-2026-7327"
     },
     {
@@ -322,7 +662,7 @@
         "1615-AD23"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 4,
       "docket_id": "USCIS-2026-0397"
     },
     {
@@ -351,7 +691,7 @@
         "1615-AD26"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 92,
       "docket_id": "USCIS-2026-0529"
     },
     {
@@ -418,7 +758,7 @@
         "3038-AF80"
       ],
       "significant": null,
-      "comments_count": 6,
+      "comments_count": 12,
       "docket_id": "CFTC-2026-2179"
     },
     {
@@ -494,7 +834,7 @@
         "1651-AB60"
       ],
       "significant": true,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "USCBP-2026-0992"
     },
     {
@@ -738,7 +1078,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-11802"
     },
     {
@@ -776,7 +1116,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "FAA-2026-11803"
     },
     {
@@ -881,7 +1221,7 @@
         "1653-AB01"
       ],
       "significant": null,
-      "comments_count": 2172,
+      "comments_count": 2361,
       "docket_id": "ICEB-2026-0100"
     },
     {
@@ -919,7 +1259,7 @@
         "1685-AA38"
       ],
       "significant": null,
-      "comments_count": 7,
+      "comments_count": 8,
       "docket_id": "USCBP-2026-0298"
     },
     {
@@ -957,7 +1297,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 57,
+      "comments_count": 83,
       "docket_id": "CMS-2026-3235"
     },
     {
@@ -1049,7 +1389,7 @@
         "1625-AA09"
       ],
       "significant": false,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "USCG-2026-0889"
     },
     {
@@ -1114,7 +1454,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "DOJ_FRDOC_0001"
     },
     {
@@ -1304,7 +1644,7 @@
         "2060-AW33"
       ],
       "significant": false,
-      "comments_count": 5,
+      "comments_count": 8,
       "docket_id": "EPA-HQ-OAR-2024-0078"
     },
     {
@@ -1599,7 +1939,7 @@
         "2120-AM38"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "FAA-2026-9934"
     },
     {
@@ -1863,7 +2203,7 @@
         "0970-AD32"
       ],
       "significant": null,
-      "comments_count": 15,
+      "comments_count": 29,
       "docket_id": "ACF-2026-0562"
     },
     {
@@ -1968,7 +2308,7 @@
         "1545-BR97"
       ],
       "significant": null,
-      "comments_count": 17420,
+      "comments_count": 17982,
       "docket_id": "IRS-2026-1354"
     },
     {
@@ -2006,7 +2346,7 @@
         "1024-AE54"
       ],
       "significant": false,
-      "comments_count": 48,
+      "comments_count": 55,
       "docket_id": "NPS-2026-0199"
     },
     {
@@ -2082,7 +2422,7 @@
         "0570-AB13"
       ],
       "significant": false,
-      "comments_count": 50,
+      "comments_count": 58,
       "docket_id": "RBS-26-BUSINESS-0529"
     },
     {
@@ -2109,7 +2449,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "DOT-OST-2026-3664"
     },
     {
@@ -2138,7 +2478,7 @@
         "3084-AB90"
       ],
       "significant": null,
-      "comments_count": 26,
+      "comments_count": 27,
       "docket_id": "FTC-2026-1552"
     },
     {
@@ -2541,7 +2881,7 @@
         "1545-BR91"
       ],
       "significant": null,
-      "comments_count": 92,
+      "comments_count": 97,
       "docket_id": "IRS-2026-1321"
     },
     {
@@ -2577,7 +2917,7 @@
       "effective_on": "2026-09-30",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "NOAA-NMFS-2025-1098"
     },
     {
@@ -2758,7 +3098,7 @@
         "1505-AC97"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "TREAS-DO-2026-0562"
     },
     {
@@ -3418,7 +3758,7 @@
         "2120-AM24"
       ],
       "significant": null,
-      "comments_count": 18,
+      "comments_count": 19,
       "docket_id": "FAA-2026-12145"
     },
     {
@@ -3474,7 +3814,7 @@
         "3150-AL45"
       ],
       "significant": null,
-      "comments_count": 12,
+      "comments_count": 13,
       "docket_id": "NRC-2025-1138"
     },
     {
@@ -3541,7 +3881,7 @@
         "3245-AI67"
       ],
       "significant": null,
-      "comments_count": 320,
+      "comments_count": 332,
       "docket_id": "SBA-2026-0199"
     },
     {
@@ -3579,7 +3919,7 @@
         "0938-AW08"
       ],
       "significant": null,
-      "comments_count": 22,
+      "comments_count": 23,
       "docket_id": "CMS-2026-3037"
     },
     {
@@ -3783,7 +4123,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 124,
+      "comments_count": 125,
       "docket_id": "DEA-2026-1585"
     },
     {
@@ -4038,7 +4378,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 1405,
+      "comments_count": 1526,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -4076,7 +4416,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 97,
+      "comments_count": 106,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -4478,7 +4818,7 @@
         "1625-AD07"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "USCG-2026-0049"
     },
     {
@@ -4545,7 +4885,7 @@
         "0648-BN92"
       ],
       "significant": false,
-      "comments_count": 30,
+      "comments_count": 38,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     {
@@ -4686,7 +5026,7 @@
         "9000-AO88"
       ],
       "significant": null,
-      "comments_count": 30,
+      "comments_count": 32,
       "docket_id": "FAR-2026-0003"
     },
     {
@@ -4751,7 +5091,7 @@
         "9000-AO91"
       ],
       "significant": null,
-      "comments_count": 13,
+      "comments_count": 14,
       "docket_id": "FAR-2026-0006"
     },
     {
@@ -4881,7 +5221,7 @@
         "9000-AO83"
       ],
       "significant": null,
-      "comments_count": 9,
+      "comments_count": 10,
       "docket_id": "FAR-2026-0010"
     },
     {
@@ -5024,7 +5364,7 @@
         "2060-AX00"
       ],
       "significant": null,
-      "comments_count": 6133,
+      "comments_count": 7075,
       "docket_id": "EPA-HQ-OAR-2025-0124"
     },
     {
@@ -5232,7 +5572,7 @@
         "3206-XXXX"
       ],
       "significant": null,
-      "comments_count": 158,
+      "comments_count": 159,
       "docket_id": "OPM-2026-0661"
     },
     {
@@ -5478,7 +5818,7 @@
         "2120-AM13"
       ],
       "significant": false,
-      "comments_count": 23,
+      "comments_count": 24,
       "docket_id": "FAA-2026-10991"
     },
     {
@@ -5520,118 +5860,6 @@
       "docket_id": "FAA-2026-8804"
     },
     {
-      "title": "Expanded Examination Cycle for Certain Small Insured Depository Institutions and U.S. Branches and Agencies of Foreign Banks",
-      "type": "Rule",
-      "abstract": "The OCC, Board, and FDIC (collectively, the Agencies) are jointly issuing and requesting public comment on an interim final rule to implement section 903 of the 21st Century ROAD to Housing Act. The interim final rule raises the asset threshold for certain supervised institutions with less than $6 billion in total assets to qualify for an 18-month on-site examination cycle. The interim final rule also makes parallel changes to the Agencies' regulations governing the on- site examination cycle for U.S. branches and agencies of foreign banks, consistent with the International Banking Act of 1978 (IBA).",
-      "document_number": "2026-18766",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/14/2026-18766/expanded-examination-cycle-for-certain-small-insured-depository-institutions-and-us-branches-and",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-14/pdf/2026-18766.pdf",
-      "publication_date": "2026-09-14",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        },
-        {
-          "raw_name": "Office of the Comptroller of the Currency",
-          "name": "Comptroller of the Currency",
-          "id": 80,
-          "url": "https://www.federalregister.gov/agencies/comptroller-of-the-currency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/80",
-          "parent_id": 497,
-          "slug": "comptroller-of-the-currency"
-        },
-        {
-          "raw_name": "FEDERAL RESERVE SYSTEM",
-          "name": "Federal Reserve System",
-          "id": 188,
-          "url": "https://www.federalregister.gov/agencies/federal-reserve-system",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/188",
-          "parent_id": null,
-          "slug": "federal-reserve-system"
-        },
-        {
-          "raw_name": "FEDERAL DEPOSIT INSURANCE CORPORATION",
-          "name": "Federal Deposit Insurance Corporation",
-          "id": 164,
-          "url": "https://www.federalregister.gov/agencies/federal-deposit-insurance-corporation",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/164",
-          "parent_id": null,
-          "slug": "federal-deposit-insurance-corporation"
-        }
-      ],
-      "comments_close_on": "2026-10-14",
-      "comment_url": "http://www.regulations.gov/commenton/OCC-2026-0761-0001",
-      "effective_on": "2026-09-14",
-      "regulation_id_numbers": [
-        "1557-AF59",
-        "3064-AG33",
-        "7100-AH28"
-      ],
-      "significant": null,
-      "comments_count": 3,
-      "docket_id": "OCC-2026-0761"
-    },
-    {
-      "title": "Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; District of Columbia; Negative Declaration for Existing Other Solid Waste Incinerators",
-      "type": "Proposed Rule",
-      "abstract": "The Environmental Protection Agency (EPA) is proposing to approve the negative declaration submitted by the District of Columbia Department of Energy and Environment (DCDOEE) on May 21, 2026. The negative declaration submitted by DCDOEE certifies that there are no existing other solid waste incinerators (OSWI) subject to sections 111(d) and 129 of the Clean Air Act (CAA) within the jurisdiction of the District of Columbia (DC).",
-      "document_number": "2026-18759",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/14/2026-18759/approval-and-promulgation-of-state-air-quality-plans-for-designated-facilities-and-pollutants",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-14/pdf/2026-18759.pdf",
-      "publication_date": "2026-09-14",
-      "agencies": [
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": "2026-10-14",
-      "comment_url": "http://www.regulations.gov/commenton/EPA-R03-OAR-2026-4522-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [],
-      "significant": null,
-      "comments_count": 0,
-      "docket_id": "EPA-R03-OAR-2026-4522"
-    },
-    {
-      "title": "Clean Data Determination; 1997 8-Hour Ozone Standards; California; Sacramento Metro Area",
-      "type": "Proposed Rule",
-      "abstract": "The U.S. Environmental Protection Agency (EPA or \"Agency\") is proposing to issue a clean data determination (CDD) for the Sacramento Metro, California nonattainment area to reflect our finding that the area is attaining the 1997 8-hour ozone national ambient air quality standards (NAAQS or \"standards\"). This finding is based on quality-assured and certified ambient air quality monitoring data from 2023 through 2025. If we finalize this CDD, certain Clean Air Act (CAA) requirements that apply to the Sacramento Metro area will be suspended for so long as the area continues to attain the 1997 8-hour ozone NAAQS. We are taking comments on this proposal and plan to follow with a final action.",
-      "document_number": "2026-18755",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/14/2026-18755/clean-data-determination-1997-8-hour-ozone-standards-california-sacramento-metro-area",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-14/pdf/2026-18755.pdf",
-      "publication_date": "2026-09-14",
-      "agencies": [
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": "2026-10-14",
-      "comment_url": "http://www.regulations.gov/commenton/EPA-R09-OAR-2026-4885-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [],
-      "significant": null,
-      "comments_count": 7,
-      "docket_id": "EPA-R09-OAR-2026-4885"
-    },
-    {
       "title": "Airworthiness Directives; CFM International, S.A. Engines",
       "type": "Proposed Rule",
       "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain CFM International, S.A. (CFM) Model CFM56-5B, CFM56-5C, and CFM56-7B engines with a certain high-pressure turbine (HPT) inner stationary seal installed. This proposed AD was prompted by multiple reports of honeycomb separation from the surface of HPT inner stationary seals. This proposed AD would require initial and repetitive borescope inspections (BSIs) of the rotating air HPT front seal for cracks and, depending on the results, replacement with a part eligible for installation. This proposed AD would also require removal and replacement of the affected HPT inner stationary seal. This proposed AD would also require inspection of the affected HPT inner stationary seal for honeycomb separation and, depending on the results of the inspection, removal and replacement of the rotating air HPT front seal, HPT rotor blades, and No. 3 ball bearing. The FAA is proposing this AD to address the unsafe condition on these products.",
@@ -5668,33 +5896,6 @@
       "significant": false,
       "comments_count": 0,
       "docket_id": "FAA-2026-8803"
-    },
-    {
-      "title": "Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; Maryland; Negative Declaration for Existing Other Solid Waste Incinerators",
-      "type": "Proposed Rule",
-      "abstract": "The Environmental Protection Agency (EPA) is proposing to approve the negative declaration submitted by the Maryland Department of the Environment (MDE) on April 17, 2026. The negative declaration submitted by MDE certifies that there are no existing other solid waste incinerators (OSWI) subject to sections 111(d) and 129 of the Clean Air Act (CAA) within the jurisdiction of the State of Maryland.",
-      "document_number": "2026-18750",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/14/2026-18750/approval-and-promulgation-of-state-air-quality-plans-for-designated-facilities-and-pollutants",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-14/pdf/2026-18750.pdf",
-      "publication_date": "2026-09-14",
-      "agencies": [
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": "2026-10-14",
-      "comment_url": "http://www.regulations.gov/commenton/EPA-R03-OAR-2026-4225-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [],
-      "significant": null,
-      "comments_count": 0,
-      "docket_id": "EPA-R03-OAR-2026-4225"
     },
     {
       "title": "Airworthiness Directives; Dassault Aviation Airplanes",
@@ -5798,7 +5999,7 @@
         "1615-AD22"
       ],
       "significant": null,
-      "comments_count": 25376,
+      "comments_count": 25631,
       "docket_id": "USCIS-2026-0364"
     },
     {
@@ -6250,7 +6451,7 @@
         "1004-AF57"
       ],
       "significant": null,
-      "comments_count": 32514,
+      "comments_count": 32679,
       "docket_id": "BLM-2026-0133"
     },
     {
@@ -6384,7 +6585,7 @@
         "2040-AG56"
       ],
       "significant": null,
-      "comments_count": 69,
+      "comments_count": 70,
       "docket_id": "EPA-HQ-OW-2026-6965"
     },
     {
@@ -6679,7 +6880,7 @@
         "1024-AE97"
       ],
       "significant": false,
-      "comments_count": 263,
+      "comments_count": 264,
       "docket_id": "NPS-2026-0166"
     },
     {
@@ -6822,7 +7023,7 @@
         "2133-AC05"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "MARAD-2026-1288"
     },
     {
@@ -6918,7 +7119,7 @@
         "3038-AF77"
       ],
       "significant": null,
-      "comments_count": 45,
+      "comments_count": 47,
       "docket_id": "CFTC-2026-1850"
     },
     {
@@ -7108,7 +7309,7 @@
         "1505-AC95"
       ],
       "significant": null,
-      "comments_count": 89,
+      "comments_count": 91,
       "docket_id": "TREAS-DO-2026-0496"
     },
     {
@@ -7294,7 +7495,7 @@
         "0910-AJ02"
       ],
       "significant": true,
-      "comments_count": 726,
+      "comments_count": 739,
       "docket_id": "FDA-2025-N-3262"
     },
     {
