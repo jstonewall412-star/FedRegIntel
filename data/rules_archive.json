@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T07:51:10.156109+00:00",
+  "updated_at": "2026-10-15T14:03:19.022535+00:00",
   "count": 282,
   "documents": {
     "2026-11545": {
@@ -9303,7 +9303,7 @@
         "3235-AN45"
       ],
       "significant": true,
-      "comments_count": null,
+      "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-10-15"
     },
@@ -9336,14 +9336,14 @@
         }
       ],
       "comments_close_on": "2026-11-30",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/IRS_FRDOC_0001-2426",
       "effective_on": null,
       "regulation_id_numbers": [
         "1545-BS15"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "IRS_FRDOC_0001",
       "first_seen": "2026-10-15"
     },
     "2026-21060": {
@@ -9366,12 +9366,12 @@
         }
       ],
       "comments_close_on": "2026-11-16",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/DOJ_FRDOC_0001-0335",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "DOJ_FRDOC_0001",
       "first_seen": "2026-10-15"
     },
     "2026-21063": {
@@ -9394,12 +9394,12 @@
         }
       ],
       "comments_close_on": "2026-11-16",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/DOJ_FRDOC_0001-0336",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "DOJ_FRDOC_0001",
       "first_seen": "2026-10-15"
     },
     "2026-21067": {
@@ -9426,8 +9426,8 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "FMC-2026-0463",
       "first_seen": "2026-10-15"
     },
     "2026-21087": {
@@ -9450,14 +9450,14 @@
         }
       ],
       "comments_close_on": "2026-12-14",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NCUA-2026-1882-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "3133-AG04"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "NCUA-2026-1882",
       "first_seen": "2026-10-15"
     },
     "2026-21088": {
@@ -9480,14 +9480,14 @@
         }
       ],
       "comments_close_on": "2026-12-14",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NCUA-2026-1883-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "3133-AF90"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "NCUA-2026-1883",
       "first_seen": "2026-10-15"
     },
     "2026-21089": {
@@ -9510,14 +9510,14 @@
         }
       ],
       "comments_close_on": "2026-12-14",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NCUA_FRDOC_0001-0539",
       "effective_on": null,
       "regulation_id_numbers": [
         "3133-AF91"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "NCUA_FRDOC_0001",
       "first_seen": "2026-10-15"
     },
     "2026-21104": {
@@ -9540,14 +9540,14 @@
         }
       ],
       "comments_close_on": "2026-11-16",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/OPM_FRDOC_0001-4632",
       "effective_on": "2026-12-14",
       "regulation_id_numbers": [
         "3206-AP18"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "OPM_FRDOC_0001",
       "first_seen": "2026-10-15"
     }
   }
