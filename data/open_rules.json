@@ -1,8 +1,187 @@
 {
-  "updated_at": "2026-10-15T14:03:19.022535+00:00",
-  "as_of": "2026-10-15",
-  "count": 216,
+  "updated_at": "2026-10-16T07:49:30.826347+00:00",
+  "as_of": "2026-10-16",
+  "count": 219,
   "documents": [
+    {
+      "title": "Safety Zone; Cumberland River, Hendersonville, TN",
+      "type": "Proposed Rule",
+      "abstract": "The Coast Guard is proposing to establish a temporary safety zone for navigable waters on the Cumberland River from mile marker 221.7 to 222. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with an overwater fireworks display. This proposed rulemaking would prohibit persons and vessels from being in the safety zone unless specifically authorized by the Captain of the Port, Ohio Valley, or their designated representative.",
+      "document_number": "2026-21240",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21240/safety-zone-cumberland-river-hendersonville-tn",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21240.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "comments_close_on": "2026-10-23",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1625-AA00"
+      ],
+      "significant": false,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Fishery Management Plans of St. Croix and St. Thomas and St. John; Spiny Lobster Management Measures",
+      "type": "Proposed Rule",
+      "abstract": "NMFS proposes regulations to implement Framework Action 4 under both the St. Croix Fishery Management Plan (FMP) and the St. Thomas and St. John FMP, as prepared by the Caribbean Fishery Management Council (Council). The proposed rule would update annual catch limits (ACLs) for spiny lobster in St. Croix and in St. Thomas and St. John. The purpose of this proposed rule and Framework Action 4 is to update management reference points for spiny lobster consistent with the most recent stock assessments to prevent overfishing and achieve optimum yield (OY).",
+      "document_number": "2026-21205",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21205/fishery-management-plans-of-st-croix-and-st-thomas-and-st-john-spiny-lobster-management-measures",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21205.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-16",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0648-BO61"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Renewable Fuel Standard (RFS) Program: Reallocation of Additional 2025 Small Refinery Exemptions",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA) is co-proposing two approaches to revising the existing 2026 and 2027 small refinery exemption (SRE) reallocation volumes under the Renewable Fuel Standard (RFS) program in response to a higher volume of 2025 SREs than previously projected when the Agency set the renewable fuel volumes and percentage standards on April 1, 2026. One approach would reallocate the additional 2025 SRE volume equally between the 2026 and 2027 SRE reallocation volumes, while the other approach would reallocate all the additional 2025 SRE volume to the 2027 SRE reallocation volume. Additionally, given the proposed revision to the 2026 standards, this proposed action may extend the existing 2026 compliance reporting deadline of March 31, 2027.",
+      "document_number": "2026-21155",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21155/renewable-fuel-standard-rfs-program-reallocation-of-additional-2025-small-refinery-exemptions",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21155.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-12-04",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2060-AX09"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Powered Air Purifying Respirators (PAPRs) in Underground Mines",
+      "type": "Proposed Rule",
+      "abstract": "In response to a public request, the Mine Safety and Health Administration (MSHA) is reopening the rulemaking record and is scheduling a virtual public hearing on the Agency's proposed rule published on July 1, 2025, titled, \"Powered Air Purifying Respirators (PAPRs) in Underground Mines.\"",
+      "document_number": "2026-21154",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21154/powered-air-purifying-respirators-paprs-in-underground-mines",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21154.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Mine Safety and Health Administration",
+          "name": "Mine Safety and Health Administration",
+          "id": 288,
+          "url": "https://www.federalregister.gov/agencies/mine-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/288",
+          "parent_id": 271,
+          "slug": "mine-safety-and-health-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-08",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1219-AC17"
+      ],
+      "significant": false,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Implementation of Electronic Submission of Mariner Course Completion Data",
+      "type": "Rule",
+      "abstract": "This document announces that the Coast Guard will not require the electronic submission requirement for mariner course completion data until at least November 25, 2028, because the system for providing the electronic submission is not yet fully operational. The Coast Guard will notify the public through the Federal Register before requiring the electronic submission of course completion data.",
+      "document_number": "2026-21146",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21146/implementation-of-electronic-submission-of-mariner-course-completion-data",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21146.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "comments_close_on": "2028-11-25",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
     {
       "title": "Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters",
       "type": "Proposed Rule",
@@ -61,14 +240,14 @@
         }
       ],
       "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/OPM_FRDOC_0001-4632",
+      "comment_url": "http://www.regulations.gov/commenton/OPM-2026-0463-0001",
       "effective_on": "2026-12-14",
       "regulation_id_numbers": [
         "3206-AP18"
       ],
       "significant": null,
       "comments_count": 0,
-      "docket_id": "OPM_FRDOC_0001"
+      "docket_id": "OPM-2026-0463"
     },
     {
       "title": "Central Liquidity Facility",
@@ -96,7 +275,7 @@
         "3133-AF91"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "NCUA_FRDOC_0001"
     },
     {
@@ -125,7 +304,7 @@
         "3133-AF90"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "NCUA-2026-1883"
     },
     {
@@ -154,7 +333,7 @@
         "3133-AG04"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "NCUA-2026-1882"
     },
     {
@@ -181,7 +360,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 2,
       "docket_id": "FMC-2026-0463"
     },
     {
@@ -208,7 +387,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 2,
       "docket_id": "DOJ_FRDOC_0001"
     },
     {
@@ -235,7 +414,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 2,
       "docket_id": "DOJ_FRDOC_0001"
     },
     {
@@ -267,14 +446,14 @@
         }
       ],
       "comments_close_on": "2026-11-30",
-      "comment_url": "http://www.regulations.gov/commenton/IRS_FRDOC_0001-2426",
+      "comment_url": "http://www.regulations.gov/commenton/IRS-2026-1420-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1545-BS15"
       ],
       "significant": null,
-      "comments_count": 0,
-      "docket_id": "IRS_FRDOC_0001"
+      "comments_count": 2,
+      "docket_id": "IRS-2026-1420"
     },
     {
       "title": "Airworthiness Directives; Airbus SAS Airplanes",
@@ -311,7 +490,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-11810"
     },
     {
@@ -568,7 +747,7 @@
         "2060-AX07"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "EPA-HQ-OAR-2025-0186"
     },
     {
@@ -662,7 +841,7 @@
         "1615-AD23"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 17,
       "docket_id": "USCIS-2026-0397"
     },
     {
@@ -691,7 +870,7 @@
         "1615-AD26"
       ],
       "significant": null,
-      "comments_count": 92,
+      "comments_count": 136,
       "docket_id": "USCIS-2026-0529"
     },
     {
@@ -758,7 +937,7 @@
         "3038-AF80"
       ],
       "significant": null,
-      "comments_count": 12,
+      "comments_count": 17,
       "docket_id": "CFTC-2026-2179"
     },
     {
@@ -1221,7 +1400,7 @@
         "1653-AB01"
       ],
       "significant": null,
-      "comments_count": 2361,
+      "comments_count": 2508,
       "docket_id": "ICEB-2026-0100"
     },
     {
@@ -1259,7 +1438,7 @@
         "1685-AA38"
       ],
       "significant": null,
-      "comments_count": 8,
+      "comments_count": 10,
       "docket_id": "USCBP-2026-0298"
     },
     {
@@ -1297,7 +1476,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 83,
+      "comments_count": 90,
       "docket_id": "CMS-2026-3235"
     },
     {
@@ -2042,7 +2221,7 @@
         "1506-AB77"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "FINCEN-2026-0265"
     },
     {
@@ -2165,7 +2344,7 @@
         "3150-AL61"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "NRC-2025-1568"
     },
     {
@@ -2203,7 +2382,7 @@
         "0970-AD32"
       ],
       "significant": null,
-      "comments_count": 29,
+      "comments_count": 35,
       "docket_id": "ACF-2026-0562"
     },
     {
@@ -2308,7 +2487,7 @@
         "1545-BR97"
       ],
       "significant": null,
-      "comments_count": 17982,
+      "comments_count": 18171,
       "docket_id": "IRS-2026-1354"
     },
     {
@@ -2346,7 +2525,7 @@
         "1024-AE54"
       ],
       "significant": false,
-      "comments_count": 55,
+      "comments_count": 68,
       "docket_id": "NPS-2026-0199"
     },
     {
@@ -2422,7 +2601,7 @@
         "0570-AB13"
       ],
       "significant": false,
-      "comments_count": 58,
+      "comments_count": 63,
       "docket_id": "RBS-26-BUSINESS-0529"
     },
     {
@@ -2554,7 +2733,7 @@
         "1018-BI13"
       ],
       "significant": false,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "FWS-HQ-MB-2026-0133"
     },
     {
@@ -2881,44 +3060,8 @@
         "1545-BR91"
       ],
       "significant": null,
-      "comments_count": 97,
+      "comments_count": 100,
       "docket_id": "IRS-2026-1321"
-    },
-    {
-      "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Groundfish Reserves in the Bering Sea and Aleutian Islands Management Area",
-      "type": "Rule",
-      "abstract": "NMFS apportions amounts of the non-specified reserve to the initial total allowable catch (ITAC) of Bering Sea (BS) Pacific ocean perch, Bering Sea and Aleutian Islands (BSAI) northern rockfish, and BSAI \"other flatfish.\" This action is necessary to allow the fisheries to continue operating. It is intended to promote the goals and objectives of the fishery management plan for the BSAI management area.",
-      "document_number": "2026-20019",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-20019/fisheries-of-the-exclusive-economic-zone-off-alaska-groundfish-reserves-in-the-bering-sea-and",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-20019.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF COMMERCE",
-          "name": "Commerce Department",
-          "id": 54,
-          "url": "https://www.federalregister.gov/agencies/commerce-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
-          "parent_id": null,
-          "slug": "commerce-department"
-        },
-        {
-          "raw_name": "National Oceanic and Atmospheric Administration",
-          "name": "National Oceanic and Atmospheric Administration",
-          "id": 361,
-          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
-          "parent_id": 54,
-          "slug": "national-oceanic-and-atmospheric-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-15",
-      "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2025-1098-0026",
-      "effective_on": "2026-09-30",
-      "regulation_id_numbers": [],
-      "significant": null,
-      "comments_count": 3,
-      "docket_id": "NOAA-NMFS-2025-1098"
     },
     {
       "title": "Airworthiness Directives; Airbus Helicopters",
@@ -3814,7 +3957,7 @@
         "3150-AL45"
       ],
       "significant": null,
-      "comments_count": 13,
+      "comments_count": 14,
       "docket_id": "NRC-2025-1138"
     },
     {
@@ -3881,7 +4024,7 @@
         "3245-AI67"
       ],
       "significant": null,
-      "comments_count": 332,
+      "comments_count": 335,
       "docket_id": "SBA-2026-0199"
     },
     {
@@ -4123,7 +4266,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 125,
+      "comments_count": 127,
       "docket_id": "DEA-2026-1585"
     },
     {
@@ -4378,7 +4521,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 1526,
+      "comments_count": 1605,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -4416,7 +4559,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 106,
+      "comments_count": 110,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -4454,7 +4597,7 @@
         "0648-BO46"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "NOAA-NMFS-2026-1354"
     },
     {
@@ -4847,7 +4990,7 @@
         "3206-AO92"
       ],
       "significant": true,
-      "comments_count": 7,
+      "comments_count": 8,
       "docket_id": "OPM-2026-0166"
     },
     {
@@ -4885,7 +5028,7 @@
         "0648-BN92"
       ],
       "significant": false,
-      "comments_count": 38,
+      "comments_count": 59,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     {
@@ -5026,7 +5169,7 @@
         "9000-AO88"
       ],
       "significant": null,
-      "comments_count": 32,
+      "comments_count": 34,
       "docket_id": "FAR-2026-0003"
     },
     {
@@ -5091,7 +5234,7 @@
         "9000-AO91"
       ],
       "significant": null,
-      "comments_count": 14,
+      "comments_count": 15,
       "docket_id": "FAR-2026-0006"
     },
     {
@@ -5221,7 +5364,7 @@
         "9000-AO83"
       ],
       "significant": null,
-      "comments_count": 10,
+      "comments_count": 11,
       "docket_id": "FAR-2026-0010"
     },
     {
@@ -5364,7 +5507,7 @@
         "2060-AX00"
       ],
       "significant": null,
-      "comments_count": 7075,
+      "comments_count": 7415,
       "docket_id": "EPA-HQ-OAR-2025-0124"
     },
     {
@@ -5572,7 +5715,7 @@
         "3206-XXXX"
       ],
       "significant": null,
-      "comments_count": 159,
+      "comments_count": 160,
       "docket_id": "OPM-2026-0661"
     },
     {
@@ -5650,33 +5793,6 @@
       "significant": false,
       "comments_count": 1,
       "docket_id": "FAA-2026-11287"
-    },
-    {
-      "title": "Petition for Rulemaking of Robert Michael Vanleeuwen",
-      "type": "Proposed Rule",
-      "abstract": "Please take notice that the Federal Trade Commission (\"Commission\") received a petition for rulemaking from Robert Michael Vanleeuwen and has published that petition online at https:// www.regulations.gov. The Commission invites written comments concerning the petition. Publication of this petition is pursuant to the Commission's Rules of Practice and Procedure and does not affect the legal status of the petition or its final disposition.",
-      "document_number": "2026-18854",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/15/2026-18854/petition-for-rulemaking-of-robert-michael-vanleeuwen",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-15/pdf/2026-18854.pdf",
-      "publication_date": "2026-09-15",
-      "agencies": [
-        {
-          "raw_name": "FEDERAL TRADE COMMISSION",
-          "name": "Federal Trade Commission",
-          "id": 192,
-          "url": "https://www.federalregister.gov/agencies/federal-trade-commission",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/192",
-          "parent_id": null,
-          "slug": "federal-trade-commission"
-        }
-      ],
-      "comments_close_on": "2026-10-15",
-      "comment_url": "http://www.regulations.gov/commenton/FTC-2026-1321-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [],
-      "significant": null,
-      "comments_count": 7,
-      "docket_id": "FTC-2026-1321"
     },
     {
       "title": "Airworthiness Directives; Airbus Defence and Space GmbH Airplanes",
@@ -5999,7 +6115,7 @@
         "1615-AD22"
       ],
       "significant": null,
-      "comments_count": 25631,
+      "comments_count": 26232,
       "docket_id": "USCIS-2026-0364"
     },
     {
@@ -6075,7 +6191,7 @@
         "1545-BR82"
       ],
       "significant": null,
-      "comments_count": 6,
+      "comments_count": 10,
       "docket_id": "IRS-2026-1223"
     },
     {
@@ -6451,7 +6567,7 @@
         "1004-AF57"
       ],
       "significant": null,
-      "comments_count": 32679,
+      "comments_count": 33659,
       "docket_id": "BLM-2026-0133"
     },
     {
@@ -6585,7 +6701,7 @@
         "2040-AG56"
       ],
       "significant": null,
-      "comments_count": 70,
+      "comments_count": 72,
       "docket_id": "EPA-HQ-OW-2026-6965"
     },
     {
@@ -6842,7 +6958,7 @@
         "1685-AA47"
       ],
       "significant": null,
-      "comments_count": 45,
+      "comments_count": 46,
       "docket_id": "USCBP-2026-1058"
     },
     {
@@ -6880,7 +6996,7 @@
         "1024-AE97"
       ],
       "significant": false,
-      "comments_count": 264,
+      "comments_count": 265,
       "docket_id": "NPS-2026-0166"
     },
     {
@@ -7119,7 +7235,7 @@
         "3038-AF77"
       ],
       "significant": null,
-      "comments_count": 47,
+      "comments_count": 48,
       "docket_id": "CFTC-2026-1850"
     },
     {
@@ -7280,7 +7396,7 @@
         "0575-AD54"
       ],
       "significant": null,
-      "comments_count": 7,
+      "comments_count": 8,
       "docket_id": "RHS-26-ADMIN-0331"
     },
     {
@@ -7309,7 +7425,7 @@
         "1505-AC95"
       ],
       "significant": null,
-      "comments_count": 91,
+      "comments_count": 96,
       "docket_id": "TREAS-DO-2026-0496"
     },
     {
@@ -7347,7 +7463,7 @@
         "1545-BR58"
       ],
       "significant": false,
-      "comments_count": 7,
+      "comments_count": 8,
       "docket_id": "IRS-2026-0991"
     },
     {
@@ -7495,7 +7611,7 @@
         "0910-AJ02"
       ],
       "significant": true,
-      "comments_count": 739,
+      "comments_count": 743,
       "docket_id": "FDA-2025-N-3262"
     },
     {

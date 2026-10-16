@@ -1,8 +1,551 @@
 {
-  "updated_at": "2026-10-15T14:03:18.650525+00:00",
-  "latest_date": "2026-10-15",
-  "issue_count": 23,
+  "updated_at": "2026-10-16T07:49:30.194225+00:00",
+  "latest_date": "2026-10-16",
+  "issue_count": 16,
   "documents": [
+    {
+      "title": "Non-Applicability of Section 357(c) to Consolidated Groups",
+      "type": "Rule",
+      "abstract": "This document contains final regulations clarifying that, in the case of certain transfers between members of a consolidated group, a transferee's assumption of certain liabilities will not reduce the transferor's basis in the transferee's stock received in the transfer. These final regulations affect consolidated groups and their members.",
+      "document_number": "2026-21253",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21253/non-applicability-of-section-357c-to-consolidated-groups",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21253.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "Internal Revenue Service",
+          "name": "Internal Revenue Service",
+          "id": 254,
+          "url": "https://www.federalregister.gov/agencies/internal-revenue-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/254",
+          "parent_id": 497,
+          "slug": "internal-revenue-service"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-16",
+      "regulation_id_numbers": [
+        "1545-BJ87"
+      ]
+    },
+    {
+      "title": "Safety Zone; Cumberland River, Hendersonville, TN",
+      "type": "Proposed Rule",
+      "abstract": "The Coast Guard is proposing to establish a temporary safety zone for navigable waters on the Cumberland River from mile marker 221.7 to 222. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with an overwater fireworks display. This proposed rulemaking would prohibit persons and vessels from being in the safety zone unless specifically authorized by the Captain of the Port, Ohio Valley, or their designated representative.",
+      "document_number": "2026-21240",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21240/safety-zone-cumberland-river-hendersonville-tn",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21240.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "comments_close_on": "2026-10-23",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1625-AA00"
+      ]
+    },
+    {
+      "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Atka Mackerel in the Bering Sea and Aleutian Islands Management Area",
+      "type": "Rule",
+      "abstract": "NMFS is reallocating the projected unused amount of the 2026 Atka mackerel incidental catch allowance (ICA) for the Bering Sea subarea and Eastern Aleutian district (BS/EAI) to the Amendment 80 cooperative allocation for the BS/EAI in the Bering Sea and Aleutian Islands management area (BSAI). This action is necessary to allow the 2026 total allowable catch (TAC) of Atka mackerel in the BS/EAI to be fully harvested.",
+      "document_number": "2026-21239",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21239/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-atka-mackerel-in-the-bering-sea",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21239.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-16",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Denali National Park and Preserve; Vehicle Use",
+      "type": "Rule",
+      "abstract": "The National Park Service (NPS) amends special regulations for Denali National Park and Preserve to conform the regulations regarding the number of vehicles that can travel on the restricted section of the Denali Park Road (miles 15-90) to a Vehicle Management Plan that the NPS has been implementing since 2012. This rule implements the plan's limit that no more than 160 vehicles may travel on the restricted section of the road per 24-hour period during the visitor season (also referred to as the \"allocation season\"), defined in the park's General Management Plan as beginning on the Saturday before Memorial Day and ending on the second Thursday after Labor Day. This limit allows the NPS to meet growing visitor demand while maintaining a high- quality experience for visitors.",
+      "document_number": "2026-21222",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21222/denali-national-park-and-preserve-vehicle-use",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21222.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "National Park Service",
+          "name": "National Park Service",
+          "id": 362,
+          "url": "https://www.federalregister.gov/agencies/national-park-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/362",
+          "parent_id": 253,
+          "slug": "national-park-service"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-11-16",
+      "regulation_id_numbers": [
+        "1024-AF11"
+      ]
+    },
+    {
+      "title": "Fishery Management Plans of St. Croix and St. Thomas and St. John; Spiny Lobster Management Measures",
+      "type": "Proposed Rule",
+      "abstract": "NMFS proposes regulations to implement Framework Action 4 under both the St. Croix Fishery Management Plan (FMP) and the St. Thomas and St. John FMP, as prepared by the Caribbean Fishery Management Council (Council). The proposed rule would update annual catch limits (ACLs) for spiny lobster in St. Croix and in St. Thomas and St. John. The purpose of this proposed rule and Framework Action 4 is to update management reference points for spiny lobster consistent with the most recent stock assessments to prevent overfishing and achieve optimum yield (OY).",
+      "document_number": "2026-21205",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21205/fishery-management-plans-of-st-croix-and-st-thomas-and-st-john-spiny-lobster-management-measures",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21205.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-16",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0648-BO61"
+      ]
+    },
+    {
+      "title": "Establishment of United States Area Navigation Route T-550 and Revocation of Very High Frequency Omnidirectional Range Federal Airway V-320",
+      "type": "Rule",
+      "abstract": "This action revokes Very High Frequency (VHF) Omnidirectional Range (VOR) Federal Airway V-320 in Alaska due to navigational signal limits causing portions of this route to be unusable. There are two routes with the identifier V-320, one located in the state of Alaska, and one located in the state of Michigan. This action only revokes the V-320 located in Alaska. FAA is also establishing United States Area Navigation (RNAV) Route T-550 near Anchorage, AK.",
+      "document_number": "2026-21192",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21192/establishment-of-united-states-area-navigation-route-t-550-and-revocation-of-very-high-frequency",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21192.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-12-24",
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ]
+    },
+    {
+      "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Shortraker Rockfish in the Central Regulatory Area of the Gulf of Alaska",
+      "type": "Rule",
+      "abstract": "NMFS is prohibiting retention of shortraker rockfish in the Central Regulatory Area of the Gulf of Alaska (GOA) except by catcher/ processors checked-in to the Central GOA Rockfish Program who are fishing with a rockfish cooperative quota permit. This action is necessary because the 2026 shortraker rockfish total allowable catch (TAC) in the Central Regulatory Area of the GOA for vessels other than Central GOA Rockfish Program catcher/processors will soon be or has been reached.",
+      "document_number": "2026-21184",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21184/fisheries-of-the-exclusive-economic-zone-off-alaska-shortraker-rockfish-in-the-central-regulatory",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21184.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-14",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Establishment of Restricted Areas R-5306G and R-5306H and Amendment of Restricted Areas R-5306C and R-5306E; Cherry Point, NC",
+      "type": "Rule",
+      "abstract": "This action establishes restricted areas R-5306G and R-5306H at Marine Corps Air Station (MCAS), Cherry Point, NC. This action also amends R-5306C and R-5306D by modifying two latitude/longitude coordinates and amends the controlling agency for R-5306A, R-5306C, R- 5306D, and R-5306E to reflect MCAS Cherry Point Combined Center Radar Approach Control (CERAP).",
+      "document_number": "2026-21179",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21179/establishment-of-restricted-areas-r-5306g-and-r-5306h-and-amendment-of-restricted-areas-r-5306c-and",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21179.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-12-24",
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ]
+    },
+    {
+      "title": "Special Local Regulation; Lake Havasu, Lake Havasu City, AZ",
+      "type": "Rule",
+      "abstract": "The Coast Guard is establishing a temporary special local regulation (SLR) for certain navigable waters of Lake Havasu. This action is necessary to provide for the safety of life on these navigable waters near Lake Havasu City, AZ during the 2026 Lake Havasu Witch Paddle event beginning at 8 a.m. on October 25, 2026, and ending the evening of October 25, 2026, at 2 p.m. This regulation prohibits persons and vessels from entering the regulated area unless specifically authorized by the Captain of the Port San Diego or their designated representative.",
+      "document_number": "2026-21162",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21162/special-local-regulation-lake-havasu-lake-havasu-city-az",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21162.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-25",
+      "regulation_id_numbers": [
+        "1625-AA08"
+      ]
+    },
+    {
+      "title": "Safety Zone; Atlantic Ocean, Culebra, Puerto Rico",
+      "type": "Rule",
+      "abstract": "The Coast Guard is establishing a temporary safety zone for navigable waters within 200 yards of location 18[deg]19'25.42\" N, 065[deg]19'43.55\" W, adjacent to Playa Tamarindo Grande Beach, Culebra, Puerto Rico. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with unexploded ordnance and associated removal operations. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Sector San Juan, or their designated representative.",
+      "document_number": "2026-21161",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21161/safety-zone-atlantic-ocean-culebra-puerto-rico",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21161.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-16",
+      "regulation_id_numbers": [
+        "1625-AA00"
+      ]
+    },
+    {
+      "title": "Special Local Regulations; Annual Marine Events on the Colorado River, Between Davis Dam (Bullhead City, Arizona) and Headgate Dam (Parker, Arizona), Blue Water Resort and Casino Parker Enduro and NWSRA Water Ski Races, Colorado River, Parker, AZ",
+      "type": "Rule",
+      "abstract": "The Coast Guard will enforce special local regulations for the Blue Water Resort and Casino Parker Enduro and NWSRA Water Ski Races from October 23 through 25, 2026, to provide for the safety of life on navigable waterways during this event. Our regulation for marine events within the Southwest Coast Guard District identifies the regulated area for this event in Parker, AZ. During the enforcement periods, the operator of any vessel in the regulated area must comply with directions from the Patrol Commander or any Official Patrol displaying a Coast Guard ensign.",
+      "document_number": "2026-21160",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21160/special-local-regulations-annual-marine-events-on-the-colorado-river-between-davis-dam-bullhead-city",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21160.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Special Local Regulation; Lake Havasu, Lake Havasu City, AZ",
+      "type": "Rule",
+      "abstract": "The Coast Guard is establishing a temporary special local regulation (SLR) for certain navigable waters of Lake Havasu. This action is necessary to provide for the safety of life on these navigable waters near Lake Havasu City, AZ during the Pineapple Races event beginning at 3 p.m. on October 20, 2026, and ending the evening of October 20, 2026, at 8 p.m. This regulation prohibits persons and vessels from entering the regulated area unless specifically authorized by the Captain of the Port San Diego or their designated representative.",
+      "document_number": "2026-21157",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21157/special-local-regulation-lake-havasu-lake-havasu-city-az",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21157.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-20",
+      "regulation_id_numbers": [
+        "1625-AA08"
+      ]
+    },
+    {
+      "title": "Renewable Fuel Standard (RFS) Program: Reallocation of Additional 2025 Small Refinery Exemptions",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA) is co-proposing two approaches to revising the existing 2026 and 2027 small refinery exemption (SRE) reallocation volumes under the Renewable Fuel Standard (RFS) program in response to a higher volume of 2025 SREs than previously projected when the Agency set the renewable fuel volumes and percentage standards on April 1, 2026. One approach would reallocate the additional 2025 SRE volume equally between the 2026 and 2027 SRE reallocation volumes, while the other approach would reallocate all the additional 2025 SRE volume to the 2027 SRE reallocation volume. Additionally, given the proposed revision to the 2026 standards, this proposed action may extend the existing 2026 compliance reporting deadline of March 31, 2027.",
+      "document_number": "2026-21155",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21155/renewable-fuel-standard-rfs-program-reallocation-of-additional-2025-small-refinery-exemptions",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21155.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-12-04",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2060-AX09"
+      ]
+    },
+    {
+      "title": "Powered Air Purifying Respirators (PAPRs) in Underground Mines",
+      "type": "Proposed Rule",
+      "abstract": "In response to a public request, the Mine Safety and Health Administration (MSHA) is reopening the rulemaking record and is scheduling a virtual public hearing on the Agency's proposed rule published on July 1, 2025, titled, \"Powered Air Purifying Respirators (PAPRs) in Underground Mines.\"",
+      "document_number": "2026-21154",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21154/powered-air-purifying-respirators-paprs-in-underground-mines",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21154.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Mine Safety and Health Administration",
+          "name": "Mine Safety and Health Administration",
+          "id": 288,
+          "url": "https://www.federalregister.gov/agencies/mine-safety-and-health-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/288",
+          "parent_id": 271,
+          "slug": "mine-safety-and-health-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-08",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1219-AC17"
+      ]
+    },
+    {
+      "title": "Implementation of Electronic Submission of Mariner Course Completion Data",
+      "type": "Rule",
+      "abstract": "This document announces that the Coast Guard will not require the electronic submission requirement for mariner course completion data until at least November 25, 2028, because the system for providing the electronic submission is not yet fully operational. The Coast Guard will notify the public through the Federal Register before requiring the electronic submission of course completion data.",
+      "document_number": "2026-21146",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21146/implementation-of-electronic-submission-of-mariner-course-completion-data",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21146.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "comments_close_on": "2028-11-25",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Establishment of Class E Airspace; Coleman, TX",
+      "type": "Rule",
+      "abstract": "This action establishes Class E airspace at Ranch at Double Gates Airport, Coleman, TX. This action supports new instrument procedures and instrument flight rule (IFR) operations.",
+      "document_number": "2026-21145",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21145/establishment-of-class-e-airspace-coleman-tx",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21145.pdf",
+      "publication_date": "2026-10-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-12-24",
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ]
+    },
     {
       "title": "Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters",
       "type": "Proposed Rule",
@@ -91,7 +634,7 @@
         }
       ],
       "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/OPM_FRDOC_0001-4632",
+      "comment_url": "http://www.regulations.gov/commenton/OPM-2026-0463-0001",
       "effective_on": "2026-12-14",
       "regulation_id_numbers": [
         "3206-AP18"
@@ -477,7 +1020,7 @@
       ],
       "comments_close_on": null,
       "comment_url": null,
-      "effective_on": "2026-09-03",
+      "effective_on": "2027-02-01",
       "regulation_id_numbers": [
         "2105-AF29"
       ]
@@ -511,7 +1054,7 @@
         }
       ],
       "comments_close_on": "2026-11-30",
-      "comment_url": "http://www.regulations.gov/commenton/IRS_FRDOC_0001-2426",
+      "comment_url": "http://www.regulations.gov/commenton/IRS-2026-1420-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1545-BS15"
@@ -2599,485 +3142,6 @@
       ]
     },
     {
-      "title": "Removal of Obsolete/Suspended Regulations",
-      "type": "Rule",
-      "abstract": "The Indian Health Service (IHS) of the Department of Health and Human Services (HHS or \"the Department\") is issuing this final rule to remove regulations appearing in the Code of Federal Regulations (CFR). The regulations duplicate other regulations in the CFR, and have never been implemented by the IHS, and were referred to as \"suspended\" in a 1999 Federal Register Notice. Removing these regulations will not change the IHS's existing practices or authorities.",
-      "document_number": "2026-20684",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20684/removal-of-obsoletesuspended-regulations",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20684.pdf",
-      "publication_date": "2026-10-08",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
-          "name": "Health and Human Services Department",
-          "id": 221,
-          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
-          "parent_id": null,
-          "slug": "health-and-human-services-department"
-        },
-        {
-          "raw_name": "Indian Health Service",
-          "name": "Indian Health Service",
-          "id": 237,
-          "url": "https://www.federalregister.gov/agencies/indian-health-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/237",
-          "parent_id": 221,
-          "slug": "indian-health-service"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-12-07",
-      "regulation_id_numbers": [
-        "0917-AA13"
-      ]
-    },
-    {
-      "title": "Airworthiness Directives; The Boeing Company Airplanes",
-      "type": "Rule",
-      "abstract": "The FAA is superseding Airworthiness Directive (AD) 2019-20- 07, which applied to The Boeing Company Model 787-8, 787-9, and 787-10 airplanes. AD 2019-20-07 required repetitive operational checks of the leading edge (LE) outboard (OB) slats and applicable on-condition actions. AD 2019-20-07 also required revising the airplane flight manual (AFM) to prohibit flap retraction under icing conditions after landing and revising the existing maintenance or inspection program, as applicable, to incorporate a new operation check. This AD was prompted by the manufacturer developing further actions to address the unsafe condition. This AD continues to require all requirements of AD 2019-20- 07. This AD would also require replacing the LE outboard geared rotary actuator (GRA) with a LE outboard lockout actuator (LEOLA) at leading edge OB slat locations and revising the existing maintenance or inspection program, as applicable, to incorporate a new certification maintenance requirement (CMR), which terminates the retained requirements of AD 2019-20-07. This AD also removes airplanes from the applicability. The FAA is issuing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-20680",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20680/airworthiness-directives-the-boeing-company-airplanes",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20680.pdf",
-      "publication_date": "2026-10-08",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-11-12",
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ]
-    },
-    {
-      "title": "Airworthiness Directives; Various Helicopters",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all helicopters equipped with a radio (also known as radar) altimeter. This proposed AD was prompted by the determination that radio altimeters cannot be relied upon to perform their intended function if they experience interference from wireless broadband operations in the 3.7 to 3.98 GHz frequency band (5G Lower C-Band) while operating in Canadian airspace. This proposed AD would require revising the existing rotorcraft flight manual (RFM) for the helicopter to incorporate limitations prohibiting certain operations requiring radio altimeter data when operating within Canadian airspace. The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-20677",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20677/airworthiness-directives-various-helicopters",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20677.pdf",
-      "publication_date": "2026-10-08",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-23",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11799-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ]
-    },
-    {
-      "title": "Airworthiness Directives; Engine Alliance Engines",
-      "type": "Rule",
-      "abstract": "The FAA is adopting a new airworthiness directive (AD) for certain Engine Alliance (EA) Model GP7270, GP7272, and GP7277 engines. This AD was prompted by a report of an aborted takeoff that resulted from an uncontained failure of the high-pressure turbine (HPT) interstage seal. This AD requires removal from service and replacement of the HPT interstage seal with a part eligible for installation. The FAA is issuing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-20666",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20666/airworthiness-directives-engine-alliance-engines",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20666.pdf",
-      "publication_date": "2026-10-08",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-23",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11801-0001",
-      "effective_on": "2026-10-23",
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ]
-    },
-    {
-      "title": "Optional Practical Training Fees",
-      "type": "Proposed Rule",
-      "abstract": "This rule proposes new fees for Optional Practical Training (OPT) to combat fraud, strengthen the integrity of the immigration system, and protect U.S. workers. The following fees would apply for each F-1 nonimmigrant student to engage in OPT through a Student and Exchange Visitor Program-certified institution: $70,000 for initial OPT; and $30,000 for any subsequent OPT.",
-      "document_number": "2026-20660",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20660/optional-practical-training-fees",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20660.pdf",
-      "publication_date": "2026-10-08",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        }
-      ],
-      "comments_close_on": "2026-11-09",
-      "comment_url": "http://www.regulations.gov/commenton/ICEB-2026-0100-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1653-AB01"
-      ]
-    },
-    {
-      "title": "Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; General Category October Through November Quota Transfer and Adjustment",
-      "type": "Rule",
-      "abstract": "NMFS is adjusting the Atlantic bluefin tuna (BFT) General category October through November 2026 time period subquota by transferring 70.2 metric tons (mt) of quota from the Reserve category. Simultaneously, NMFS is adding 16.7 mt of subquota remaining from the June through August time period to the General category October through November time period. This action results in a total adjusted General category October through November time period subquota of 192.9 mt and an adjusted Reserve category of 42 mt. This action would affect Atlantic Tunas General category (commercial) permitted vessels and Highly Migratory Species (HMS) Charter/Headboat permitted vessels with a commercial sale endorsement when fishing commercially for BFT.",
-      "document_number": "2026-20652",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20652/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-general-category-october-through",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20652.pdf",
-      "publication_date": "2026-10-08",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF COMMERCE",
-          "name": "Commerce Department",
-          "id": 54,
-          "url": "https://www.federalregister.gov/agencies/commerce-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
-          "parent_id": null,
-          "slug": "commerce-department"
-        },
-        {
-          "raw_name": "National Oceanic and Atmospheric Administration",
-          "name": "National Oceanic and Atmospheric Administration",
-          "id": 361,
-          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
-          "parent_id": 54,
-          "slug": "national-oceanic-and-atmospheric-administration"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-10-06",
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Low-Value Shipments",
-      "type": "Proposed Rule",
-      "abstract": "This document proposes to amend the U.S. Customs and Border Protection regulations to modify filing requirements for informal entries of goods valued at $2,500 or less and to establish a new electronic informal entry type for merchandise entering through the mail environment. This document also proposes other related changes such as requiring an additional data element for carriers pertaining to mail shipments and imposing bonding requirements for certain informal entries.",
-      "document_number": "2026-20650",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20650/low-value-shipments",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20650.pdf",
-      "publication_date": "2026-10-08",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        },
-        {
-          "raw_name": "U.S. Customs and Border Protection",
-          "name": "U.S. Customs and Border Protection",
-          "id": 501,
-          "url": "https://www.federalregister.gov/agencies/u-s-customs-and-border-protection",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/501",
-          "parent_id": 227,
-          "slug": "u-s-customs-and-border-protection"
-        }
-      ],
-      "comments_close_on": "2026-12-07",
-      "comment_url": "http://www.regulations.gov/commenton/USCBP-2026-0298-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1685-AA38"
-      ]
-    },
-    {
-      "title": "Air Plan Approval; Kentucky; Louisville Area Limited Maintenance Plan for the 1997 8-Hour Ozone NAAQS",
-      "type": "Rule",
-      "abstract": "The U.S. Environmental Protection Agency (EPA or Agency) is approving a State Implementation Plan (SIP) revision submitted by the Commonwealth of Kentucky through the Energy and Environment Cabinet (Cabinet) on behalf of the Louisville Metro Air Pollution Control District (District) via a letter dated June 3, 2024. The SIP revision consists of a Limited Maintenance Plan (LMP) for the Kentucky portion of the bi-state Louisville, Kentucky-Indiana 1997 8-hour ozone maintenance area (the \"bi-state Louisville Area\"). The Kentucky portion of the bi-state Louisville Area is comprised of Bullitt, Jefferson, and Oldham Counties in Kentucky (the \"Louisville Area\"). The EPA is approving the Louisville Area's LMP because it provides for the maintenance of the 1997 8-hour ozone National Ambient Air Quality Standards (NAAQS) within the bi-state Louisville Area through the end of the second 10-year portion of the maintenance period. The effect of this action is to make certain commitments related to maintenance of the 1997 8-hour ozone NAAQS in the Louisville Area federally enforceable as part of the Kentucky SIP.",
-      "document_number": "2026-20641",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20641/air-plan-approval-kentucky-louisville-area-limited-maintenance-plan-for-the-1997-8-hour-ozone-naaqs",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20641.pdf",
-      "publication_date": "2026-10-08",
-      "agencies": [
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-11-09",
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Air Plan Approval; Oklahoma; Interstate Transport Requirements for the 2010 SO2 NAAQS",
-      "type": "Rule",
-      "abstract": "Pursuant to the Federal Clean Air Act (CAA or the Act), the U.S. Environmental Protection Agency (EPA) is approving portions of the State Implementation Plan (SIP) submittal from the State of Oklahoma demonstrating that the State satisfies the interstate transport requirements of the CAA for the 2010 1-hour sulfur dioxide (SO<INF>2</INF>) primary National Ambient Air Quality Standard (NAAQS). This provision requires each State's implementation plan to contain adequate requirements prohibiting the interstate transport of air pollution in amounts that will contribute significantly to nonattainment, or interfere with maintenance, of a NAAQS in any other State.",
-      "document_number": "2026-20640",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20640/air-plan-approval-oklahoma-interstate-transport-requirements-for-the-2010-so2-naaqs",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20640.pdf",
-      "publication_date": "2026-10-08",
-      "agencies": [
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-11-09",
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Approval and Promulgation of State Implementation Plans; New Jersey; RACT Certifications for the 2008 and 2015 Ozone National Ambient Air Quality Standards",
-      "type": "Rule",
-      "abstract": "The Environmental Protection Agency (EPA) is approving a State Implementation Plan (SIP) revision submitted by the State of New Jersey for purposes of certifying and meeting the requirements for Reasonably Available Control Technology (RACT) for the Serious classification of the 2008 and the Moderate classification of the 2015 8-hour ozone National Ambient Air Quality Standards (NAAQS). The EPA is also approving that the SIP revisions fulfill SIP requirements pertaining to the Ozone Transport Region (OTR) for the 2015 ozone NAAQS. These actions are being taken in accordance with the requirements of the Clean Air Act (CAA).",
-      "document_number": "2026-20638",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20638/approval-and-promulgation-of-state-implementation-plans-new-jersey-ract-certifications-for-the-2008",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20638.pdf",
-      "publication_date": "2026-10-08",
-      "agencies": [
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-11-09",
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Pacific Cod by Vessels Using Pot Gear in the Central Regulatory Area of the Gulf of Alaska",
-      "type": "Rule",
-      "abstract": "NMFS is prohibiting directed fishing for Pacific cod by vessels using pot gear in the Central Regulatory Area of the Gulf of Alaska (GOA). This action is necessary to prevent exceeding the 2026 total allowable catch (TAC) of Pacific cod allocated to vessels using pot gear in the Central Regulatory Area of the GOA.",
-      "document_number": "2026-20637",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20637/fisheries-of-the-exclusive-economic-zone-off-alaska-pacific-cod-by-vessels-using-pot-gear-in-the",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20637.pdf",
-      "publication_date": "2026-10-08",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF COMMERCE",
-          "name": "Commerce Department",
-          "id": 54,
-          "url": "https://www.federalregister.gov/agencies/commerce-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
-          "parent_id": null,
-          "slug": "commerce-department"
-        },
-        {
-          "raw_name": "National Oceanic and Atmospheric Administration",
-          "name": "National Oceanic and Atmospheric Administration",
-          "id": 361,
-          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
-          "parent_id": 54,
-          "slug": "national-oceanic-and-atmospheric-administration"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-10-07",
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Air Plan Approval; GA; Removal of Nonattainment Area New Source Review",
-      "type": "Rule",
-      "abstract": "The U.S. Environmental Protection Agency (EPA or Agency) is approving a State Implementation Plan (SIP) revision submitted by the State of Georgia through the Georgia Environmental Protection Division (EPD) on June 27, 2024. The revision removes permitting requirements related to nonattainment, including nonattainment new source review (NNSR), from Georgia's SIP as obsolete, removes certain provisions related to the use of emission reduction credits (ERCs), and makes other changes based upon the lack of any areas designated as nonattainment for the National Ambient Air Quality Standards (NAAQS) in Georgia. The EPA is approving these changes pursuant to the Clean Air Act (CAA or Act).",
-      "document_number": "2026-20636",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20636/air-plan-approval-ga-removal-of-nonattainment-area-new-source-review",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20636.pdf",
-      "publication_date": "2026-10-08",
-      "agencies": [
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-11-09",
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Air Plan Approval; Maryland; Reasonably Available Control Technology for Municipal Waste Combustors",
-      "type": "Rule",
-      "abstract": "The U.S. Environmental Protection Agency (EPA) is approving state implementation plan (SIP) revisions submitted by the State of Maryland. The SIP revisions consist of a regulation that implements statewide reasonably available control technology (RACT) requirements by limiting air emissions of oxides of nitrogen (NO<INF>X</INF>) from municipal waste combustors (MWCs) in Maryland. This action is being taken under the Clean Air Act (CAA).",
-      "document_number": "2026-20635",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20635/air-plan-approval-maryland-reasonably-available-control-technology-for-municipal-waste-combustors",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20635.pdf",
-      "publication_date": "2026-10-08",
-      "agencies": [
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-11-09",
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Air Plan Approval; Missouri; Construction Permit Exemptions",
-      "type": "Rule",
-      "abstract": "The U.S. Environmental Protection Agency (EPA) is approving revisions to the Missouri State Implementation Plan (SIP) received on February 10, 2026. The submission revises Missouri's regulation on construction permit exemptions in its Minor New Source Review (NSR) program. These revisions refine exemptions for emergency generators, update references to other rules, and update recordkeeping requirements. The EPA's final approval of this rule revision is being done in accordance with the requirements of the Clean Air Act (CAA).",
-      "document_number": "2026-20634",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20634/air-plan-approval-missouri-construction-permit-exemptions",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20634.pdf",
-      "publication_date": "2026-10-08",
-      "agencies": [
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-11-09",
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Special Local Regulations; San Francisco Bay Navy Fleet Week Parade of Ships and Blue Angels Demonstration, San Francisco, CA",
-      "type": "Rule",
-      "abstract": "The Coast Guard will enforce the special local regulation in the navigable waters of the San Francisco Bay for the San Francisco Bay Navy Fleet Week Parade of Ships and Blue Angels survey flight and demonstration days from October 8 through October 11, 2026. This action is necessary to ensure the safety of event participants and spectators. During the enforcement period, unauthorized persons or vessels are prohibited from entering into, transiting through, or anchoring in the regulated area unless authorized by the Patrol Commander (PATCOM). This notification of enforcement (NOE) announces the dates and times for enforcement.",
-      "document_number": "2026-20632",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20632/special-local-regulations-san-francisco-bay-navy-fleet-week-parade-of-ships-and-blue-angels",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20632.pdf",
-      "publication_date": "2026-10-08",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        },
-        {
-          "raw_name": "Coast Guard",
-          "name": "Coast Guard",
-          "id": 53,
-          "url": "https://www.federalregister.gov/agencies/coast-guard",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
-          "parent_id": 227,
-          "slug": "coast-guard"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Cut Flowers Regulations; Removal of Chrysanthemum White Rust-Related Provisions",
-      "type": "Rule",
-      "abstract": "We are amending the regulations governing the importation of fresh cut flowers to remove requirements for the importation of specific types of cut flowers from the regulations, and to list them in the U.S. Department of Agriculture database called the Agricultural Commodity Import Requirements instead. We are also removing entirely any restrictions on the importation of fresh cut flowers of the genera Chrysanthemum, Leucanthemella, and Nipponanthemum from countries in which chrysanthemum white rust (Puccinia horiana P. Henn., CWR) is known to exist. This rule will allow us to use a notice-based, streamlined approach to update the import requirements for cut flowers and remove CWR-specific restrictions on the importation of fresh cut flowers.",
-      "document_number": "2026-20630",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20630/cut-flowers-regulations-removal-of-chrysanthemum-white-rust-related-provisions",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20630.pdf",
-      "publication_date": "2026-10-08",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Animal and Plant Health Inspection Service",
-          "name": "Animal and Plant Health Inspection Service",
-          "id": 22,
-          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
-          "parent_id": 12,
-          "slug": "animal-and-plant-health-inspection-service"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-11-09",
-      "regulation_id_numbers": [
-        "0579-AE66"
-      ]
-    },
-    {
       "title": "Safety Zone; Red Bull Flugtag, Intercoastal Waterway, Biscayne Bay, Miami, FL",
       "type": "Proposed Rule",
       "abstract": "The Coast Guard is proposing to establish a temporary safety zone for certain navigable waters on the Intercoastal Waterway portion of Biscayne Bay in Miami, FL. The safety zone is needed to protect spectators, vessels, and the marine environment from potential hazards associated with event proceedings. This proposed rulemaking would prohibit persons and vessels from being in the safety zone unless specifically authorized by the Captain of the Port, Sector Miami. We invite your comments on this proposed rulemaking.",
@@ -3148,36 +3212,119 @@
       ]
     },
     {
-      "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Groundfish Reserves in the Bering Sea and Aleutian Islands Management Area",
-      "type": "Rule",
-      "abstract": "NMFS apportions amounts of the non-specified reserve to the initial total allowable catch (ITAC) of Bering Sea (BS) Pacific ocean perch, Bering Sea and Aleutian Islands (BSAI) northern rockfish, and BSAI \"other flatfish.\" This action is necessary to allow the fisheries to continue operating. It is intended to promote the goals and objectives of the fishery management plan for the BSAI management area.",
-      "document_number": "2026-20019",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-20019/fisheries-of-the-exclusive-economic-zone-off-alaska-groundfish-reserves-in-the-bering-sea-and",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-20019.pdf",
-      "publication_date": "2026-09-30",
+      "title": "Public Water System Supervision Program Revision for the State of Arkansas",
+      "type": "Proposed Rule",
+      "abstract": "Notice is hereby given that the State of Arkansas is revising its approved Public Water System Supervision (PWSS) program. Arkansas has adopted the Environmental Protection Agency (EPA) drinking water rules for the Consumer Confidence Report Rule Revisions. Therefore, the EPA intends to approve this PWSS program revision package.",
+      "document_number": "2026-19500",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/23/2026-19500/public-water-system-supervision-program-revision-for-the-state-of-arkansas",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-23/pdf/2026-19500.pdf",
+      "publication_date": "2026-09-23",
       "agencies": [
         {
-          "raw_name": "DEPARTMENT OF COMMERCE",
-          "name": "Commerce Department",
-          "id": 54,
-          "url": "https://www.federalregister.gov/agencies/commerce-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
           "parent_id": null,
-          "slug": "commerce-department"
-        },
-        {
-          "raw_name": "National Oceanic and Atmospheric Administration",
-          "name": "National Oceanic and Atmospheric Administration",
-          "id": 361,
-          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
-          "parent_id": 54,
-          "slug": "national-oceanic-and-atmospheric-administration"
+          "slug": "environmental-protection-agency"
         }
       ],
-      "comments_close_on": "2026-10-15",
-      "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2025-1098-0026",
-      "effective_on": "2026-09-30",
+      "comments_close_on": "2026-10-23",
+      "comment_url": "http://www.regulations.gov/commenton/EPA_FRDOC_0001-33165",
+      "effective_on": null,
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Air Plan Approval; North Carolina; Charlotte-Rock Hill Area Maintenance Plan for the 2008 8-Hour Ozone NAAQS",
+      "type": "Proposed Rule",
+      "abstract": "On February 28, 2025, the State of North Carolina, through the North Carolina Department of Environmental Quality, Division of Air Quality (NCDAQ), submitted a request for the U.S. Environmental Protection Agency (EPA) to approve a State Implementation Plan (SIP) revision containing the State's plan for maintaining the 2008 ozone National Ambient Air Quality Standard (NAAQS) through 2035 for the North Carolina portion of the bi-state Charlotte-Rock Hill, North Carolina-South Carolina 2008 8-hour ozone nonattainment area (the entire area is hereinafter referred to as the \"bi-state Charlotte Area\" and the North Carolina portion is hereinafter referred to as the \"Charlotte Area\"). The EPA is proposing to approve and incorporate North Carolina's second 10-year maintenance plan to maintain attainment of the 2008 8-hour ozone NAAQS in the bi-state Charlotte Area, including the 2018 and 2035 motor vehicle emission budgets (budgets) for nitrogen oxides (NO<INF>X</INF>) and volatile organic compounds (VOC) for the Charlotte Area, into the SIP. The EPA is also notifying the public of the status of the EPA's adequacy determination for the sub-area budgets for the Charlotte Area.",
+      "document_number": "2026-19495",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/23/2026-19495/air-plan-approval-north-carolina-charlotte-rock-hill-area-maintenance-plan-for-the-2008-8-hour-ozone",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-23/pdf/2026-19495.pdf",
+      "publication_date": "2026-09-23",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-10-23",
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R04-OAR-2025-0223-0008",
+      "effective_on": null,
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Safety Zone; Massachusetts Bay, Boston, MA",
+      "type": "Proposed Rule",
+      "abstract": "The Coast Guard is proposing to establish a temporary safety zone for a certain navigable water of Massachusetts Bay, 22 miles northeast of Boston, MA. The safety zone is needed to protect personnel, vessels, and the maritime public from potential hazards created by subsea demolition operations. This proposed rulemaking would prohibit persons and vessels from entering the safety zone unless specifically authorized by the Captain of the Port Sector Boston or a designated representative. We invite your comments on this proposed rulemaking.",
+      "document_number": "2026-19430",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/23/2026-19430/safety-zone-massachusetts-bay-boston-ma",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-23/pdf/2026-19430.pdf",
+      "publication_date": "2026-09-23",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "comments_close_on": "2026-10-23",
+      "comment_url": "http://www.regulations.gov/commenton/USCG-2026-1071-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1625-AA00"
+      ]
+    },
+    {
+      "title": "Schedules of Controlled Substances: Placement of 4-Hydroxy-N,N-Diisopropyltryptamine (4-OH-DiPT), 5-Methoxy-alpha-Methyltryptamine (5-MeO-AMT), 5-Methoxy-N-Methyl-N-Isopropyltryptamine (5-MeO-MiPT), 5-Methoxy-N,N-Diethyltryptamine (5-MeO-DET), and N,N-Diisopropyltryptamine (DiPT) Into Schedule I",
+      "type": "Proposed Rule",
+      "abstract": "The Drug Enforcement Administration proposes placing five tryptamine hallucinogens, 4-hydroxy-N,N-diisopropyltryptamine (other names: 4-OH-DiPT; 3-(2-(diisopropylamino)ethyl)-1H-indol-4- ol), 5-methoxy-alpha-methyltryptamine (other names: 5-MeO-AMT; 1-(5- methoxy-1H-indol-3-yl)propan-2-amine), 5-methoxy-N-methyl-N- isopropyltryptamine (other names: 5-MeO-MiPT; N-(2-(5-methoxy-1H-indol- 3-yl)ethyl)-N-methylpropan-2-amine), 5-methoxy-N,N-diethyltryptamine (other names: 5-MeO-DET; N,N-diethyl-2-(5-methoxy-1H-indol-3- yl)ethanamine), and N,N-diisopropyltryptamine (other names: DiPT; N-(2- (1H-indol-3-yl)ethyl)-N-isopropylpropan-2-amine), including their salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible, in schedule I of the Controlled Substances Act. If finalized, this action would impose the regulatory controls and administrative, civil, and criminal sanctions applicable to schedule I controlled substances on persons who handle (manufacture, distribute, reverse distribute, import, export, engage in research, conduct instructional activities or chemical analysis with, or possess) or propose to handle these five specific tryptamine hallucinogens.",
+      "document_number": "2026-19400",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/23/2026-19400/schedules-of-controlled-substances-placement-of-4-hydroxy-nn-diisopropyltryptamine-4-oh-dipt",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-23/pdf/2026-19400.pdf",
+      "publication_date": "2026-09-23",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF JUSTICE",
+          "name": "Justice Department",
+          "id": 268,
+          "url": "https://www.federalregister.gov/agencies/justice-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/268",
+          "parent_id": null,
+          "slug": "justice-department"
+        },
+        {
+          "raw_name": "Drug Enforcement Administration",
+          "name": "Drug Enforcement Administration",
+          "id": 116,
+          "url": "https://www.federalregister.gov/agencies/drug-enforcement-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/116",
+          "parent_id": 268,
+          "slug": "drug-enforcement-administration"
+        }
+      ],
+      "comments_close_on": "2026-10-23",
+      "comment_url": "http://www.regulations.gov/commenton/DEA-2026-1585-0001",
+      "effective_on": null,
       "regulation_id_numbers": []
     },
     {
@@ -3794,30 +3941,6 @@
       "regulation_id_numbers": [
         "1625-AA09"
       ]
-    },
-    {
-      "title": "Petition for Rulemaking of Robert Michael Vanleeuwen",
-      "type": "Proposed Rule",
-      "abstract": "Please take notice that the Federal Trade Commission (\"Commission\") received a petition for rulemaking from Robert Michael Vanleeuwen and has published that petition online at https:// www.regulations.gov. The Commission invites written comments concerning the petition. Publication of this petition is pursuant to the Commission's Rules of Practice and Procedure and does not affect the legal status of the petition or its final disposition.",
-      "document_number": "2026-18854",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/15/2026-18854/petition-for-rulemaking-of-robert-michael-vanleeuwen",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-15/pdf/2026-18854.pdf",
-      "publication_date": "2026-09-15",
-      "agencies": [
-        {
-          "raw_name": "FEDERAL TRADE COMMISSION",
-          "name": "Federal Trade Commission",
-          "id": 192,
-          "url": "https://www.federalregister.gov/agencies/federal-trade-commission",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/192",
-          "parent_id": null,
-          "slug": "federal-trade-commission"
-        }
-      ],
-      "comments_close_on": "2026-10-15",
-      "comment_url": "http://www.regulations.gov/commenton/FTC-2026-1321-0001",
-      "effective_on": null,
-      "regulation_id_numbers": []
     },
     {
       "title": "Information Reporting Regarding Qualified Opportunity Zones and Updated Qualified Opportunity Fund Certification and Decertification Procedures",
