@@ -1,7 +1,7 @@
 """Post the next N entries of data/promo_queue.json to Bluesky and record them in data/promo_posted.json.
 Usage: python scripts/post_promo_queue.py [--count N] [--dry-run]
 Same secrets as post_bluesky.py. Posts are spaced 20 seconds apart. Every link in a post is made clickable."""
-import argparse, json, os, re, sys, time
+import argparse, json, os, re, sys, time, urllib.error
 from datetime import datetime, timezone
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -32,12 +32,21 @@ def main():
     handle, password = (os.environ.get(k, '').strip().lstrip('@') for k in ('BLUESKY_HANDLE', 'BLUESKY_APP_PASSWORD'))
     if not (handle and password):
         print('No Bluesky secrets.'); return 1
-    session = call('com.atproto.server.createSession', {'identifier': handle, 'password': password})
-    token, did = session['accessJwt'], session['did']
+    def login():
+        session = call('com.atproto.server.createSession', {'identifier': handle, 'password': password})
+        return session['accessJwt'], session['did']
+    token, did = login()
     for p in todo:
         record = {'$type': 'app.bsky.feed.post', 'text': p['bluesky'], 'langs': ['en'],
                   'createdAt': datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z'), 'facets': facets(p['bluesky'])}
-        result = call('com.atproto.repo.createRecord', {'repo': did, 'collection': 'app.bsky.feed.post', 'record': record}, token)
+        try:
+            result = call('com.atproto.repo.createRecord', {'repo': did, 'collection': 'app.bsky.feed.post', 'record': record}, token)
+        except urllib.error.HTTPError as exc:
+            print('Bluesky answered', exc.code, exc.read().decode('utf-8', 'replace')[:300])
+            if exc.code != 401:
+                raise
+            token, did = login()  # the sign-in token can expire mid-run; sign in again once
+            result = call('com.atproto.repo.createRecord', {'repo': did, 'collection': 'app.bsky.feed.post', 'record': record}, token)
         posted[p['id']] = result.get('uri', '')
         state_path.write_text(json.dumps(posted, indent=1), encoding='utf-8')
         print('Posted', p['id'])
