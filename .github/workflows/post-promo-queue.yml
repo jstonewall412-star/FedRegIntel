@@ -1,8 +1,6 @@
 name: Post promo queue
-# Posts the next entries of data/promo_queue.json to Bluesky: 8 a day at 11 a.m. Eastern, or a chosen number when run by hand.
+# Posts the next entries of data/promo_queue.json to Bluesky: a chosen number when run by hand. The daily schedule was removed after Bluesky flagged the account.
 on:
-  schedule:
-    - cron: '0 15 * * *'
   workflow_dispatch:
     inputs:
       count:
