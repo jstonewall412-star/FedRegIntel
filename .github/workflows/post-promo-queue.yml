@@ -1,0 +1,39 @@
+name: Post promo queue
+# Posts the next entries of data/promo_queue.json to Bluesky: 8 a day at 11 a.m. Eastern, or a chosen number when run by hand.
+on:
+  schedule:
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+    inputs:
+      count:
+        description: 'How many posts to send now'
+        default: '8'
+permissions:
+  contents: write
+concurrency:
+  group: promo-queue
+  cancel-in-progress: false
+jobs:
+  bluesky:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Post to Bluesky
+        env:
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: python scripts/post_promo_queue.py --count "${{ inputs.count || '8' }}"
+      - name: Record what was posted
+        if: always()
+        run: |
+          git config user.name 'FedReg Intel data updater'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/promo_posted.json 2>/dev/null || exit 0
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record promo posts'
+            git pull --rebase -X theirs origin main
+            git push origin HEAD:main
+          fi
