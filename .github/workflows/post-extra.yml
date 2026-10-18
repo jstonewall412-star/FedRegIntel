@@ -1,0 +1,17 @@
+name: Post extra promo posts
+# Manual only. Posts data/extra_posts.json to Bluesky using the same secrets as social.yml.
+on:
+  workflow_dispatch:
+jobs:
+  bluesky:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Post to Bluesky
+        env:
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: python scripts/post_extra_bluesky.py
