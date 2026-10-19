@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T00:13:50.840979+00:00",
+  "updated_at": "2026-10-19T07:59:27.224531+00:00",
   "latest_date": "2026-10-19",
   "issue_count": 36,
   "documents": [
@@ -3094,6 +3094,146 @@
       ]
     },
     {
+      "title": "National Environmental Policy Act Implementing Procedures",
+      "type": "Rule",
+      "abstract": "The United States Postal Service (USPS) is publishing this interim final rule with request for comments to partially rescind and update its remaining National Environmental Policy Act (NEPA) implementing procedures, which were promulgated to implement the now- rescinded Council on Environmental Quality (CEQ) regulations.",
+      "document_number": "2026-19720",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/25/2026-19720/national-environmental-policy-act-implementing-procedures",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-25/pdf/2026-19720.pdf",
+      "publication_date": "2026-09-25",
+      "agencies": [
+        {
+          "raw_name": "POSTAL SERVICE",
+          "name": "Postal Service",
+          "id": 410,
+          "url": "https://www.federalregister.gov/agencies/postal-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/410",
+          "parent_id": null,
+          "slug": "postal-service"
+        }
+      ],
+      "comments_close_on": "2026-10-26",
+      "comment_url": null,
+      "effective_on": "2026-09-25",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Air Plan Approval; Kentucky; Campbell-Clermont Area Maintenance Plan for the 2010 1-Hour SO2 NAAQS",
+      "type": "Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA or Agency) is approving a State Implementation Plan (SIP) revision submitted by the Commonwealth of Kentucky, through the Kentucky Division for Air Quality (DAQ), on February 20, 2025. The SIP revision includes the second 10- year maintenance plan for the Kentucky portion of the Campbell- Clermont, Kentucky-Ohio maintenance area (\"Campbell-Clermont, KY-OH Area\" or \"Area\") for the 2010 1-hour sulfur dioxide (SO<INF>2</INF>) National Ambient Air Quality Standards (NAAQS). The Kentucky portion of the Area is comprised of a part of Campbell County. The EPA is approving Kentucky's second 10-year maintenance plan for the Kentucky portion of the Area because the Commonwealth has demonstrated that it is consistent with the Clean Air Act (CAA or Act).",
+      "document_number": "2026-19668",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/25/2026-19668/air-plan-approval-kentucky-campbell-clermont-area-maintenance-plan-for-the-2010-1-hour-so2-naaqs",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-25/pdf/2026-19668.pdf",
+      "publication_date": "2026-09-25",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-10-26",
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R04-OAR-2025-0244-0006",
+      "effective_on": "2026-11-24",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Air Plan Approval; Kentucky; Campbell-Clermont Area Maintenance Plan for the 2010 1-Hour SO2 NAAQS",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA) is proposing to approve a State Implementation Plan (SIP) revision submitted by the Commonwealth of Kentucky on February 20, 2025, for the purpose of establishing a second 10-year maintenance plan for the Kentucky portion of the Campbell-Clermont, Kentucky-Ohio maintenance area for the 2010 1-hour sulfur dioxide National Ambient Air Quality Standards. The EPA is proposing to approve this SIP revision because the Commonwealth has demonstrated that it is consistent with the Clean Air Act.",
+      "document_number": "2026-19667",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/25/2026-19667/air-plan-approval-kentucky-campbell-clermont-area-maintenance-plan-for-the-2010-1-hour-so2-naaqs",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-25/pdf/2026-19667.pdf",
+      "publication_date": "2026-09-25",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-10-26",
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R04-OAR-2025-0244-0007",
+      "effective_on": null,
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Food Additives Permitted for Direct Addition to Food for Human Consumption; Vitamin D2 Inactive Bakers Yeast",
+      "type": "Rule",
+      "abstract": "The Food and Drug Administration (FDA or we) is amending the food additive regulations to provide for the safe use of vitamin D<INF>2</INF> inactive bakers yeast as a source of vitamin D<INF>2</INF> in specific food categories. We are taking this action in response to a food additive petition filed by Lallemand Inc. (Lallemand or petitioner).",
+      "document_number": "2026-19656",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/25/2026-19656/food-additives-permitted-for-direct-addition-to-food-for-human-consumption-vitamin-d2-inactive",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-25/pdf/2026-19656.pdf",
+      "publication_date": "2026-09-25",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "comments_close_on": "2026-10-26",
+      "comment_url": "http://www.regulations.gov/commenton/FDA-2021-F-1157-0003",
+      "effective_on": "2026-09-25",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Airworthiness Directives; Bombardier, Inc., Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA is revising a notice of proposed rulemaking (NPRM) that would have applied to certain Bombardier, Inc., Model BD-700-2A12 airplanes. This action revises the NPRM by citing new material required for the revision of the existing maintenance or inspection program. The FAA is proposing this airworthiness directive (AD) to address the unsafe condition on these products. Since these actions would impose an additional burden over those in the NPRM, the FAA is requesting comments on this SNPRM.",
+      "document_number": "2026-19561",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/24/2026-19561/airworthiness-directives-bombardier-inc-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-24/pdf/2026-19561.pdf",
+      "publication_date": "2026-09-24",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-10-26",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2025-2277-0011",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
+    },
+    {
       "title": "Public Water System Supervision Program Revision for the State of Arkansas",
       "type": "Proposed Rule",
       "abstract": "Notice is hereby given that the State of Arkansas is revising its approved Public Water System Supervision (PWSS) program. Arkansas has adopted the Environmental Protection Agency (EPA) drinking water rules for the Consumer Confidence Report Rule Revisions. Therefore, the EPA intends to approve this PWSS program revision package.",
@@ -3825,6 +3965,251 @@
       ]
     },
     {
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus SAS Model A300 B4-600, B4-600R, and F4-600R series airplanes; and Model A300 C4-605R Variant F airplanes (collectively called Model A300-600 series airplanes). This proposed AD was prompted by a determination that new or more restrictive airworthiness limitations are necessary. This proposed AD would require revising the existing maintenance or inspection program, as applicable, to incorporate new or more restrictive airworthiness limitations. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-18575",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/11/2026-18575/airworthiness-directives-airbus-sas-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-11/pdf/2026-18575.pdf",
+      "publication_date": "2026-09-11",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-10-26",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8806-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
+    },
+    {
+      "title": "Airworthiness Directives; Bell Textron Canada Limited Helicopters",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Bell Textron Canada Limited (Bell) Model 206L, 206L-1, 206L-3, and 206L-4 helicopters with FAA Supplemental Type Certificate (STC) SR02684LA installed. This proposed AD was prompted by an event where a Bell Model 206L helicopter with FAA STC SR02684LA installed experienced moderate to severe vertical vibration, which resulted in damage to the tail boom of the helicopter. This proposed AD would require revising the Limitations section of the existing rotorcraft flight manual (RFM) for the helicopter to include a never-exceed-speed (V<INF>NE</INF>) limitation and would require incorporating a rotorcraft flight manual supplement (RFMS) into the existing RFM. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-18522",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18522/airworthiness-directives-bell-textron-canada-limited-helicopters",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-10/pdf/2026-18522.pdf",
+      "publication_date": "2026-09-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-10-26",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8796-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
+    },
+    {
+      "title": "Airworthiness Directives; Dassault Aviation Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Dassault Aviation Model FALCON 7X, MYSTERE-FALCON 900, FALCON 900EX, FALCON 2000, and FALCON 2000EX airplanes. This proposed AD was prompted by reported occurrences of seats sliding without passenger input. The cabin seat track locking mechanism was found to jam in isolated conditions during taxi, take-off, and landing (TTOL). This proposed AD would require modifying or replacing each affected seat. This proposed AD would also prohibit the installation of affected seats. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-18520",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18520/airworthiness-directives-dassault-aviation-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-10/pdf/2026-18520.pdf",
+      "publication_date": "2026-09-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-10-26",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8801-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
+    },
+    {
+      "title": "Airworthiness Directives; Bell Textron Canada Limited Helicopters",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Bell Textron Canada Limited Model 505 helicopters. This proposed AD was prompted by a quality escape affecting certain tailcone assemblies. This proposed AD would require replacing any tailcone assembly that has exceeded a certain life limit. Also, this proposed AD would require inspecting the tailcone assembly for gaps, and repetitively inspecting the tailcone assembly for loose, damaged, or missing fasteners. Depending on the results of these inspections, this proposed AD would require conducting further inspections and corrective actions. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-18468",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18468/airworthiness-directives-bell-textron-canada-limited-helicopters",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-10/pdf/2026-18468.pdf",
+      "publication_date": "2026-09-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-10-26",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8798-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
+    },
+    {
+      "title": "Airworthiness Directives; Bombardier, Inc. Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Bombardier, Inc., Model BD-700-2A12 airplanes. This proposed AD was prompted by reports of fuel leakage near rib 6 during production pressure testing. An investigation found oversized holes in a certain outboard shear-tie. This proposed AD would require an inspection of the fasteners and fastener holes at rib 6 for discrepancies and applicable on-condition actions. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-18376",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/09/2026-18376/airworthiness-directives-bombardier-inc-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-09/pdf/2026-18376.pdf",
+      "publication_date": "2026-09-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-10-26",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8797-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
+    },
+    {
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Airbus SAS Model A350-941 and A350-1041 airplanes. This proposed AD was prompted by reports of failure of hydraulic engine driven pumps (EDPs) of the standard EDP-06. This proposed AD would require, depending on airplane configuration, modifying the hydraulic monitoring and control application (HMCA), accomplishing applicable concurrent requirements, revising the existing airplane flight manual (AFM), and replacing affected parts. This proposed AD would also prohibit the installation of affected parts and prohibit the installation of certain HMCA software. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-18375",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/09/2026-18375/airworthiness-directives-airbus-sas-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-09/pdf/2026-18375.pdf",
+      "publication_date": "2026-09-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-10-26",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8800-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
+    },
+    {
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2023-07-02, which applies to all Airbus SAS Model A330-200, -300, -800, and -900 series airplanes; and Model A340-200, -300, -500, and -600 series airplanes. AD 2023-07-02 requires replacing the doghouse door lock placard with an improved instruction placard. Since the FAA issued AD 2023-07-02, it was determined that additional parts need to be modified. This proposed AD would continue to require the actions in AD 2023-07-02 and would expand the list of affected parts. This proposed AD would also prohibit the installation of affected parts under certain conditions. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-18372",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/09/2026-18372/airworthiness-directives-airbus-sas-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-09/pdf/2026-18372.pdf",
+      "publication_date": "2026-09-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-10-26",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8799-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
+    },
+    {
       "title": "Establishment of Class E Airspace Over Lexington, VA",
       "type": "Proposed Rule",
       "abstract": "This action proposes to establish new Class E airspace over Lexington, VA. This airspace is necessary to support Instrument Flight Rules (IFR) operations, utilizing new Special Instrument Approach Procedures (SIAPs) serving Carilion Rockbridge Community Hospital Heliport.",
@@ -4093,6 +4478,41 @@
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
+      ]
+    },
+    {
+      "title": "Pro Rata Share of Subpart F Income, Tested Income, or Tested Loss",
+      "type": "Proposed Rule",
+      "abstract": "This document contains proposed regulations relating to the determination of a United States shareholder's pro rata share of subpart F income, tested income, or tested loss of a controlled foreign corporation. The proposed regulations would affect shareholders of foreign corporations, including United States shareholders of controlled foreign corporations.",
+      "document_number": "2026-17365",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/26/2026-17365/pro-rata-share-of-subpart-f-income-tested-income-or-tested-loss",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-26/pdf/2026-17365.pdf",
+      "publication_date": "2026-08-26",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "Internal Revenue Service",
+          "name": "Internal Revenue Service",
+          "id": 254,
+          "url": "https://www.federalregister.gov/agencies/internal-revenue-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/254",
+          "parent_id": 497,
+          "slug": "internal-revenue-service"
+        }
+      ],
+      "comments_close_on": "2026-10-26",
+      "comment_url": "http://www.regulations.gov/commenton/IRS-2026-1123-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1545-BR77"
       ]
     },
     {
