@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T07:59:27.224531+00:00",
+  "updated_at": "2026-10-19T19:05:03.908504+00:00",
   "latest_date": "2026-10-19",
   "issue_count": 36,
   "documents": [
@@ -56,7 +56,7 @@
         }
       ],
       "comments_close_on": "2026-12-03",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11814-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
@@ -82,7 +82,7 @@
         }
       ],
       "comments_close_on": "2026-11-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R10-OAR-2026-4291-0013",
       "effective_on": null,
       "regulation_id_numbers": []
     },
@@ -106,7 +106,7 @@
         }
       ],
       "comments_close_on": "2026-11-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/CFTC-2026-2213-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "3038-AF82"
@@ -132,7 +132,7 @@
         }
       ],
       "comments_close_on": null,
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/CFTC-2026-2214-0001",
       "effective_on": "2026-10-19",
       "regulation_id_numbers": [
         "3038-AF81"
@@ -287,7 +287,7 @@
         }
       ],
       "comments_close_on": "2026-12-03",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11813-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
@@ -679,7 +679,7 @@
         }
       ],
       "comments_close_on": "2026-11-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/USCG-2026-1162-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1625-AA00"
@@ -749,7 +749,7 @@
         }
       ],
       "comments_close_on": "2026-12-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NPS-2026-0232-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1024-AF12"
@@ -819,7 +819,7 @@
         }
       ],
       "comments_close_on": "2026-12-03",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11811-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
@@ -880,7 +880,7 @@
         }
       ],
       "comments_close_on": "2026-11-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R09-OAR-2024-0600-0017",
       "effective_on": null,
       "regulation_id_numbers": []
     },
@@ -904,7 +904,7 @@
         }
       ],
       "comments_close_on": "2026-11-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R09-OAR-2026-5119-0001",
       "effective_on": null,
       "regulation_id_numbers": []
     },
@@ -928,7 +928,7 @@
         }
       ],
       "comments_close_on": "2026-11-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R09-OAR-2026-5581-0001",
       "effective_on": null,
       "regulation_id_numbers": []
     },
@@ -2326,8 +2326,8 @@
           "slug": "nuclear-regulatory-commission"
         }
       ],
-      "comments_close_on": "2026-11-13",
-      "comment_url": "http://www.regulations.gov/commenton/NRC-2026-2377-0002",
+      "comments_close_on": null,
+      "comment_url": null,
       "effective_on": "2026-12-28",
       "regulation_id_numbers": [
         "3150-AL70"

@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-19T07:59:27.460128+00:00",
+  "updated_at": "2026-10-19T19:05:04.846249+00:00",
   "as_of": "2026-10-19",
-  "count": 224,
+  "count": 223,
   "documents": [
     {
       "title": "Airworthiness Directives; Airbus Helicopters",
@@ -32,14 +32,14 @@
         }
       ],
       "comments_close_on": "2026-12-03",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11814-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FAA-2026-11814"
     },
     {
       "title": "New Source Performance Standards and National Emission Standards for Hazardous Air Pollutants; Delegation of Authority to Northwest Clean Air Agency, Washington State",
@@ -61,12 +61,12 @@
         }
       ],
       "comments_close_on": "2026-11-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R10-OAR-2026-4291-0013",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "EPA-R10-OAR-2026-4291"
     },
     {
       "title": "Further Definition of “Swap”-Inclusions",
@@ -88,14 +88,14 @@
         }
       ],
       "comments_close_on": "2026-11-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/CFTC-2026-2213-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "3038-AF82"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "CFTC-2026-2213"
     },
     {
       "title": "Modernizing the Commission's National Environmental Policy Act Rules",
@@ -121,7 +121,7 @@
       "effective_on": "2026-11-18",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
+      "comments_count": 0,
       "docket_id": null
     },
     {
@@ -153,14 +153,14 @@
         }
       ],
       "comments_close_on": "2026-12-03",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11813-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FAA-2026-11813"
     },
     {
       "title": "Safety Zone; FRL Inaugural Invitational eFoil Exhibition Race, Miami Marine Stadium Basin, Miami, FL",
@@ -191,14 +191,14 @@
         }
       ],
       "comments_close_on": "2026-11-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/USCG-2026-1162-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1625-AA00"
       ],
       "significant": false,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "USCG-2026-1162"
     },
     {
       "title": "Gates of the Arctic National Park and Preserve; Use of Off-Road Vehicles for Subsistence Purposes by Residents of Anaktuvuk Pass",
@@ -229,14 +229,14 @@
         }
       ],
       "comments_close_on": "2026-12-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NPS-2026-0232-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1024-AF12"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "NPS-2026-0232"
     },
     {
       "title": "Airworthiness Directives; Pratt & Whitney RTX Corporation (Type Certificate Previously Held by Pratt & Whitney Division United Technologies Corporation) Engines",
@@ -267,14 +267,14 @@
         }
       ],
       "comments_close_on": "2026-12-03",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11811-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FAA-2026-11811"
     },
     {
       "title": "Air Quality Plan; Arizona; Agricultural Best Management Practices Rules for the West Pinal County PM10 Nonattainment Area",
@@ -296,12 +296,12 @@
         }
       ],
       "comments_close_on": "2026-11-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R09-OAR-2024-0600-0017",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "EPA-R09-OAR-2024-0600"
     },
     {
       "title": "Approval and Promulgation of Implementation Plans-Pinal County (Part); West Pinal, AZ PM10 Nonattainment Area; Moderate Area, Serious Area, and Section 189(d) Plan for Attainment of the 24-Hour PM10 Standard",
@@ -323,12 +323,12 @@
         }
       ],
       "comments_close_on": "2026-11-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R09-OAR-2026-5119-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "EPA-R09-OAR-2026-5119"
     },
     {
       "title": "Air Quality Plan; Arizona; Pinal County Air Quality Control District; West Pinal County PM10 Nonattainment Area; Fugitive Dust Rules",
@@ -350,12 +350,12 @@
         }
       ],
       "comments_close_on": "2026-11-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R09-OAR-2026-5581-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "EPA-R09-OAR-2026-5581"
     },
     {
       "title": "Television Broadcasting Services Des Moines, Iowa",
@@ -381,7 +381,7 @@
       "effective_on": "2026-11-18",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
+      "comments_count": 0,
       "docket_id": null
     },
     {
@@ -930,35 +930,6 @@
       ],
       "significant": null,
       "comments_count": 2,
-      "docket_id": "NRC-2026-2377"
-    },
-    {
-      "title": "AP1000 Design Certification Renewal",
-      "type": "Rule",
-      "abstract": "The U.S. Nuclear Regulatory Commission (NRC) is amending its regulations to renew the AP1000 design certification and incorporate Revision 20 of the AP1000 design control document. The purpose of this rulemaking action is to update the AP1000 design to be consistent with changes made to the design during the licensing, construction, and operation of Vogtle Electric Generating Plant, Units 3 and 4. This rulemaking incorporates AP1000 design control document Revision 20, which includes updates made to the AP1000 design to represent a current, construction-validated design. The NRC is also issuing an environmental assessment supporting this rule.",
-      "document_number": "2026-21030",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-21030/ap1000-design-certification-renewal",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-21030.pdf",
-      "publication_date": "2026-10-14",
-      "agencies": [
-        {
-          "raw_name": "NUCLEAR REGULATORY COMMISSION",
-          "name": "Nuclear Regulatory Commission",
-          "id": 383,
-          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
-          "parent_id": null,
-          "slug": "nuclear-regulatory-commission"
-        }
-      ],
-      "comments_close_on": "2026-11-13",
-      "comment_url": "http://www.regulations.gov/commenton/NRC-2026-2377-0002",
-      "effective_on": "2026-12-28",
-      "regulation_id_numbers": [
-        "3150-AL70"
-      ],
-      "significant": null,
-      "comments_count": 1,
       "docket_id": "NRC-2026-2377"
     },
     {

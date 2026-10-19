@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T07:59:27.460128+00:00",
+  "updated_at": "2026-10-19T19:05:04.846249+00:00",
   "count": 293,
   "documents": {
     "2026-11545": {
@@ -9722,7 +9722,7 @@
       "effective_on": "2026-11-18",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
+      "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-10-17"
     },
@@ -9746,12 +9746,12 @@
         }
       ],
       "comments_close_on": "2026-11-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R09-OAR-2026-5581-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "EPA-R09-OAR-2026-5581",
       "first_seen": "2026-10-17"
     },
     "2026-21289": {
@@ -9774,12 +9774,12 @@
         }
       ],
       "comments_close_on": "2026-11-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R09-OAR-2024-0600-0017",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "EPA-R09-OAR-2024-0600",
       "first_seen": "2026-10-17"
     },
     "2026-21300": {
@@ -9811,14 +9811,14 @@
         }
       ],
       "comments_close_on": "2026-12-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NPS-2026-0232-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1024-AF12"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "NPS-2026-0232",
       "first_seen": "2026-10-17"
     },
     "2026-21347": {
@@ -9845,7 +9845,7 @@
       "effective_on": "2026-11-18",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
+      "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-10-17"
     },
@@ -9869,14 +9869,14 @@
         }
       ],
       "comments_close_on": "2026-11-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/CFTC-2026-2213-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "3038-AF82"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "CFTC-2026-2213",
       "first_seen": "2026-10-17"
     },
     "2026-21383": {
@@ -9899,12 +9899,12 @@
         }
       ],
       "comments_close_on": "2026-11-18",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R10-OAR-2026-4291-0013",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "EPA-R10-OAR-2026-4291",
       "first_seen": "2026-10-17"
     }
   }
