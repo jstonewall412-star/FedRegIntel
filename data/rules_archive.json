@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T11:00:30.076311+00:00",
+  "updated_at": "2026-10-20T19:10:25.692615+00:00",
   "count": 299,
   "documents": {
     "2026-11545": {
@@ -101,7 +101,7 @@
         }
       ],
       "comments_close_on": "2026-10-22",
-      "comment_url": "http://www.regulations.gov/commenton/WCPO_FRDOC_0001-0440",
+      "comment_url": "http://www.regulations.gov/commenton/WCPO-2026-0694-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1240-AA20"
@@ -109,7 +109,7 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 10,
-      "docket_id": "WCPO_FRDOC_0001"
+      "docket_id": "WCPO-2026-0694"
     },
     "2026-13047": {
       "title": "Establishment Registration and Product Listing for Tobacco Products",
@@ -9217,14 +9217,14 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": "http://www.regulations.gov/commenton/ACF_FRDOC_0001-0172",
+      "comment_url": "http://www.regulations.gov/commenton/ACF-2026-0826-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "0970-AD50"
       ],
       "significant": null,
       "comments_count": 1,
-      "docket_id": "ACF_FRDOC_0001",
+      "docket_id": "ACF-2026-0826",
       "first_seen": "2026-10-14"
     },
     "2026-21030": {
@@ -9520,14 +9520,14 @@
         }
       ],
       "comments_close_on": "2026-12-14",
-      "comment_url": "http://www.regulations.gov/commenton/NCUA_FRDOC_0001-0539",
+      "comment_url": "http://www.regulations.gov/commenton/NCUA-2026-1889-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "3133-AF91"
       ],
       "significant": null,
       "comments_count": 1,
-      "docket_id": "NCUA_FRDOC_0001",
+      "docket_id": "NCUA-2026-1889",
       "first_seen": "2026-10-15"
     },
     "2026-21104": {
@@ -10001,14 +10001,14 @@
         }
       ],
       "comments_close_on": "2026-12-15",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/CMS-2026-3533-0002",
       "effective_on": null,
       "regulation_id_numbers": [
         "0938-AV88"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "CMS-2026-3533",
       "first_seen": "2026-10-20"
     },
     "2026-21433": {
@@ -10040,14 +10040,14 @@
         }
       ],
       "comments_close_on": "2026-12-21",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/APHIS-2023-0016-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "0579-AE83"
       ],
       "significant": false,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "APHIS-2023-0016",
       "first_seen": "2026-10-20"
     },
     "2026-21443": {
@@ -10085,7 +10085,7 @@
         "1902-AG43"
       ],
       "significant": null,
-      "comments_count": null,
+      "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-10-20"
     },
@@ -10115,7 +10115,7 @@
         "3235-AN83"
       ],
       "significant": null,
-      "comments_count": null,
+      "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-10-20"
     }

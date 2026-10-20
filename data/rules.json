@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T11:00:29.400277+00:00",
+  "updated_at": "2026-10-20T19:10:25.088290+00:00",
   "latest_date": "2026-10-20",
   "issue_count": 7,
   "documents": [
@@ -161,7 +161,7 @@
         }
       ],
       "comments_close_on": "2026-12-21",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/APHIS-2023-0016-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "0579-AE83"
@@ -231,7 +231,7 @@
         }
       ],
       "comments_close_on": "2026-12-15",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/CMS-2026-3533-0002",
       "effective_on": null,
       "regulation_id_numbers": [
         "0938-AV88"
@@ -2033,7 +2033,7 @@
         }
       ],
       "comments_close_on": "2026-12-14",
-      "comment_url": "http://www.regulations.gov/commenton/NCUA_FRDOC_0001-0539",
+      "comment_url": "http://www.regulations.gov/commenton/NCUA-2026-1889-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "3133-AF91"
@@ -2805,7 +2805,7 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": "http://www.regulations.gov/commenton/ACF_FRDOC_0001-0172",
+      "comment_url": "http://www.regulations.gov/commenton/ACF-2026-0826-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "0970-AD50"
@@ -4120,7 +4120,7 @@
         }
       ],
       "comments_close_on": "2026-10-22",
-      "comment_url": "http://www.regulations.gov/commenton/WCPO_FRDOC_0001-0440",
+      "comment_url": "http://www.regulations.gov/commenton/WCPO-2026-0694-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1240-AA20"
