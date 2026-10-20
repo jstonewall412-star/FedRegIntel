@@ -1,8 +1,242 @@
 {
-  "updated_at": "2026-10-20T00:02:58.835611+00:00",
-  "latest_date": "2026-10-19",
-  "issue_count": 36,
+  "updated_at": "2026-10-20T07:52:15.393083+00:00",
+  "latest_date": "2026-10-20",
+  "issue_count": 7,
   "documents": [
+    {
+      "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",
+      "type": "Proposed Rule",
+      "abstract": null,
+      "document_number": "C1-2026-20360",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/20/C1-2026-20360/interval-fund-modernization-expansion-of-multiple-share-class-to-registered-closed-end-management",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-20/pdf/C1-2026-20360.pdf",
+      "publication_date": "2026-10-20",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-04",
+      "comment_url": null,
+      "effective_on": "2026-10-05",
+      "regulation_id_numbers": [
+        "3235-AN83"
+      ]
+    },
+    {
+      "title": "Civil Penalties Inflation Adjustments; Annual Adjustments",
+      "type": "Rule",
+      "abstract": "This rule provides for annual adjustments to the level of civil monetary penalties contained in Bureau of Indian Affairs (Bureau) regulations to account for inflation under the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 and Office of Management and Budget (OMB) guidance.",
+      "document_number": "2026-21474",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/20/2026-21474/civil-penalties-inflation-adjustments-annual-adjustments",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-20/pdf/2026-21474.pdf",
+      "publication_date": "2026-10-20",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "Bureau of Indian Affairs",
+          "name": "Indian Affairs Bureau",
+          "id": 234,
+          "url": "https://www.federalregister.gov/agencies/indian-affairs-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/234",
+          "parent_id": 253,
+          "slug": "indian-affairs-bureau"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-20",
+      "regulation_id_numbers": [
+        "1076-AF81"
+      ]
+    },
+    {
+      "title": "Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the General Category October Through November Fishery for 2026",
+      "type": "Rule",
+      "abstract": "NMFS closes the General category fishery for Atlantic bluefin tuna (BFT) for the remainder of the October through November time period. The General category may only retain, possess, or land large medium and giant (i.e., measuring 73 inches (185 centimeters (cm) curved fork length (CFL) or greater) BFT when the fishery is open. This action also waives the previously scheduled restricted-fishing days (RFDs) for the remainder of the October through November time period. With the RFDs waived during the closure, fishermen aboard General category permitted vessels and HMS Charter/Headboat permitted vessels may tag and release BFT of all sizes, subject to the requirements of the catch-and-release and tag-and-release programs. On December 1, 2026, the fishery will reopen automatically.",
+      "document_number": "2026-21450",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/20/2026-21450/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-general-category",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-20/pdf/2026-21450.pdf",
+      "publication_date": "2026-10-20",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-17",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Authorizations for Certain Activities at Liquefied Natural Gas Plants",
+      "type": "Proposed Rule",
+      "abstract": "The Federal Energy Regulatory Commission proposes to revise its regulations to establish procedures for authorizing activities at liquefied natural gas plants without case-specific authorization orders under sections 3 or 7 of the Natural Gas Act.",
+      "document_number": "2026-21443",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/20/2026-21443/authorizations-for-certain-activities-at-liquefied-natural-gas-plants",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-20/pdf/2026-21443.pdf",
+      "publication_date": "2026-10-20",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF ENERGY",
+          "name": "Energy Department",
+          "id": 136,
+          "url": "https://www.federalregister.gov/agencies/energy-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
+          "parent_id": null,
+          "slug": "energy-department"
+        },
+        {
+          "raw_name": "Federal Energy Regulatory Commission",
+          "name": "Federal Energy Regulatory Commission",
+          "id": 167,
+          "url": "https://www.federalregister.gov/agencies/federal-energy-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/167",
+          "parent_id": 136,
+          "slug": "federal-energy-regulatory-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-21",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1902-AG43"
+      ]
+    },
+    {
+      "title": "Minimum Maturation Temperature for Beef and Ovine Meat From Regions Affected With Foot-and-Mouth Disease",
+      "type": "Proposed Rule",
+      "abstract": "We are proposing to amend the regulations regarding the minimum maturation temperature for fresh (chilled or frozen) boneless beef and ovine meat from certain listed regions or countries affected with foot-and-mouth disease (FMD) from 4 [deg]C to 2 [deg]C. All other existing mitigations for the importation of beef from regions or countries affected with FMD would remain unchanged. This action is needed to align the regulations with the World Organization for Animal Health's standards for FMD minimum maturation temperatures, while continuing to protect the United States against the introduction of FMD.",
+      "document_number": "2026-21433",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/20/2026-21433/minimum-maturation-temperature-for-beef-and-ovine-meat-from-regions-affected-with-foot-and-mouth",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-20/pdf/2026-21433.pdf",
+      "publication_date": "2026-10-20",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "comments_close_on": "2026-12-21",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0579-AE83"
+      ]
+    },
+    {
+      "title": "Airspace Designations; Incorporation by Reference Amendment of FAA Order JO 7400.11M",
+      "type": "Rule",
+      "abstract": "This action administratively corrects identified final rules published by FAA in the Federal Register between May and September 2026 so that certain published airspace designation amendments are transferred to the most-current revision of FAA Order JO 7400.11, which is incorporated by reference.",
+      "document_number": "2026-21422",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/20/2026-21422/airspace-designations-incorporation-by-reference-amendment-of-faa-order-jo-740011m",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-20/pdf/2026-21422.pdf",
+      "publication_date": "2026-10-20",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-20",
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ]
+    },
+    {
+      "title": "Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026",
+      "type": "Proposed Rule",
+      "abstract": "This proposed rule would implement section 6219 (Adjustments to Medicare Part D Cost-Sharing Reductions for Low-Income Individuals), section 6220 (Requiring Enhanced and Accurate Lists of (REAL) Health Providers Act), and section 6224 (Modernizing and Ensuring Pharmacy Benefit Manager Accountability) of the Consolidated Appropriations Act, 2026.",
+      "document_number": "2026-21420",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/20/2026-21420/medicare-program-implementation-of-sections-6219-6220-and-6224-of-the-consolidated-appropriations",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-20/pdf/2026-21420.pdf",
+      "publication_date": "2026-10-20",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Centers for Medicare & Medicaid Services",
+          "name": "Centers for Medicare & Medicaid Services",
+          "id": 45,
+          "url": "https://www.federalregister.gov/agencies/centers-for-medicare-medicaid-services",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/45",
+          "parent_id": 221,
+          "slug": "centers-for-medicare-medicaid-services"
+        }
+      ],
+      "comments_close_on": "2026-12-15",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0938-AV88"
+      ]
+    },
     {
       "title": "Fee Schedules; Fee Recovery for Fiscal Year 2026",
       "type": "Rule",
@@ -2842,223 +3076,6 @@
       "regulation_id_numbers": []
     },
     {
-      "title": "Schedules of Controlled Substances: Temporary Placement of MGM-15 and MGM-16 in Schedule I",
-      "type": "Proposed Rule",
-      "abstract": "The Drug Enforcement Administration (DEA) is issuing this notice of intent to publish a temporary order to schedule two 7- hydroxymitragynine-related substances (MGM-15 and MGM-16), including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible, in schedule I of the Controlled Substances Act (CSA). On August 26, 2026, DEA published a temporary order placing mitragynine pseudoindoxyl, MGM-15, and MGM-16 in schedule I of the CSA. Today, DEA is providing notice of its intent to publish a new temporary order for MGM-15 and MGM-16 that will maintain the temporary placement of these substances in schedule I of the CSA without change. Separately in this Federal Register, DEA is publishing a notice of intent relating to mitragynine pseudoindoxyl, in response to a letter sent by the Department of Health and Human Services (HHS) dated October 6, 2026. HHS's letter related only to mitragynine pseudoindoxyl. Therefore, DEA is publishing this notice of intent only for the technical and procedural purpose of distinguishing MGM-15 and MGM-16 from mitragynine pseudoindoxyl. When issued, the temporary scheduling order addressing MGM-15 and MGM-16 will continue to impose the regulatory controls and administrative, civil, and criminal sanctions applicable to schedule I controlled substances on persons who handle (manufacture, distribute, reverse distribute, import, export, engage in research, conduct instructional activities or chemical analysis with, or possess) or propose to handle these two 7-hydroxymitragynine-related substances. The August 26, 2026 temporary order placing these substances in schedule I of the CSA remains in effect until either it expires or the new temporary order is published and the previous order is withdrawn, whichever occurs first.",
-      "document_number": "2026-20942",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20942/schedules-of-controlled-substances-temporary-placement-of-mgm-15-and-mgm-16-in-schedule-i",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20942.pdf",
-      "publication_date": "2026-10-14",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF JUSTICE",
-          "name": "Justice Department",
-          "id": 268,
-          "url": "https://www.federalregister.gov/agencies/justice-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/268",
-          "parent_id": null,
-          "slug": "justice-department"
-        },
-        {
-          "raw_name": "Drug Enforcement Administration",
-          "name": "Drug Enforcement Administration",
-          "id": 116,
-          "url": "https://www.federalregister.gov/agencies/drug-enforcement-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/116",
-          "parent_id": 268,
-          "slug": "drug-enforcement-administration"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Removing Deference to Prior USCIS Determinations of Eligibility",
-      "type": "Proposed Rule",
-      "abstract": "The U.S. Department of Homeland Security (DHS), U.S. Citizenship and Immigration Services (USCIS), proposes to remove 8 CFR 214.1(c)(5), which generally provides that USCIS gives deference to a prior approval involving the same facts when adjudicating a request to extend a petition for an alien's employment or stay. This change would better align DHS regulations with the statute, which places the burden of proving eligibility for all immigration benefits on the petitioner, applicant, or beneficiary; strengthen adjudicatory review; and support agency priorities to improve the integrity of the immigration system and better protect the interests of U.S. workers.",
-      "document_number": "2026-20941",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20941/removing-deference-to-prior-uscis-determinations-of-eligibility",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20941.pdf",
-      "publication_date": "2026-10-14",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        }
-      ],
-      "comments_close_on": "2026-11-13",
-      "comment_url": "http://www.regulations.gov/commenton/USCIS-2026-0529-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1615-AD26"
-      ]
-    },
-    {
-      "title": "Airworthiness Directives; Leonardo S.p.A. Helicopters",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2024-18-01, which applies to Leonardo S.p.A. Model A119 and AW119 MKII helicopters. AD 2024-18-01 requires repetitive inspections of certain collective stick torque tube assemblies for deficiencies and corrective action, as applicable. Since the FAA issued AD 2024-18-01, an improved collective stick torque tube assembly was designed, and replacement instructions were issued. This proposed AD would require repetitive inspections of certain collective stick torque tube assemblies and, depending on the results of the inspection, replacement of affected parts. This proposed AD would also require modification of the helicopter through replacement of an affected part with a serviceable part, which would constitute terminating action for the repetitive inspections. This proposed AD would also prohibit installation of an affected part on any helicopter. The FAA is proposing this airworthiness directive (AD) to address the unsafe condition on these products.",
-      "document_number": "2026-20930",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20930/airworthiness-directives-leonardo-spa-helicopters",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20930.pdf",
-      "publication_date": "2026-10-14",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-30",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11807-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ]
-    },
-    {
-      "title": "Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL",
-      "type": "Rule",
-      "abstract": "The Coast Guard will enforce a safety zone on the South Branch of the Chicago River, between mile marker 325.4 and 325.5, for the assembly of the Lake Street Bridge for the Chicago Department of Transportation bridge repair. During the enforcement period, entry into, transiting, mooring, laying-up, or anchoring within the safety zone is prohibited unless authorized by the Captain of the Port Lake Michigan or a designated on-scene representative.",
-      "document_number": "2026-20902",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20902/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20902.pdf",
-      "publication_date": "2026-10-13",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        },
-        {
-          "raw_name": "Coast Guard",
-          "name": "Coast Guard",
-          "id": 53,
-          "url": "https://www.federalregister.gov/agencies/coast-guard",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
-          "parent_id": 227,
-          "slug": "coast-guard"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL",
-      "type": "Rule",
-      "abstract": "The Coast Guard will enforce a moving safety zone on the South Branch of the Chicago River between the Lake Street Bridge at mile marker 325.5 and South Damen Avenue at mile marker 321 for the floating down of the bridge leaf for the Chicago Department of Transportation Bridge repair. During the enforcement period, entry into, transiting, mooring, laying-up, or anchoring within the safety zone is prohibited unless authorized by the Captain of the Port Lake Michigan or a designated on-scene representative.",
-      "document_number": "2026-20901",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20901/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20901.pdf",
-      "publication_date": "2026-10-13",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        },
-        {
-          "raw_name": "Coast Guard",
-          "name": "Coast Guard",
-          "id": 53,
-          "url": "https://www.federalregister.gov/agencies/coast-guard",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
-          "parent_id": 227,
-          "slug": "coast-guard"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Safety Zone; Brandon Road Lock and Dam to Lake Michigan Including Des Plaines River, Chicago Sanitary and Ship Canal, Chicago River, and Calumet-Saganashkee Channel, Chicago, IL",
-      "type": "Rule",
-      "abstract": "The Coast Guard will enforce a safety zone on the South Branch of the Chicago River between mile markers 325.5 and 325.4 for the demolition of the Lake Street Bridge for the Chicago Department of Transportation bridge repair. During the enforcement period, entry into, transiting, mooring, laying-up, or anchoring within the safety zone is prohibited unless authorized by the Captain of the Port Lake Michigan or a designated on-scene representative.",
-      "document_number": "2026-20900",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20900/safety-zone-brandon-road-lock-and-dam-to-lake-michigan-including-des-plaines-river-chicago-sanitary",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20900.pdf",
-      "publication_date": "2026-10-13",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        },
-        {
-          "raw_name": "Coast Guard",
-          "name": "Coast Guard",
-          "id": 53,
-          "url": "https://www.federalregister.gov/agencies/coast-guard",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
-          "parent_id": 227,
-          "slug": "coast-guard"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Petition for Reconsideration of Action in Rulemaking Proceeding",
-      "type": "Proposed Rule",
-      "abstract": "Petition for Reconsideration (Petition) has been filed in the Commission's proceeding by Thomas Goode on behalf of the Alliance for Telecommunications Industry Solutions.",
-      "document_number": "2026-20895",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20895/petition-for-reconsideration-of-action-in-rulemaking-proceeding",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20895.pdf",
-      "publication_date": "2026-10-13",
-      "agencies": [
-        {
-          "raw_name": "FEDERAL COMMUNICATIONS COMMISSION",
-          "name": "Federal Communications Commission",
-          "id": 161,
-          "url": "https://www.federalregister.gov/agencies/federal-communications-commission",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/161",
-          "parent_id": null,
-          "slug": "federal-communications-commission"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": []
-    },
-    {
       "title": "Safety Zone; Red Bull Flugtag, Intercoastal Waterway, Biscayne Bay, Miami, FL",
       "type": "Proposed Rule",
       "abstract": "The Coast Guard is proposing to establish a temporary safety zone for certain navigable waters on the Intercoastal Waterway portion of Biscayne Bay in Miami, FL. The safety zone is needed to protect spectators, vessels, and the marine environment from potential hazards associated with event proceedings. This proposed rulemaking would prohibit persons and vessels from being in the safety zone unless specifically authorized by the Captain of the Port, Sector Miami. We invite your comments on this proposed rulemaking.",
@@ -3577,394 +3594,6 @@
       ]
     },
     {
-      "title": "Federal Acquisition Regulation: Revolutionary FAR Overhaul Parts 8, 12, 13, 15, 38, 44, and 51",
-      "type": "Proposed Rule",
-      "abstract": "OFPP, DoD, GSA, and NASA (collectively referred to as the Federal Acquisition Regulatory Council or FAR Council) are proposing to amend the Federal Acquisition Regulation (FAR) to implement Executive Order (E.O.) 14275, Restoring Common Sense to Federal Procurement. The E.O. directs the elimination of excessive acquisition regulations to stop the inefficient use of American taxpayer dollars. The FAR Council is issuing twelve proposed rules that collectively will streamline the FAR in its entirety. This rule proposes revisions to FAR parts 8, 12, 13, 15, 38, 44, 51, and 52.",
-      "document_number": "2026-19162",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/18/2026-19162/federal-acquisition-regulation-revolutionary-far-overhaul-parts-8-12-13-15-38-44-and-51",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-18/pdf/2026-19162.pdf",
-      "publication_date": "2026-09-18",
-      "agencies": [
-        {
-          "raw_name": "OFFICE OF MANAGEMENT AND BUDGET",
-          "name": "Management and Budget Office",
-          "id": 280,
-          "url": "https://www.federalregister.gov/agencies/management-and-budget-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/280",
-          "parent_id": null,
-          "slug": "management-and-budget-office"
-        },
-        {
-          "raw_name": "Office of Federal Procurement Policy",
-          "name": "Federal Procurement Policy Office",
-          "id": 184,
-          "url": "https://www.federalregister.gov/agencies/federal-procurement-policy-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/184",
-          "parent_id": 280,
-          "slug": "federal-procurement-policy-office"
-        },
-        {
-          "raw_name": "DEPARTMENT OF DEFENSE",
-          "name": "Defense Department",
-          "id": 103,
-          "url": "https://www.federalregister.gov/agencies/defense-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/103",
-          "parent_id": null,
-          "slug": "defense-department"
-        },
-        {
-          "raw_name": "GENERAL SERVICES ADMINISTRATION",
-          "name": "General Services Administration",
-          "id": 210,
-          "url": "https://www.federalregister.gov/agencies/general-services-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/210",
-          "parent_id": null,
-          "slug": "general-services-administration"
-        },
-        {
-          "raw_name": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
-          "name": "National Aeronautics and Space Administration",
-          "id": 301,
-          "url": "https://www.federalregister.gov/agencies/national-aeronautics-and-space-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/301",
-          "parent_id": null,
-          "slug": "national-aeronautics-and-space-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/FAR-2026-0003-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "9000-AO88"
-      ]
-    },
-    {
-      "title": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 16, 17, and 35",
-      "type": "Proposed Rule",
-      "abstract": "OFPP, DoD, GSA, and NASA (collectively referred to as the Federal Acquisition Regulatory Council or FAR Council) are proposing to amend the Federal Acquisition Regulation (FAR) to implement Executive Order (E.O.) 14275, Restoring Common Sense to Federal Procurement. The E.O. directs the elimination of excessive acquisition regulations to stop the inefficient use of American taxpayer dollars. The FAR Council is issuing twelve proposed rules that collectively, if finalized, would streamline the FAR in its entirety. This rule proposes revisions to FAR part 16, Types of Contracts, part 17, Special Contracting Methods, part 35, Research and Development Contracting, and part 52, Solicitation Provisions and Contract Clauses.",
-      "document_number": "2026-19160",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/18/2026-19160/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-16-17-and",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-18/pdf/2026-19160.pdf",
-      "publication_date": "2026-09-18",
-      "agencies": [
-        {
-          "raw_name": "OFFICE OF MANAGEMENT AND BUDGET",
-          "name": "Management and Budget Office",
-          "id": 280,
-          "url": "https://www.federalregister.gov/agencies/management-and-budget-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/280",
-          "parent_id": null,
-          "slug": "management-and-budget-office"
-        },
-        {
-          "raw_name": "Office of Federal Procurement Policy",
-          "name": "Federal Procurement Policy Office",
-          "id": 184,
-          "url": "https://www.federalregister.gov/agencies/federal-procurement-policy-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/184",
-          "parent_id": 280,
-          "slug": "federal-procurement-policy-office"
-        },
-        {
-          "raw_name": "DEPARTMENT OF DEFENSE",
-          "name": "Defense Department",
-          "id": 103,
-          "url": "https://www.federalregister.gov/agencies/defense-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/103",
-          "parent_id": null,
-          "slug": "defense-department"
-        },
-        {
-          "raw_name": "GENERAL SERVICES ADMINISTRATION",
-          "name": "General Services Administration",
-          "id": 210,
-          "url": "https://www.federalregister.gov/agencies/general-services-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/210",
-          "parent_id": null,
-          "slug": "general-services-administration"
-        },
-        {
-          "raw_name": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
-          "name": "National Aeronautics and Space Administration",
-          "id": 301,
-          "url": "https://www.federalregister.gov/agencies/national-aeronautics-and-space-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/301",
-          "parent_id": null,
-          "slug": "national-aeronautics-and-space-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/FAR-2026-0006-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "9000-AO91"
-      ]
-    },
-    {
-      "title": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 9, 27, and 47",
-      "type": "Proposed Rule",
-      "abstract": "OFPP, DoD, GSA, and NASA (collectively referred to as the Federal Acquisition Regulatory Council or FAR Council) are proposing to amend the Federal Acquisition Regulation (FAR) to implement Executive Order (E.O.) 14275, Restoring Common Sense to Federal Procurement. The E.O. directs the elimination of excessive acquisition regulations to stop the inefficient use of American taxpayer dollars. The FAR Council is issuing twelve proposed rules that collectively, if finalized, would streamline the FAR in its entirety. This rule proposes revisions to FAR parts 9, 27, 47, and 52.",
-      "document_number": "2026-19159",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/18/2026-19159/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-9-27-and",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-18/pdf/2026-19159.pdf",
-      "publication_date": "2026-09-18",
-      "agencies": [
-        {
-          "raw_name": "OFFICE OF MANAGEMENT AND BUDGET",
-          "name": "Management and Budget Office",
-          "id": 280,
-          "url": "https://www.federalregister.gov/agencies/management-and-budget-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/280",
-          "parent_id": null,
-          "slug": "management-and-budget-office"
-        },
-        {
-          "raw_name": "Office of Federal Procurement Policy",
-          "name": "Federal Procurement Policy Office",
-          "id": 184,
-          "url": "https://www.federalregister.gov/agencies/federal-procurement-policy-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/184",
-          "parent_id": 280,
-          "slug": "federal-procurement-policy-office"
-        },
-        {
-          "raw_name": "DEPARTMENT OF DEFENSE",
-          "name": "Defense Department",
-          "id": 103,
-          "url": "https://www.federalregister.gov/agencies/defense-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/103",
-          "parent_id": null,
-          "slug": "defense-department"
-        },
-        {
-          "raw_name": "GENERAL SERVICES ADMINISTRATION",
-          "name": "General Services Administration",
-          "id": 210,
-          "url": "https://www.federalregister.gov/agencies/general-services-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/210",
-          "parent_id": null,
-          "slug": "general-services-administration"
-        },
-        {
-          "raw_name": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
-          "name": "National Aeronautics and Space Administration",
-          "id": 301,
-          "url": "https://www.federalregister.gov/agencies/national-aeronautics-and-space-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/301",
-          "parent_id": null,
-          "slug": "national-aeronautics-and-space-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/FAR-2026-0011-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "9000-AO84"
-      ]
-    },
-    {
-      "title": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 14, 28, 36, and 52",
-      "type": "Proposed Rule",
-      "abstract": "OFPP, DoD, GSA, and NASA (collectively referred to as the Federal Acquisition Regulatory Council or FAR Council) are proposing to amend the Federal Acquisition Regulation (FAR) to implement Executive Order (E.O.) 14275, Restoring Common Sense to Federal Procurement. The E.O. directs the elimination of excessive acquisition regulations to stop the inefficient use of American taxpayer dollars. The FAR Council is issuing twelve proposed rules that collectively will streamline the FAR in its entirety. This rule proposes revisions to FAR parts 14, 28, 36, and 52.",
-      "document_number": "2026-19158",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/18/2026-19158/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-14-28-36",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-18/pdf/2026-19158.pdf",
-      "publication_date": "2026-09-18",
-      "agencies": [
-        {
-          "raw_name": "OFFICE OF MANAGEMENT AND BUDGET",
-          "name": "Management and Budget Office",
-          "id": 280,
-          "url": "https://www.federalregister.gov/agencies/management-and-budget-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/280",
-          "parent_id": null,
-          "slug": "management-and-budget-office"
-        },
-        {
-          "raw_name": "Office of Federal Procurement Policy",
-          "name": "Federal Procurement Policy Office",
-          "id": 184,
-          "url": "https://www.federalregister.gov/agencies/federal-procurement-policy-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/184",
-          "parent_id": 280,
-          "slug": "federal-procurement-policy-office"
-        },
-        {
-          "raw_name": "DEPARTMENT OF DEFENSE",
-          "name": "Defense Department",
-          "id": 103,
-          "url": "https://www.federalregister.gov/agencies/defense-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/103",
-          "parent_id": null,
-          "slug": "defense-department"
-        },
-        {
-          "raw_name": "GENERAL SERVICES ADMINISTRATION",
-          "name": "General Services Administration",
-          "id": 210,
-          "url": "https://www.federalregister.gov/agencies/general-services-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/210",
-          "parent_id": null,
-          "slug": "general-services-administration"
-        },
-        {
-          "raw_name": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
-          "name": "National Aeronautics and Space Administration",
-          "id": 301,
-          "url": "https://www.federalregister.gov/agencies/national-aeronautics-and-space-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/301",
-          "parent_id": null,
-          "slug": "national-aeronautics-and-space-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/FAR-2026-0010-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "9000-AO83"
-      ]
-    },
-    {
-      "title": "Airworthiness Directives; Pratt & Whitney Engines",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Pratt & Whitney (PW) Model PW1519G, PW1521G, PW1521GA, PW1521G- 3, PW1524G, PW1524G-3, PW1525G, PW1525G-3, PW1919G, PW1919G-RC, PW1921G, PW1921G-RC, PW1922G, PW1923G, and PW1923G-A engines with a certain high-pressure compressor (HPC) module installed. This proposed AD was prompted by six reports of clashing found on either the HPC 2nd stage rotor or 3rd stage rotor caused by contact with the corresponding HPC variable stator vanes (VSV). This proposed AD would require initial and repetitive borescope inspections (BSIs) of the HPC 1st stage, 2nd stage, and 3rd stage rotor rear rim surfaces for evidence of wear, scratching, or contact with the corresponding HPC VSV inner locating ring and, depending on the results, removal from service and replacement. This proposed AD would also require replacement of the HPC VSV bushing set as terminating action to the initial and repetitive BSIs of the HPC 1st stage, 2nd stage, and 3rd stage rotor rear rim surfaces. The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-19094",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/17/2026-19094/airworthiness-directives-pratt-and-whitney-engines",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-17/pdf/2026-19094.pdf",
-      "publication_date": "2026-09-17",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8816-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ]
-    },
-    {
-      "title": "Drawbridge Operation Regulation; Connecticut River, East Haddam, CT",
-      "type": "Proposed Rule",
-      "abstract": "The Coast Guard proposes to modify the operating schedule that governs the Route 82 Bridge across Connecticut River, mile 16.8, at East Haddam, CT. The bridge owner, Connecticut Department of Transportation (CTDOT), submitted a request on July 10, 2026, to remove the opening restrictions currently in place for November 1 through April 30 and allow the bridge to provide consistent bridge operations throughout the year. We invite your comments on this proposed rulemaking.",
-      "document_number": "2026-19059",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/17/2026-19059/drawbridge-operation-regulation-connecticut-river-east-haddam-ct",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-17/pdf/2026-19059.pdf",
-      "publication_date": "2026-09-17",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        },
-        {
-          "raw_name": "Coast Guard",
-          "name": "Coast Guard",
-          "id": 53,
-          "url": "https://www.federalregister.gov/agencies/coast-guard",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
-          "parent_id": 227,
-          "slug": "coast-guard"
-        }
-      ],
-      "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/USCG-2026-0960-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1625-AA09"
-      ]
-    },
-    {
-      "title": "Drawbridge Operation Regulation; Niantic River, Between Waterford and Niantic, CT",
-      "type": "Proposed Rule",
-      "abstract": "The Coast Guard proposes to modify the operating schedule that governs the Route 156 Bridge across Niantic River, mile 0.1, between Waterford and Niantic, CT. The bridge owner, Connecticut Department of Transportation (CTDOT), submitted a request on July 10, 2026, to remove the opening restrictions currently in place for November 1 through April 30 and allow the bridge to provide consistent bridge operations throughout the year. We invite your comments on this proposed rulemaking.",
-      "document_number": "2026-19058",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/17/2026-19058/drawbridge-operation-regulation-niantic-river-between-waterford-and-niantic-ct",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-17/pdf/2026-19058.pdf",
-      "publication_date": "2026-09-17",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        },
-        {
-          "raw_name": "Coast Guard",
-          "name": "Coast Guard",
-          "id": 53,
-          "url": "https://www.federalregister.gov/agencies/coast-guard",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
-          "parent_id": 227,
-          "slug": "coast-guard"
-        }
-      ],
-      "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/USCG-2026-0961-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1625-AA09"
-      ]
-    },
-    {
-      "title": "Drawbridge Operation Regulation; Mystic River, Mystic, CT",
-      "type": "Proposed Rule",
-      "abstract": "The Coast Guard proposes to modify the operating schedule that governs the Route 1 Bridge across Mystic River, mile 2.8, at Mystic, CT. The bridge owner, Connecticut Department of Transportation (CTDOT), submitted a request on July 10, 2026, to remove the opening restrictions currently in place from November 1 through April 30 and allow the bridge to provide consistent bridge operations throughout the year. We invite your comments on this proposed rulemaking.",
-      "document_number": "2026-19057",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/17/2026-19057/drawbridge-operation-regulation-mystic-river-mystic-ct",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-17/pdf/2026-19057.pdf",
-      "publication_date": "2026-09-17",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        },
-        {
-          "raw_name": "Coast Guard",
-          "name": "Coast Guard",
-          "id": 53,
-          "url": "https://www.federalregister.gov/agencies/coast-guard",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
-          "parent_id": 227,
-          "slug": "coast-guard"
-        }
-      ],
-      "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/USCG-2026-0962-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1625-AA09"
-      ]
-    },
-    {
       "title": "Airworthiness Directives; Airbus SAS Airplanes",
       "type": "Proposed Rule",
       "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus SAS Model A300 B4-600, B4-600R, and F4-600R series airplanes; and Model A300 C4-605R Variant F airplanes (collectively called Model A300-600 series airplanes). This proposed AD was prompted by a determination that new or more restrictive airworthiness limitations are necessary. This proposed AD would require revising the existing maintenance or inspection program, as applicable, to incorporate new or more restrictive airworthiness limitations. The FAA is proposing this AD to address the unsafe condition on these products.",
@@ -4210,144 +3839,39 @@
       ]
     },
     {
-      "title": "Establishment of Class E Airspace Over Lexington, VA",
+      "title": "Passports: Expanding Online Passport Renewal Overseas",
       "type": "Proposed Rule",
-      "abstract": "This action proposes to establish new Class E airspace over Lexington, VA. This airspace is necessary to support Instrument Flight Rules (IFR) operations, utilizing new Special Instrument Approach Procedures (SIAPs) serving Carilion Rockbridge Community Hospital Heliport.",
-      "document_number": "2026-18145",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/04/2026-18145/establishment-of-class-e-airspace-over-lexington-va",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/2026-18145.pdf",
-      "publication_date": "2026-09-04",
+      "abstract": "The Department proposes to amend 22 CFR 51.21 by consolidating requirements for persons applying by mail and online in the United States and overseas. This proposed change includes expanding online passport application availability to qualified applicants located in foreign countries. In addition, the Department is proposing to remove the requirement that an applicant's most recently issued passport must have a year or less of remaining validity to qualify to submit an online passport application. Finally, the Department is proposing technical corrections to 51.8(b) to change \"on-line\" to read \"online\" for consistency.",
+      "document_number": "2026-17655",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17655/passports-expanding-online-passport-renewal-overseas",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-28/pdf/2026-17655.pdf",
+      "publication_date": "2026-08-28",
       "agencies": [
         {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "raw_name": "DEPARTMENT OF STATE",
+          "name": "State Department",
+          "id": 476,
+          "url": "https://www.federalregister.gov/agencies/state-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/476",
           "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
+          "slug": "state-department"
         }
       ],
-      "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-10544-0001",
+      "comments_close_on": "2026-10-27",
+      "comment_url": "http://www.regulations.gov/commenton/DOS-2026-0925-0001",
       "effective_on": null,
       "regulation_id_numbers": [
-        "2120-AA66"
+        "1400-AF97"
       ]
     },
     {
-      "title": "Establishment of Class E Airspace Over Hardy, VA",
-      "type": "Proposed Rule",
-      "abstract": "This action proposes to establish new Class E airspace over Hardy, VA. This airspace is necessary to support Instrument Flight Rules (IFR) operations, utilizing new Special Instrument Approach Procedures (SIAPs) serving Carilion Westlake Center Heliport.",
-      "document_number": "2026-18144",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/04/2026-18144/establishment-of-class-e-airspace-over-hardy-va",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/2026-18144.pdf",
-      "publication_date": "2026-09-04",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-10543-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA66"
-      ]
-    },
-    {
-      "title": "Updates to the National Pollutant Discharge Elimination System Definitions and Exclusions",
-      "type": "Proposed Rule",
-      "abstract": "The U.S. Environmental Protection Agency (EPA) proposes to revise a regulatory definition under the Clean Water Act (CWA) permitting regulations pertaining to discharges in the contiguous zone and ocean. The proposal would revise the regulatory definition of \"discharge of a pollutant\" to reflect and faithfully implement the statutory exclusion of vessels and other floating craft that add pollutants in the contiguous zone or the ocean from inclusion in the definition of \"discharge of a pollutant\" or \"discharge\", and thus, from National Pollutant Discharge Elimination System (NPDES) program requirements. The proposed rulemaking would also make conforming and clarifying changes to the NPDES regulatory exclusion for vessels and other floating craft. The effect of these changes would be that the addition of pollutants by a vessel or other floating craft in the contiguous zone or the ocean that is not secured to the seabed would not be a discharge and would not require CWA NPDES permit authorization to add pollutants to those waters.",
-      "document_number": "2026-18134",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/04/2026-18134/updates-to-the-national-pollutant-discharge-elimination-system-definitions-and-exclusions",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-04/pdf/2026-18134.pdf",
-      "publication_date": "2026-09-04",
-      "agencies": [
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OW-2026-6965-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2040-AG56"
-      ]
-    },
-    {
-      "title": "Airworthiness Directives; Airbus SAS Airplanes",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus SAS Model A318, A319, A320, and A321 series airplanes. This proposed AD was prompted by reports of one engine fire switch self-releasing, causing an uncommanded in-flight shut down to one engine. This proposed AD would require, for certain airplanes, replacement of certain fire panels, and for certain other airplanes, a general visual inspection of certain fire panels, and applicable on- condition actions. This proposed AD would also limit the installation of affected parts under certain conditions.",
-      "document_number": "2026-18072",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/03/2026-18072/airworthiness-directives-airbus-sas-airplanes",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-03/pdf/2026-18072.pdf",
-      "publication_date": "2026-09-03",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8795-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ]
-    },
-    {
-      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "title": "Vessel and Shipyard Financing, Regulatory Revision",
       "type": "Rule",
-      "abstract": "The FAA is adopting a new airworthiness directive (AD) for certain Airbus SAS Model A350-1041 airplanes. This AD was prompted by the detection of missing chamfers under the heads of critical fasteners on the primary structure of both pylons. This AD requires an inspection of the fasteners in the affected areas and corrective actions if necessary. The FAA is issuing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-18055",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/03/2026-18055/airworthiness-directives-airbus-sas-airplanes",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-03/pdf/2026-18055.pdf",
-      "publication_date": "2026-09-03",
+      "abstract": "This interim final rule revises MARAD regulations implementing the Vessel and Shipyard Financing Program (Title XI Program or the Program) financial and programmatic requirements. Specifically, MARAD implements statutory changes, updates the vessel project and shipyard project financing requirements imposed on Title XI Program borrowers, aligns the Title XI Program with modern Federal credit best practices, corrects numerous legal citations, improves accessibility by modernizing text, and removes obsolete references. This rule also streamlines the MARAD Title XI regulations by removing 14 of 34 sections of the existing regulations.",
+      "document_number": "2026-17636",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17636/vessel-and-shipyard-financing-regulatory-revision",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-28/pdf/2026-17636.pdf",
+      "publication_date": "2026-08-28",
       "agencies": [
         {
           "raw_name": "DEPARTMENT OF TRANSPORTATION",
@@ -4359,125 +3883,20 @@
           "slug": "transportation-department"
         },
         {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "raw_name": "Maritime Administration",
+          "name": "Maritime Administration",
+          "id": 282,
+          "url": "https://www.federalregister.gov/agencies/maritime-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/282",
           "parent_id": 492,
-          "slug": "federal-aviation-administration"
+          "slug": "maritime-administration"
         }
       ],
-      "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8787-0001",
-      "effective_on": "2026-09-18",
+      "comments_close_on": "2026-10-27",
+      "comment_url": "http://www.regulations.gov/commenton/MARAD-2026-1288-0001",
+      "effective_on": "2026-08-28",
       "regulation_id_numbers": [
-        "2120-AA64"
-      ]
-    },
-    {
-      "title": "Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes",
-      "type": "Rule",
-      "abstract": "The FAA is adopting a new airworthiness directive (AD) for certain ATR-GIE Avions de Transport R[eacute]gional Model ATR42-500 airplanes. This AD was prompted by a determination that a new airworthiness limitation is necessary. This AD requires revising the existing maintenance or inspection program, as applicable, to incorporate a new airworthiness limitation. The FAA is issuing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-18053",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/03/2026-18053/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-03/pdf/2026-18053.pdf",
-      "publication_date": "2026-09-03",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8792-0001",
-      "effective_on": "2026-09-18",
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ]
-    },
-    {
-      "title": "Airworthiness Directives; Airbus SAS Airplanes",
-      "type": "Rule",
-      "abstract": "The FAA is adopting a new airworthiness directive (AD) for certain Airbus SAS Model A318-112; Model A319-115, -132, and -133; Model A320-214, -216, -232, -233, -251N, and -271N; and Model A321-211, -213, -231, -271N, -251NX, -253NX, and -271NX airplanes. This AD was prompted by a quality escape identified in the production assembly line on the main landing gear (MLG) support rib 5 lugs, which resulted in tool mark damage in the bore of the forward and aft lugs. This AD requires repetitive detailed visual inspections (DVIs) of the affected parts and applicable corrective actions. This AD also provides a one- time special detailed inspection (SDI) as a terminating action for the repetitive inspections. The FAA is issuing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-18052",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/03/2026-18052/airworthiness-directives-airbus-sas-airplanes",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-03/pdf/2026-18052.pdf",
-      "publication_date": "2026-09-03",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-19",
-      "comment_url": null,
-      "effective_on": "2026-09-18",
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ]
-    },
-    {
-      "title": "Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2021-17-07, which applies to certain Airbus Canada Limited Partnership Model BD-500-1A10 and BD-500-1A11 airplanes. AD 2021-17-07 requires inspecting for damage of the left and right motive flow (MF) flexible fuel line assemblies (including the flexible hose and shroud assemblies), and replacing damaged parts. Since the FAA issued AD 2021- 17-07, the FAA has determined that four additional airplanes may be subject to the unsafe condition. This proposed AD would continue to require the actions in AD 2021-17-07 and expand the applicability. The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-17967",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/02/2026-17967/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-02/pdf/2026-17967.pdf",
-      "publication_date": "2026-09-02",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8794-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
+        "2133-AC05"
       ]
     },
     {
@@ -4670,76 +4089,6 @@
       "effective_on": null,
       "regulation_id_numbers": [
         "1651-AB51"
-      ]
-    },
-    {
-      "title": "Rescission of Rural Development's Construction and Repair Regulation",
-      "type": "Proposed Rule",
-      "abstract": "The Rural Business-Cooperative Service (RBCS), Rural Housing Service (RHS), and Rural Utilities Service (RUS), together make up the Rural Development (RD or the Agency) mission area within the U.S. Department of Agriculture (USDA). RD is issuing this proposed rule to rescind its regulation regarding construction and repairs. RD found this regulation to be unnecessary and unduly burdensome. In addition, it makes changes to RBCS regulations by removing references to the construction and repair regulations. The plain language summary of the proposal is available on Regulations.gov in the docket for rulemaking.",
-      "document_number": "2026-16914",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/19/2026-16914/rescission-of-rural-developments-construction-and-repair-regulation",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-19/pdf/2026-16914.pdf",
-      "publication_date": "2026-08-19",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF AGRICULTURE",
-          "name": "Agriculture Department",
-          "id": 12,
-          "url": "https://www.federalregister.gov/agencies/agriculture-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
-          "parent_id": null,
-          "slug": "agriculture-department"
-        },
-        {
-          "raw_name": "Rural Business-Cooperative Service",
-          "name": "Rural Business-Cooperative Service",
-          "id": 456,
-          "url": "https://www.federalregister.gov/agencies/rural-business-cooperative-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/456",
-          "parent_id": 12,
-          "slug": "rural-business-cooperative-service"
-        },
-        {
-          "raw_name": "Rural Housing Service",
-          "name": "Rural Housing Service",
-          "id": 458,
-          "url": "https://www.federalregister.gov/agencies/rural-housing-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/458",
-          "parent_id": 12,
-          "slug": "rural-housing-service"
-        }
-      ],
-      "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/RHS-26-ADMIN-0331-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "0575-AD54"
-      ]
-    },
-    {
-      "title": "GENIUS Act Regulations on Payment Stablecoin Issuance, Offer, and Sale",
-      "type": "Proposed Rule",
-      "abstract": "The Department of the Treasury (Treasury) proposes to issue regulations to implement section 3 of the Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act regarding the statutory prohibitions and limitations on payment stablecoin issuance, offer, and sale in the United States.",
-      "document_number": "2026-16796",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/18/2026-16796/genius-act-regulations-on-payment-stablecoin-issuance-offer-and-sale",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-18/pdf/2026-16796.pdf",
-      "publication_date": "2026-08-18",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        }
-      ],
-      "comments_close_on": "2026-10-19",
-      "comment_url": "http://www.regulations.gov/commenton/TREAS-DO-2026-0496-0003",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1505-AC95"
       ]
     },
     {
