@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T19:05:04.846249+00:00",
-  "count": 293,
+  "updated_at": "2026-10-20T00:02:59.400592+00:00",
+  "count": 295,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -9240,7 +9240,7 @@
         }
       ],
       "comments_close_on": "2026-11-13",
-      "comment_url": "http://www.regulations.gov/commenton/NRC-2026-2377-0002",
+      "comment_url": null,
       "effective_on": "2026-12-28",
       "regulation_id_numbers": [
         "3150-AL70"
@@ -9717,9 +9717,9 @@
           "slug": "federal-communications-commission"
         }
       ],
-      "comments_close_on": "2026-12-03",
+      "comments_close_on": "2026-11-18",
       "comment_url": null,
-      "effective_on": "2026-11-18",
+      "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 0,
@@ -9821,6 +9821,34 @@
       "docket_id": "NPS-2026-0232",
       "first_seen": "2026-10-17"
     },
+    "2026-21310": {
+      "title": "Customs Requirements and Payment Procedures for Certain Customs Charges",
+      "type": "Rule",
+      "abstract": "The Postal Service is revising Mailing Standards of the United States Postal Service, International Mail Manual (IMM[supreg]), in various sections, to update mailer responsibilities with respect to customs requirements and to establish procedures for the payment, or reimbursement, of any customs charges that are assessed, including after the purchase of postage.",
+      "document_number": "2026-21310",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21310/customs-requirements-and-payment-procedures-for-certain-customs-charges",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21310.pdf",
+      "publication_date": "2026-10-19",
+      "agencies": [
+        {
+          "raw_name": "POSTAL SERVICE",
+          "name": "Postal Service",
+          "id": 410,
+          "url": "https://www.federalregister.gov/agencies/postal-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/410",
+          "parent_id": null,
+          "slug": "postal-service"
+        }
+      ],
+      "comments_close_on": "2026-11-18",
+      "comment_url": null,
+      "effective_on": "2026-10-19",
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null,
+      "first_seen": "2026-10-19"
+    },
     "2026-21347": {
       "title": "Modernizing the Commission's National Environmental Policy Act Rules",
       "type": "Proposed Rule",
@@ -9840,14 +9868,44 @@
           "slug": "federal-communications-commission"
         }
       ],
-      "comments_close_on": "2026-12-03",
+      "comments_close_on": "2026-11-18",
       "comment_url": null,
-      "effective_on": "2026-11-18",
+      "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-10-17"
+    },
+    "2026-21376": {
+      "title": "Further Definition of “Swap” To Exclude Casino-Style Gambling Products",
+      "type": "Rule",
+      "abstract": "The Commodity Futures Trading Commission (\"Commission\" or \"CFTC\") is adopting an interim final rule (\"Interim Final Rule\") to codify its longstanding position that casino-style gambling products, including wagers placed on sportsbooks and casino games, are excluded from the \"swap\" definition.",
+      "document_number": "2026-21376",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21376/further-definition-of-swap-to-exclude-casino-style-gambling-products",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21376.pdf",
+      "publication_date": "2026-10-19",
+      "agencies": [
+        {
+          "raw_name": "COMMODITY FUTURES TRADING COMMISSION",
+          "name": "Commodity Futures Trading Commission",
+          "id": 77,
+          "url": "https://www.federalregister.gov/agencies/commodity-futures-trading-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/77",
+          "parent_id": null,
+          "slug": "commodity-futures-trading-commission"
+        }
+      ],
+      "comments_close_on": "2026-11-18",
+      "comment_url": "http://www.regulations.gov/commenton/CFTC-2026-2214-0001",
+      "effective_on": "2026-10-19",
+      "regulation_id_numbers": [
+        "3038-AF81"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "CFTC-2026-2214",
+      "first_seen": "2026-10-19"
     },
     "2026-21377": {
       "title": "Further Definition of “Swap”-Inclusions",

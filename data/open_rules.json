@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-19T19:05:04.846249+00:00",
+  "updated_at": "2026-10-20T00:02:59.400592+00:00",
   "as_of": "2026-10-19",
-  "count": 223,
+  "count": 226,
   "documents": [
     {
       "title": "Airworthiness Directives; Airbus Helicopters",
@@ -98,6 +98,35 @@
       "docket_id": "CFTC-2026-2213"
     },
     {
+      "title": "Further Definition of “Swap” To Exclude Casino-Style Gambling Products",
+      "type": "Rule",
+      "abstract": "The Commodity Futures Trading Commission (\"Commission\" or \"CFTC\") is adopting an interim final rule (\"Interim Final Rule\") to codify its longstanding position that casino-style gambling products, including wagers placed on sportsbooks and casino games, are excluded from the \"swap\" definition.",
+      "document_number": "2026-21376",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21376/further-definition-of-swap-to-exclude-casino-style-gambling-products",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21376.pdf",
+      "publication_date": "2026-10-19",
+      "agencies": [
+        {
+          "raw_name": "COMMODITY FUTURES TRADING COMMISSION",
+          "name": "Commodity Futures Trading Commission",
+          "id": 77,
+          "url": "https://www.federalregister.gov/agencies/commodity-futures-trading-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/77",
+          "parent_id": null,
+          "slug": "commodity-futures-trading-commission"
+        }
+      ],
+      "comments_close_on": "2026-11-18",
+      "comment_url": "http://www.regulations.gov/commenton/CFTC-2026-2214-0001",
+      "effective_on": "2026-10-19",
+      "regulation_id_numbers": [
+        "3038-AF81"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "CFTC-2026-2214"
+    },
+    {
       "title": "Modernizing the Commission's National Environmental Policy Act Rules",
       "type": "Proposed Rule",
       "abstract": "In this document, the Federal Communications Commission (Commission or FCC) seeks additional comment on the Commission's National Historic Preservation Act (NHPA) framework, to further expedite, simplify, and reduce the costs of environmental review. This includes refreshing the record on the meaning of \"undertaking\" and the Commission's approach to implementing section 106 of the NHPA. The Commission also seeks comment on whether activities related to the deployment and operation of communications infrastructure are within the scope of \"undertaking,\" as well as on other practices or actions the Commission could adopt to provide more efficiency and predictability in the section 106 process. Additionally, the Commission seeks comment on whether communications infrastructure deployments are agency actions subject to the Endangered Species Act (ESA).",
@@ -116,9 +145,9 @@
           "slug": "federal-communications-commission"
         }
       ],
-      "comments_close_on": "2026-12-03",
+      "comments_close_on": "2026-11-18",
       "comment_url": null,
-      "effective_on": "2026-11-18",
+      "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 0,
@@ -161,6 +190,33 @@
       "significant": false,
       "comments_count": 0,
       "docket_id": "FAA-2026-11813"
+    },
+    {
+      "title": "Customs Requirements and Payment Procedures for Certain Customs Charges",
+      "type": "Rule",
+      "abstract": "The Postal Service is revising Mailing Standards of the United States Postal Service, International Mail Manual (IMM[supreg]), in various sections, to update mailer responsibilities with respect to customs requirements and to establish procedures for the payment, or reimbursement, of any customs charges that are assessed, including after the purchase of postage.",
+      "document_number": "2026-21310",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21310/customs-requirements-and-payment-procedures-for-certain-customs-charges",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21310.pdf",
+      "publication_date": "2026-10-19",
+      "agencies": [
+        {
+          "raw_name": "POSTAL SERVICE",
+          "name": "Postal Service",
+          "id": 410,
+          "url": "https://www.federalregister.gov/agencies/postal-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/410",
+          "parent_id": null,
+          "slug": "postal-service"
+        }
+      ],
+      "comments_close_on": "2026-11-18",
+      "comment_url": null,
+      "effective_on": "2026-10-19",
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
     },
     {
       "title": "Safety Zone; FRL Inaugural Invitational eFoil Exhibition Race, Miami Marine Stadium Basin, Miami, FL",
@@ -376,9 +432,9 @@
           "slug": "federal-communications-commission"
         }
       ],
-      "comments_close_on": "2026-12-03",
+      "comments_close_on": "2026-11-18",
       "comment_url": null,
-      "effective_on": "2026-11-18",
+      "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 0,
@@ -930,6 +986,35 @@
       ],
       "significant": null,
       "comments_count": 2,
+      "docket_id": "NRC-2026-2377"
+    },
+    {
+      "title": "AP1000 Design Certification Renewal",
+      "type": "Rule",
+      "abstract": "The U.S. Nuclear Regulatory Commission (NRC) is amending its regulations to renew the AP1000 design certification and incorporate Revision 20 of the AP1000 design control document. The purpose of this rulemaking action is to update the AP1000 design to be consistent with changes made to the design during the licensing, construction, and operation of Vogtle Electric Generating Plant, Units 3 and 4. This rulemaking incorporates AP1000 design control document Revision 20, which includes updates made to the AP1000 design to represent a current, construction-validated design. The NRC is also issuing an environmental assessment supporting this rule.",
+      "document_number": "2026-21030",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-21030/ap1000-design-certification-renewal",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-21030.pdf",
+      "publication_date": "2026-10-14",
+      "agencies": [
+        {
+          "raw_name": "NUCLEAR REGULATORY COMMISSION",
+          "name": "Nuclear Regulatory Commission",
+          "id": 383,
+          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
+          "parent_id": null,
+          "slug": "nuclear-regulatory-commission"
+        }
+      ],
+      "comments_close_on": "2026-11-13",
+      "comment_url": null,
+      "effective_on": "2026-12-28",
+      "regulation_id_numbers": [
+        "3150-AL70"
+      ],
+      "significant": null,
+      "comments_count": 1,
       "docket_id": "NRC-2026-2377"
     },
     {

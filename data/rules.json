@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T19:05:03.908504+00:00",
+  "updated_at": "2026-10-20T00:02:58.835611+00:00",
   "latest_date": "2026-10-19",
   "issue_count": 36,
   "documents": [
@@ -131,7 +131,7 @@
           "slug": "commodity-futures-trading-commission"
         }
       ],
-      "comments_close_on": null,
+      "comments_close_on": "2026-11-18",
       "comment_url": "http://www.regulations.gov/commenton/CFTC-2026-2214-0001",
       "effective_on": "2026-10-19",
       "regulation_id_numbers": [
@@ -218,9 +218,9 @@
           "slug": "federal-communications-commission"
         }
       ],
-      "comments_close_on": "2026-12-03",
+      "comments_close_on": "2026-11-18",
       "comment_url": null,
-      "effective_on": "2026-11-18",
+      "effective_on": null,
       "regulation_id_numbers": []
     },
     {
@@ -645,7 +645,7 @@
           "slug": "postal-service"
         }
       ],
-      "comments_close_on": null,
+      "comments_close_on": "2026-11-18",
       "comment_url": null,
       "effective_on": "2026-10-19",
       "regulation_id_numbers": []
@@ -1071,9 +1071,9 @@
           "slug": "federal-communications-commission"
         }
       ],
-      "comments_close_on": "2026-12-03",
+      "comments_close_on": "2026-11-18",
       "comment_url": null,
-      "effective_on": "2026-11-18",
+      "effective_on": null,
       "regulation_id_numbers": []
     },
     {
@@ -2326,7 +2326,7 @@
           "slug": "nuclear-regulatory-commission"
         }
       ],
-      "comments_close_on": null,
+      "comments_close_on": "2026-11-13",
       "comment_url": null,
       "effective_on": "2026-12-28",
       "regulation_id_numbers": [
