@@ -58,7 +58,7 @@ def page(path, title, description, body, structured=None, robots=None):
     canonical = SITE + path
     return f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title><meta name="description" content="{esc(description)}"><meta name="theme-color" content="#102f35">{f'<meta name="robots" content="{robots}">' if robots else ''}<link rel="canonical" href="{esc(canonical)}"><meta property="og:type" content="website"><meta property="og:site_name" content="FedReg Intel"><meta property="og:url" content="{esc(canonical)}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(description)}"><meta name="twitter:card" content="summary_large_image"><link rel="stylesheet" href="{CSS}">{ld_json(structured) if structured else ''}</head>
-<body><header><div class="shell nav"><a class="brand" href="/"><span class="brand-mark" aria-hidden="true">F<span>R</span></span><span>FEDREG <b>INTEL</b><small>THE PUBLIC PARTICIPATION BRIEF</small></span></a><nav aria-label="Main navigation"><a href="/rules/">Open for comment</a><a href="/rules/#closing-this-week">Upcoming deadlines</a><a href="/videos/">Video briefings</a><a href="/#book">The book</a><a href="/#newsletter">Email list</a><a class="nav-cta" href="https://www.youtube.com/@FedRegIntel?sub_confirmation=1" target="_blank" rel="noopener">Subscribe ↗</a></nav></div></header>
+<body><header><div class="shell nav"><a class="brand" href="/"><span class="brand-mark" aria-hidden="true">F<span>R</span></span><span>FEDREG <b>INTEL</b><small>THE PUBLIC PARTICIPATION BRIEF</small></span></a><nav aria-label="Main navigation"><a href="/rules/">Open for comment</a><a href="/rules/#closing-this-week">Upcoming deadlines</a><a href="/videos/">Video briefings</a><a href="/how-to-comment-on-federal-rules/">How to comment</a><a href="/#book">The book</a><a href="/#newsletter">Email list</a><a class="nav-cta" href="https://www.youtube.com/@FedRegIntel?sub_confirmation=1" target="_blank" rel="noopener">Subscribe ↗</a></nav></div></header>
 <main class="shell static-page">{body}</main>
 <footer class="shell"><a class="footer-brand" href="/">FEDREG INTEL</a><p>Independent educational coverage. Not a government website or legal advice. Verify information against the official publication on <a href="https://www.govinfo.gov/">GovInfo</a>.</p><div><a href="/privacy.html">Privacy policy</a><a href="https://www.youtube.com/@FedRegIntel">YouTube</a><a href="https://bsky.app/profile/fedregintel.com" rel="me noopener">Bluesky</a><a href="https://x.com/FedRegIntel" rel="me noopener">X</a><a href="mailto:hello@fedregintel.com">Contact</a></div></footer>
 </body></html>
@@ -100,7 +100,7 @@ def build_videos(out, videos, transcripts, rule_pages):
             structured['transcript'] = '\n\n'.join(paragraphs)
         write(out, path, page(path, f'{v["title"]} | FedReg Intel' if 'FedReg Intel' not in v['title'] else v['title'],
                               snippet(about) or f'FedReg Intel video: {v["title"]}', body, structured))
-        urls.append((path, v['published']))
+        urls.append((path, None))
     body = ('<p class="crumbs"><a href="/">Home</a> / Videos</p><p class="eyebrow">THE VIDEO BRIEFING ROOM</p><h1 class="page-title">Every FedReg Intel video</h1>'
             '<p class="section-intro">Federal Rules Open for Comment briefings and Rulemaking 101 explainers, newest first.</p>'
             f'<div class="video-grid">{"".join(video_card(v) for v in videos)}</div>')
@@ -120,7 +120,7 @@ def rule_item(d, day=None):
 def next_step(d, kind, closes, is_open):
     if is_open:
         return (f'<div class="aside-note"><h2>How to comment</h2><p>Comments are due <strong>{esc(closes)}</strong>. Submit through the link above or follow the instructions in the document\'s ADDRESSES section. Say who you are, how the rule affects you, and what should change, with evidence. Comments are usually public, so leave out anything private.</p>'
-                f'<p>New to this? Watch <a href="/videos/">Rulemaking 101</a> or read <a href="{BOOK}" target="_blank" rel="noopener"><em>How to Comment on Federal Rules</em></a>.</p></div>')
+                f'<p>New to this? Start with our <a href="/how-to-comment-on-federal-rules/">free public-comment guide and example</a>, watch <a href="/videos/">Rulemaking 101</a> or read <a href="{BOOK}" target="_blank" rel="noopener"><em>How to Comment on Federal Rules</em></a>.</p></div>')
     final = d.get('final_rule') or {}
     if final:
         return (f'<div class="aside-note"><h2>Rule published</h2><p>After the comment period, the agency published a rule under the same regulation identifier (RIN) on <strong>{esc(long_date(final.get("publication_date")))}</strong>: '
@@ -163,7 +163,7 @@ def build_rules(out, rules, day, covered_by):
     for d in rules:
         path, text = rule_page(d, day, covered_by.get(d['document_number'], []))
         write(out, path, text)
-        urls.append((path, (d.get('final_rule') or {}).get('publication_date') or d.get('publication_date') or day))
+        urls.append((path, None))
     open_rules = sorted((d for d in rules if d['comments_close_on'] >= day), key=lambda d: (d['comments_close_on'], d['title']))
     closed = sorted((d for d in rules if d['comments_close_on'] < day), key=lambda d: (d['comments_close_on'], d['title']), reverse=True)
     month_ago = (date.fromisoformat(day) - timedelta(days=30)).isoformat()
@@ -185,7 +185,7 @@ def build_rules(out, rules, day, covered_by):
             + (f'<ul class="rule-index">{"".join(rule_item(d, day) for d in closed)}</ul>' if closed else '<p class="empty">None yet.</p>'))
     write(out, '/rules/archive/', page('/rules/archive/', 'Closed Federal Comment Periods and Final Rules | FedReg Intel',
                                        'Federal rules whose public comment periods have closed, with links to the final rule when the agency publishes one.', body))
-    return urls + [('/rules/archive/', day)]
+    return urls + [('/rules/archive/', None)]
 
 def week_out(day):
     return (date.fromisoformat(day) + timedelta(days=7)).isoformat()
@@ -217,6 +217,53 @@ def build_social_page(out, day):
               'setTimeout(()=>b.textContent="Copy",1500);});</script>')
     write(out, '/social/', page('/social/', 'Social desk | FedReg Intel', 'Daily posts about federal rules open for comment.', body, robots='noindex'))
 
+def build_comment_guide(out):
+    """An evergreen entry point, available without JavaScript and linked to live coverage."""
+    path = '/how-to-comment-on-federal-rules/'
+    title = 'How to Comment on Federal Rules: Guide and Example | FedReg Intel'
+    description = 'Learn to find a federal proposal, check its deadline, write a specific public comment, and submit it. Includes an example and a submission checklist.'
+    body = '''<p class="crumbs"><a href="/">Home</a> / How to comment</p>
+<article class="comment-guide"><p class="eyebrow">A PRACTICAL PUBLIC-COMMENT GUIDE</p>
+<h1 class="page-title">How to comment on federal rules</h1>
+<p class="section-intro">A useful public comment connects a proposal to a specific problem, explains your reasoning, and identifies what you want the agency to consider. You do not need a lawyer or a professional title to share relevant experience.</p>
+<p>By Jarrett Paul Dudley · Published October 20, 2026</p>
+<nav aria-label="Guide contents"><a href="#find">Find a proposal</a> · <a href="#write">Write your comment</a> · <a href="#example">See an example</a> · <a href="#submit">Submit and follow up</a></nav>
+<h2 id="find">1. Find the proposal and verify the instructions</h2>
+<p>Start with <a href="/rules/">federal rules open for public comment</a> or <a href="/rules/#closing-this-week">upcoming comment deadlines</a>. Open the linked Federal Register document and read its summary, DATES, ADDRESSES, and the sections explaining the proposed changes. Look for questions the agency specifically asks commenters to answer.</p>
+<p>Record the agency, document title, docket number, and deadline. Check for extensions and the exact closing time. Use the submission method in the document: many proposals accept comments through Regulations.gov, but instructions vary. A final rule, request for information, and proposed rule can invite different kinds of input.</p>
+<h2 id="write">2. Make one clear, supported point at a time</h2>
+<p>Identify the provision you are discussing. Explain how it would affect you, your organization, or a group you understand. Describe your experience and include relevant data, calculations, or sources when you have them. Separate observed facts from estimates, and explain how you arrived at an estimate.</p>
+<p>Then suggest a specific alternative or explain which part of the proposal you support and why. A focused comment that answers an agency question can be more useful than a long statement covering unrelated issues. Do not invent evidence or assume that a large number of identical submissions settles the issue.</p>
+<h2 id="example">3. Turn a general objection into a useful example</h2>
+<p><strong>General objection:</strong> “This reporting requirement is too burdensome.”</p>
+<div class="aside-note"><p><strong>Illustrative fictional comment:</strong> “Section 4 would require a separate monthly report for each location. Our two-location organization currently prepares one combined quarterly report. Preparing separate monthly reports would require additional staff time to reconcile the same records. Please consider a consolidated quarterly option for small organizations and explain whether it would provide the information the agency needs.”</p></div>
+<p>This example identifies a provision, describes a practical effect, and offers an alternative. A real commenter should verify the proposal and support any time or cost estimates with their own records. It is a writing example, not an actual pending rule or a guarantee of an agency response.</p>
+<h2 id="submit">4. Check, submit, and save your confirmation</h2>
+<ul><li>Confirm the docket and submission deadline on the official document.</li>
+<li>Check that your comment and attachments answer the relevant question.</li>
+<li>Review the agency's privacy and confidential-submission instructions. Comments may be published; do not include sensitive personal details unnecessarily.</li>
+<li>Follow the specified submission process and save your comment, attachments, and confirmation or tracking number.</li>
+<li>Follow the docket for later documents. A final rule may explain how the agency addressed significant comments; submitting a comment does not guarantee a personal reply or your preferred outcome.</li></ul>
+<h2>Keep learning</h2>
+<p><a href="/videos/">Watch FedReg Intel briefings and available transcripts</a>, explore the <a href="/rules/">current rule dashboard</a>, or read <a href="https://www.amazon.com/dp/B0HL97PYTB">How to Comment on Federal Rules</a> for a fuller walkthrough.</p>
+<h2>Official sources and further guidance</h2>
+<ul><li><a href="https://www.fda.gov/regulatory-information/federal-register-fr-notices/how-use-regulationsgov">FDA: How to Use Regulations.gov</a></li>
+<li><a href="https://www.osha.gov/node/999877519">OSHA: How do I submit a comment on Regulations.gov?</a></li>
+<li><a href="https://www.govinfo.gov/help/fr">GovInfo: Federal Register and rulemaking resources</a></li></ul>
+<p class="source-note">Independent educational guidance, not legal advice. The current official document and agency instructions govern each submission.</p></article>'''
+    structured = {'@context': 'https://schema.org', '@graph': [
+        {'@type': 'Article', 'headline': 'How to comment on federal rules',
+         'description': description, 'url': SITE + path, 'mainEntityOfPage': SITE + path,
+         'datePublished': '2026-10-20', 'dateModified': '2026-10-20',
+         'author': {'@type': 'Person', 'name': 'Jarrett Paul Dudley'},
+         'publisher': {'@type': 'Organization', 'name': 'FedReg Intel', 'url': SITE + '/'},
+         'inLanguage': 'en-US'},
+        {'@type': 'BreadcrumbList', 'itemListElement': [
+            {'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': SITE + '/'},
+            {'@type': 'ListItem', 'position': 2, 'name': 'How to comment', 'item': SITE + path}]}]}
+    write(out, path, page(path, title, description, body, structured))
+    return [(path, '2026-10-20')]
+
 def build(out, day=None):
     day = day or today()
     out = Path(out)
@@ -232,7 +279,10 @@ def build(out, day=None):
         for n in (transcripts.get(v['id']) or {}).get('documents') or []:
             if n in by_number:
                 covered_by.setdefault(n, []).append(v)
-    entries = [('/', day), ('/rules/', day), ('/videos/', day), ('/privacy.html', None)]
+    # Build dates and original publication dates do not reliably identify content updates.
+    # Omit unknown lastmod values instead of advancing them on every build.
+    entries = [('/', None), ('/rules/', None), ('/videos/', None), ('/privacy.html', None)]
+    entries += build_comment_guide(out)
     entries += build_rules(out, rules, day, covered_by) + build_videos(out, videos, transcripts, by_number)
     sitemap(out, entries)
     build_social_page(out, day)
@@ -243,3 +293,4 @@ def build(out, day=None):
 
 if __name__ == '__main__':
     build(sys.argv[1] if len(sys.argv) > 1 else '_site')
+

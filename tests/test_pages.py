@@ -86,8 +86,29 @@ class PageTests(unittest.TestCase):
         sitemap=(self.out/'sitemap.xml').read_text(encoding='utf-8')
         for path in ['/','/rules/','/rules/archive/','/videos/','/rules/2026-11111/','/rules/2026-33333/','/videos/abcdefghijk/']:
             self.assertIn(f'<loc>https://fedregintel.com{path}</loc>',sitemap)
-        self.assertIn('<lastmod>2026-10-01</lastmod>',sitemap)
+        self.assertNotIn('<lastmod>2026-10-03</lastmod>',sitemap)
+        self.assertNotIn('<lastmod>2026-10-01</lastmod>',sitemap)
         self.assertNotIn('2026-44444',sitemap)
+
+    def test_comment_guide_is_discoverable_and_has_matching_schema(self):
+        self.build()
+        guide=self.read('how-to-comment-on-federal-rules')
+        self.assertIn('<h1 class="page-title">How to comment on federal rules</h1>',guide)
+        self.assertIn('Illustrative fictional comment',guide)
+        self.assertIn('https://www.fda.gov/',guide)
+        self.assertIn('href="/how-to-comment-on-federal-rules/"',self.read('rules/2026-11111'))
+        schema=json.loads(re.search(r'<script type="application/ld\+json">(.*?)</script>',guide,re.S).group(1))
+        self.assertEqual(schema['@graph'][0]['author']['name'],'Jarrett Paul Dudley')
+        self.assertEqual(schema['@graph'][1]['@type'],'BreadcrumbList')
+        self.assertIn('<loc>https://fedregintel.com/how-to-comment-on-federal-rules/</loc>',(self.out/'sitemap.xml').read_text())
+
+    def test_every_publishing_workflow_builds_crawlable_pages(self):
+        root=Path(__file__).parents[1]
+        for name in ['pages.yml','refresh.yml']:
+            workflow=(root/'.github/workflows'/name).read_text()
+            self.assertIn('python scripts/build_pages.py',workflow)
+            self.assertIn('group: fedreg-pages-publish',workflow)
+            self.assertIn('cancel-in-progress: false',workflow)
 
     def test_missing_data_still_builds_index_pages(self):
         with tempfile.TemporaryDirectory() as data, tempfile.TemporaryDirectory() as out:
@@ -95,3 +116,4 @@ class PageTests(unittest.TestCase):
             self.assertIn('No open comment periods',(Path(out)/'rules/index.html').read_text(encoding='utf-8'))
             self.assertTrue((Path(out)/'sitemap.xml').exists())
 if __name__=='__main__': unittest.main()
+

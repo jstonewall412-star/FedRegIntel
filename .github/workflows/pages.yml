@@ -12,8 +12,8 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
-  cancel-in-progress: true
+  group: fedreg-pages-publish
+  cancel-in-progress: false
 
 jobs:
   deploy:
@@ -26,14 +26,23 @@ jobs:
         uses: actions/checkout@v4
       - name: Configure Pages
         uses: actions/configure-pages@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
       - name: Assemble public site
         shell: bash
         run: |
           set -euo pipefail
           mkdir -p site
-          cp index.html privacy.html robots.txt CNAME site/
+          cp index.html privacy.html robots.txt CNAME .nojekyll 9663c4e5600e4c88e3fd12c11e77a13a.txt site/
+          cp -R .well-known site/
           cp -R assets course data social-launch newsletter tiktok site/
           cp tiktokWiEDgaJHMYjDAfuJhVwRnGr6jSeYfvmJ.txt site/
+          python scripts/build_pages.py site
+          test -s site/sitemap.xml
+          test -s site/rules/index.html
+          test -s site/videos/index.html
+          test -s site/how-to-comment-on-federal-rules/index.html
       - name: Upload public site artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -41,3 +50,4 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
+

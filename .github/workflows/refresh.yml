@@ -13,7 +13,7 @@ permissions:
   pages: write
   id-token: write
 concurrency:
-  group: dashboard-publish
+  group: fedreg-pages-publish
   cancel-in-progress: false
 jobs:
   refresh:
@@ -60,3 +60,4 @@ jobs:
       - name: Report a failed source refresh
         if: steps.refresh.outcome == 'failure'
         run: exit 1
+
