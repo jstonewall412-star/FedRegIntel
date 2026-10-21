@@ -1,8 +1,281 @@
 {
-  "updated_at": "2026-10-20T19:12:55.443463+00:00",
-  "latest_date": "2026-10-20",
-  "issue_count": 7,
+  "updated_at": "2026-10-21T07:54:55.463702+00:00",
+  "latest_date": "2026-10-21",
+  "issue_count": 9,
   "documents": [
+    {
+      "title": "Guidance Under Section 355 Concerning Device and Active Trade or Business; Partial Withdrawal",
+      "type": "Proposed Rule",
+      "abstract": "This document partially withdraws a notice of proposed rulemaking containing proposed regulations regarding the application of the device prohibition and the active trade or business requirement for distributions of controlled corporation stock (or stock and securities) by a distributing corporation without income, gain, or loss. The proposed regulations would affect corporations and their shareholders and security holders.",
+      "document_number": "2026-21568",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/21/2026-21568/guidance-under-section-355-concerning-device-and-active-trade-or-business-partial-withdrawal",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-21/pdf/2026-21568.pdf",
+      "publication_date": "2026-10-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "Internal Revenue Service",
+          "name": "Internal Revenue Service",
+          "id": 254,
+          "url": "https://www.federalregister.gov/agencies/internal-revenue-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/254",
+          "parent_id": 497,
+          "slug": "internal-revenue-service"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1545-BN47"
+      ]
+    },
+    {
+      "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pacific Cod in the Western Regulatory Area of the Gulf of Alaska",
+      "type": "Rule",
+      "abstract": "NMFS is reallocating the projected unused amounts of Pacific cod from catcher vessels using trawl gear to catcher vessels using pot gear in the Western Regulatory Area of the Gulf of Alaska (GOA). This action is necessary to allow the 2026 total allowable catch (TAC) of Pacific cod to be harvested in the Western Regulatory Area of the GOA.",
+      "document_number": "2026-21556",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/21/2026-21556/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-western",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-21/pdf/2026-21556.pdf",
+      "publication_date": "2026-10-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-21",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Notification to Members/Shareholders",
+      "type": "Proposed Rule",
+      "abstract": "The NCUA Board (Board) solicits public comment on a proposal to streamline the methods a federally insured credit union (FICU) may use to provide its members with notice of share insurance coverage. The current regulation is overly prescriptive, mandating that a FICU make available hard copies of certain prescribed materials. While a FICU would still be required to provide notice to members, the proposed rule would defer to the FICU on the method used for such notification. Among other methods, a FICU may elect to provide members with a link to updated online resources that will be maintained on the NCUA website. The Board believes the proposed rule will provide greater flexibility, reduce compliance costs for both NCUA and FICUs, and ensure that members are provided with up-to-date information regarding share insurance coverage.",
+      "document_number": "2026-21512",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/21/2026-21512/notification-to-membersshareholders",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-21/pdf/2026-21512.pdf",
+      "publication_date": "2026-10-21",
+      "agencies": [
+        {
+          "raw_name": "NATIONAL CREDIT UNION ADMINISTRATION",
+          "name": "National Credit Union Administration",
+          "id": 335,
+          "url": "https://www.federalregister.gov/agencies/national-credit-union-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/335",
+          "parent_id": null,
+          "slug": "national-credit-union-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-21",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3133-AG24"
+      ]
+    },
+    {
+      "title": "Petition for Rulemaking of Jason Plotzker",
+      "type": "Proposed Rule",
+      "abstract": "Please take notice that the Federal Trade Commission (\"Commission\") received a petition for rulemaking from Jason Plotzker and has published that petition online at https://www.regulations.gov. The Commission invites written comments concerning the petition. Publication of this petition is pursuant to the Commission's Rules of Practice and Procedure and does not affect the legal status of the petition or its final disposition.",
+      "document_number": "2026-21510",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/21/2026-21510/petition-for-rulemaking-of-jason-plotzker",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-21/pdf/2026-21510.pdf",
+      "publication_date": "2026-10-21",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL TRADE COMMISSION",
+          "name": "Federal Trade Commission",
+          "id": 192,
+          "url": "https://www.federalregister.gov/agencies/federal-trade-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/192",
+          "parent_id": null,
+          "slug": "federal-trade-commission"
+        }
+      ],
+      "comments_close_on": "2026-11-20",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Nonconforming Investment Special Reserve",
+      "type": "Proposed Rule",
+      "abstract": "The NCUA Board (Board) is proposing to amend its regulations governing the requirements for federal share insurance. This action would remove the requirement for federally insured, state-chartered credit unions to establish a special reserve for certain investments that are beyond those authorized for federally chartered credit unions. The intended effect is to reduce unnecessary compliance and administrative burdens for state-chartered insured credit unions without diminishing the agency's ability to protect the National Credit Union Share Insurance Fund.",
+      "document_number": "2026-21509",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/21/2026-21509/nonconforming-investment-special-reserve",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-21/pdf/2026-21509.pdf",
+      "publication_date": "2026-10-21",
+      "agencies": [
+        {
+          "raw_name": "NATIONAL CREDIT UNION ADMINISTRATION",
+          "name": "National Credit Union Administration",
+          "id": 335,
+          "url": "https://www.federalregister.gov/agencies/national-credit-union-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/335",
+          "parent_id": null,
+          "slug": "national-credit-union-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-21",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3133-AG21"
+      ]
+    },
+    {
+      "title": "Conversion to State-Chartered Credit Union",
+      "type": "Proposed Rule",
+      "abstract": "The NCUA Board (Board) solicits public comment on a proposal to remove a regulatory provision regarding the process for maintaining federal share insurance following the conversion of a federal credit union (FCU) to a state charter. The provision is unnecessarily duplicative of a similar provision contained in NCUA's Chartering and Field of Membership Manual (Manual), and is outdated, having been superseded by amendments to the Manual.",
+      "document_number": "2026-21508",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/21/2026-21508/conversion-to-state-chartered-credit-union",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-21/pdf/2026-21508.pdf",
+      "publication_date": "2026-10-21",
+      "agencies": [
+        {
+          "raw_name": "NATIONAL CREDIT UNION ADMINISTRATION",
+          "name": "National Credit Union Administration",
+          "id": 335,
+          "url": "https://www.federalregister.gov/agencies/national-credit-union-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/335",
+          "parent_id": null,
+          "slug": "national-credit-union-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-21",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3133-AG26"
+      ]
+    },
+    {
+      "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Modify Groundfish Season Timing in the Bering Sea and Aleutian Islands and Gulf of Alaska Groundfish Fisheries",
+      "type": "Proposed Rule",
+      "abstract": "NMFS proposes two technical revisions to regulations for the opening and closing times of groundfish fisheries in the Bering Sea and Aleutian Islands (BSAI) and Gulf of Alaska (GOA) management areas. First, this proposed rule would authorize NMFS to determine the opening and closing times for the sablefish Individual Fishing Quota (IFQ) and Community Development Quota (CDQ) fishing season, taking into consideration the halibut IFQ/CDQ season set by the International Pacific Halibut Commission (IPHC). Second, this proposed rule would allow NMFS flexibility to change the time of day for closing a groundfish fishery. This proposed rule is necessary to minimize regulatory discards, reduce uncertainty for fishery participants, and enable fuller utilization and more precise limitation of allowable harvest. This action is intended to promote the goals and objectives of the Magnuson-Stevens Fishery Conservation and Management Act (Magnuson- Stevens Act), the Fishery Management Plan for the Groundfish of the BSAI Management Area (BSAI FMP) and the Fishery Management Plan for the Groundfish Fisheries of the GOA (GOA FMP), and other applicable laws.",
+      "document_number": "2026-21507",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/21/2026-21507/fisheries-of-the-exclusive-economic-zone-off-alaska-modify-groundfish-season-timing-in-the-bering",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-21/pdf/2026-21507.pdf",
+      "publication_date": "2026-10-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-20",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0648-BO22"
+      ]
+    },
+    {
+      "title": "Safety Zone; T/V DENISE FOSS (O.N. 1254223), Honolulu, HI",
+      "type": "Rule",
+      "abstract": "The Coast Guard is establishing a temporary safety zone for navigable waters within a 500-yard radius of the T/V DENISE FOSS (O.N. 1254223) and its tow, FOSS 3612 (O.N. 1255436). The moving safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with the transportation of two ship- to-shore cranes. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Port, Sector Honolulu, or their designated representative.",
+      "document_number": "2026-21498",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/21/2026-21498/safety-zone-tv-denise-foss-on-1254223-honolulu-hi",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-21/pdf/2026-21498.pdf",
+      "publication_date": "2026-10-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-21",
+      "regulation_id_numbers": [
+        "1625-AA00"
+      ]
+    },
+    {
+      "title": "Security Zones; Protection of Military Cargo, Captain of the Port Zone Puget Sound, WA",
+      "type": "Rule",
+      "abstract": "The Coast Guard will enforce security zones for the Protection of Military Cargo from October 30 through November 1, 2026, to provide for the security of life and vessels on navigable waterways during this event. Our regulation for Protection of Military Cargo within the Captain of the Port Zone Puget Sound, WA identifies the security zones for this event in the Blair Waterway and Sitcum Waterway, Commencement Bay, WA. During the enforcement periods, the operator of any vessel in the regulated area must comply with directions from the Captain of the Port or a designated representative.",
+      "document_number": "2026-21478",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/21/2026-21478/security-zones-protection-of-military-cargo-captain-of-the-port-zone-puget-sound-wa",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-21/pdf/2026-21478.pdf",
+      "publication_date": "2026-10-21",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": []
+    },
     {
       "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",
       "type": "Proposed Rule",
@@ -2815,10 +3088,10 @@
       "title": "Periodic Reporting",
       "type": "Proposed Rule",
       "abstract": "The Commission is acknowledging a recent Postal Service filing requesting the Commission initiate a rulemaking proceeding to consider changes to analytical principles relating to periodic reports. This document informs the public of the filing, invites public comment, and takes other administrative steps.",
-      "document_number": "2026-21000",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-21000/periodic-reporting",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-21000.pdf",
-      "publication_date": "2026-10-14",
+      "document_number": "2026-20865",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20865/periodic-reporting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20865.pdf",
+      "publication_date": "2026-10-13",
       "agencies": [
         {
           "raw_name": "POSTAL REGULATORY COMMISSION",
@@ -2830,247 +3103,7 @@
           "slug": "postal-regulatory-commission"
         }
       ],
-      "comments_close_on": "2026-11-19",
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-16, V-35, V-37, V-53, V-133, V-136, V-143, V-259, V-310, V-364, V-409, V-415, V-454, and V-605; Eastern United States",
-      "type": "Rule",
-      "abstract": "This action amends domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-16, V-35, V-37, V-53, V- 133, V-136, V-143, V-259, V-310, V-364, V-409, V-415, V-454, and V-605. The FAA is taking this action due to the decommissioning of the Charlotte, NC (CLT), VOR/Distance Measuring Equipment (VOR/DME); Foothills, SC (ODF), VOR/DME; Holston Mountain, TN (HMV), VOR/Tactical Air Navigation (VORTAC); and the relocation of the Spartanburg, SC (SPA), VORTAC.",
-      "document_number": "2026-20987",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20987/amendment-of-domestic-very-high-frequency-omnidirectional-range-vor-federal-airways-v-16-v-35-v-37",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20987.pdf",
-      "publication_date": "2026-10-14",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-12-24",
-      "regulation_id_numbers": [
-        "2120-AA66"
-      ]
-    },
-    {
-      "title": "Extending the Reporting Deadline Under the Greenhouse Gas Reporting Rule for Reporting Year 2025 to March 10, 2027",
-      "type": "Rule",
-      "abstract": "The Environmental Protection Agency (EPA) is taking interim final action to extend the reporting deadline under the Greenhouse Gas Reporting Rule for reporting year 2025 data from October 30, 2026, to March 10, 2027. This final action only changes the reporting deadline for annual greenhouse gas reports for reporting year 2025 and makes no other changes to the rule. The EPA is requesting comments on all aspects of this interim final rule.",
-      "document_number": "2026-20982",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20982/extending-the-reporting-deadline-under-the-greenhouse-gas-reporting-rule-for-reporting-year-2025-to",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20982.pdf",
-      "publication_date": "2026-10-14",
-      "agencies": [
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": "2026-11-30",
-      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OAR-2025-0186-1587",
-      "effective_on": "2026-10-14",
-      "regulation_id_numbers": [
-        "2060-AX07"
-      ]
-    },
-    {
-      "title": "Food Additives Permitted in Feed and Drinking Water of Animals; Chromium Propionate",
-      "type": "Rule",
-      "abstract": "The Food and Drug Administration (FDA, we, or the Agency) is amending the regulations for food additives permitted in feed and drinking water of animals to provide for the safe use of chromium propionate as a source of chromium in food for laying hens and breeder chickens. This action is in response to a food additive petition filed by Kemin Industries, Inc.",
-      "document_number": "2026-20979",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20979/food-additives-permitted-in-feed-and-drinking-water-of-animals-chromium-propionate",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20979.pdf",
-      "publication_date": "2026-10-14",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
-          "name": "Health and Human Services Department",
-          "id": 221,
-          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
-          "parent_id": null,
-          "slug": "health-and-human-services-department"
-        },
-        {
-          "raw_name": "Food and Drug Administration",
-          "name": "Food and Drug Administration",
-          "id": 199,
-          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
-          "parent_id": 221,
-          "slug": "food-and-drug-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-13",
-      "comment_url": "http://www.regulations.gov/commenton/FDA-2026-F-2048-0005",
-      "effective_on": "2026-10-14",
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Amendment of Boundaries for Restricted Areas R-5301, R-5302B, and R-5302C; NC",
-      "type": "Rule",
-      "abstract": "This action amends geographic coordinates for boundary points listed in the airspace descriptions for restricted areas R-5301, R- 5302B, and R-5302C to correct minor discrepancies that resulted in gaps and overlaps between the areas. This action does not expand any external boundaries or change any altitudes, times of designation, or activities conducted within the restricted areas.",
-      "document_number": "2026-20974",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20974/amendment-of-boundaries-for-restricted-areas-r-5301-r-5302b-and-r-5302c-nc",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20974.pdf",
-      "publication_date": "2026-10-14",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-12-24",
-      "regulation_id_numbers": [
-        "2120-AA66"
-      ]
-    },
-    {
-      "title": "Trichloroethylene (TCE); Regulation Under the Toxic Substances Control Act (TSCA); Compliance Date Extensions",
-      "type": "Proposed Rule",
-      "abstract": "The Environmental Protection Agency (EPA or Agency) is proposing to extend certain compliance dates applicable to certain entities subject to the regulation of trichloroethylene (TCE) under the Toxic Substances Control Act (TSCA) until December 31, 2027, including for certain chemical processors in meeting the prohibition compliance deadline for the processing of TCE, industrial and commercial use of TCE as a processing aid, and associated wastewater disposal; and for refrigerant manufacturers in meeting the compliance deadline for phasing down TCE feedstock in the production of HFC-134a. This proposed compliance extension would allow for necessary and reasonable transition periods for regulated entities under TSCA section 6(d).",
-      "document_number": "2026-20964",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20964/trichloroethylene-tce-regulation-under-the-toxic-substances-control-act-tsca-compliance-date",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20964.pdf",
-      "publication_date": "2026-10-14",
-      "agencies": [
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": "2026-11-13",
-      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OPPT-2026-7327-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2070-AL45"
-      ]
-    },
-    {
-      "title": "Removing 30-Day Refugee Termination Notice",
-      "type": "Rule",
-      "abstract": "This interim final rule (IFR) amends Department of Homeland Security (DHS) regulations to expedite termination of refugee status when DHS determines an alien was not a refugee within the meaning of section 101(a)(42) of the Immigration and Nationality Act at the time of admission to the United States. The response period to a Notice of Intent to Terminate (NOIT) is reduced from thirty to ten days. These changes aim to restore integrity to the immigration system, mitigate risks to national security and public safety, and prevent fraud and exploitation.",
-      "document_number": "2026-20956",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20956/removing-30-day-refugee-termination-notice",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20956.pdf",
-      "publication_date": "2026-10-14",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        }
-      ],
-      "comments_close_on": "2026-11-13",
-      "comment_url": "http://www.regulations.gov/commenton/USCIS-2026-0397-0001",
-      "effective_on": "2026-10-14",
-      "regulation_id_numbers": [
-        "1615-AD23"
-      ]
-    },
-    {
-      "title": "Removal of Automatic Extensions for Certain Employment Authorization Documents",
-      "type": "Rule",
-      "abstract": "On October 30, 2025, DHS published an interim final rule (IFR) that amended DHS regulations to end the practice of automatically extending the validity of employment authorization documents (Forms I- 766 or EADs) for aliens who have timely filed an application to renew their EAD in certain employment authorization categories. This final rule responds to comments received on the IFR and reaffirms and finalizes the provisions of the IFR. Ending the automatic extension of EADs enhances benefit integrity and prioritizes the proper vetting and screening of aliens before granting a new period of employment authorization and/or a new EAD.",
-      "document_number": "2026-20955",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20955.pdf",
-      "publication_date": "2026-10-14",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-10-14",
-      "regulation_id_numbers": [
-        "1615-AD05"
-      ]
-    },
-    {
-      "title": "Schedules of Controlled Substances: Temporary Placement of 7- Hydroxymitragynine and Mitragynine Pseudoindoxyl Above a Specified Threshold in Schedule I",
-      "type": "Proposed Rule",
-      "abstract": "The Administrator of the Drug Enforcement Administration (DEA) is issuing this notice of intent to publish a temporary order to schedule 7-hydroxymitragynine and mitragynine pseudoindoxyl (including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible) when either substance alone, or their combined amount if both are present, is above a specified threshold, in schedule I of the Controlled Substances Act (CSA). Based on a different threshold provided by the Department of Health and Human Services (HHS) in July of 2025, DEA published a notice of intent to temporarily schedule 7-hydroxymitragynine above that lower threshold on July 7, 2026. Additionally, DEA published a temporary order placing mitragynine pseudoindoxyl without a threshold in schedule I of the CSA on August 26, 2026. On October 8, 2026, HHS sent a letter recommending that DEA place of the CSA 7-hydroxymitragynine and mitragynine pseudoindoxyl in schedule I when either substance alone, or their combined amount if both are present, is above a new specified threshold. Based on the October 8, 2026 letter, DEA is issuing this notice of intent. While the new threshold recommended by HHS would permit certain products to remain in the marketplace without being subject to schedule I controls, neither HHS nor DEA has made a finding that these substances are safe to use at below-threshold levels. When a temporary order is issued, it will impose the regulatory controls and administrative, civil, and criminal sanctions applicable to schedule I controlled substances on persons who handle (manufacture, distribute, reverse distribute, import, export, engage in research, conduct instructional activities or chemical analysis with, or possess) or propose to handle 7- hydroxymitragynine and/or mitragynine pseudoindoxyl above the specified threshold. In a separate document contained in this issue of the Federal Register, DEA is withdrawing the July 7, 2026 notice of intent related to 7-hydroxymitragynine. The August 26, 2026 temporary order placing mitragynine pseudoindoxyl in schedule I of the CSA without a threshold remains in effect until either it expires or the new temporary order is published and the previous order is withdrawn, whichever occurs first.",
-      "document_number": "2026-20943",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-20943/schedules-of-controlled-substances-temporary-placement-of-7--hydroxymitragynine-and-mitragynine",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20943.pdf",
-      "publication_date": "2026-10-14",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF JUSTICE",
-          "name": "Justice Department",
-          "id": 268,
-          "url": "https://www.federalregister.gov/agencies/justice-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/268",
-          "parent_id": null,
-          "slug": "justice-department"
-        },
-        {
-          "raw_name": "Drug Enforcement Administration",
-          "name": "Drug Enforcement Administration",
-          "id": 116,
-          "url": "https://www.federalregister.gov/agencies/drug-enforcement-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/116",
-          "parent_id": 268,
-          "slug": "drug-enforcement-administration"
-        }
-      ],
-      "comments_close_on": null,
+      "comments_close_on": "2026-10-28",
       "comment_url": null,
       "effective_on": null,
       "regulation_id_numbers": []
@@ -3932,163 +3965,6 @@
       "effective_on": null,
       "regulation_id_numbers": [
         "1545-BR77"
-      ]
-    },
-    {
-      "title": "Regulation Crypto Assets",
-      "type": "Proposed Rule",
-      "abstract": "The Securities and Exchange Commission (\"Commission\") is proposing new rules to create a tailored offering regime for certain investment contracts involving crypto assets. The proposed offering regime is intended to facilitate capital formation and accommodate innovation within the crypto asset markets while, at the same time, ensuring that investors are adequately protected and provided with the information they need to make informed investment decisions. The proposed rules would be set forth in a new regulation titled \"Regulation Crypto Assets\" and would include two exemptions from the registration requirements of section 5 of the Securities Act of 1933. The first exemption would permit offerings of up to $5 million during a four-year period. The second exemption would permit offerings of up to $75 million during each 12-month period. Under both exemptions, issuers would be required to make certain principles-based narrative disclosures available to their investors. In addition, issuers under the second exemption would be required to provide financial statements and would be subject to ongoing reporting requirements. Issuers that rely on these exemptions would remain subject to the antifraud and antimanipulation provisions of the Federal securities laws. The proposed rules also would include a conditional safe harbor from the term \"investment contract\" in the definitions of \"security\" in the Securities Act of 1933 and the Securities Exchange Act of 1934. If the conditions of that proposed safe harbor are satisfied, then a crypto asset would be deemed not to be subject to an investment contract for purposes of those definitions of \"security.\"",
-      "document_number": "2026-17183",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17183/regulation-crypto-assets",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-21/pdf/2026-17183.pdf",
-      "publication_date": "2026-08-21",
-      "agencies": [
-        {
-          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
-          "name": "Securities and Exchange Commission",
-          "id": 466,
-          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
-          "parent_id": null,
-          "slug": "securities-and-exchange-commission"
-        }
-      ],
-      "comments_close_on": "2026-10-20",
-      "comment_url": null,
-      "effective_on": "2026-08-21",
-      "regulation_id_numbers": [
-        "3235-AN38"
-      ]
-    },
-    {
-      "title": "Request for Comment on the Listing of Compute Derivatives Contracts",
-      "type": "Proposed Rule",
-      "abstract": "The Commodity Futures Trading Commission (\"CFTC\" or \"Commission\") is seeking public responses to this Request for Comment to better inform its understanding and oversight of derivatives markets in compute.",
-      "document_number": "2026-17163",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17163/request-for-comment-on-the-listing-of-compute-derivatives-contracts",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-21/pdf/2026-17163.pdf",
-      "publication_date": "2026-08-21",
-      "agencies": [
-        {
-          "raw_name": "COMMODITY FUTURES TRADING COMMISSION",
-          "name": "Commodity Futures Trading Commission",
-          "id": 77,
-          "url": "https://www.federalregister.gov/agencies/commodity-futures-trading-commission",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/77",
-          "parent_id": null,
-          "slug": "commodity-futures-trading-commission"
-        }
-      ],
-      "comments_close_on": "2026-10-20",
-      "comment_url": "http://www.regulations.gov/commenton/CFTC-2026-1850-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "3038-AF77"
-      ]
-    },
-    {
-      "title": "Guidance on Eligible Investments for Trump Accounts",
-      "type": "Proposed Rule",
-      "abstract": "This document contains proposed regulations relating to Trump accounts. The proposed regulations would provide guidance regarding eligible investments, which are the only assets in which Trump account funds may be invested before the first day of the calendar year in which the account beneficiary attains age 18. The proposed regulations would affect account beneficiaries and trustees of Trump accounts.",
-      "document_number": "2026-17123",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17123/guidance-on-eligible-investments-for-trump-accounts",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-21/pdf/2026-17123.pdf",
-      "publication_date": "2026-08-21",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        },
-        {
-          "raw_name": "Internal Revenue Service",
-          "name": "Internal Revenue Service",
-          "id": 254,
-          "url": "https://www.federalregister.gov/agencies/internal-revenue-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/254",
-          "parent_id": 497,
-          "slug": "internal-revenue-service"
-        }
-      ],
-      "comments_close_on": "2026-10-20",
-      "comment_url": "http://www.regulations.gov/commenton/IRS-2026-1090-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1545-BS14"
-      ]
-    },
-    {
-      "title": "Genealogy Program Regulations To Clarify the Impact of Federal Records Requirements",
-      "type": "Proposed Rule",
-      "abstract": "The U.S. Department of Homeland Security (DHS) proposes to amend its regulation governing genealogy program related records requests to revise its genealogy program regulations to clarify the impact of statutory and regulatory federal records requirements. This is necessary for individuals who request immigration records through the agency's genealogy program to better understand which records may be requested.",
-      "document_number": "2026-17119",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17119/genealogy-program-regulations-to-clarify-the-impact-of-federal-records-requirements",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-21/pdf/2026-17119.pdf",
-      "publication_date": "2026-08-21",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        }
-      ],
-      "comments_close_on": "2026-10-20",
-      "comment_url": "http://www.regulations.gov/commenton/USCIS-2026-0331-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1615-AD21"
-      ]
-    },
-    {
-      "title": "Withdrawal of International Airport Designation of Chalk Seaplane Base",
-      "type": "Proposed Rule",
-      "abstract": "U.S. Customs and Border Protection (CBP) is proposing to withdraw the international airport designation of Chalk Seaplane Base, now operating as Miami Seaplane Base. This proposal is based on evidence that the facility at this location has not been in compliance with CBP regulatory and security standards and the amount of business clearing through the airport does not justify continued maintenance of inspection equipment and personnel. The proposed change is part of CBP's continued efforts to use its personnel, facilities, and resources more efficiently and to provide better service to carriers, importers, and the public.",
-      "document_number": "2026-17108",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/21/2026-17108/withdrawal-of-international-airport-designation-of-chalk-seaplane-base",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-21/pdf/2026-17108.pdf",
-      "publication_date": "2026-08-21",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        },
-        {
-          "raw_name": "DEPARTMENT OF ENERGY",
-          "name": "Energy Department",
-          "id": 136,
-          "url": "https://www.federalregister.gov/agencies/energy-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
-          "parent_id": null,
-          "slug": "energy-department"
-        },
-        {
-          "raw_name": "U.S. Customs and Border Protection",
-          "name": "U.S. Customs and Border Protection",
-          "id": 501,
-          "url": "https://www.federalregister.gov/agencies/u-s-customs-and-border-protection",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/501",
-          "parent_id": 227,
-          "slug": "u-s-customs-and-border-protection"
-        }
-      ],
-      "comments_close_on": "2026-10-20",
-      "comment_url": "http://www.regulations.gov/commenton/USCBP-2026-0892-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1651-AB51"
       ]
     },
     {

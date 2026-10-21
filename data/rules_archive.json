@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T19:12:55.743536+00:00",
-  "count": 299,
+  "updated_at": "2026-10-21T07:54:56.553925+00:00",
+  "count": 303,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -108,7 +108,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 10,
+      "comments_count": 12,
       "docket_id": "WCPO-2026-0694"
     },
     "2026-13047": {
@@ -536,7 +536,7 @@
       "significant": null,
       "comments_count": 7,
       "docket_id": "EPA-HQ-OLEM-2026-4159",
-      "final_checked": "2026-10-14"
+      "final_checked": "2026-10-21"
     },
     "2026-14118": {
       "title": "Alabama: Approval of State Coal Combustion Residuals Permit Program",
@@ -2171,7 +2171,7 @@
       "significant": null,
       "comments_count": 12588,
       "docket_id": "ACF-2026-0595",
-      "final_checked": "2026-10-14"
+      "final_checked": "2026-10-21"
     },
     "2026-16196": {
       "title": "Build America: Eliminating Barriers to Wireline Deployments",
@@ -2432,7 +2432,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 755,
+      "comments_count": 758,
       "docket_id": "FDA-2025-N-3262"
     },
     "2026-16313": {
@@ -2886,7 +2886,7 @@
       "significant": null,
       "comments_count": 234,
       "docket_id": "OCC-2026-0694",
-      "final_checked": "2026-10-14"
+      "final_checked": "2026-10-21"
     },
     "2026-16569": {
       "title": "Foreign Currency Gain or Loss of Controlled Foreign Corporations",
@@ -2993,7 +2993,7 @@
       "significant": false,
       "comments_count": 19,
       "docket_id": "NOAA-NMFS-2024-0050",
-      "final_checked": "2026-10-14"
+      "final_checked": "2026-10-21"
     },
     "2026-16630": {
       "title": "Updates and Amendments to the Civil Service Rules",
@@ -3060,7 +3060,7 @@
       "significant": false,
       "comments_count": 7,
       "docket_id": "TTB-2026-0003",
-      "final_checked": "2026-10-14"
+      "final_checked": "2026-10-21"
     },
     "2026-16669": {
       "title": "Proposed Establishment of the Mill Creek-Walla Walla Valley Viticultural Area",
@@ -3100,7 +3100,7 @@
       "significant": false,
       "comments_count": 5,
       "docket_id": "TTB-2026-0004",
-      "final_checked": "2026-10-14"
+      "final_checked": "2026-10-21"
     },
     "2026-16670": {
       "title": "Proposed Establishment of the Llano Uplift and Hickory Sands District Viticultural Areas",
@@ -3140,7 +3140,7 @@
       "significant": false,
       "comments_count": 5,
       "docket_id": "TTB-2026-0005",
-      "final_checked": "2026-10-14"
+      "final_checked": "2026-10-21"
     },
     "2026-16671": {
       "title": "Proposed Establishment of the Rancho Santa Fe Viticultural Area",
@@ -3180,7 +3180,7 @@
       "significant": false,
       "comments_count": 2,
       "docket_id": "TTB-2026-0006",
-      "final_checked": "2026-10-14"
+      "final_checked": "2026-10-21"
     },
     "2026-16724": {
       "title": "Receipt of Pesticide Petitions Filed for Residues of Pesticide Chemicals in or on Various Commodities-May 2026",
@@ -3856,7 +3856,8 @@
       "first_seen": "2026-10-03",
       "significant": false,
       "comments_count": 1,
-      "docket_id": "USCBP-2026-0892"
+      "docket_id": "USCBP-2026-0892",
+      "final_checked": "2026-10-21"
     },
     "2026-17119": {
       "title": "Genealogy Program Regulations To Clarify the Impact of Federal Records Requirements",
@@ -3886,7 +3887,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 5,
-      "docket_id": "USCIS-2026-0331"
+      "docket_id": "USCIS-2026-0331",
+      "final_checked": "2026-10-21"
     },
     "2026-17123": {
       "title": "Guidance on Eligible Investments for Trump Accounts",
@@ -3925,7 +3927,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 25,
-      "docket_id": "IRS-2026-1090"
+      "docket_id": "IRS-2026-1090",
+      "final_checked": "2026-10-21"
     },
     "2026-17163": {
       "title": "Request for Comment on the Listing of Compute Derivatives Contracts",
@@ -3955,7 +3958,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 66,
-      "docket_id": "CFTC-2026-1850"
+      "docket_id": "CFTC-2026-1850",
+      "final_checked": "2026-10-21"
     },
     "2026-17183": {
       "title": "Regulation Crypto Assets",
@@ -3985,7 +3989,8 @@
       "first_seen": "2026-10-03",
       "significant": true,
       "comments_count": 0,
-      "docket_id": null
+      "docket_id": null,
+      "final_checked": "2026-10-21"
     },
     "2026-17211": {
       "title": "Travel Management; National Forest System Lands",
@@ -4456,7 +4461,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 9,
+      "comments_count": 10,
       "docket_id": "DOS-2026-0925"
     },
     "2026-17660": {
@@ -4853,7 +4858,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 326,
+      "comments_count": 341,
       "docket_id": "NPS-2026-0166"
     },
     "2026-17926": {
@@ -4892,7 +4897,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 49,
+      "comments_count": 51,
       "docket_id": "USCBP-2026-1058"
     },
     "2026-17939": {
@@ -5232,7 +5237,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 37451,
+      "comments_count": 43727,
       "docket_id": "BLM-2026-0133"
     },
     "2026-18282": {
@@ -5542,7 +5547,7 @@
       "significant": null,
       "comments_count": 55915,
       "docket_id": "USBC-2026-0628",
-      "final_checked": "2026-10-14"
+      "final_checked": "2026-10-21"
     },
     "2026-18484": {
       "title": "Reef Fish Fishery of the Gulf of America; 2027 Red Grouper Commercial Quota Retention",
@@ -5582,7 +5587,7 @@
       "significant": null,
       "comments_count": 10,
       "docket_id": "NOAA-NMFS-2026-1882",
-      "final_checked": "2026-10-14"
+      "final_checked": "2026-10-21"
     },
     "2026-18504": {
       "title": "In Situ Recovery Monitoring and Decommissioning Timeliness",
@@ -5613,7 +5618,7 @@
       "significant": null,
       "comments_count": 20,
       "docket_id": "NRC-2025-1204",
-      "final_checked": "2026-10-14"
+      "final_checked": "2026-10-21"
     },
     "2026-18531": {
       "title": "Modernization of Regulations Under 9 CFR Parts 101-118 and 123-124",
@@ -5741,7 +5746,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 26424,
+      "comments_count": 26480,
       "docket_id": "USCIS-2026-0364"
     },
     "2026-18648": {
@@ -5782,7 +5787,7 @@
       "significant": true,
       "comments_count": 15936,
       "docket_id": "FS-2025-0001",
-      "final_checked": "2026-10-14"
+      "final_checked": "2026-10-21"
     },
     "2026-18755": {
       "title": "Clean Data Determination; 1997 8-Hour Ozone Standards; California; Sacramento Metro Area",
@@ -6086,7 +6091,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 162,
+      "comments_count": 164,
       "docket_id": "OPM-2026-0661"
     },
     "2026-19027": {
@@ -6144,7 +6149,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 9135,
+      "comments_count": 10086,
       "docket_id": "EPA-HQ-OAR-2025-0124"
     },
     "2026-19158": {
@@ -6451,7 +6456,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 88,
+      "comments_count": 93,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     "2026-19222": {
@@ -6698,7 +6703,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 8,
+      "comments_count": 9,
       "docket_id": "GSA-GSAR-2026-0563"
     },
     "2026-19332": {
@@ -6728,7 +6733,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "DOE-HQ-2026-0496"
     },
     "2026-19346": {
@@ -6767,7 +6772,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 6,
       "docket_id": "NOAA-NMFS-2026-1354"
     },
     "2026-19349": {
@@ -6806,7 +6811,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 123,
+      "comments_count": 125,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19350": {
@@ -6845,7 +6850,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 1840,
+      "comments_count": 1897,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19361": {
@@ -6951,7 +6956,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "NHTSA-2023-0031"
     },
     "2026-19400": {
@@ -7055,7 +7060,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 7,
+      "comments_count": 8,
       "docket_id": "APHIS-2023-0069"
     },
     "2026-19535": {
@@ -7094,7 +7099,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 26,
+      "comments_count": 27,
       "docket_id": "CMS-2026-3037"
     },
     "2026-19546": {
@@ -7124,7 +7129,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 354,
+      "comments_count": 364,
       "docket_id": "SBA-2026-0199"
     },
     "2026-19568": {
@@ -7512,7 +7517,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "TREAS-DO-2026-0562"
     },
     "2026-20027": {
@@ -7551,7 +7556,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 102,
+      "comments_count": 105,
       "docket_id": "IRS-2026-1321"
     },
     "2026-20038": {
@@ -7637,7 +7642,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 5,
+      "comments_count": 6,
       "docket_id": "DOS-2026-0991"
     },
     "2026-20084": {
@@ -7676,7 +7681,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "DEA-2026-1684"
     },
     "2026-20087": {
@@ -7812,7 +7817,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 33,
+      "comments_count": 34,
       "docket_id": "FTC-2026-1552"
     },
     "2026-20169": {
@@ -7918,7 +7923,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 144,
+      "comments_count": 157,
       "docket_id": "NPS-2026-0199"
     },
     "2026-20277": {
@@ -7957,7 +7962,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 21229,
+      "comments_count": 21319,
       "docket_id": "IRS-2026-1354"
     },
     "2026-20296": {
@@ -8096,7 +8101,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 45,
+      "comments_count": 48,
       "docket_id": "ACF-2026-0562"
     },
     "2026-20335": {
@@ -8126,7 +8131,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "NRC-2025-1568"
     },
     "2026-20336": {
@@ -8524,7 +8529,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "FAA-2026-9941"
     },
     "2026-20466": {
@@ -8583,7 +8588,7 @@
         "2060-AW33"
       ],
       "significant": false,
-      "comments_count": 8,
+      "comments_count": 10,
       "docket_id": "EPA-HQ-OAR-2024-0078",
       "first_seen": "2026-10-06"
     },
@@ -8766,7 +8771,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 110,
+      "comments_count": 113,
       "docket_id": "CMS-2026-3235",
       "first_seen": "2026-10-08"
     },
@@ -8805,7 +8810,7 @@
         "1685-AA38"
       ],
       "significant": null,
-      "comments_count": 11,
+      "comments_count": 12,
       "docket_id": "USCBP-2026-0298",
       "first_seen": "2026-10-08"
     },
@@ -8835,7 +8840,7 @@
         "1653-AB01"
       ],
       "significant": null,
-      "comments_count": 2855,
+      "comments_count": 3033,
       "docket_id": "ICEB-2026-0100",
       "first_seen": "2026-10-08"
     },
@@ -8969,7 +8974,7 @@
         "1651-AB60"
       ],
       "significant": true,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "USCBP-2026-0992",
       "first_seen": "2026-10-11"
     },
@@ -8999,7 +9004,7 @@
         "3038-AF80"
       ],
       "significant": null,
-      "comments_count": 17,
+      "comments_count": 19,
       "docket_id": "CFTC-2026-2179",
       "first_seen": "2026-10-11"
     },
@@ -9029,7 +9034,7 @@
         "1615-AD26"
       ],
       "significant": null,
-      "comments_count": 232,
+      "comments_count": 244,
       "docket_id": "USCIS-2026-0529",
       "first_seen": "2026-10-14"
     },
@@ -9059,7 +9064,7 @@
         "1615-AD23"
       ],
       "significant": null,
-      "comments_count": 54,
+      "comments_count": 63,
       "docket_id": "USCIS-2026-0397",
       "first_seen": "2026-10-14"
     },
@@ -9352,7 +9357,7 @@
         "1545-BS15"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "IRS-2026-1420",
       "first_seen": "2026-10-15"
     },
@@ -9785,7 +9790,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "EPA-R09-OAR-2024-0600",
       "first_seen": "2026-10-17"
     },
@@ -9824,7 +9829,7 @@
         "1024-AF12"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "NPS-2026-0232",
       "first_seen": "2026-10-17"
     },
@@ -9910,7 +9915,7 @@
         "3038-AF81"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "CFTC-2026-2214",
       "first_seen": "2026-10-19"
     },
@@ -9940,7 +9945,7 @@
         "3038-AF82"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 2,
       "docket_id": "CFTC-2026-2213",
       "first_seen": "2026-10-17"
     },
@@ -9968,7 +9973,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "EPA-R10-OAR-2026-4291",
       "first_seen": "2026-10-17"
     },
@@ -10007,7 +10012,7 @@
         "0938-AV88"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 2,
       "docket_id": "CMS-2026-3533",
       "first_seen": "2026-10-20"
     },
@@ -10046,7 +10051,7 @@
         "0579-AE83"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "APHIS-2023-0016",
       "first_seen": "2026-10-20"
     },
@@ -10088,6 +10093,124 @@
       "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-10-20"
+    },
+    "2026-21508": {
+      "title": "Conversion to State-Chartered Credit Union",
+      "type": "Proposed Rule",
+      "abstract": "The NCUA Board (Board) solicits public comment on a proposal to remove a regulatory provision regarding the process for maintaining federal share insurance following the conversion of a federal credit union (FCU) to a state charter. The provision is unnecessarily duplicative of a similar provision contained in NCUA's Chartering and Field of Membership Manual (Manual), and is outdated, having been superseded by amendments to the Manual.",
+      "document_number": "2026-21508",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/21/2026-21508/conversion-to-state-chartered-credit-union",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-21/pdf/2026-21508.pdf",
+      "publication_date": "2026-10-21",
+      "agencies": [
+        {
+          "raw_name": "NATIONAL CREDIT UNION ADMINISTRATION",
+          "name": "National Credit Union Administration",
+          "id": 335,
+          "url": "https://www.federalregister.gov/agencies/national-credit-union-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/335",
+          "parent_id": null,
+          "slug": "national-credit-union-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-21",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3133-AG26"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-21"
+    },
+    "2026-21509": {
+      "title": "Nonconforming Investment Special Reserve",
+      "type": "Proposed Rule",
+      "abstract": "The NCUA Board (Board) is proposing to amend its regulations governing the requirements for federal share insurance. This action would remove the requirement for federally insured, state-chartered credit unions to establish a special reserve for certain investments that are beyond those authorized for federally chartered credit unions. The intended effect is to reduce unnecessary compliance and administrative burdens for state-chartered insured credit unions without diminishing the agency's ability to protect the National Credit Union Share Insurance Fund.",
+      "document_number": "2026-21509",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/21/2026-21509/nonconforming-investment-special-reserve",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-21/pdf/2026-21509.pdf",
+      "publication_date": "2026-10-21",
+      "agencies": [
+        {
+          "raw_name": "NATIONAL CREDIT UNION ADMINISTRATION",
+          "name": "National Credit Union Administration",
+          "id": 335,
+          "url": "https://www.federalregister.gov/agencies/national-credit-union-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/335",
+          "parent_id": null,
+          "slug": "national-credit-union-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-21",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3133-AG21"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-21"
+    },
+    "2026-21510": {
+      "title": "Petition for Rulemaking of Jason Plotzker",
+      "type": "Proposed Rule",
+      "abstract": "Please take notice that the Federal Trade Commission (\"Commission\") received a petition for rulemaking from Jason Plotzker and has published that petition online at https://www.regulations.gov. The Commission invites written comments concerning the petition. Publication of this petition is pursuant to the Commission's Rules of Practice and Procedure and does not affect the legal status of the petition or its final disposition.",
+      "document_number": "2026-21510",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/21/2026-21510/petition-for-rulemaking-of-jason-plotzker",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-21/pdf/2026-21510.pdf",
+      "publication_date": "2026-10-21",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL TRADE COMMISSION",
+          "name": "Federal Trade Commission",
+          "id": 192,
+          "url": "https://www.federalregister.gov/agencies/federal-trade-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/192",
+          "parent_id": null,
+          "slug": "federal-trade-commission"
+        }
+      ],
+      "comments_close_on": "2026-11-20",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-21"
+    },
+    "2026-21512": {
+      "title": "Notification to Members/Shareholders",
+      "type": "Proposed Rule",
+      "abstract": "The NCUA Board (Board) solicits public comment on a proposal to streamline the methods a federally insured credit union (FICU) may use to provide its members with notice of share insurance coverage. The current regulation is overly prescriptive, mandating that a FICU make available hard copies of certain prescribed materials. While a FICU would still be required to provide notice to members, the proposed rule would defer to the FICU on the method used for such notification. Among other methods, a FICU may elect to provide members with a link to updated online resources that will be maintained on the NCUA website. The Board believes the proposed rule will provide greater flexibility, reduce compliance costs for both NCUA and FICUs, and ensure that members are provided with up-to-date information regarding share insurance coverage.",
+      "document_number": "2026-21512",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/21/2026-21512/notification-to-membersshareholders",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-21/pdf/2026-21512.pdf",
+      "publication_date": "2026-10-21",
+      "agencies": [
+        {
+          "raw_name": "NATIONAL CREDIT UNION ADMINISTRATION",
+          "name": "National Credit Union Administration",
+          "id": 335,
+          "url": "https://www.federalregister.gov/agencies/national-credit-union-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/335",
+          "parent_id": null,
+          "slug": "national-credit-union-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-21",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3133-AG24"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-21"
     },
     "C1-2026-20360": {
       "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",
