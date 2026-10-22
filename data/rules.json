@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T12:03:41.898876+00:00",
+  "updated_at": "2026-10-22T14:05:59.690963+00:00",
   "latest_date": "2026-10-22",
   "issue_count": 13,
   "documents": [
@@ -82,7 +82,7 @@
         }
       ],
       "comments_close_on": "2026-12-07",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OW-2026-0496-0001",
       "effective_on": null,
       "regulation_id_numbers": []
     },
@@ -115,7 +115,7 @@
         }
       ],
       "comments_close_on": "2026-11-23",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/USCG-2024-0407-0005",
       "effective_on": null,
       "regulation_id_numbers": [
         "1625-AA09"
@@ -174,7 +174,7 @@
         }
       ],
       "comments_close_on": "2026-11-23",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA_FRDOC_0001-33227",
       "effective_on": "2026-12-21",
       "regulation_id_numbers": []
     },
