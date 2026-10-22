@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T00:11:48.245829+00:00",
-  "count": 303,
+  "updated_at": "2026-10-22T07:55:30.507132+00:00",
+  "count": 305,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -108,7 +108,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 12,
+      "comments_count": 14,
       "docket_id": "WCPO-2026-0694"
     },
     "2026-13047": {
@@ -2046,7 +2046,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 12,
+      "comments_count": 13,
       "docket_id": "BIS-2026-0364"
     },
     "2026-16108": {
@@ -2432,7 +2432,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 758,
+      "comments_count": 761,
       "docket_id": "FDA-2025-N-3262"
     },
     "2026-16313": {
@@ -4858,7 +4858,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 341,
+      "comments_count": 362,
       "docket_id": "NPS-2026-0166"
     },
     "2026-17926": {
@@ -5237,7 +5237,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 43727,
+      "comments_count": 45776,
       "docket_id": "BLM-2026-0133"
     },
     "2026-18282": {
@@ -5746,7 +5746,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 26480,
+      "comments_count": 26532,
       "docket_id": "USCIS-2026-0364"
     },
     "2026-18648": {
@@ -6119,7 +6119,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 7,
+      "comments_count": 8,
       "docket_id": "EPA-HQ-OLEM-2026-4326"
     },
     "2026-19072": {
@@ -6149,7 +6149,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 10086,
+      "comments_count": 10317,
       "docket_id": "EPA-HQ-OAR-2025-0124"
     },
     "2026-19158": {
@@ -6456,7 +6456,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 93,
+      "comments_count": 222,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     "2026-19222": {
@@ -6526,7 +6526,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 5,
-      "docket_id": "USCG-2026-0049"
+      "docket_id": "USCG-2026-0049",
+      "final_checked": "2026-10-22"
     },
     "2026-19259": {
       "title": "Proxy Solicitation Modernization",
@@ -6811,7 +6812,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 125,
+      "comments_count": 129,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19350": {
@@ -6850,7 +6851,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 1897,
+      "comments_count": 1985,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19361": {
@@ -6956,7 +6957,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 5,
+      "comments_count": 6,
       "docket_id": "NHTSA-2023-0031"
     },
     "2026-19400": {
@@ -6993,7 +6994,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 137,
+      "comments_count": 140,
       "docket_id": "DEA-2026-1585"
     },
     "2026-19500": {
@@ -7099,7 +7100,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 27,
+      "comments_count": 31,
       "docket_id": "CMS-2026-3037"
     },
     "2026-19546": {
@@ -7129,7 +7130,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 364,
+      "comments_count": 368,
       "docket_id": "SBA-2026-0199"
     },
     "2026-19568": {
@@ -7159,7 +7160,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 15,
+      "comments_count": 17,
       "docket_id": "NRC-2025-1138"
     },
     "2026-19579": {
@@ -7341,7 +7342,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "ATF-2026-0365"
     },
     "2026-19710": {
@@ -7556,7 +7557,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 105,
+      "comments_count": 106,
       "docket_id": "IRS-2026-1321"
     },
     "2026-20038": {
@@ -7612,7 +7613,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "FTC-2026-1453"
     },
     "2026-20079": {
@@ -7817,7 +7818,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 34,
+      "comments_count": 35,
       "docket_id": "FTC-2026-1552"
     },
     "2026-20169": {
@@ -7884,7 +7885,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 69,
+      "comments_count": 73,
       "docket_id": "RBS-26-BUSINESS-0529"
     },
     "2026-20251": {
@@ -7962,7 +7963,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 21319,
+      "comments_count": 21421,
       "docket_id": "IRS-2026-1354"
     },
     "2026-20296": {
@@ -8101,7 +8102,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 48,
+      "comments_count": 52,
       "docket_id": "ACF-2026-0562"
     },
     "2026-20335": {
@@ -8131,7 +8132,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 7,
+      "comments_count": 9,
       "docket_id": "NRC-2025-1568"
     },
     "2026-20336": {
@@ -8267,7 +8268,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "FINCEN-2026-0265"
     },
     "2026-20372": {
@@ -8490,7 +8491,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "FAA-2026-9940"
     },
     "2026-20392": {
@@ -8529,7 +8530,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "FAA-2026-9941"
     },
     "2026-20466": {
@@ -8704,7 +8705,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 7,
+      "comments_count": 8,
       "docket_id": "DOJ_FRDOC_0001",
       "first_seen": "2026-10-07"
     },
@@ -8732,7 +8733,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "EPA-R09-OAR-2026-4654",
       "first_seen": "2026-10-08"
     },
@@ -8771,7 +8772,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 113,
+      "comments_count": 115,
       "docket_id": "CMS-2026-3235",
       "first_seen": "2026-10-08"
     },
@@ -8840,7 +8841,7 @@
         "1653-AB01"
       ],
       "significant": null,
-      "comments_count": 3033,
+      "comments_count": 3197,
       "docket_id": "ICEB-2026-0100",
       "first_seen": "2026-10-08"
     },
@@ -9004,7 +9005,7 @@
         "3038-AF80"
       ],
       "significant": null,
-      "comments_count": 19,
+      "comments_count": 20,
       "docket_id": "CFTC-2026-2179",
       "first_seen": "2026-10-11"
     },
@@ -9034,7 +9035,7 @@
         "1615-AD26"
       ],
       "significant": null,
-      "comments_count": 244,
+      "comments_count": 257,
       "docket_id": "USCIS-2026-0529",
       "first_seen": "2026-10-14"
     },
@@ -9064,7 +9065,7 @@
         "1615-AD23"
       ],
       "significant": null,
-      "comments_count": 63,
+      "comments_count": 68,
       "docket_id": "USCIS-2026-0397",
       "first_seen": "2026-10-14"
     },
@@ -9161,7 +9162,7 @@
         "2060-AX07"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "EPA-HQ-OAR-2025-0186",
       "first_seen": "2026-10-14"
     },
@@ -9288,7 +9289,7 @@
         "3150-AL70"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "NRC-2026-2377",
       "first_seen": "2026-10-14"
     },
@@ -9973,7 +9974,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "EPA-R10-OAR-2026-4291",
       "first_seen": "2026-10-17"
     },
@@ -10120,7 +10121,7 @@
         "3133-AG26"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "NCUA-2026-1887",
       "first_seen": "2026-10-21"
     },
@@ -10150,7 +10151,7 @@
         "3133-AG21"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "NCUA-2026-1886",
       "first_seen": "2026-10-21"
     },
@@ -10178,7 +10179,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FTC-2026-1618",
       "first_seen": "2026-10-21"
     },
@@ -10208,9 +10209,65 @@
         "3133-AG24"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "NCUA-2026-1888",
       "first_seen": "2026-10-21"
+    },
+    "2026-21603": {
+      "title": "Nevada: Codification and Incorporation by Reference of Approved Underground Storage Tank Program",
+      "type": "Rule",
+      "abstract": "On September 30, 2021, the State of Nevada (Nevada) received final approval, from the Environmental Protection Agency (EPA), of revisions to its Underground Storage Tank Program (UST Program) under subtitle I of the Resource Conservation and Recovery Act (RCRA). Pursuant to RCRA, the EPA is taking direct final action to codify the approval of Nevada's revised UST Program and incorporate by reference those provisions of Nevada's statutes and regulations that the EPA has determined meet the requirements for approval.",
+      "document_number": "2026-21603",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/22/2026-21603/nevada-codification-and-incorporation-by-reference-of-approved-underground-storage-tank-program",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-22/pdf/2026-21603.pdf",
+      "publication_date": "2026-10-22",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-11-23",
+      "comment_url": null,
+      "effective_on": "2026-12-21",
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-22"
+    },
+    "2026-21618": {
+      "title": "Utah Underground Injection Control Program; Class VI Primacy",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA or Agency) has received a complete Underground Injection Control (UIC) program revision application from the State of Utah, requesting primary enforcement responsibility (primacy) for Class VI injection wells under Safe Drinking Water Act (SDWA) section 1422. The EPA's approval of the State's UIC program revision application would allow the Utah Department of Natural Resources, Division of Oil, Gas and Mining (DOGM) to issue and enforce compliance with UIC Class VI permits for injection wells used for geologic carbon sequestration. In this action, the EPA proposes to approve Utah's application to implement the UIC program for Class VI injection wells located within the State, except those on Indian lands for which the EPA retains primacy. The EPA has determined that Utah's UIC Class VI program meets Federal requirements for primacy under SDWA section 1422 and the applicable implementing regulations in 40 CFR parts 144, 145, and 146.",
+      "document_number": "2026-21618",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/22/2026-21618/utah-underground-injection-control-program-class-vi-primacy",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-22/pdf/2026-21618.pdf",
+      "publication_date": "2026-10-22",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-12-07",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-22"
     },
     "C1-2026-20360": {
       "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",
