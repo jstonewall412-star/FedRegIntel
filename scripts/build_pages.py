@@ -56,13 +56,63 @@ def ld_json(data):
 
 def page(path, title, description, body, structured=None, robots=None):
     canonical = SITE + path
+    if not robots:
+        body += share_controls(path, title)
     return f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title><meta name="description" content="{esc(description)}"><meta name="theme-color" content="#102f35">{f'<meta name="robots" content="{robots}">' if robots else ''}<link rel="canonical" href="{esc(canonical)}"><meta property="og:type" content="website"><meta property="og:site_name" content="FedReg Intel"><meta property="og:url" content="{esc(canonical)}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(description)}"><meta name="twitter:card" content="summary_large_image"><link rel="stylesheet" href="{CSS}">{ld_json(structured) if structured else ''}</head>
-<body><header><div class="shell nav"><a class="brand" href="/"><span class="brand-mark" aria-hidden="true">F<span>R</span></span><span>FEDREG <b>INTEL</b><small>THE PUBLIC PARTICIPATION BRIEF</small></span></a><nav aria-label="Main navigation"><a href="/rules/">Open for comment</a><a href="/rules/#closing-this-week">Upcoming deadlines</a><a href="/videos/">Video briefings</a><a href="/how-to-comment-on-federal-rules/">How to comment</a><a href="/#book">The book</a><a href="/#newsletter">Email list</a><a class="nav-cta" href="https://www.youtube.com/@FedRegIntel?sub_confirmation=1" target="_blank" rel="noopener">Subscribe ↗</a></nav></div></header>
-<main class="shell static-page">{body}</main>
+<body><header><div class="shell nav"><a class="brand" href="/"><span class="brand-mark" aria-hidden="true">F<span>R</span></span><span>FEDREG <b>INTEL</b><small>THE PUBLIC PARTICIPATION BRIEF</small></span></a><nav aria-label="Main navigation"><a href="/rules/">Open for comment</a><a href="/federal-comment-deadlines/">Upcoming deadlines</a><a href="/videos/">Video briefings</a><a href="/how-to-comment-on-federal-rules/">How to comment</a><a href="/#book">The book</a><a href="/#newsletter">Email list</a><a class="nav-cta" href="https://www.youtube.com/@FedRegIntel?sub_confirmation=1" target="_blank" rel="noopener">Subscribe ↗</a></nav></div></header>
+<main class="shell static-page">{body}</main><script src="/assets/share.js" defer></script>
 <footer class="shell"><a class="footer-brand" href="/">FEDREG INTEL</a><p>Independent educational coverage. Not a government website or legal advice. Verify information against the official publication on <a href="https://www.govinfo.gov/">GovInfo</a>.</p><div><a href="/privacy.html">Privacy policy</a><a href="https://www.youtube.com/@FedRegIntel">YouTube</a><a href="https://bsky.app/profile/fedregintel.com" rel="me noopener">Bluesky</a><a href="https://x.com/FedRegIntel" rel="me noopener">X</a><a href="mailto:hello@fedregintel.com">Contact</a></div></footer>
 </body></html>
 '''
+
+def share_controls(path, title):
+    return (f'<section class="aside-note" aria-label="Share this page"><h2>Know someone following this?</h2>'
+            '<p>Send them the page so they can check the source and the deadline.</p>'
+            f'<button class="secondary" type="button" data-share-url="{esc(SITE + path)}" data-share-title="{esc(title)}" hidden>Share this page</button> '
+            f'<button class="secondary" type="button" data-copy-url="{esc(SITE + path)}" hidden>Copy page link</button>'
+            '<p data-share-status role="status" aria-live="polite"></p></section>')
+
+def build_deadlines(out, rules, day):
+    """A bookmarkable deadline view and homepage links, rendered before JavaScript runs."""
+    path = '/federal-comment-deadlines/'
+    upcoming = sorted((d for d in rules if day <= d['comments_close_on'] <= week_out(day)),
+                      key=lambda d: (d['comments_close_on'], d['title']))
+    groups = {}
+    for d in upcoming:
+        groups.setdefault(d['comments_close_on'], []).append(d)
+    listing = ''.join(f'<section><h2>{esc(long_date(deadline))}</h2>'
+                      f'<ul class="rule-index">{"".join(rule_item(d) for d in docs)}</ul></section>'
+                      for deadline, docs in groups.items())
+    if not listing:
+        listing = '<p>No deadlines in the next seven days in our current coverage. <a href="/rules/">See later comment deadlines</a>.</p>'
+    body = ('<p class="crumbs"><a href="/">Home</a> / Comment deadlines</p>'
+            '<p class="eyebrow">PLAN YOUR PUBLIC COMMENT</p><h1 class="page-title">Federal public comment deadlines this week</h1>'
+            f'<p class="section-intro">{len(upcoming)} rules and proposed rules in our coverage have comment deadlines from '
+            f'{esc(long_date(day))} through {esc(long_date(week_out(day)))}. Grouped by closing date. Updated daily.</p>'
+            '<p>Bookmark this page or share it with a colleague who follows federal proposals. '
+            'Our coverage leaves out narrow technical items, including airworthiness directives and single-site safety zones. '
+            '<a href="https://www.federalregister.gov/documents/search">Search the full Federal Register</a> for other documents.</p>'
+            + listing + '<section class="aside-note"><h2>Before the deadline</h2><ol>'
+            '<li>Open the rule page and follow its official Federal Register link.</li>'
+            '<li>Check for extensions, the exact closing time, and submission instructions in DATES and ADDRESSES.</li>'
+            '<li>Use our <a href="/how-to-comment-on-federal-rules/#example">public-comment example</a> to organize a specific, supported response.</li>'
+            '<li>Submit through the official channel and save the confirmation.</li></ol>'
+            '<p><a href="/rules/">Browse all open comment periods</a> or <a href="/videos/">watch the latest briefings</a>.</p></section>')
+    write(out, path, page(path, 'Federal Public Comment Deadlines This Week | FedReg Intel',
+                         'Find federal rules with public comment deadlines in the next seven days. Browse by closing date and follow official submission links.', body))
+    home = out / 'index.html'
+    if home.exists():
+        preview = (f'<section class="shell deadline-preview" aria-labelledby="deadline-preview-title">'
+                   '<p class="eyebrow">YOUR NEXT COMMENT WINDOW</p><h2 id="deadline-preview-title">Federal comment deadlines coming up</h2>'
+                   f'<p>From our coverage as of {esc(long_date(day))}. Confirm dates and instructions in the official document.</p>'
+                   + (f'<ul class="rule-index">{"".join(rule_item(d) for d in upcoming[:5])}</ul>' if upcoming else '<p>No deadlines in the next seven days in our current coverage.</p>')
+                   + f'<p><a class="text-link" href="{path}">See all deadlines in the next seven days →</a></p></section>')
+        text = home.read_text(encoding='utf-8')
+        text = re.sub(r'<!-- deadline-preview:start -->.*?<!-- deadline-preview:end -->',
+                      lambda _: '<!-- deadline-preview:start -->' + preview + '<!-- deadline-preview:end -->', text, flags=re.S)
+        home.write_text(text, encoding='utf-8')
+    return [(path, None)]
 
 def write(out, path, text):
     target = out / path.strip('/') / 'index.html'
@@ -283,6 +333,7 @@ def build(out, day=None):
     # Omit unknown lastmod values instead of advancing them on every build.
     entries = [('/', None), ('/rules/', None), ('/videos/', None), ('/privacy.html', None)]
     entries += build_comment_guide(out)
+    entries += build_deadlines(out, rules, day)
     entries += build_rules(out, rules, day, covered_by) + build_videos(out, videos, transcripts, by_number)
     sitemap(out, entries)
     build_social_page(out, day)

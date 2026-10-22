@@ -115,5 +115,37 @@ class PageTests(unittest.TestCase):
             with patch.object(m,'DATA',Path(data)): self.assertEqual(m.build(out,'2026-10-03'),(0,0))
             self.assertIn('No open comment periods',(Path(out)/'rules/index.html').read_text(encoding='utf-8'))
             self.assertTrue((Path(out)/'sitemap.xml').exists())
+
+    def test_deadlines_exclude_closed_and_later_rules(self):
+        self.build()
+        deadline=self.read('federal-comment-deadlines')
+        self.assertIn('Open proposal',deadline)
+        self.assertNotIn('Later rule',deadline)
+        self.assertNotIn('Closed proposal',deadline)
+        self.assertIn('October 3, 2026',deadline)
+        self.assertIn('October 10, 2026',deadline)
+        self.assertIn('https://fedregintel.com/federal-comment-deadlines/',(self.out/'sitemap.xml').read_text())
+
+    def test_home_preview_is_static_escaped_and_idempotent(self):
+        rules=[{**OPEN['documents'][0], 'title':'Proposal <script>bad</script>'}]
+        with tempfile.TemporaryDirectory() as out:
+            target=Path(out)/'index.html'
+            target.write_text('<main><!-- deadline-preview:start -->Fallback<!-- deadline-preview:end --><div id="rules">Dashboard</div></main>')
+            m.build_deadlines(Path(out),rules,'2026-10-03')
+            first=target.read_text()
+            self.assertIn('Proposal &lt;script&gt;bad&lt;/script&gt;',first)
+            self.assertIn('href="/rules/2026-11111/"',first)
+            self.assertIn('<div id="rules">Dashboard</div>',first)
+            m.build_deadlines(Path(out),rules,'2026-10-03')
+            self.assertEqual(first,target.read_text())
+            m.build_deadlines(Path(out),rules,'2026-10-06')
+            self.assertNotIn('2026-11111',target.read_text())
+
+    def test_sharing_uses_the_canonical_page_and_escaped_title(self):
+        self.build()
+        video=self.read('videos/abcdefghijk')
+        self.assertIn('data-copy-url="https://fedregintel.com/videos/abcdefghijk/"',video)
+        self.assertIn('src="/assets/share.js"',video)
+        self.assertNotIn('<script>alert',video)
 if __name__=='__main__': unittest.main()
 
