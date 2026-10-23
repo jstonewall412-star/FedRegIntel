@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T07:54:27.166455+00:00",
+  "updated_at": "2026-10-23T14:05:18.355159+00:00",
   "count": 313,
   "documents": {
     "2026-11545": {
@@ -10298,7 +10298,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
+      "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-10-23"
     },
@@ -10331,14 +10331,14 @@
         }
       ],
       "comments_close_on": "2026-12-22",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FNA_FRDOC_0001-0037",
       "effective_on": null,
       "regulation_id_numbers": [
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "FNA_FRDOC_0001",
       "first_seen": "2026-10-23"
     },
     "2026-21669": {
@@ -10370,12 +10370,12 @@
         }
       ],
       "comments_close_on": "2027-01-21",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FDA_FRDOC_0001-14563",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "FDA_FRDOC_0001",
       "first_seen": "2026-10-23"
     },
     "2026-21670": {
@@ -10407,12 +10407,12 @@
         }
       ],
       "comments_close_on": "2026-12-22",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FDA_FRDOC_0001-14564",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "FDA_FRDOC_0001",
       "first_seen": "2026-10-23"
     },
     "2026-21675": {
@@ -10435,14 +10435,14 @@
         }
       ],
       "comments_close_on": "2026-11-23",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/TREAS-DO-2026-0529-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "TREAS-DO-2026-0529",
       "first_seen": "2026-10-23"
     },
     "2026-21690": {
@@ -10465,12 +10465,12 @@
         }
       ],
       "comments_close_on": "2026-11-23",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NRC_FRDOC_0001-10919",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "NRC_FRDOC_0001",
       "first_seen": "2026-10-23"
     },
     "2026-21699": {
@@ -10497,7 +10497,7 @@
       "effective_on": "2026-09-25",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
+      "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-10-23"
     },
@@ -10530,14 +10530,14 @@
         }
       ],
       "comments_close_on": "2026-11-21",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NHTSA-2023-0031-0037",
       "effective_on": null,
       "regulation_id_numbers": [
         "2127-AM20"
       ],
       "significant": false,
-      "comments_count": null,
-      "docket_id": null,
+      "comments_count": 0,
+      "docket_id": "NHTSA-2023-0031",
       "first_seen": "2026-10-23"
     },
     "C1-2026-20360": {

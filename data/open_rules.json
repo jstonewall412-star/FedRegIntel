@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T07:54:27.166455+00:00",
+  "updated_at": "2026-10-23T14:05:18.355159+00:00",
   "as_of": "2026-10-23",
   "count": 214,
   "documents": [
@@ -32,14 +32,14 @@
         }
       ],
       "comments_close_on": "2026-11-21",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NHTSA-2023-0031-0037",
       "effective_on": null,
       "regulation_id_numbers": [
         "2127-AM20"
       ],
       "significant": false,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "NHTSA-2023-0031"
     },
     {
       "title": "Revision of National Environmental Policy Act Implementing Procedures; Extension of Comment Period",
@@ -65,7 +65,7 @@
       "effective_on": "2026-09-25",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
+      "comments_count": 0,
       "docket_id": null
     },
     {
@@ -88,12 +88,12 @@
         }
       ],
       "comments_close_on": "2026-11-23",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NRC_FRDOC_0001-10919",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "NRC_FRDOC_0001"
     },
     {
       "title": "21st Century ROAD to Housing Act Prohibition on Large Institutional Investor Purchases of Single-Family Homes",
@@ -115,14 +115,14 @@
         }
       ],
       "comments_close_on": "2026-11-23",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/TREAS-DO-2026-0529-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "TREAS-DO-2026-0529"
     },
     {
       "title": "Action Levels for Cadmium in Processed Food Intended for Babies and Young Children; Draft Guidance for Industry; Availability",
@@ -153,12 +153,12 @@
         }
       ],
       "comments_close_on": "2026-12-22",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FDA_FRDOC_0001-14564",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FDA_FRDOC_0001"
     },
     {
       "title": "Hazard Analysis and Risk-Based Preventive Controls for Human Food; Draft Guidance for Industry; Availability",
@@ -189,12 +189,12 @@
         }
       ],
       "comments_close_on": "2027-01-21",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FDA_FRDOC_0001-14563",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FDA_FRDOC_0001"
     },
     {
       "title": "Supplemental Nutrition Assistance Program: Electronic Benefits Transfer Card Security Measures",
@@ -225,14 +225,14 @@
         }
       ],
       "comments_close_on": "2026-12-22",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FNA_FRDOC_0001-0037",
       "effective_on": null,
       "regulation_id_numbers": [
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "FNA_FRDOC_0001"
     },
     {
       "title": "List of Rules To Be Reviewed Pursuant to the Regulatory Flexibility Act",
@@ -258,7 +258,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
+      "comments_count": 0,
       "docket_id": null
     },
     {
