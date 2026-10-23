@@ -1,8 +1,266 @@
 {
-  "updated_at": "2026-10-22T19:02:57.184306+00:00",
-  "as_of": "2026-10-22",
-  "count": 213,
+  "updated_at": "2026-10-23T07:54:27.166455+00:00",
+  "as_of": "2026-10-23",
+  "count": 214,
   "documents": [
+    {
+      "title": "Part 572; Anthropomorphic Test Devices; Test Device for Human Occupant Restraint 50th Percentile Adult Male Dummy (THOR-50M); Extension of Comment Period",
+      "type": "Proposed Rule",
+      "abstract": "In response to a request from the Alliance for Automotive Innovation (Auto Innovators), NHTSA is announcing a 30-day extension of the public comment period for the Supplemental Notice of Proposed Rulemaking (SNPRM) published on September 22, 2026. The SNPRM supplements NHTSA's September 2023 notice of proposed rulemaking to amend NHTSA's regulations to include an advanced crash test dummy (the Test Device for Human Occupant Restraint (THOR) 50th percentile adult male) by requesting comment on specifying an additional spine configuration and an alternative to the face foam, and announcing the availability of additional documents. The comment period for the SNPRM was originally scheduled to end on October 22, 2026. It will now end on November 21, 2026.",
+      "document_number": "2026-21730",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/23/2026-21730/part-572-anthropomorphic-test-devices-test-device-for-human-occupant-restraint-50th-percentile-adult",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-23/pdf/2026-21730.pdf",
+      "publication_date": "2026-10-23",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "National Highway Traffic Safety Administration",
+          "name": "National Highway Traffic Safety Administration",
+          "id": 345,
+          "url": "https://www.federalregister.gov/agencies/national-highway-traffic-safety-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/345",
+          "parent_id": 492,
+          "slug": "national-highway-traffic-safety-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-21",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2127-AM20"
+      ],
+      "significant": false,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Revision of National Environmental Policy Act Implementing Procedures; Extension of Comment Period",
+      "type": "Rule",
+      "abstract": "On September 25, 2026, the United States Postal Service (USPS) published an interim final rule with request for comments to partially rescind and update its remaining National Environmental Policy Act (NEPA) implementing procedures, which were promulgated to implement the now-rescinded Council on Environmental Quality (CEQ) regulations. USPS requested public comments by October 25, 2026. USPS is now extending the comment period until November 9, 2026, to allow the public additional review and submission time for any comments on the interim final rule.",
+      "document_number": "2026-21699",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/23/2026-21699/revision-of-national-environmental-policy-act-implementing-procedures-extension-of-comment-period",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-23/pdf/2026-21699.pdf",
+      "publication_date": "2026-10-23",
+      "agencies": [
+        {
+          "raw_name": "POSTAL SERVICE",
+          "name": "Postal Service",
+          "id": 410,
+          "url": "https://www.federalregister.gov/agencies/postal-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/410",
+          "parent_id": null,
+          "slug": "postal-service"
+        }
+      ],
+      "comments_close_on": "2026-11-09",
+      "comment_url": null,
+      "effective_on": "2026-09-25",
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Irradiated Fuel Reprocessing Plants",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Nuclear Regulatory Commission (NRC) has received a petition for rulemaking (PRM) from Howard L. Hall, Ph.D., dated August 14, 2026, requesting that the NRC remove the exclusion of irradiated fuel reprocessing plants and establish material control and accounting requirements appropriate to that facility class. The petition was docketed by the NRC on September 14, 2026, and has been assigned Docket No. PRM-74-1. The NRC is examining the issues raised in PRM-74-1 to determine whether they should be considered in rulemaking. The NRC is requesting public comment on this petition at this time.",
+      "document_number": "2026-21690",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/23/2026-21690/irradiated-fuel-reprocessing-plants",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-23/pdf/2026-21690.pdf",
+      "publication_date": "2026-10-23",
+      "agencies": [
+        {
+          "raw_name": "NUCLEAR REGULATORY COMMISSION",
+          "name": "Nuclear Regulatory Commission",
+          "id": 383,
+          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
+          "parent_id": null,
+          "slug": "nuclear-regulatory-commission"
+        }
+      ],
+      "comments_close_on": "2026-11-23",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "21st Century ROAD to Housing Act Prohibition on Large Institutional Investor Purchases of Single-Family Homes",
+      "type": "Proposed Rule",
+      "abstract": "The Department of the Treasury (Treasury) is issuing this proposed rule to carry out the purposes of section 1001 of the 21st Century ROAD to Housing Act (the Act or the ROAD Act). Section 1001 of the ROAD Act prohibits large institutional investors from purchasing single-family homes, subject to certain exceptions. The proposed rule would clarify certain terms relevant to those restrictions, including \"large institutional investor\"; clarify the application of certain exceptions from the statutory prohibition; and clarify the statutory enforcement mechanism. The proposed rule is intended to provide clarity to market participants and other stakeholders on the application of the statute before the effective date of the ROAD Act.",
+      "document_number": "2026-21675",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/23/2026-21675/21st-century-road-to-housing-act-prohibition-on-large-institutional-investor-purchases-of",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-23/pdf/2026-21675.pdf",
+      "publication_date": "2026-10-23",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        }
+      ],
+      "comments_close_on": "2026-11-23",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1505-AC96"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Action Levels for Cadmium in Processed Food Intended for Babies and Young Children; Draft Guidance for Industry; Availability",
+      "type": "Proposed Rule",
+      "abstract": "The Food and Drug Administration (FDA, the Agency, or we) is announcing the availability of a draft guidance for industry entitled \"Action Levels for Cadmium in Processed Food Intended for Babies and Young Children.\" The draft guidance, when finalized, will establish action levels for cadmium in certain processed foods intended for babies and young children less than 2 years old. The draft guidance is intended to set achievable action levels that will help further reduce cadmium in the food supply.",
+      "document_number": "2026-21670",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/23/2026-21670/action-levels-for-cadmium-in-processed-food-intended-for-babies-and-young-children-draft-guidance",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-23/pdf/2026-21670.pdf",
+      "publication_date": "2026-10-23",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-22",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Hazard Analysis and Risk-Based Preventive Controls for Human Food; Draft Guidance for Industry; Availability",
+      "type": "Proposed Rule",
+      "abstract": "The Food and Drug Administration (FDA, the Agency, or we) is announcing the availability of one additional draft chapter of a multichapter draft guidance for industry titled \"Hazard Analysis and Risk-Based Preventive Controls for Human Food.\" This multichapter draft guidance, when finalized, will explain FDA's current thinking on how to comply with the requirements for hazard analysis and risk-based preventive controls under FDA's regulation titled \"Current Good Manufacturing Practice, Hazard Analysis, and Risk-Based Preventive Controls for Human Food.\" The newly available draft chapter is titled \"Chapter 12: Control of Chemical Hazards.\" This draft guidance is not final nor is it in effect at this time.",
+      "document_number": "2026-21669",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/23/2026-21669/hazard-analysis-and-risk-based-preventive-controls-for-human-food-draft-guidance-for-industry",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-23/pdf/2026-21669.pdf",
+      "publication_date": "2026-10-23",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-21",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Supplemental Nutrition Assistance Program: Electronic Benefits Transfer Card Security Measures",
+      "type": "Proposed Rule",
+      "abstract": "The Food and Nutrition Administration (FNA or the Agency), an agency of the U.S. Department of Agriculture (USDA or the Department), is issuing a rule proposing changes to Supplemental Nutrition Assistance Program (SNAP, the Program) regulations to modernize Electronic Benefit Transfer (EBT) technology and align EBT with consumer payment processing industry standards, improving both Program integrity and convenience for SNAP clients. These proposed changes will protect SNAP benefits from thieves and ensure benefits are accessible by approved households.",
+      "document_number": "2026-21658",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/23/2026-21658/supplemental-nutrition-assistance-program-electronic-benefits-transfer-card-security-measures",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-23/pdf/2026-21658.pdf",
+      "publication_date": "2026-10-23",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Food and Nutrition Administration",
+          "name": "Food and Nutrition Administration",
+          "id": 625,
+          "url": "https://www.federalregister.gov/agencies/food-and-nutrition-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/625",
+          "parent_id": 12,
+          "slug": "food-and-nutrition-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-22",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0584-AE99"
+      ],
+      "significant": true,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "List of Rules To Be Reviewed Pursuant to the Regulatory Flexibility Act",
+      "type": "Proposed Rule",
+      "abstract": "The Securities and Exchange Commission (\"Commission\") is publishing a list of rules to be reviewed pursuant to section 610 of the Regulatory Flexibility Act. The list is published to provide the public with notice that these rules are scheduled for review by the agency and to invite public comment on whether the rules should be continued without change, or should be amended or rescinded to minimize any significant economic impact of the rules upon a substantial number of small entities.",
+      "document_number": "2026-21657",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/23/2026-21657/list-of-rules-to-be-reviewed-pursuant-to-the-regulatory-flexibility-act",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-23/pdf/2026-21657.pdf",
+      "publication_date": "2026-10-23",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "comments_close_on": "2026-11-23",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
     {
       "title": "Utah Underground Injection Control Program; Class VI Primacy",
       "type": "Proposed Rule",
@@ -27,7 +285,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "EPA-HQ-OW-2026-0496"
     },
     {
@@ -65,7 +323,7 @@
         "1625-AA09"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "USCG-2024-0407"
     },
     {
@@ -121,7 +379,7 @@
         "3133-AG24"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "NCUA-2026-1888"
     },
     {
@@ -349,7 +607,7 @@
         "0579-AE83"
       ],
       "significant": false,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "APHIS-2023-0016"
     },
     {
@@ -1372,7 +1630,7 @@
         "3150-AL70"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "NRC-2026-2377"
     },
     {
@@ -1665,7 +1923,7 @@
         "1615-AD23"
       ],
       "significant": null,
-      "comments_count": 68,
+      "comments_count": 71,
       "docket_id": "USCIS-2026-0397"
     },
     {
@@ -1694,7 +1952,7 @@
         "1615-AD26"
       ],
       "significant": null,
-      "comments_count": 257,
+      "comments_count": 265,
       "docket_id": "USCIS-2026-0529"
     },
     {
@@ -1799,7 +2057,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 3,
+      "comments_count": 2,
       "docket_id": "FAA-2026-11806"
     },
     {
@@ -1837,7 +2095,7 @@
         "1651-AB60"
       ],
       "significant": true,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "USCBP-2026-0992"
     },
     {
@@ -2224,7 +2482,7 @@
         "1653-AB01"
       ],
       "significant": null,
-      "comments_count": 3197,
+      "comments_count": 3473,
       "docket_id": "ICEB-2026-0100"
     },
     {
@@ -2300,7 +2558,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 115,
+      "comments_count": 120,
       "docket_id": "CMS-2026-3235"
     },
     {
@@ -2609,7 +2867,7 @@
         "2060-AW33"
       ],
       "significant": false,
-      "comments_count": 10,
+      "comments_count": 11,
       "docket_id": "EPA-HQ-OAR-2024-0078"
     },
     {
@@ -3130,7 +3388,7 @@
         "3150-AL61"
       ],
       "significant": null,
-      "comments_count": 9,
+      "comments_count": 40,
       "docket_id": "NRC-2025-1568"
     },
     {
@@ -3168,7 +3426,7 @@
         "0970-AD32"
       ],
       "significant": null,
-      "comments_count": 52,
+      "comments_count": 55,
       "docket_id": "ACF-2026-0562"
     },
     {
@@ -3273,7 +3531,7 @@
         "1545-BR97"
       ],
       "significant": null,
-      "comments_count": 21421,
+      "comments_count": 21502,
       "docket_id": "IRS-2026-1354"
     },
     {
@@ -3311,7 +3569,7 @@
         "1024-AE54"
       ],
       "significant": false,
-      "comments_count": 157,
+      "comments_count": 163,
       "docket_id": "NPS-2026-0199"
     },
     {
@@ -3387,7 +3645,7 @@
         "0570-AB13"
       ],
       "significant": false,
-      "comments_count": 73,
+      "comments_count": 74,
       "docket_id": "RBS-26-BUSINESS-0529"
     },
     {
@@ -3414,7 +3672,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 5,
+      "comments_count": 6,
       "docket_id": "DOT-OST-2026-3664"
     },
     {
@@ -3443,7 +3701,7 @@
         "3084-AB90"
       ],
       "significant": null,
-      "comments_count": 35,
+      "comments_count": 36,
       "docket_id": "FTC-2026-1552"
     },
     {
@@ -3678,7 +3936,7 @@
         "1400-AF40"
       ],
       "significant": true,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "DOS-2026-0991"
     },
     {
@@ -3808,7 +4066,7 @@
         "1545-BR91"
       ],
       "significant": null,
-      "comments_count": 106,
+      "comments_count": 113,
       "docket_id": "IRS-2026-1321"
     },
     {
@@ -4705,7 +4963,7 @@
         "3150-AL45"
       ],
       "significant": null,
-      "comments_count": 17,
+      "comments_count": 18,
       "docket_id": "NRC-2025-1138"
     },
     {
@@ -4772,7 +5030,7 @@
         "3245-AI67"
       ],
       "significant": null,
-      "comments_count": 368,
+      "comments_count": 375,
       "docket_id": "SBA-2026-0199"
     },
     {
@@ -4810,7 +5068,7 @@
         "0938-AW08"
       ],
       "significant": null,
-      "comments_count": 31,
+      "comments_count": 37,
       "docket_id": "CMS-2026-3037"
     },
     {
@@ -4902,7 +5160,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "EPA-R04-OAR-2025-0223"
     },
     {
@@ -5014,46 +5272,8 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 140,
+      "comments_count": 210,
       "docket_id": "DEA-2026-1585"
-    },
-    {
-      "title": "Part 572; Anthropomorphic Test Devices; Test Device for Human Occupant Restraint 50th Percentile Adult Male Dummy (THOR-50M)",
-      "type": "Proposed Rule",
-      "abstract": "This document supplements NHTSA's September 2023 notice of proposed rulemaking to amend NHTSA's regulations to include an advanced crash test dummy (the Test Device for Human Occupant Restraint (THOR) 50th percentile adult male) by requesting comment on specifying an additional spine configuration and an alternative to the face foam, and announcing the availability of additional documents.",
-      "document_number": "2026-19370",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/22/2026-19370/part-572-anthropomorphic-test-devices-test-device-for-human-occupant-restraint-50th-percentile-adult",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-22/pdf/2026-19370.pdf",
-      "publication_date": "2026-09-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "National Highway Traffic Safety Administration",
-          "name": "National Highway Traffic Safety Administration",
-          "id": 345,
-          "url": "https://www.federalregister.gov/agencies/national-highway-traffic-safety-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/345",
-          "parent_id": 492,
-          "slug": "national-highway-traffic-safety-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-22",
-      "comment_url": "http://www.regulations.gov/commenton/NHTSA-2023-0031-0028",
-      "effective_on": "2026-09-22",
-      "regulation_id_numbers": [
-        "2127-AM20"
-      ],
-      "significant": false,
-      "comments_count": 6,
-      "docket_id": "NHTSA-2023-0031"
     },
     {
       "title": "Capital Construction Fund Revision",
@@ -5197,44 +5417,6 @@
       "docket_id": "FAA-2026-8809"
     },
     {
-      "title": "Safety Zone; Neuse River, New Bern, NC",
-      "type": "Proposed Rule",
-      "abstract": "The Coast Guard is proposing to establish a temporary safety zone for certain navigable waters of the Neuse River in New Bern, North Carolina. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards during an aerobatic air show. This proposed rulemaking would prohibit persons and vessels from being in the safety zone unless specifically authorized by the Captain of the Port, North Carolina. We invite your comments on this proposed rulemaking.",
-      "document_number": "2026-19352",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/22/2026-19352/safety-zone-neuse-river-new-bern-nc",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-22/pdf/2026-19352.pdf",
-      "publication_date": "2026-09-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        },
-        {
-          "raw_name": "Coast Guard",
-          "name": "Coast Guard",
-          "id": 53,
-          "url": "https://www.federalregister.gov/agencies/coast-guard",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
-          "parent_id": 227,
-          "slug": "coast-guard"
-        }
-      ],
-      "comments_close_on": "2026-10-22",
-      "comment_url": "http://www.regulations.gov/commenton/USCG-2026-1024-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1625-AA00"
-      ],
-      "significant": false,
-      "comments_count": 2,
-      "docket_id": "USCG-2026-1024"
-    },
-    {
       "title": "Nonclinical Testing Terminology",
       "type": "Rule",
       "abstract": "The Food and Drug Administration (FDA, Agency, or we) is issuing a direct final rule that substitutes references to \"animal\" tests or studies with \"nonclinical\" tests or studies, adds a definition of the terms \"nonclinical test\" and \"nonclinical study,\" and makes other comparable or conforming amendments in certain safety and reporting sections of its regulations. The direct final rule also substitutes \"nonclinical\" for \"preclinical\" and \"in vitro\" for consistency in terminology. The Agency is issuing these amendments directly as a final rule because we believe they are noncontroversial changes in terminology that are not expected to affect industry practice and FDA anticipates no significant adverse comments. These amendments align with recent amendments to the Federal Food, Drug, and Cosmetic Act (FD&C Act) and the Public Health Service Act (PHS Act) and are intended to remove an emphasis, in certain places, on the use of animal testing as the only scientific methodology to assess the safety of a drug in the nonclinical setting. These changes may also foster the development and use of scientifically valid new testing methodologies, potentially improving predictive accuracy of product safety testing while replacing, reducing, or refining animal use. The rule adds no new requirements.",
@@ -5269,7 +5451,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 1985,
+      "comments_count": 2042,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -5307,46 +5489,8 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 129,
+      "comments_count": 136,
       "docket_id": "FDA-2026-N-5347"
-    },
-    {
-      "title": "Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; Pacific Coast Groundfish Fishery Management Plan; Amendment 38; 2027-28 Biennial Specifications and Management Measures",
-      "type": "Proposed Rule",
-      "abstract": "This rule proposes 2027-28 harvest specifications and management measures for groundfish caught in the U.S. exclusive economic zone seaward of Washington, Oregon, and California, consistent with the Magnuson-Stevens Fishery Conservation and Management Act (Magnuson-Stevens Act or MSA) and the Pacific Coast Groundfish Fishery Management Plan (Groundfish FMP). This rule also includes proposed regulations to implement amendment 38 to the Groundfish FMP, which would remove rebuilding plan requirements for yelloweye rockfish and California quillback rockfish. Lastly, this rule includes proposed regulations to modify select fishery closures that apply to both groundfish and Pacific halibut.",
-      "document_number": "2026-19346",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/22/2026-19346/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-22/pdf/2026-19346.pdf",
-      "publication_date": "2026-09-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF COMMERCE",
-          "name": "Commerce Department",
-          "id": 54,
-          "url": "https://www.federalregister.gov/agencies/commerce-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
-          "parent_id": null,
-          "slug": "commerce-department"
-        },
-        {
-          "raw_name": "National Oceanic and Atmospheric Administration",
-          "name": "National Oceanic and Atmospheric Administration",
-          "id": 361,
-          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
-          "parent_id": 54,
-          "slug": "national-oceanic-and-atmospheric-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-22",
-      "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2026-1354-0011",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "0648-BO46"
-      ],
-      "significant": null,
-      "comments_count": 6,
-      "docket_id": "NOAA-NMFS-2026-1354"
     },
     {
       "title": "Airworthiness Directives; Bell Textron Canada Limited Helicopters",
@@ -5423,102 +5567,6 @@
       "significant": false,
       "comments_count": 1,
       "docket_id": "FAA-2026-8817"
-    },
-    {
-      "title": "Fisheries of the Caribbean, Gulf of America, and South Atlantic; Snapper-Grouper Fishery of the South Atlantic; Regulatory Amendment 37",
-      "type": "Proposed Rule",
-      "abstract": "NMFS seeks public comment on proposed regulations to implement Regulatory Amendment 37 under the Fishery Management Plan for the Snapper-Grouper Fishery of the South Atlantic (FMP). If implemented by NMFS, Regulatory Amendment 37 and this proposed rule would revise several management measures for black sea bass in South Atlantic Federal waters. The purpose of these proposed regulatory changes is to immediately address declining abundance and landings of black sea bass while stock assessment updates are completed and separate longer-term actions are developed.",
-      "document_number": "2026-19341",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/22/2026-19341/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-snapper-grouper-fishery-of-the-south",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-22/pdf/2026-19341.pdf",
-      "publication_date": "2026-09-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF COMMERCE",
-          "name": "Commerce Department",
-          "id": 54,
-          "url": "https://www.federalregister.gov/agencies/commerce-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
-          "parent_id": null,
-          "slug": "commerce-department"
-        },
-        {
-          "raw_name": "National Oceanic and Atmospheric Administration",
-          "name": "National Oceanic and Atmospheric Administration",
-          "id": 361,
-          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
-          "parent_id": 54,
-          "slug": "national-oceanic-and-atmospheric-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-22",
-      "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2026-1651-0003",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "0648-BO36"
-      ],
-      "significant": null,
-      "comments_count": 14,
-      "docket_id": "NOAA-NMFS-2026-1651"
-    },
-    {
-      "title": "Revisions to the Office of Hearings and Appeals Procedural Regulations for the DOE Contractor Employee Protection Program",
-      "type": "Proposed Rule",
-      "abstract": "The United States (U.S.) Department of Energy (DOE) publishes a proposed rule to amend its regulations, which set forth the policies and procedures for resolving questions concerning protections for DOE contractor employees alleging retaliation by their employers. The proposed revisions would clarify deadlines and tolling practices throughout the regulation; make grammatical changes throughout the rule for consistency with national policies and DOE practices; and update references to DOE officials and offices in order to ensure clarity, consistency, and fairness in DOE's administration of the Contractor Employe Protection Program.",
-      "document_number": "2026-19332",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/22/2026-19332/revisions-to-the-office-of-hearings-and-appeals-procedural-regulations-for-the-doe-contractor",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-22/pdf/2026-19332.pdf",
-      "publication_date": "2026-09-22",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF ENERGY",
-          "name": "Energy Department",
-          "id": 136,
-          "url": "https://www.federalregister.gov/agencies/energy-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/136",
-          "parent_id": null,
-          "slug": "energy-department"
-        }
-      ],
-      "comments_close_on": "2026-10-22",
-      "comment_url": "http://www.regulations.gov/commenton/DOE-HQ-2026-0496-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1910-AA55"
-      ],
-      "significant": false,
-      "comments_count": 5,
-      "docket_id": "DOE-HQ-2026-0496"
-    },
-    {
-      "title": "General Services Administration Acquisition Regulation; GSAR Implementation of Executive Order 14275, Federal Supply Schedule Ordering Procedures",
-      "type": "Proposed Rule",
-      "abstract": "GSA is proposing to amend the General Services Administration Acquisition Regulation (GSAR) to move Federal Supply Schedule (FSS) ordering procedures from the Federal Acquisition Regulation (FAR) to GSAR part 538. This rule would direct ordering activities to use the FSS ordering procedures established by GSA.",
-      "document_number": "2026-19331",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/22/2026-19331/general-services-administration-acquisition-regulation-gsar-implementation-of-executive-order-14275",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-22/pdf/2026-19331.pdf",
-      "publication_date": "2026-09-22",
-      "agencies": [
-        {
-          "raw_name": "GENERAL SERVICES ADMINISTRATION",
-          "name": "General Services Administration",
-          "id": 210,
-          "url": "https://www.federalregister.gov/agencies/general-services-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/210",
-          "parent_id": null,
-          "slug": "general-services-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-22",
-      "comment_url": "http://www.regulations.gov/commenton/GSA-GSAR-2026-0563-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "3090-AL13"
-      ],
-      "significant": null,
-      "comments_count": 9,
-      "docket_id": "GSA-GSAR-2026-0563"
     },
     {
       "title": "State Bank Parity",
@@ -5738,7 +5786,7 @@
         "0648-BN92"
       ],
       "significant": false,
-      "comments_count": 222,
+      "comments_count": 312,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     {
@@ -5919,7 +5967,7 @@
         "2060-AX00"
       ],
       "significant": null,
-      "comments_count": 10317,
+      "comments_count": 10416,
       "docket_id": "EPA-HQ-OAR-2025-0124"
     },
     {
@@ -6013,7 +6061,7 @@
         "3206-XXXX"
       ],
       "significant": null,
-      "comments_count": 164,
+      "comments_count": 165,
       "docket_id": "OPM-2026-0661"
     },
     {
@@ -6270,7 +6318,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-8804"
     },
     {
@@ -6413,7 +6461,7 @@
         "1615-AD22"
       ],
       "significant": null,
-      "comments_count": 26532,
+      "comments_count": 26568,
       "docket_id": "USCIS-2026-0364"
     },
     {
@@ -6827,7 +6875,7 @@
         "1004-AF57"
       ],
       "significant": null,
-      "comments_count": 45776,
+      "comments_count": 49086,
       "docket_id": "BLM-2026-0133"
     },
     {
@@ -6923,7 +6971,7 @@
         "1685-AA47"
       ],
       "significant": null,
-      "comments_count": 51,
+      "comments_count": 53,
       "docket_id": "USCBP-2026-1058"
     },
     {
@@ -6961,7 +7009,7 @@
         "1024-AE97"
       ],
       "significant": false,
-      "comments_count": 362,
+      "comments_count": 508,
       "docket_id": "NPS-2026-0166"
     },
     {
@@ -7142,7 +7190,7 @@
         "0910-AJ02"
       ],
       "significant": true,
-      "comments_count": 761,
+      "comments_count": 765,
       "docket_id": "FDA-2025-N-3262"
     },
     {
@@ -7180,44 +7228,6 @@
       "significant": null,
       "comments_count": 13,
       "docket_id": "BIS-2026-0364"
-    },
-    {
-      "title": "Longshore and Harbor Workers' Compensation Act: Quality Standards for Hearing Loss Testing",
-      "type": "Proposed Rule",
-      "abstract": "The Longshore and Harbor Workers' Compensation Act (LHWCA) provides compensation to employees for disability or death from injury arising out of and in the course of employment. Hearing loss claims constitute a significant portion of LHWCA claims, and determining the extent of hearing loss necessarily entails evaluating medical test results. The program statutes and regulations currently reference audiograms as the primary testing method and incorporate the American Medical Association's Guides to the Evaluation of Permanent Impairment for measuring and calculating hearing impairment. The Office of Workers' Compensation Programs (OWCP) is considering updating the quality standards for hearing loss testing to better reflect current medical technology and practice, particularly the potential use of objective testing methods. This request for information seeks the public's input on the comparative reliability and validity of audiograms versus objective tests such as Auditory Brainstem Response (ABR), Auditory Steady State Response (ASSR), and Otoacoustic Emissions (OAE) and others; current standards for administering these tests; and criteria used to evaluate hearing impairment.",
-      "document_number": "2026-12644",
-      "html_url": "https://www.federalregister.gov/documents/2026/06/23/2026-12644/longshore-and-harbor-workers-compensation-act-quality-standards-for-hearing-loss-testing",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-06-23/pdf/2026-12644.pdf",
-      "publication_date": "2026-06-23",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF LABOR",
-          "name": "Labor Department",
-          "id": 271,
-          "url": "https://www.federalregister.gov/agencies/labor-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
-          "parent_id": null,
-          "slug": "labor-department"
-        },
-        {
-          "raw_name": "Office of Workers' Compensation Programs",
-          "name": "Workers' Compensation Programs Office",
-          "id": 530,
-          "url": "https://www.federalregister.gov/agencies/workers-compensation-programs-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/530",
-          "parent_id": 271,
-          "slug": "workers-compensation-programs-office"
-        }
-      ],
-      "comments_close_on": "2026-10-22",
-      "comment_url": "http://www.regulations.gov/commenton/WCPO-2026-0694-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1240-AA20"
-      ],
-      "significant": null,
-      "comments_count": 14,
-      "docket_id": "WCPO-2026-0694"
     }
   ]
 }
