@@ -17,6 +17,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: ${{ false }} # Site intentionally paused on 2026-10-23 at owner request; remove this guard to resume.
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -50,4 +51,3 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
-
