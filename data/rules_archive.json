@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T14:12:53.073363+00:00",
+  "updated_at": "2026-10-24T01:22:40.221338+00:00",
   "count": 313,
   "documents": {
     "2026-11545": {
@@ -10331,14 +10331,14 @@
         }
       ],
       "comments_close_on": "2026-12-22",
-      "comment_url": "http://www.regulations.gov/commenton/FNA_FRDOC_0001-0037",
+      "comment_url": "http://www.regulations.gov/commenton/FNA-2026-0496-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "0584-AE99"
       ],
       "significant": true,
       "comments_count": 0,
-      "docket_id": "FNA_FRDOC_0001",
+      "docket_id": "FNA-2026-0496",
       "first_seen": "2026-10-23"
     },
     "2026-21669": {
@@ -10370,12 +10370,12 @@
         }
       ],
       "comments_close_on": "2027-01-21",
-      "comment_url": "http://www.regulations.gov/commenton/FDA_FRDOC_0001-14563",
+      "comment_url": "http://www.regulations.gov/commenton/FDA-2016-D-2343-3655",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 0,
-      "docket_id": "FDA_FRDOC_0001",
+      "docket_id": "FDA-2016-D-2343",
       "first_seen": "2026-10-23"
     },
     "2026-21670": {
@@ -10407,12 +10407,12 @@
         }
       ],
       "comments_close_on": "2026-12-22",
-      "comment_url": "http://www.regulations.gov/commenton/FDA_FRDOC_0001-14564",
+      "comment_url": "http://www.regulations.gov/commenton/FDA-2025-D-4023-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 0,
-      "docket_id": "FDA_FRDOC_0001",
+      "docket_id": "FDA-2025-D-4023",
       "first_seen": "2026-10-23"
     },
     "2026-21675": {
@@ -10465,12 +10465,12 @@
         }
       ],
       "comments_close_on": "2026-11-23",
-      "comment_url": "http://www.regulations.gov/commenton/NRC_FRDOC_0001-10919",
+      "comment_url": "http://www.regulations.gov/commenton/NRC-2026-4456-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 0,
-      "docket_id": "NRC_FRDOC_0001",
+      "docket_id": "NRC-2026-4456",
       "first_seen": "2026-10-23"
     },
     "2026-21699": {
@@ -10494,7 +10494,7 @@
       ],
       "comments_close_on": "2026-11-09",
       "comment_url": null,
-      "effective_on": "2026-09-25",
+      "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 0,

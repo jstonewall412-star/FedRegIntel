@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T14:12:53.073363+00:00",
+  "updated_at": "2026-10-24T01:22:40.221338+00:00",
   "as_of": "2026-10-23",
   "count": 214,
   "documents": [
@@ -62,7 +62,7 @@
       ],
       "comments_close_on": "2026-11-09",
       "comment_url": null,
-      "effective_on": "2026-09-25",
+      "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 0,
@@ -88,12 +88,12 @@
         }
       ],
       "comments_close_on": "2026-11-23",
-      "comment_url": "http://www.regulations.gov/commenton/NRC_FRDOC_0001-10919",
+      "comment_url": "http://www.regulations.gov/commenton/NRC-2026-4456-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 0,
-      "docket_id": "NRC_FRDOC_0001"
+      "docket_id": "NRC-2026-4456"
     },
     {
       "title": "21st Century ROAD to Housing Act Prohibition on Large Institutional Investor Purchases of Single-Family Homes",
@@ -153,12 +153,12 @@
         }
       ],
       "comments_close_on": "2026-12-22",
-      "comment_url": "http://www.regulations.gov/commenton/FDA_FRDOC_0001-14564",
+      "comment_url": "http://www.regulations.gov/commenton/FDA-2025-D-4023-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 0,
-      "docket_id": "FDA_FRDOC_0001"
+      "docket_id": "FDA-2025-D-4023"
     },
     {
       "title": "Hazard Analysis and Risk-Based Preventive Controls for Human Food; Draft Guidance for Industry; Availability",
@@ -189,12 +189,12 @@
         }
       ],
       "comments_close_on": "2027-01-21",
-      "comment_url": "http://www.regulations.gov/commenton/FDA_FRDOC_0001-14563",
+      "comment_url": "http://www.regulations.gov/commenton/FDA-2016-D-2343-3655",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 0,
-      "docket_id": "FDA_FRDOC_0001"
+      "docket_id": "FDA-2016-D-2343"
     },
     {
       "title": "Supplemental Nutrition Assistance Program: Electronic Benefits Transfer Card Security Measures",
@@ -225,14 +225,14 @@
         }
       ],
       "comments_close_on": "2026-12-22",
-      "comment_url": "http://www.regulations.gov/commenton/FNA_FRDOC_0001-0037",
+      "comment_url": "http://www.regulations.gov/commenton/FNA-2026-0496-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "0584-AE99"
       ],
       "significant": true,
       "comments_count": 0,
-      "docket_id": "FNA_FRDOC_0001"
+      "docket_id": "FNA-2026-0496"
     },
     {
       "title": "List of Rules To Be Reviewed Pursuant to the Regulatory Flexibility Act",
