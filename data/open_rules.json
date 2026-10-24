@@ -1,8 +1,138 @@
 {
-  "updated_at": "2026-10-24T01:31:40.935372+00:00",
-  "as_of": "2026-10-23",
-  "count": 214,
+  "updated_at": "2026-10-24T07:45:23.576780+00:00",
+  "as_of": "2026-10-24",
+  "count": 213,
   "documents": [
+    {
+      "title": "Modernizing the Ability of Consumers To Control Robocalls",
+      "type": "Proposed Rule",
+      "abstract": "In this document, the Commission seeks comment on measures to ensure that the Telephone Consumer Protection Act (TCPA) rules that govern robocalls continue to evolve with changes in technology and industry practices. Specifically, we seek comment on reducing the timeframe callers must honor revocation requests, requirements for two- way texting functionality, requiring a revoke all method, and the treatment of affiliates.",
+      "document_number": "2026-21820",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/26/2026-21820/modernizing-the-ability-of-consumers-to-control-robocalls",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-26/pdf/2026-21820.pdf",
+      "publication_date": "2026-10-26",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL COMMUNICATIONS COMMISSION",
+          "name": "Federal Communications Commission",
+          "id": 161,
+          "url": "https://www.federalregister.gov/agencies/federal-communications-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/161",
+          "parent_id": null,
+          "slug": "federal-communications-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-28",
+      "comment_url": null,
+      "effective_on": "2026-11-25",
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Space Modernization for the 21st Century",
+      "type": "Proposed Rule",
+      "abstract": "In this document, the Federal Communications Commission (Commission or we) adopts a Further Notice of Proposed Rulemaking (FNPRM) that seeks comment on and/or proposes additional reforms.",
+      "document_number": "2026-21818",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/26/2026-21818/space-modernization-for-the-21st-century",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-26/pdf/2026-21818.pdf",
+      "publication_date": "2026-10-26",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL COMMUNICATIONS COMMISSION",
+          "name": "Federal Communications Commission",
+          "id": 161,
+          "url": "https://www.federalregister.gov/agencies/federal-communications-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/161",
+          "parent_id": null,
+          "slug": "federal-communications-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-28",
+      "comment_url": null,
+      "effective_on": "2026-11-25",
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Federal Motor Vehicle Safety Standards; Modernization of FMVSS No. 108 To Accommodate ADS-Equipped Vehicles",
+      "type": "Proposed Rule",
+      "abstract": "NHTSA is proposing to amend Federal Motor Vehicle Safety Standard (FMVSS) No. 108, \"Lamps, reflective devices, and associated equipment.\" The proposed updates to the standard are intended to remove unnecessary requirements and to provide design flexibility without impact on vehicle safety. The first two proposed changes would amend the test voltage specification for integral beam type headlamps and remove requirements that apply to vertical headlamp arrangements. Further proposed changes address vehicles equipped with Automated Driving Systems (ADS) that do not have manually operated driving controls. Those modifications would limit the application of certain requirements for manually operated turn signal, hazard warning signal, and beam switching controls to vehicles with manually operated driving controls. The changes are intended to address regulatory burdens and costs associated with equipment that does not fulfill the same purpose or provide safety benefits in an ADS-equipped vehicle without manually operated driving controls as in a vehicle with such controls. The changes would also narrow certain requirements for telltales to vehicles with manually operated driving controls and incorporate the term \"telltale\" where appropriate throughout the standard. Finally, a proposed addition to the standard would allow cyan-colored ADS marker lamps as optional motor vehicle lighting equipment in ADS-equipped vehicles.",
+      "document_number": "2026-21794",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/26/2026-21794/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-108-to-accommodate-ads-equipped",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-26/pdf/2026-21794.pdf",
+      "publication_date": "2026-10-26",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "National Highway Traffic Safety Administration",
+          "name": "National Highway Traffic Safety Administration",
+          "id": 345,
+          "url": "https://www.federalregister.gov/agencies/national-highway-traffic-safety-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/345",
+          "parent_id": 492,
+          "slug": "national-highway-traffic-safety-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-25",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2127-AM70"
+      ],
+      "significant": true,
+      "comments_count": null,
+      "docket_id": null
+    },
+    {
+      "title": "Outbound Investment Security Program Regulations",
+      "type": "Proposed Rule",
+      "abstract": "This proposed rule sets forth regulations that would implement Subtitle C of the Comprehensive Outbound Investment National Security Act, which is codified at Title VIII of the Defense Production Act. The proposed rule would require United States persons to provide notification to the U.S. Department of the Treasury regarding certain transactions involving foreign persons that are engaged in notifiable technologies; and prohibit United States persons from engaging in certain other transactions involving foreign persons that are engaged in prohibited technologies. Where consistent with Title VIII, the proposed rule incorporates certain definitions and concepts from the current regulations governing the Outbound Investment Security Program. The proposed rule also would add applicability dates to the regulations, such that those regulations would continue to apply to activities that occurred within the relevant timeframe.",
+      "document_number": "2026-21786",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/26/2026-21786/outbound-investment-security-program-regulations",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-26/pdf/2026-21786.pdf",
+      "publication_date": "2026-10-26",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "Office of Investment Security",
+          "name": "Investment Security Office",
+          "id": 603,
+          "url": "https://www.federalregister.gov/agencies/investment-security-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/603",
+          "parent_id": 497,
+          "slug": "investment-security-office"
+        }
+      ],
+      "comments_close_on": "2026-12-07",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1505-AC94"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null
+    },
     {
       "title": "Part 572; Anthropomorphic Test Devices; Test Device for Human Occupant Restraint 50th Percentile Adult Male Dummy (THOR-50M); Extension of Comment Period",
       "type": "Proposed Rule",
@@ -38,7 +168,7 @@
         "2127-AM20"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "NHTSA-2023-0031"
     },
     {
@@ -92,7 +222,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "NRC-2026-4456"
     },
     {
@@ -121,7 +251,7 @@
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 3,
       "docket_id": "TREAS-DO-2026-0529"
     },
     {
@@ -157,7 +287,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FDA-2025-D-4023"
     },
     {
@@ -193,7 +323,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FDA-2016-D-2343"
     },
     {
@@ -231,7 +361,7 @@
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": 0,
+      "comments_count": 2,
       "docket_id": "FNA-2026-0496"
     },
     {
@@ -607,7 +737,7 @@
         "0579-AE83"
       ],
       "significant": false,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "APHIS-2023-0016"
     },
     {
@@ -739,7 +869,7 @@
         "3038-AF82"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 5,
       "docket_id": "CFTC-2026-2213"
     },
     {
@@ -768,7 +898,7 @@
         "3038-AF81"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 4,
       "docket_id": "CFTC-2026-2214"
     },
     {
@@ -936,7 +1066,7 @@
         "1024-AF12"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "NPS-2026-0232"
     },
     {
@@ -1084,44 +1214,6 @@
       "significant": null,
       "comments_count": 0,
       "docket_id": null
-    },
-    {
-      "title": "Safety Zone; Cumberland River, Hendersonville, TN",
-      "type": "Proposed Rule",
-      "abstract": "The Coast Guard is proposing to establish a temporary safety zone for navigable waters on the Cumberland River from mile marker 221.7 to 222. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with an overwater fireworks display. This proposed rulemaking would prohibit persons and vessels from being in the safety zone unless specifically authorized by the Captain of the Port, Ohio Valley, or their designated representative.",
-      "document_number": "2026-21240",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21240/safety-zone-cumberland-river-hendersonville-tn",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21240.pdf",
-      "publication_date": "2026-10-16",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        },
-        {
-          "raw_name": "Coast Guard",
-          "name": "Coast Guard",
-          "id": 53,
-          "url": "https://www.federalregister.gov/agencies/coast-guard",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
-          "parent_id": 227,
-          "slug": "coast-guard"
-        }
-      ],
-      "comments_close_on": "2026-10-23",
-      "comment_url": "http://www.regulations.gov/commenton/USCG-2026-1075-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1625-AA00"
-      ],
-      "significant": false,
-      "comments_count": 1,
-      "docket_id": "USCG-2026-1075"
     },
     {
       "title": "Fishery Management Plans of St. Croix and St. Thomas and St. John; Spiny Lobster Management Measures",
@@ -1923,7 +2015,7 @@
         "1615-AD23"
       ],
       "significant": null,
-      "comments_count": 71,
+      "comments_count": 86,
       "docket_id": "USCIS-2026-0397"
     },
     {
@@ -1952,7 +2044,7 @@
         "1615-AD26"
       ],
       "significant": null,
-      "comments_count": 265,
+      "comments_count": 274,
       "docket_id": "USCIS-2026-0529"
     },
     {
@@ -2482,7 +2574,7 @@
         "1653-AB01"
       ],
       "significant": null,
-      "comments_count": 3473,
+      "comments_count": 3618,
       "docket_id": "ICEB-2026-0100"
     },
     {
@@ -2558,7 +2650,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 120,
+      "comments_count": 124,
       "docket_id": "CMS-2026-3235"
     },
     {
@@ -2650,7 +2742,7 @@
         "1625-AA09"
       ],
       "significant": false,
-      "comments_count": 13,
+      "comments_count": 14,
       "docket_id": "USCG-2026-0889"
     },
     {
@@ -3388,7 +3480,7 @@
         "3150-AL61"
       ],
       "significant": null,
-      "comments_count": 40,
+      "comments_count": 59,
       "docket_id": "NRC-2025-1568"
     },
     {
@@ -3426,7 +3518,7 @@
         "0970-AD32"
       ],
       "significant": null,
-      "comments_count": 55,
+      "comments_count": 61,
       "docket_id": "ACF-2026-0562"
     },
     {
@@ -3531,7 +3623,7 @@
         "1545-BR97"
       ],
       "significant": null,
-      "comments_count": 21502,
+      "comments_count": 21546,
       "docket_id": "IRS-2026-1354"
     },
     {
@@ -3672,7 +3764,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "DOT-OST-2026-3664"
     },
     {
@@ -3739,7 +3831,7 @@
         "1018-BI13"
       ],
       "significant": false,
-      "comments_count": 8,
+      "comments_count": 9,
       "docket_id": "FWS-HQ-MB-2026-0133"
     },
     {
@@ -4066,7 +4158,7 @@
         "1545-BR91"
       ],
       "significant": null,
-      "comments_count": 113,
+      "comments_count": 114,
       "docket_id": "IRS-2026-1321"
     },
     {
@@ -4741,7 +4833,7 @@
         "1140-AA86"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "ATF-2026-0365"
     },
     {
@@ -4779,7 +4871,7 @@
         "1140-AA67"
       ],
       "significant": null,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "ATF-2026-0364"
     },
     {
@@ -4963,7 +5055,7 @@
         "3150-AL45"
       ],
       "significant": null,
-      "comments_count": 18,
+      "comments_count": 20,
       "docket_id": "NRC-2025-1138"
     },
     {
@@ -5030,7 +5122,7 @@
         "3245-AI67"
       ],
       "significant": null,
-      "comments_count": 375,
+      "comments_count": 376,
       "docket_id": "SBA-2026-0199"
     },
     {
@@ -5068,7 +5160,7 @@
         "0938-AW08"
       ],
       "significant": null,
-      "comments_count": 37,
+      "comments_count": 39,
       "docket_id": "CMS-2026-3037"
     },
     {
@@ -5110,98 +5202,6 @@
       "docket_id": "APHIS-2023-0069"
     },
     {
-      "title": "Public Water System Supervision Program Revision for the State of Arkansas",
-      "type": "Proposed Rule",
-      "abstract": "Notice is hereby given that the State of Arkansas is revising its approved Public Water System Supervision (PWSS) program. Arkansas has adopted the Environmental Protection Agency (EPA) drinking water rules for the Consumer Confidence Report Rule Revisions. Therefore, the EPA intends to approve this PWSS program revision package.",
-      "document_number": "2026-19500",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/23/2026-19500/public-water-system-supervision-program-revision-for-the-state-of-arkansas",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-23/pdf/2026-19500.pdf",
-      "publication_date": "2026-09-23",
-      "agencies": [
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": "2026-10-23",
-      "comment_url": "http://www.regulations.gov/commenton/EPA_FRDOC_0001-33165",
-      "effective_on": null,
-      "regulation_id_numbers": [],
-      "significant": null,
-      "comments_count": 1,
-      "docket_id": "EPA_FRDOC_0001"
-    },
-    {
-      "title": "Air Plan Approval; North Carolina; Charlotte-Rock Hill Area Maintenance Plan for the 2008 8-Hour Ozone NAAQS",
-      "type": "Proposed Rule",
-      "abstract": "On February 28, 2025, the State of North Carolina, through the North Carolina Department of Environmental Quality, Division of Air Quality (NCDAQ), submitted a request for the U.S. Environmental Protection Agency (EPA) to approve a State Implementation Plan (SIP) revision containing the State's plan for maintaining the 2008 ozone National Ambient Air Quality Standard (NAAQS) through 2035 for the North Carolina portion of the bi-state Charlotte-Rock Hill, North Carolina-South Carolina 2008 8-hour ozone nonattainment area (the entire area is hereinafter referred to as the \"bi-state Charlotte Area\" and the North Carolina portion is hereinafter referred to as the \"Charlotte Area\"). The EPA is proposing to approve and incorporate North Carolina's second 10-year maintenance plan to maintain attainment of the 2008 8-hour ozone NAAQS in the bi-state Charlotte Area, including the 2018 and 2035 motor vehicle emission budgets (budgets) for nitrogen oxides (NO<INF>X</INF>) and volatile organic compounds (VOC) for the Charlotte Area, into the SIP. The EPA is also notifying the public of the status of the EPA's adequacy determination for the sub-area budgets for the Charlotte Area.",
-      "document_number": "2026-19495",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/23/2026-19495/air-plan-approval-north-carolina-charlotte-rock-hill-area-maintenance-plan-for-the-2008-8-hour-ozone",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-23/pdf/2026-19495.pdf",
-      "publication_date": "2026-09-23",
-      "agencies": [
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": "2026-10-23",
-      "comment_url": "http://www.regulations.gov/commenton/EPA-R04-OAR-2025-0223-0008",
-      "effective_on": null,
-      "regulation_id_numbers": [],
-      "significant": null,
-      "comments_count": 4,
-      "docket_id": "EPA-R04-OAR-2025-0223"
-    },
-    {
-      "title": "Safety Zone; Massachusetts Bay, Boston, MA",
-      "type": "Proposed Rule",
-      "abstract": "The Coast Guard is proposing to establish a temporary safety zone for a certain navigable water of Massachusetts Bay, 22 miles northeast of Boston, MA. The safety zone is needed to protect personnel, vessels, and the maritime public from potential hazards created by subsea demolition operations. This proposed rulemaking would prohibit persons and vessels from entering the safety zone unless specifically authorized by the Captain of the Port Sector Boston or a designated representative. We invite your comments on this proposed rulemaking.",
-      "document_number": "2026-19430",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/23/2026-19430/safety-zone-massachusetts-bay-boston-ma",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-23/pdf/2026-19430.pdf",
-      "publication_date": "2026-09-23",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        },
-        {
-          "raw_name": "Coast Guard",
-          "name": "Coast Guard",
-          "id": 53,
-          "url": "https://www.federalregister.gov/agencies/coast-guard",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
-          "parent_id": 227,
-          "slug": "coast-guard"
-        }
-      ],
-      "comments_close_on": "2026-10-23",
-      "comment_url": "http://www.regulations.gov/commenton/USCG-2026-1071-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1625-AA00"
-      ],
-      "significant": false,
-      "comments_count": 0,
-      "docket_id": "USCG-2026-1071"
-    },
-    {
       "title": "Airworthiness Directives; Textron Aviation, Inc. (Type Certificate Previously Held by Cessna Aircraft Company) Airplanes",
       "type": "Proposed Rule",
       "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2015-07-03, which applies to certain Cessna Aircraft Company (Cessna) (type certificate currently held by Textron Aviation, Inc.) (Textron) Model 402C and 414A airplanes. Since the FAA issued AD 2015-07-03, there have been additional reports of cracking and multi-site cracking in areas of engine beams that are difficult to access. This proposed AD would require repetitive inspections of the engine beam for cracks and applicable on-condition actions. This proposed AD would also add a new life-limit to affected engine beams and require replacement when engine beams reach this life-limit. The FAA is proposing this AD to address the unsafe condition on these products.",
@@ -5238,42 +5238,6 @@
       "significant": false,
       "comments_count": 2,
       "docket_id": "FAA-2026-8818"
-    },
-    {
-      "title": "Schedules of Controlled Substances: Placement of 4-Hydroxy-N,N-Diisopropyltryptamine (4-OH-DiPT), 5-Methoxy-alpha-Methyltryptamine (5-MeO-AMT), 5-Methoxy-N-Methyl-N-Isopropyltryptamine (5-MeO-MiPT), 5-Methoxy-N,N-Diethyltryptamine (5-MeO-DET), and N,N-Diisopropyltryptamine (DiPT) Into Schedule I",
-      "type": "Proposed Rule",
-      "abstract": "The Drug Enforcement Administration proposes placing five tryptamine hallucinogens, 4-hydroxy-N,N-diisopropyltryptamine (other names: 4-OH-DiPT; 3-(2-(diisopropylamino)ethyl)-1H-indol-4- ol), 5-methoxy-alpha-methyltryptamine (other names: 5-MeO-AMT; 1-(5- methoxy-1H-indol-3-yl)propan-2-amine), 5-methoxy-N-methyl-N- isopropyltryptamine (other names: 5-MeO-MiPT; N-(2-(5-methoxy-1H-indol- 3-yl)ethyl)-N-methylpropan-2-amine), 5-methoxy-N,N-diethyltryptamine (other names: 5-MeO-DET; N,N-diethyl-2-(5-methoxy-1H-indol-3- yl)ethanamine), and N,N-diisopropyltryptamine (other names: DiPT; N-(2- (1H-indol-3-yl)ethyl)-N-isopropylpropan-2-amine), including their salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible, in schedule I of the Controlled Substances Act. If finalized, this action would impose the regulatory controls and administrative, civil, and criminal sanctions applicable to schedule I controlled substances on persons who handle (manufacture, distribute, reverse distribute, import, export, engage in research, conduct instructional activities or chemical analysis with, or possess) or propose to handle these five specific tryptamine hallucinogens.",
-      "document_number": "2026-19400",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/23/2026-19400/schedules-of-controlled-substances-placement-of-4-hydroxy-nn-diisopropyltryptamine-4-oh-dipt",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-23/pdf/2026-19400.pdf",
-      "publication_date": "2026-09-23",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF JUSTICE",
-          "name": "Justice Department",
-          "id": 268,
-          "url": "https://www.federalregister.gov/agencies/justice-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/268",
-          "parent_id": null,
-          "slug": "justice-department"
-        },
-        {
-          "raw_name": "Drug Enforcement Administration",
-          "name": "Drug Enforcement Administration",
-          "id": 116,
-          "url": "https://www.federalregister.gov/agencies/drug-enforcement-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/116",
-          "parent_id": 268,
-          "slug": "drug-enforcement-administration"
-        }
-      ],
-      "comments_close_on": "2026-10-23",
-      "comment_url": "http://www.regulations.gov/commenton/DEA-2026-1585-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [],
-      "significant": null,
-      "comments_count": 210,
-      "docket_id": "DEA-2026-1585"
     },
     {
       "title": "Capital Construction Fund Revision",
@@ -5451,7 +5415,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 2042,
+      "comments_count": 2097,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -5489,7 +5453,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 136,
+      "comments_count": 140,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -5786,7 +5750,7 @@
         "0648-BN92"
       ],
       "significant": false,
-      "comments_count": 312,
+      "comments_count": 316,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     {
@@ -5967,7 +5931,7 @@
         "2060-AX00"
       ],
       "significant": null,
-      "comments_count": 10416,
+      "comments_count": 10495,
       "docket_id": "EPA-HQ-OAR-2025-0124"
     },
     {
@@ -6356,7 +6320,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-8803"
     },
     {
@@ -6461,7 +6425,7 @@
         "1615-AD22"
       ],
       "significant": null,
-      "comments_count": 26568,
+      "comments_count": 26598,
       "docket_id": "USCIS-2026-0364"
     },
     {
@@ -6875,7 +6839,7 @@
         "1004-AF57"
       ],
       "significant": null,
-      "comments_count": 49086,
+      "comments_count": 51620,
       "docket_id": "BLM-2026-0133"
     },
     {
@@ -7009,7 +6973,7 @@
         "1024-AE97"
       ],
       "significant": false,
-      "comments_count": 508,
+      "comments_count": 551,
       "docket_id": "NPS-2026-0166"
     },
     {
@@ -7076,7 +7040,7 @@
         "2133-AC05"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "MARAD-2026-1288"
     },
     {
@@ -7190,7 +7154,7 @@
         "0910-AJ02"
       ],
       "significant": true,
-      "comments_count": 765,
+      "comments_count": 766,
       "docket_id": "FDA-2025-N-3262"
     },
     {
