@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T15:53:29.916315+00:00",
+  "updated_at": "2026-10-25T16:56:33.975566+00:00",
   "count": 317,
   "documents": {
     "2026-11545": {
@@ -295,7 +295,7 @@
       "significant": null,
       "comments_count": 488,
       "docket_id": "ATF-2026-0397",
-      "final_checked": "2026-10-06"
+      "final_checked": "2026-10-25"
     },
     "2026-13639": {
       "title": "Improvements to Rules on Recoupment of Benefit Overpayments",
@@ -1264,7 +1264,7 @@
         "2120-AA66"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-15605": {
       "title": "Qualification and Certification of Locomotive Engineers and Conductors; English Language Proficiency and Other Requirements",
@@ -1301,7 +1301,7 @@
         "2130-AD65"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-15614": {
       "title": "Section 898(c) Transition Rule for Allocating Foreign Taxes and Section 960(d)(4) Foreign Tax Credit Disallowance",
@@ -1338,7 +1338,7 @@
         "1545-BR76"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-15624": {
       "title": "Amendment to 3,4-MDP-2-P Methyl Glycidic Acid, a List I Chemical",
@@ -1409,7 +1409,7 @@
         "1219-AC18"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-15671": {
       "title": "Modification of Certain Terminology in Title 21; Reopening of the Comment Period",
@@ -1446,7 +1446,7 @@
         "0910-AJ26"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-15717": {
       "title": "Ventilation Plan Approval Criteria",
@@ -1483,7 +1483,7 @@
         "1219-AC21"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-15724": {
       "title": "High-Speed Train Noise Emission Standards",
@@ -1520,7 +1520,7 @@
         "2130-AC83"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-15743": {
       "title": "Federal Motor Vehicle Safety Standards; Child Restraint Anchorage Systems; Child Restraint Systems",
@@ -1557,7 +1557,7 @@
         "2127-AM74"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-15774": {
       "title": "Regulatory Modernization and Relief for Mutual Holding Companies",
@@ -1588,7 +1588,7 @@
       "significant": null,
       "comments_count": 0,
       "docket_id": null,
-      "final_checked": "2026-10-06"
+      "final_checked": "2026-10-25"
     },
     "2026-15777": {
       "title": "Loans to Executive Officers, Directors, and Principal Shareholders of Member Banks; Bank Holding Companies",
@@ -1619,7 +1619,7 @@
       "significant": null,
       "comments_count": 0,
       "docket_id": null,
-      "final_checked": "2026-10-06"
+      "final_checked": "2026-10-25"
     },
     "2026-15782": {
       "title": "Revision of Freedom of Information Act Regulations",
@@ -2011,7 +2011,7 @@
         "2120-AL42"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-16078": {
       "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
@@ -2501,7 +2501,7 @@
         "1545-BS19"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-16317": {
       "title": "Television Broadcasting Services St. George, Utah",
@@ -2563,7 +2563,7 @@
         "0648-BO18"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-16331": {
       "title": "Response to Clean Air Act Section 176A Petition From New Hampshire",
@@ -2804,7 +2804,13 @@
         "1625-AA87"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25",
+      "final_rule": {
+        "title": "Security Zone; Patapsco River, Baltimore, MD",
+        "document_number": "2026-20477",
+        "html_url": "https://www.federalregister.gov/documents/2026/10/06/2026-20477/security-zone-patapsco-river-baltimore-md",
+        "publication_date": "2026-10-06"
+      }
     },
     "2026-16425": {
       "title": "Rescission of DOE's Procedures for Traffic Control on the Nevada Test Site",
@@ -3311,7 +3317,7 @@
         "0584-AF22"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-16769": {
       "title": "Proposed Removal of a Reporting Requirement for Trusts Whose Charitable Contribution Deductions Are Solely for Contributions Made by Passthrough Entities",
@@ -3561,7 +3567,7 @@
         "0596-AD66"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-16976": {
       "title": "Receipt of Pesticide Petitions Filed for Residues of Pesticide Chemicals in or on Various Commodities-June 2026",
@@ -3679,7 +3685,7 @@
         "1840-AD82"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-17019": {
       "title": "Application of Section 250(b)(3)(A)(i)(VII) to Sales or Other Dispositions of Property",
@@ -3772,7 +3778,7 @@
         "3245-AI67"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-17079": {
       "title": "Commodity Pool Operators and Commodity Trading Advisors: Reduction of Duplicative Regulation Through Intermediary Registration Exemptions; Expansion of the Exemption for Small Commodity Pools",
@@ -4047,7 +4053,7 @@
         "1875-AA14"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-17296": {
       "title": "Membership Adjustment of the Mushroom Council",
@@ -4146,7 +4152,7 @@
         "1615-AD20"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-17365": {
       "title": "Pro Rata Share of Subpart F Income, Tested Income, or Tested Loss",
@@ -4213,7 +4219,7 @@
         "3038-AF79"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-17445": {
       "title": "List of Approved Spent Fuel Storage Casks: TN Americas, LLC Standardized NUHOMS® Horizontal Modular Storage System for Irradiated Nuclear Fuel, Certificate of Compliance No. 1004, Renewed Amendment No. 19",
@@ -4268,7 +4274,7 @@
         "3150-AL72"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-17536": {
       "title": "Schedules of Controlled Substances: Placement of Cipepofol in Schedule IV",
@@ -4369,7 +4375,7 @@
         "3046-AB46"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-17649": {
       "title": "Disclosure of Information; Extension of Comment Period",
@@ -4653,7 +4659,7 @@
         "1545-BR76"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-17767": {
       "title": "Promoting Telehealth in Rural America",
@@ -4715,7 +4721,7 @@
         "1557-AF56"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-17865": {
       "title": "Reciprocal Deposits: Implementing the 21st Century ROAD to Housing Act",
@@ -4779,7 +4785,7 @@
         "1506-AB76"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-17895": {
       "title": "National Wildlife Refuge System; 2026-2027 Station-Specific Hunting and Sport Fishing Regulations",
@@ -4960,7 +4966,7 @@
         "2120-AM36"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-18015": {
       "title": "Television Broadcasting Services Colusa, California",
@@ -5502,7 +5508,7 @@
         "1018-BG36"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-18481": {
       "title": "Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions",
@@ -6610,7 +6616,7 @@
         "3038-AF26"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-10-03"
+      "final_checked": "2026-10-25"
     },
     "2026-19308": {
       "title": "Merger Transactions",
