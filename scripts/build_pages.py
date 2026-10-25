@@ -1,7 +1,7 @@
 """Build static, crawlable pages from the data snapshots: one per video (with its transcript), one per
 rule we have listed for comment (open or closed), the index pages and sitemap.xml.
 Usage: python scripts/build_pages.py _site"""
-import html, json, re, sys
+import html, json, re, sys, shutil
 from datetime import date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -127,6 +127,19 @@ def video_card(v):
 
 def build_videos(out, videos, transcripts, rule_pages):
     urls = []
+    local_card = ''
+    local_path = '/videos/robocalls-2026-10-26/'
+    local_source = ROOT / local_path.strip('/') / 'index.html'
+    if local_source.is_file():
+        local_target = Path(out) / local_path.strip('/') / 'index.html'
+        local_target.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(local_source, local_target)
+        urls.append((local_path, None))
+        local_card = ('<article class="video-card"><a class="video-image" href="' + local_path + '">'
+                      '<img src="/assets/videos/robocalls-2026-10-26/thumbnail.png" alt="" loading="lazy" width="480" height="270">'
+                      '<span class="play-icon" aria-hidden="true">▶</span></a><div class="video-body">'
+                      '<p><span>Robocall explainer</span></p><h3><a href="' + local_path + '">'
+                      'Robocalls: Two New Federal Register Rules Explained</a></h3></div></article>')
     for v in videos:
         path = f'/videos/{v["id"]}/'
         about = v.get('description') or ''
@@ -151,7 +164,7 @@ def build_videos(out, videos, transcripts, rule_pages):
         urls.append((path, None))
     body = ('<p class="crumbs"><a href="/">Home</a> / Videos</p><p class="eyebrow">THE VIDEO BRIEFING ROOM</p><h1 class="page-title">Every FedReg Intel video</h1>'
             '<p class="section-intro">Federal Rules Open for Comment briefings and Rulemaking 101 explainers, newest first.</p>'
-            f'<div class="video-grid">{"".join(video_card(v) for v in videos)}</div>')
+            f'<div class="video-grid">{local_card}{"".join(video_card(v) for v in videos)}</div>')
     write(out, '/videos/', page('/videos/', 'Federal Register Video Briefings and Rulemaking 101 | FedReg Intel',
                                 'Plain-English video briefings on federal rules open for public comment, plus Rulemaking 101 explainers on how federal rulemaking works.', body))
     return urls
