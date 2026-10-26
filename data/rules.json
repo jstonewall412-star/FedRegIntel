@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T16:56:33.524382+00:00",
+  "updated_at": "2026-10-26T09:59:17.373472+00:00",
   "latest_date": "2026-10-26",
   "issue_count": 13,
   "documents": [
@@ -3107,6 +3107,148 @@
       "regulation_id_numbers": []
     },
     {
+      "title": "Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions; Extension of Comment Period",
+      "type": "Proposed Rule",
+      "abstract": "The Census Bureau is extending the comment period for the proposed rule entitled, \"Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions,\" that was published in the Federal Register on September 10, 2026. The proposed rule's comment period, which would have ended on October 13, 2026, is extended until November 2, 2026.",
+      "document_number": "2026-20328",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20328/decennial-census-of-the-population-of-americans-proposed-residence-criteria-and-proposed-regulations",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/pdf/2026-20328.pdf",
+      "publication_date": "2026-10-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "Census Bureau",
+          "name": "Census Bureau",
+          "id": 42,
+          "url": "https://www.federalregister.gov/agencies/census-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/42",
+          "parent_id": 54,
+          "slug": "census-bureau"
+        }
+      ],
+      "comments_close_on": "2026-11-02",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0607-AA75"
+      ]
+    },
+    {
+      "title": "Unleashing American Energy and Economic Prosperity; Rural Energy for America Program (REAP)",
+      "type": "Rule",
+      "abstract": "The Rural Business-Cooperative Service (RBCS or the Agency), an agency of the Rural Development (RD) mission area within the U.S. Department of Agriculture (USDA) is issuing a final rule with comment period. Implementation of this action will simplify and streamline requirements and processes in the Rural Energy for America Program (REAP). Under the new REAP structure, projects must already be fully built and operational before the applicant ever applies. Applicants then apply, submitting actual energy production or savings data for the prior 12 months, alongside 12 months of pre-installation data. The Agency evaluates applications for completeness, eligibility, risk, and merit and will award grants subject to the availability of funds and criteria provided in an annual notice. This new approach changes the program to a post completion, performance validated model. All RES and EEI awards will now be based on actual documented output, energy savings, costs, and system performance. Bottlenecks leading to application processing backlogs such as the technical merit review clearance process have been removed from the Agency's purview. Multilocation projects and specific application of certain technologies are now ineligible, and the program proposes to eliminate state level competitions in favor of a single national scoring and selection process. The result is a streamlined but significantly different process intended to reduce risk to the program, simplify administration, and prioritize projects delivering verifiable results. The result of these changes, combined with the release of a planned online application portal, will significantly decrease burden for applicants by shortening application length and review times across the program.",
+      "document_number": "2026-20178",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/01/2026-20178/unleashing-american-energy-and-economic-prosperity-rural-energy-for-america-program-reap",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-01/pdf/2026-20178.pdf",
+      "publication_date": "2026-10-01",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Rural Business-Cooperative Service",
+          "name": "Rural Business-Cooperative Service",
+          "id": 456,
+          "url": "https://www.federalregister.gov/agencies/rural-business-cooperative-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/456",
+          "parent_id": 12,
+          "slug": "rural-business-cooperative-service"
+        }
+      ],
+      "comments_close_on": "2026-11-02",
+      "comment_url": "http://www.regulations.gov/commenton/RBS-26-BUSINESS-0529-0001",
+      "effective_on": "2026-10-16",
+      "regulation_id_numbers": [
+        "0570-AB13"
+      ]
+    },
+    {
+      "title": "Petition for Rulemaking; Notification of Petition for Rulemaking; Invalid Specimen Determinations",
+      "type": "Proposed Rule",
+      "abstract": "This document announces receipt of a petition for rulemaking received by DOT on February 27, 2026, to initiate a rulemaking to amend 49 CFR part 40. The petitioner's proposed amendments seek to incorporate structured medical verification standards when an employee asserts a plausible medical explanation for abnormal specimen validity findings, including abnormal pH values. Specifically, the petitioner proposes: a defined and finite documentation submission window; required written Medical Review Officer determinations addressing submitted documentation; defined evaluation standards for abnormal urinary chemistry findings; consideration of specialist consultation when diagnosed voiding disorders are asserted; and (5) documented review of medically supported functional voiding disorders prior to verifying refusal determinations based on inability to provide a specimen under direct observation. Through this notification, DOT seeks comment on the petition, as well as any information that could be used in DOT's determination whether to grant the petition.",
+      "document_number": "2026-20169",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/01/2026-20169/petition-for-rulemaking-notification-of-petition-for-rulemaking-invalid-specimen-determinations",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-01/pdf/2026-20169.pdf",
+      "publication_date": "2026-10-01",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        }
+      ],
+      "comments_close_on": "2026-11-02",
+      "comment_url": "http://www.regulations.gov/commenton/DOT-OST-2026-3664-0001",
+      "effective_on": null,
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Approval of Implementation Plans for Air Quality Planning Purposes; State of Nevada; Truckee Meadows Second 10-Year Maintenance Plan for the 1987 PM-10 Standard",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA) is proposing to approve the \"Second 10-Year Maintenance Plan for the Truckee Meadows 24-Hour PM<INF>10</INF> Attainment Area\" (\"Truckee Meadows Second PM<INF>10</INF> Maintenance Plan\" or \"Plan\") as a revision to the Washoe County portion of the State implementation plan (SIP) for the State of Nevada. The Truckee Meadows Second PM<INF>10</INF> Maintenance Plan includes, among other elements, a base year emissions inventory, a maintenance demonstration, contingency provisions, and motor vehicle emissions budgets for use in transportation conformity determinations. With this proposed rulemaking, the EPA is initiating the adequacy process for the 2025, 2030, and 2040 motor vehicle emissions budgets. The EPA is proposing these actions because the SIP revision meets the applicable statutory and regulatory requirements for such plans and motor vehicle emissions budgets. We are taking comments on this proposal and plan to follow with a final action.",
+      "document_number": "2026-20102",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/01/2026-20102/approval-of-implementation-plans-for-air-quality-planning-purposes-state-of-nevada-truckee-meadows",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-01/pdf/2026-20102.pdf",
+      "publication_date": "2026-10-01",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-11-02",
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R09-OAR-2025-1978-0005",
+      "effective_on": null,
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Air Plan Approval; OR; Lane County Title 36 Rule",
+      "type": "Proposed Rule",
+      "abstract": "The Environmental Protection Agency (EPA) is proposing to approve into the Oregon State Implementation Plan revisions to the rules applicable in Lane County Oregon. The revisions establish procedures related to excess emissions, clarify terminology and enforceability, and update Local regulations to more closely align with State rules. The EPA is proposing to approve these revisions as meeting the requirements of the Clean Air Act.",
+      "document_number": "2026-20101",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/01/2026-20101/air-plan-approval-or-lane-county-title-36-rule",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-01/pdf/2026-20101.pdf",
+      "publication_date": "2026-10-01",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-11-02",
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R10-OAR-2026-3763-0012",
+      "effective_on": null,
+      "regulation_id_numbers": []
+    },
+    {
       "title": "Petition for Rulemaking of Malik Tony Singleton",
       "type": "Proposed Rule",
       "abstract": "Please take notice that the Federal Trade Commission (\"Commission\") received a petition for rulemaking from Malik Tony Singleton, and has published that petition online at https:// www.regulations.gov. The Commission invites written comments concerning the petition. Publication of this petition is pursuant to the Commission's Rules of Practice and Procedure and does not affect the legal status of the petition or its final disposition.",
@@ -3317,6 +3459,207 @@
       "comment_url": null,
       "effective_on": null,
       "regulation_id_numbers": []
+    },
+    {
+      "title": "Airworthiness Directives; Rolls-Royce Deutschland Ltd. & Co. KG Engines",
+      "type": "Rule",
+      "abstract": "The FAA is adopting a new airworthiness directive (AD) for all Rolls-Royce Deutschland Ltd. & Co. KG (RRD) Model RB211 Trent 768-60, 772-60, and 772B-60 engines. The FAA previously sent this AD as an emergency AD to all known U.S. owners and operators of these engines. This AD was prompted by reports of non-conformances leading to low oil pressure events on low life oil pumps. This AD requires de-pairing of engines on airplanes with two affected engines installed to ensure no more than one affected oil pump is installed on twin-engine airplanes. The FAA is issuing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-19172",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/18/2026-19172/airworthiness-directives-rolls-royce-deutschland-ltd-and-co-kg-engines",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-18/pdf/2026-19172.pdf",
+      "publication_date": "2026-09-18",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-02",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8814-0001",
+      "effective_on": "2026-09-21",
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
+    },
+    {
+      "title": "Airworthiness Directives; Rolls-Royce Deutschland Ltd. & Co. KG Engines",
+      "type": "Rule",
+      "abstract": "The FAA is adopting a new airworthiness directive (AD) for all Rolls-Royce Deutschland Ltd. & Co. KG (RRD) Model RB211-Trent 875-17, 877-17, 884-17, 884B-17, 892-17, 892B-17, and 895-17 engines. The FAA previously sent this AD as an emergency AD to all known U.S. owners and operators of these engines. This AD was prompted by reports of non- conformances leading to low oil pressure events on low life oil pumps. This AD requires de-pairing of engines on airplanes with two affected engines installed to ensure no more than one affected oil pump is installed on twin-engine airplanes. The FAA is issuing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-19171",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/18/2026-19171/airworthiness-directives-rolls-royce-deutschland-ltd-and-co-kg-engines",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-18/pdf/2026-19171.pdf",
+      "publication_date": "2026-09-18",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-02",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8815-0001",
+      "effective_on": "2026-09-21",
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
+    },
+    {
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus SAS Model A300 B4-600, B4-600R, and F4-600R series airplanes; and Model A300 C4-605R Variant F airplanes (collectively called Model A300-600 series airplanes). This proposed AD was prompted by a determination that new or more restrictive airworthiness limitations are necessary. This proposed AD would require revising the existing maintenance or inspection program, as applicable, to incorporate new or more restrictive airworthiness limitations. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-19090",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/17/2026-19090/airworthiness-directives-airbus-sas-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-17/pdf/2026-19090.pdf",
+      "publication_date": "2026-09-17",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-02",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8812-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
+    },
+    {
+      "title": "Airworthiness Directives; ATR-GIE Avions de Transport Régional Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all ATR-GIE Avions de Transport R[eacute]gional Model ATR42 and ATR72 airplanes. This proposed AD was prompted by reports of uncommanded nose landing gear (NLG) retraction. This proposed AD would require a leakage test of certain landing gear selector valves (LGSVs) and replacement, as applicable. This proposed AD would also limit the installation of affected parts under certain conditions. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-19089",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/17/2026-19089/airworthiness-directives-atr-gie-avions-de-transport-rgional-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-17/pdf/2026-19089.pdf",
+      "publication_date": "2026-09-17",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-02",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8813-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
+    },
+    {
+      "title": "Rescission of the Greenhouse Gas Findings for Fossil Fuel-Fired Power Plants and Repeal of Regulations for Power Plant Greenhouse Gas Emissions Under Clean Air Act Section 111",
+      "type": "Proposed Rule",
+      "abstract": "In this action, the U.S. Environmental Protection Agency (EPA) is supplementing its proposal to repeal all greenhouse gas (GHG) emission standards for fossil fuel-fired electric generating units (EGUs) to effectuate the best reading of Clean Air Act (CAA) section 111. We propose that CAA section 111 does not authorize the EPA to regulate emissions from power plants in response to global climate change concerns. For the multiple and independent reasons described herein, this additional rationale would also require rescinding the Administrator's contrary findings and determinations in 2015 and repealing all associated 2015 and 2024 GHG standards for the fossil fuel-fired EGU source category. In a separate action published concurrently with this supplemental notice, the EPA is finalizing the repeal of certain 2024 GHG standards for the fossil fuel-fired EGU source category on distinct legal and technical grounds. We are not reopening that final rule. Nor are we soliciting further comment on those issues through this supplemental notice, except to the extent that commenters believe the final rule bears on the distinct questions of statutory authority addressed herein.",
+      "document_number": "2026-19072",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/17/2026-19072/rescission-of-the-greenhouse-gas-findings-for-fossil-fuel-fired-power-plants-and-repeal-of",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-17/pdf/2026-19072.pdf",
+      "publication_date": "2026-09-17",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-11-02",
+      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OAR-2025-0124-2920",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2060-AX00"
+      ]
+    },
+    {
+      "title": "Airworthiness Directives; De Havilland Aircraft of Canada Limited (Type Certificate Previously Held by Bombardier, Inc.) Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain De Havilland Aircraft of Canada Limited (Type Certificate Previously Held by Bombardier, Inc.) Model DHC-8-401 and DHC-8-402 airplanes. This proposed AD was prompted by a report that instructions for fay, fillet, and rivet dome sealing were omitted for a bracket installed on the inboard surface of the tank rib, which could allow fuel to leak from the wing fuel tank into the wing dry bay. This proposed AD would require a detailed visual inspection of the affected bracket assembly for signs of fuel leakage and for the presence of fillet seal and fastener dome seal, and applicable on-condition actions. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-18956",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/16/2026-18956/airworthiness-directives-de-havilland-aircraft-of-canada-limited-type-certificate-previously-held-by",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-16/pdf/2026-18956.pdf",
+      "publication_date": "2026-09-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-02",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8810-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
     },
     {
       "title": "Amendment of Class E Airspace Over Pittsfield, ME",
@@ -3841,6 +4184,67 @@
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
+      ]
+    },
+    {
+      "title": "Exemption of Debt Obligations Issued by the European Union Under the Securities Exchange Act of 1934 for Purposes of Trading Futures Contracts on Those Securities",
+      "type": "Proposed Rule",
+      "abstract": "The Securities and Exchange Commission (the \"Commission\" or the \"SEC\") is proposing an amendment to designate debt obligations issued by the European Union as \"exempted securities\" for the purposes of marketing and trading futures contracts on those securities in the United States or to U.S. persons. The amendment is designed to permit futures trading on debt obligations issued by the European Union to be regulated as futures on \"exempted securities,\" subject to the Commodity Exchange Act. The proposal is intended to increase U.S. persons' access to the market for these products, which may improve opportunities for hedging; lower transaction costs; contribute to greater market depth; reduce operational friction; and increase competition.",
+      "document_number": "2026-17939",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/02/2026-17939/exemption-of-debt-obligations-issued-by-the-european-union-under-the-securities-exchange-act-of-1934",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-02/pdf/2026-17939.pdf",
+      "publication_date": "2026-09-02",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "comments_close_on": "2026-11-02",
+      "comment_url": null,
+      "effective_on": "2026-09-02",
+      "regulation_id_numbers": [
+        "3235-AN82"
+      ]
+    },
+    {
+      "title": "Bicycle Use in Park Areas",
+      "type": "Proposed Rule",
+      "abstract": "The National Park Service (NPS) proposes to modify the procedural requirements in existing NPS regulations for the designation of roads and trails for bicycle use within park areas. The changes would align NPS regulations with applicable Federal law and policy, remove unnecessary requirements, and ensure public involvement when needed. The changes in this rule would allow the NPS to manage its resources and allocate taxpayer funds more efficiently and streamline the approval of new and expanded opportunities for use and enjoyment of park areas by the American public.",
+      "document_number": "2026-17902",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/01/2026-17902/bicycle-use-in-park-areas",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-01/pdf/2026-17902.pdf",
+      "publication_date": "2026-09-01",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "National Park Service",
+          "name": "National Park Service",
+          "id": 362,
+          "url": "https://www.federalregister.gov/agencies/national-park-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/362",
+          "parent_id": 253,
+          "slug": "national-park-service"
+        }
+      ],
+      "comments_close_on": "2026-11-02",
+      "comment_url": "http://www.regulations.gov/commenton/NPS-2026-0166-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1024-AE97"
       ]
     },
     {

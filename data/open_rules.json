@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T16:56:33.975566+00:00",
-  "as_of": "2026-10-25",
+  "updated_at": "2026-10-26T09:59:17.939481+00:00",
+  "as_of": "2026-10-26",
   "count": 213,
   "documents": [
     {
@@ -415,7 +415,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "EPA-HQ-OW-2026-0496"
     },
     {
@@ -775,7 +775,7 @@
         "0938-AV88"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "CMS-2026-3533"
     },
     {
@@ -2015,7 +2015,7 @@
         "1615-AD23"
       ],
       "significant": null,
-      "comments_count": 100,
+      "comments_count": 105,
       "docket_id": "USCIS-2026-0397"
     },
     {
@@ -2044,7 +2044,7 @@
         "1615-AD26"
       ],
       "significant": null,
-      "comments_count": 286,
+      "comments_count": 319,
       "docket_id": "USCIS-2026-0529"
     },
     {
@@ -2650,7 +2650,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 125,
+      "comments_count": 127,
       "docket_id": "CMS-2026-3235"
     },
     {
@@ -2742,7 +2742,7 @@
         "1625-AA09"
       ],
       "significant": false,
-      "comments_count": 16,
+      "comments_count": 18,
       "docket_id": "USCG-2026-0889"
     },
     {
@@ -2959,7 +2959,7 @@
         "2060-AW33"
       ],
       "significant": false,
-      "comments_count": 11,
+      "comments_count": 12,
       "docket_id": "EPA-HQ-OAR-2024-0078"
     },
     {
@@ -3480,7 +3480,7 @@
         "3150-AL61"
       ],
       "significant": null,
-      "comments_count": 64,
+      "comments_count": 75,
       "docket_id": "NRC-2025-1568"
     },
     {
@@ -3623,7 +3623,7 @@
         "1545-BR97"
       ],
       "significant": null,
-      "comments_count": 21586,
+      "comments_count": 21614,
       "docket_id": "IRS-2026-1354"
     },
     {
@@ -3764,7 +3764,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 22,
+      "comments_count": 33,
       "docket_id": "DOT-OST-2026-3664"
     },
     {
@@ -4158,7 +4158,7 @@
         "1545-BR91"
       ],
       "significant": null,
-      "comments_count": 115,
+      "comments_count": 116,
       "docket_id": "IRS-2026-1321"
     },
     {
@@ -4961,7 +4961,7 @@
       "effective_on": "2026-09-25",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "FDA-2021-F-1157"
     },
     {
@@ -5055,7 +5055,7 @@
         "3150-AL45"
       ],
       "significant": null,
-      "comments_count": 20,
+      "comments_count": 21,
       "docket_id": "NRC-2025-1138"
     },
     {
@@ -5415,7 +5415,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 2170,
+      "comments_count": 2211,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -5453,7 +5453,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 147,
+      "comments_count": 150,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -5750,7 +5750,7 @@
         "0648-BN92"
       ],
       "significant": false,
-      "comments_count": 324,
+      "comments_count": 330,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     {
@@ -5931,7 +5931,7 @@
         "2060-AX00"
       ],
       "significant": null,
-      "comments_count": 10620,
+      "comments_count": 10692,
       "docket_id": "EPA-HQ-OAR-2025-0124"
     },
     {
@@ -6244,7 +6244,7 @@
         "2120-AM13"
       ],
       "significant": false,
-      "comments_count": 25,
+      "comments_count": 26,
       "docket_id": "FAA-2026-10991"
     },
     {
@@ -6425,7 +6425,7 @@
         "1615-AD22"
       ],
       "significant": null,
-      "comments_count": 26633,
+      "comments_count": 26658,
       "docket_id": "USCIS-2026-0364"
     },
     {
@@ -6839,7 +6839,7 @@
         "1004-AF57"
       ],
       "significant": null,
-      "comments_count": 54641,
+      "comments_count": 55430,
       "docket_id": "BLM-2026-0133"
     },
     {
@@ -6973,7 +6973,7 @@
         "1024-AE97"
       ],
       "significant": false,
-      "comments_count": 591,
+      "comments_count": 664,
       "docket_id": "NPS-2026-0166"
     },
     {
