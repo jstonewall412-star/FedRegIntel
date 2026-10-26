@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T10:18:16.743319+00:00",
+  "updated_at": "2026-10-26T14:18:12.725037+00:00",
   "as_of": "2026-10-26",
   "count": 213,
   "documents": [
@@ -27,7 +27,7 @@
       "effective_on": "2026-11-25",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
+      "comments_count": 0,
       "docket_id": null
     },
     {
@@ -54,7 +54,7 @@
       "effective_on": "2026-11-25",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": null,
+      "comments_count": 0,
       "docket_id": null
     },
     {
@@ -86,14 +86,14 @@
         }
       ],
       "comments_close_on": "2026-11-25",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NHTSA-2026-1519-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": null,
-      "docket_id": null
+      "comments_count": 0,
+      "docket_id": "NHTSA-2026-1519"
     },
     {
       "title": "Outbound Investment Security Program Regulations",

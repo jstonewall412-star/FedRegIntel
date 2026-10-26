@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T10:18:16.312522+00:00",
+  "updated_at": "2026-10-26T14:18:11.888074+00:00",
   "latest_date": "2026-10-26",
   "issue_count": 13,
   "documents": [
@@ -312,7 +312,7 @@
         }
       ],
       "comments_close_on": "2026-11-25",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NHTSA-2026-1519-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2127-AM70"
