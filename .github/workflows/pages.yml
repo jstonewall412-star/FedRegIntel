@@ -37,7 +37,7 @@ jobs:
           cp index.html privacy.html robots.txt CNAME .nojekyll 9663c4e5600e4c88e3fd12c11e77a13a.txt site/
           cp -R .well-known site/
           cp -R assets data tiktok site/
-          rm -f site/assets/book-cover.jpg site/data/extra_posts.json site/data/promo_queue.json site/data/promo_posted.json
+          rm -f site/data/extra_posts.json site/data/promo_queue.json site/data/promo_posted.json
           cp tiktokWiEDgaJHMYjDAfuJhVwRnGr6jSeYfvmJ.txt site/
           python scripts/build_pages.py site
           test -s site/sitemap.xml
@@ -45,7 +45,6 @@ jobs:
           test -s site/videos/index.html
           test -s site/how-to-comment-on-federal-rules/index.html
           test ! -e site/course
-          test ! -e site/assets/book-cover.jpg
           test ! -e site/data/extra_posts.json
           test ! -e site/data/promo_queue.json
       - name: Upload public site artifact

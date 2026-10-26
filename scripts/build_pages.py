@@ -9,6 +9,7 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / 'data'
 SITE = 'https://fedregintel.com'
+BOOK = 'https://www.amazon.com/dp/B0HP8V1ZFG'
 CSS = '/assets/site.css?v=pages-20261009'
 VIDEO_ID = re.compile(r'^[A-Za-z0-9_-]{11}$')
 DOC_NUMBER = re.compile(r'^[A-Za-z0-9-]{1,40}$')
@@ -59,7 +60,7 @@ def page(path, title, description, body, structured=None, robots=None):
         body += share_controls(path, title)
     return f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{esc(title)}</title><meta name="description" content="{esc(description)}"><meta name="theme-color" content="#102f35">{f'<meta name="robots" content="{robots}">' if robots else ''}<link rel="canonical" href="{esc(canonical)}"><meta property="og:type" content="website"><meta property="og:site_name" content="FedReg Intel"><meta property="og:url" content="{esc(canonical)}"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(description)}"><meta name="twitter:card" content="summary_large_image"><link rel="stylesheet" href="{CSS}">{ld_json(structured) if structured else ''}</head>
-<body><header><div class="shell nav"><a class="brand" href="/"><span class="brand-mark" aria-hidden="true">F<span>R</span></span><span>FEDREG <b>INTEL</b><small>THE PUBLIC PARTICIPATION BRIEF</small></span></a><nav aria-label="Main navigation"><a href="/rules/">Open for comment</a><a href="/federal-comment-deadlines/">Upcoming deadlines</a><a href="/videos/">Video briefings</a><a href="/how-to-comment-on-federal-rules/">How to comment</a><a href="/#newsletter">Email list</a><a class="nav-cta" href="https://www.youtube.com/@FedRegIntel?sub_confirmation=1" target="_blank" rel="noopener">Subscribe ↗</a></nav></div></header>
+<body><header><div class="shell nav"><a class="brand" href="/"><span class="brand-mark" aria-hidden="true">F<span>R</span></span><span>FEDREG <b>INTEL</b><small>THE PUBLIC PARTICIPATION BRIEF</small></span></a><nav aria-label="Main navigation"><a href="/rules/">Open for comment</a><a href="/federal-comment-deadlines/">Upcoming deadlines</a><a href="/videos/">Video briefings</a><a href="/how-to-comment-on-federal-rules/">How to comment</a><a href="/#book">The book</a><a href="/#newsletter">Email list</a><a class="nav-cta" href="https://www.youtube.com/@FedRegIntel?sub_confirmation=1" target="_blank" rel="noopener">Subscribe ↗</a></nav></div></header>
 <main class="shell static-page">{body}</main><script src="/assets/share.js" defer></script>
 <footer class="shell"><a class="footer-brand" href="/">FEDREG INTEL</a><p>Independent educational coverage. Not a government website or legal advice. Verify information against the official publication on <a href="https://www.govinfo.gov/">GovInfo</a>.</p><div><a href="/privacy.html">Privacy policy</a><a href="https://www.youtube.com/@FedRegIntel">YouTube</a><a href="https://bsky.app/profile/fedregintel.com" rel="me noopener">Bluesky</a><a href="https://x.com/FedRegIntel" rel="me noopener">X</a><a href="mailto:hello@fedregintel.com">Contact</a></div></footer>
 </body></html>
@@ -152,7 +153,8 @@ def build_videos(out, videos, transcripts, rule_pages):
                 + (f'<div class="description">{linkify(about)}</div>' if about else '')
                 + (f'<h2>Rules in this video</h2><ul class="rule-index">{"".join(rule_item(d) for d in covered)}</ul>' if covered else '')
                 + (f'<section class="transcript" aria-labelledby="transcript-title"><h2 id="transcript-title">Transcript</h2><p class="muted">Narrated by an AI presenter with a synthetic voice. Check the official documents for current dates and details.</p>'
-                   + ''.join(f'<p>{esc(p)}</p>' for p in paragraphs) + '</section>' if paragraphs else ''))
+                   + ''.join(f'<p>{esc(p)}</p>' for p in paragraphs) + '</section>' if paragraphs else '')
+                + f'<p class="aside-note">Want the full method? <a href="{BOOK}" target="_blank" rel="noopener"><em>How to Comment on Federal Rules</em></a> by J.D. Scruggs walks through finding a proposal and writing a comment that counts.</p>')
         structured = {'@context': 'https://schema.org', '@type': 'VideoObject', 'name': v['title'],
                       'description': snippet(about, 500) or v['title'], 'thumbnailUrl': f'https://i.ytimg.com/vi/{v["id"]}/hqdefault.jpg',
                       'uploadDate': v['published'], 'embedUrl': f'https://www.youtube.com/embed/{v["id"]}',
@@ -181,7 +183,7 @@ def rule_item(d, day=None):
 def next_step(d, kind, closes, is_open):
     if is_open:
         return (f'<div class="aside-note"><h2>How to comment</h2><p>Comments are due <strong>{esc(closes)}</strong>. Submit through the link above or follow the instructions in the document\'s ADDRESSES section. Say who you are, how the rule affects you, and what should change, with evidence. Comments are usually public, so leave out anything private.</p>'
-                f'<p>New to this? Start with our <a href="/how-to-comment-on-federal-rules/">free public-comment guide and example</a> or watch <a href="/videos/">Rulemaking 101</a>.</p></div>')
+                f'<p>New to this? Start with our <a href="/how-to-comment-on-federal-rules/">free public-comment guide and example</a>, watch <a href="/videos/">Rulemaking 101</a> or read <a href="{BOOK}" target="_blank" rel="noopener"><em>How to Comment on Federal Rules</em></a>.</p></div>')
     final = d.get('final_rule') or {}
     if final:
         return (f'<div class="aside-note"><h2>Rule published</h2><p>After the comment period, the agency published a rule under the same regulation identifier (RIN) on <strong>{esc(long_date(final.get("publication_date")))}</strong>: '
@@ -287,7 +289,7 @@ def build_comment_guide(out):
 <article class="comment-guide"><p class="eyebrow">A PRACTICAL PUBLIC-COMMENT GUIDE</p>
 <h1 class="page-title">How to comment on federal rules</h1>
 <p class="section-intro">A useful public comment connects a proposal to a specific problem, explains your reasoning, and identifies what you want the agency to consider. You do not need a lawyer or a professional title to share relevant experience.</p>
-<p>By Jarrett Paul Dudley · Published October 20, 2026</p>
+<p>By J.D. Scruggs · Published October 20, 2026</p>
 <nav aria-label="Guide contents"><a href="#find">Find a proposal</a> · <a href="#write">Write your comment</a> · <a href="#example">See an example</a> · <a href="#submit">Submit and follow up</a></nav>
 <h2 id="find">1. Find the proposal and verify the instructions</h2>
 <p>Start with <a href="/rules/">federal rules open for public comment</a> or <a href="/rules/#closing-this-week">upcoming comment deadlines</a>. Open the linked Federal Register document and read its summary, DATES, ADDRESSES, and the sections explaining the proposed changes. Look for questions the agency specifically asks commenters to answer.</p>
@@ -306,7 +308,7 @@ def build_comment_guide(out):
 <li>Follow the specified submission process and save your comment, attachments, and confirmation or tracking number.</li>
 <li>Follow the docket for later documents. A final rule may explain how the agency addressed significant comments; submitting a comment does not guarantee a personal reply or your preferred outcome.</li></ul>
 <h2>Keep learning</h2>
-<p><a href="/videos/">Watch FedReg Intel briefings and available transcripts</a>, explore the <a href="/rules/">current rule dashboard</a>, or review the official Federal Register and Regulations.gov resources linked above.</p>
+<p><a href="/videos/">Watch FedReg Intel briefings and available transcripts</a>, explore the <a href="/rules/">current rule dashboard</a>, or read <a href="https://www.amazon.com/dp/B0HP8V1ZFG">How to Comment on Federal Rules</a> by J.D. Scruggs for a fuller walkthrough.</p>
 <h2>Official sources and further guidance</h2>
 <ul><li><a href="https://www.fda.gov/regulatory-information/federal-register-fr-notices/how-use-regulationsgov">FDA: How to Use Regulations.gov</a></li>
 <li><a href="https://www.osha.gov/node/999877519">OSHA: How do I submit a comment on Regulations.gov?</a></li>
@@ -316,7 +318,7 @@ def build_comment_guide(out):
         {'@type': 'Article', 'headline': 'How to comment on federal rules',
          'description': description, 'url': SITE + path, 'mainEntityOfPage': SITE + path,
          'datePublished': '2026-10-20', 'dateModified': '2026-10-20',
-         'author': {'@type': 'Person', 'name': 'Jarrett Paul Dudley'},
+         'author': {'@type': 'Person', 'name': 'J.D. Scruggs'},
          'publisher': {'@type': 'Organization', 'name': 'FedReg Intel', 'url': SITE + '/'},
          'inLanguage': 'en-US'},
         {'@type': 'BreadcrumbList', 'itemListElement': [

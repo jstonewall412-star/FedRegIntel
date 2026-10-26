@@ -2,7 +2,7 @@
 
 ## Dashboard (September 2026)
 
-The public website combines a Federal Register dashboard, the author's published Kindle book,
+The public website combines a Federal Register dashboard, the author's published book,
 and the @FedRegIntel public video archive. Plain HTML/CSS/JavaScript; no paid dependencies.
 
 - Rule results come directly from FederalRegister.gov's public API on page load, search, filter,
@@ -22,7 +22,7 @@ and the @FedRegIntel public video archive. Plain HTML/CSS/JavaScript; no paid de
   archive warning appears after one hour. Source failures retain previous snapshots and fail the run.
 - The workflow publishes Pages explicitly, because commits made with GITHUB_TOKEN do not trigger
   a legacy Pages build. Pages must use the **GitHub Actions** source.
-- Book link: https://www.amazon.com/dp/B0HL97PYTB. Cover supplied from the author's book project.
+- Book link: https://www.amazon.com/dp/B0HP8V1ZFG. Cover supplied from the author's book project.
 
 ### Local development
 

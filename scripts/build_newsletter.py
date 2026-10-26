@@ -9,7 +9,7 @@ from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = 'https://fedregintel.com/'
-BOOK = 'https://www.amazon.com/dp/B0HL97PYTB'
+BOOK = 'https://www.amazon.com/dp/B0HP8V1ZFG'
 
 def month_videos(videos, month):
     datetime.strptime(month, '%Y-%m')
@@ -30,12 +30,12 @@ def build(month, output):
         'Thanks for joining FedReg Intel. Federal decisions shape everyday life, and understanding the process makes it easier to participate.',
         'Once a month, we’ll send a roundup of our published videos, practical ways to follow federal rulemaking, and news about our books. You can unsubscribe at any time.',
         'Start with the rule dashboard: search a topic you care about, check the comment deadline, and read the official document. Our video archive offers briefings and explainers to help you get oriented.',
-        'Want a step-by-step companion? How to Comment on Federal Rules by Jarrett Paul Dudley walks through finding proposals and writing a clear, useful comment. The link below is a promotion for our book.',
-        'Have a topic you’d like us to cover? Reply to this email. — Jarrett Paul Dudley, FedReg Intel']
+        'Want a step-by-step companion? How to Comment on Federal Rules by J.D. Scruggs walks through finding proposals and writing a clear, useful comment. The link below is a promotion for our book.',
+        'Have a topic you’d like us to cover? Reply to this email. — J.D. Scruggs, FedReg Intel']
     common = [('Explore the rule dashboard', SITE+'#rules'), ('Watch FedReg Intel', SITE+'#videos'), ('Buy How to Comment on Federal Rules on Amazon', BOOK)]
     monthly = [f'Here’s what we published in {label}: {len(videos)} videos in the FedReg Intel public archive.',
         'Catch up on the episodes below, then visit the dashboard to find current proposals and comment deadlines. An older episode’s deadline may have passed; always check the official source.',
-        'Build your commenting skills with How to Comment on Federal Rules by Jarrett Paul Dudley. This book promotion supports our work and gives you a practical guide to participating in the process. Pricing and available editions are listed on Amazon.']
+        'Build your commenting skills with How to Comment on Federal Rules by J.D. Scruggs. This book promotion supports our work and gives you a practical guide to participating in the process. Pricing and available editions are listed on Amazon.']
     if not videos:
         monthly[0] = f'No videos published in {label} are currently indexed in our archive. You can still explore previous episodes and the live rule dashboard.'
     for name, title, paras, links in [('welcome', 'Welcome to FedReg Intel', welcome, common), ('monthly-'+month, label+' · Your FedReg Intel roundup', monthly, [(v['title'],v['url']) for v in videos]+common)]:

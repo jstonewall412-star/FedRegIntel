@@ -98,7 +98,7 @@ class PageTests(unittest.TestCase):
         self.assertIn('https://www.fda.gov/',guide)
         self.assertIn('href="/how-to-comment-on-federal-rules/"',self.read('rules/2026-11111'))
         schema=json.loads(re.search(r'<script type="application/ld\+json">(.*?)</script>',guide,re.S).group(1))
-        self.assertEqual(schema['@graph'][0]['author']['name'],'Jarrett Paul Dudley')
+        self.assertEqual(schema['@graph'][0]['author']['name'],'J.D. Scruggs')
         self.assertEqual(schema['@graph'][1]['@type'],'BreadcrumbList')
         self.assertIn('<loc>https://fedregintel.com/how-to-comment-on-federal-rules/</loc>',(self.out/'sitemap.xml').read_text())
 
