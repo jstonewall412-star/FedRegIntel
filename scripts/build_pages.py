@@ -11,6 +11,7 @@ DATA = ROOT / 'data'
 SITE = 'https://fedregintel.com'
 BOOK = 'https://www.amazon.com/dp/B0HP8V1ZFG'
 CSS = '/assets/site.css?v=pages-20261009'
+RULE_TITLES = set()
 VIDEO_ID = re.compile(r'^[A-Za-z0-9_-]{11}$')
 DOC_NUMBER = re.compile(r'^[A-Za-z0-9-]{1,40}$')
 LINK = re.compile(r'https?://[^\s<>"]+')
@@ -219,6 +220,9 @@ def rule_page(d, day, videos):
         title, lead = f'Comment by {closes}: {snippet(d["title"], 80)} | FedReg Intel', f'{kind}, comments due {closes}. '
     else:
         title, lead = f'{snippet(d["title"], 90)} (comments closed {closes}) | FedReg Intel', f'{kind}; comments closed {closes}. '
+    if title in RULE_TITLES:  # long titles can truncate to the same text; keep each page title unique
+        title = title.replace(' | FedReg Intel', f' · Doc {d["document_number"]} | FedReg Intel')
+    RULE_TITLES.add(title)
     return path, page(path, title, lead + snippet(d.get('abstract') or d['title'], 120), body)
 
 def build_rules(out, rules, day, covered_by):
