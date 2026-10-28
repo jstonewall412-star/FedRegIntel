@@ -1,8 +1,420 @@
 {
-  "updated_at": "2026-10-27T13:14:22.993187+00:00",
-  "latest_date": "2026-10-27",
-  "issue_count": 18,
+  "updated_at": "2026-10-28T14:03:11.741498+00:00",
+  "latest_date": "2026-10-28",
+  "issue_count": 13,
   "documents": [
+    {
+      "title": "Television Broadcasting Services Elko, Nevada",
+      "type": "Rule",
+      "abstract": "This document amends the Table of TV Allotments (table) of the Federal Communications Commission's (Commission) rules by substituting VHF channel 10 for UHF channel 20 at Elko, Nevada in response to a petition for rulemaking filed by Reno (KENV-TV) Licensee, Inc. (Licensee), the licensee of full power television station KENV-DT (KENV-DT or Station), Elko, Nevada. The Media Bureau (Bureau) previously granted a petition for rulemaking submitted by the Licensee to substitute UHF channel 20 for VHF channel 10 at Elko in the table, and subsequently granted a construction permit for its new channel. The Licensee states that it was unable to complete construction of the channel 20 facility by the deadline specified in the Station's construction permit. The Licensee filed the instant petition to amend the table to substitute VHF channel 10 for UHF channel 20 and allow KENV-DT to continue to operate on channel 10 at its licensed parameters and provide uninterrupted service to viewers. The staff engineering analysis finds that the proposal is in compliance with the Commission's principal community coverage and technical requirements, including the interference protection requirements. In support of its channel substitution request, the Licensee filed comments reaffirming its interest and stating that it commits to promptly take any and all steps that may be necessary to effectuate the channel substitution proposed in the petition. An individual commenter, Steven Quinn Singleton, also filed comments, which, for the reasons discussed in the Report and Order referenced below, the Bureau denied.",
+      "document_number": "2026-22034",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/28/2026-22034/television-broadcasting-services-elko-nevada",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-28/pdf/2026-22034.pdf",
+      "publication_date": "2026-10-28",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL COMMUNICATIONS COMMISSION",
+          "name": "Federal Communications Commission",
+          "id": 161,
+          "url": "https://www.federalregister.gov/agencies/federal-communications-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/161",
+          "parent_id": null,
+          "slug": "federal-communications-commission"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-28",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Fisheries of the Northeastern United States; Atlantic Bluefish Fishery; Quota Transfer From New York to North Carolina",
+      "type": "Rule",
+      "abstract": "NMFS announces that the State of New York is transferring a portion of their 2026 commercial bluefish quota to the State of North Carolina. This quota adjustment is necessary to comply with the Atlantic Bluefish Fishery Management Plan (FMP) quota transfer provisions. This announcement informs the public of the revised 2026 commercial bluefish quotas for New York and North Carolina.",
+      "document_number": "2026-22007",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/28/2026-22007/fisheries-of-the-northeastern-united-states-atlantic-bluefish-fishery-quota-transfer-from-new-york",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-28/pdf/2026-22007.pdf",
+      "publication_date": "2026-10-28",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-27",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From Virginia to New Jersey",
+      "type": "Rule",
+      "abstract": "NMFS announces that the Commonwealth of Virginia is transferring a portion of its 2026 commercial summer flounder quota to the State of New Jersey. This adjustment to the 2026 fishing year quota is necessary to comply with the Summer Flounder, Scup, and Black Sea Bass Fishery Management Plan (FMP) quota transfer provisions. This announcement informs the public of the revised 2026 commercial quotas for Virginia and New Jersey.",
+      "document_number": "2026-22003",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/28/2026-22003/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-virginia-to",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-28/pdf/2026-22003.pdf",
+      "publication_date": "2026-10-28",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-27",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Executive Branch Financial Disclosure and Standards of Ethical Conduct Regulations",
+      "type": "Rule",
+      "abstract": "The U.S. Office of Government Ethics (OGE) is updating its executive branch regulation on financial disclosure to reflect the retroactive statutory increase of the reporting thresholds for gifts and travel reimbursements. OGE is also updating the executive branchwide standards of ethical conduct regulation to raise the widely attended gatherings nonsponsor gifts exception dollar ceiling tied to these thresholds. This latter change is not retroactive.",
+      "document_number": "2026-21997",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/28/2026-21997/executive-branch-financial-disclosure-and-standards-of-ethical-conduct-regulations",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-28/pdf/2026-21997.pdf",
+      "publication_date": "2026-10-28",
+      "agencies": [
+        {
+          "raw_name": "OFFICE OF GOVERNMENT ETHICS",
+          "name": "Government Ethics Office",
+          "id": 215,
+          "url": "https://www.federalregister.gov/agencies/government-ethics-office",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/215",
+          "parent_id": null,
+          "slug": "government-ethics-office"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-10-28",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Establishment of Class E Airspace; Ottawa, IL; Correction",
+      "type": "Rule",
+      "abstract": "This action corrects a final rule published by the FAA in the Federal Register on September 22, 2026, establishing Class E airspace at OSF St Elizabeth Medical Center Heliport, Ottawa, IL. This action corrects a typographical error in the airspace legal description.",
+      "document_number": "2026-21995",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/28/2026-21995/establishment-of-class-e-airspace-ottawa-il-correction",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-28/pdf/2026-21995.pdf",
+      "publication_date": "2026-10-28",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-09-22",
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ]
+    },
+    {
+      "title": "Establishment of Class E Airspace; DeKalb, IL; Correction",
+      "type": "Rule",
+      "abstract": "This action corrects a final rule published by the FAA in the Federal Register on September 22, 2026, establishing Class E airspace at Northwestern Memorial Healthcare Heliport, DeKalb, IL. Specifically, this action corrects a typographic error in the airspace legal description.",
+      "document_number": "2026-21991",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/28/2026-21991/establishment-of-class-e-airspace-dekalb-il-correction",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-28/pdf/2026-21991.pdf",
+      "publication_date": "2026-10-28",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-09-22",
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ]
+    },
+    {
+      "title": "Modification of Class E Airspace, Samaritan North Lincoln Hospital Heliport, Lincoln City, OR",
+      "type": "Rule",
+      "abstract": "This action modifies Class E airspace extending upward from 700 feet above the surface at Samaritan North Lincoln Hospital Heliport, Lincoln City, OR. This action supports the safety and management of instrument flight rules (IFR) operations at the heliport.",
+      "document_number": "2026-21978",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/28/2026-21978/modification-of-class-e-airspace-samaritan-north-lincoln-hospital-heliport-lincoln-city-or",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-28/pdf/2026-21978.pdf",
+      "publication_date": "2026-10-28",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-12-24",
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ]
+    },
+    {
+      "title": "Alaska; Wildlife, Harvest, and Access; Correction",
+      "type": "Rule",
+      "abstract": "The National Park Service (NPS) is correcting a final rule that appeared in the Federal Register on October 19, 2026. The rule amended regulations for hunting, fishing, trapping, and other harvest- related activities in Alaska and the procedures used to restrict public use and access in Alaska park areas, including for subsistence.",
+      "document_number": "2026-21965",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/28/2026-21965/alaska-wildlife-harvest-and-access-correction",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-28/pdf/2026-21965.pdf",
+      "publication_date": "2026-10-28",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "National Park Service",
+          "name": "National Park Service",
+          "id": 362,
+          "url": "https://www.federalregister.gov/agencies/national-park-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/362",
+          "parent_id": 253,
+          "slug": "national-park-service"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-11-18",
+      "regulation_id_numbers": [
+        "1024-AE96"
+      ]
+    },
+    {
+      "title": "Voluntary Consensus Standards Update; Formaldehyde Emission Standards for Composite Wood Products",
+      "type": "Rule",
+      "abstract": "The Environmental Protection Agency (EPA) is publishing a final rule to update the incorporation by reference of several voluntary consensus standards in the Agency's formaldehyde standards for composite wood products regulations under the Toxic Substances Control Act (TSCA) due to the standards having been updated or superseded by the issuing organizations. These new standards primarily update test methods and product standards concerning composite wood products that use formaldehyde. EPA is also conforming these updated standards in the scope and definitional sections in the final rule and incorporating by reference a new small scale quality control chamber test method, similar to current methods already incorporated by reference. EPA is also removing one standard that was previously incorporated by reference to avoid redundancy, given that another identical, internationally recognized version of the standard is already incorporated by reference in this rule.",
+      "document_number": "2026-21963",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/28/2026-21963/voluntary-consensus-standards-update-formaldehyde-emission-standards-for-composite-wood-products",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-28/pdf/2026-21963.pdf",
+      "publication_date": "2026-10-28",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-11-27",
+      "regulation_id_numbers": [
+        "2070-AL36"
+      ]
+    },
+    {
+      "title": "Special Local Regulation; Port Miami Main Shipping Channel, Miami FL",
+      "type": "Proposed Rule",
+      "abstract": "The Coast Guard is proposing to establish a temporary special local regulation (SLR) for certain navigable waters of the Miami Shipping Channel offshore of Port Miami, Miami, FL in connection with the E1 Miami Grand Prix. The SLR is needed to protect personnel, vessels, and the marine environment from potential hazards created by high-speed powerboat racing. This proposed rulemaking would prohibit persons and vessels from being in or loitering around the regulated area unless specifically authorized by the Captain of the Port, Sector Miami. We invite your comments on this proposed rulemaking.",
+      "document_number": "2026-21949",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/28/2026-21949/special-local-regulation-port-miami-main-shipping-channel-miami-fl",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-28/pdf/2026-21949.pdf",
+      "publication_date": "2026-10-28",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "Coast Guard",
+          "name": "Coast Guard",
+          "id": 53,
+          "url": "https://www.federalregister.gov/agencies/coast-guard",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
+          "parent_id": 227,
+          "slug": "coast-guard"
+        }
+      ],
+      "comments_close_on": "2026-11-04",
+      "comment_url": "http://www.regulations.gov/commenton/USCG-2026-1152-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1625-AA08"
+      ]
+    },
+    {
+      "title": "Health Data, Technology, and Interoperability: ONC Deregulatory Actions To Unleash Prosperity",
+      "type": "Rule",
+      "abstract": "This final rule focuses on deregulatory actions identified in HHS regulations regarding health information technology standards, implementation specifications, and certification criteria and regarding certification programs for health information technology. This final rule reduces burden, offers flexibility to both developers and providers, and supports innovation through the removal and revision of certain certification criteria and regulatory provisions.",
+      "document_number": "2026-21943",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/28/2026-21943/health-data-technology-and-interoperability-onc-deregulatory-actions-to-unleash-prosperity",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-28/pdf/2026-21943.pdf",
+      "publication_date": "2026-10-28",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Office of the Secretary"
+        }
+      ],
+      "comments_close_on": null,
+      "comment_url": null,
+      "effective_on": "2026-12-28",
+      "regulation_id_numbers": [
+        "0955-AA09"
+      ]
+    },
+    {
+      "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
+      "type": "Proposed Rule",
+      "abstract": "The United States Copyright Office is conducting the tenth triennial rulemaking proceeding under the Digital Millennium Copyright Act (\"DMCA\"), concerning temporary exemptions to the DMCA's prohibition against circumvention of technological measures that control access to copyrighted works. Having carefully considered the petitions for new and renewal exemptions and comments received in response to the June 9, 2026 Notification of Inquiry, the Office announces the Register's intention to recommend all but one of the existing exemptions for renewal, and initiates three rounds of public comment on newly proposed exemptions. Comments submitted may not exceed twenty-five pages per class, excluding documentary evidence.",
+      "document_number": "2026-21939",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/28/2026-21939/exemptions-to-permit-circumvention-of-access-controls-on-copyrighted-works",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-28/pdf/2026-21939.pdf",
+      "publication_date": "2026-10-28",
+      "agencies": [
+        {
+          "raw_name": "LIBRARY OF CONGRESS",
+          "name": "Library of Congress",
+          "id": 277,
+          "url": "https://www.federalregister.gov/agencies/library-of-congress",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/277",
+          "parent_id": null,
+          "slug": "library-of-congress"
+        },
+        {
+          "raw_name": "Copyright Office",
+          "name": "Copyright Office, Library of Congress",
+          "id": 87,
+          "url": "https://www.federalregister.gov/agencies/copyright-office-library-of-congress",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/87",
+          "parent_id": 277,
+          "slug": "copyright-office-library-of-congress"
+        }
+      ],
+      "comments_close_on": "2027-03-22",
+      "comment_url": "http://www.regulations.gov/commenton/COLC-2026-0199-0001",
+      "effective_on": "2026-12-07",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "Airworthiness Directives; Airbus Helicopters",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2013-01-05, which applies to certain Airbus Helicopters (Eurocopter France) Model AS350B3 and EC130B4 helicopters. AD 2013-01-05 requires revising the Limitations section of the rotorcraft flight manual (RFM) supplement to reduce the starter generator operating current to 180 amperes (amps) and installing a placard in the instrument panel to indicate the revised limitation. Since the FAA issued AD 2013-01-05, the manufacturer determined the applicability needs to be revised to add helicopters equipped with certain part numbered starter generators and to remove helicopters with certain engines installed. This proposed AD would require revising the Limitations section of the RFM supplement of the existing RFM for the helicopter, to reduce the starter generator operating current to 180 amps and installing a placard in the instrument panel indicating the revised limitation. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-21932",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/28/2026-21932/airworthiness-directives-airbus-helicopters",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-28/pdf/2026-21932.pdf",
+      "publication_date": "2026-10-28",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-14",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11818-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
+    },
     {
       "title": "Implementation of HAVANA Act of 2021",
       "type": "Rule",
@@ -58,7 +470,7 @@
         }
       ],
       "comments_close_on": "2026-12-28",
-      "comment_url": "http://www.regulations.gov/commenton/PHMSA_FRDOC_0001-2026",
+      "comment_url": "http://www.regulations.gov/commenton/PHMSA-2025-0048-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2137-AF75"
@@ -119,7 +531,7 @@
         }
       ],
       "comments_close_on": "2026-11-27",
-      "comment_url": "http://www.regulations.gov/commenton/USCG_FRDOC_0001-11866",
+      "comment_url": "http://www.regulations.gov/commenton/USCG-2026-0941-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1625-AA00"
@@ -154,7 +566,7 @@
         }
       ],
       "comments_close_on": "2026-11-27",
-      "comment_url": "http://www.regulations.gov/commenton/FAA_FRDOC_0001-28555",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-10627-0001",
       "effective_on": null,
       "regulation_id_numbers": []
     },
@@ -213,7 +625,7 @@
         }
       ],
       "comments_close_on": "2026-11-27",
-      "comment_url": "http://www.regulations.gov/commenton/CMS_FRDOC_0001-4473",
+      "comment_url": null,
       "effective_on": null,
       "regulation_id_numbers": [
         "0938-AW03"
@@ -421,7 +833,7 @@
         }
       ],
       "comments_close_on": null,
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11816-0001",
       "effective_on": "2026-11-12",
       "regulation_id_numbers": [
         "2120-AA64"
@@ -491,7 +903,7 @@
         }
       ],
       "comments_close_on": null,
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11815-0001",
       "effective_on": "2026-11-12",
       "regulation_id_numbers": [
         "2120-AA64"
@@ -526,7 +938,7 @@
         }
       ],
       "comments_close_on": "2026-11-27",
-      "comment_url": "http://www.regulations.gov/commenton/FAA_FRDOC_0001-28557",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11817-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
@@ -947,7 +1359,7 @@
         }
       ],
       "comments_close_on": "2026-12-07",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/TREAS-DO-2026-0595-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1505-AC94"
@@ -2729,398 +3141,6 @@
       ]
     },
     {
-      "title": "Airworthiness Directives; Airbus SAS Airplanes",
-      "type": "Rule",
-      "abstract": "The FAA is adopting a new airworthiness directive (AD) for all Airbus SAS Model A330-243, A330-243F, A330-341, A330-342, A330-343, A330-841, and A330-941 airplanes; and Model A340-211, A340-212, A340- 213, A340-311, A340-312, A340-313, A340-541, and A340-642 airplanes. This AD was prompted by reports of leaks on closed fuel low pressure shut-off valves (LPSOVs). This AD requires repetitive leak checks of certain fuel LPSOVs and replacement of an affected part if any discrepancy is detected. This AD also allows the installation of an affected part under certain conditions. The FAA is issuing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-21325",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21325/airworthiness-directives-airbus-sas-airplanes",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21325.pdf",
-      "publication_date": "2026-10-19",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-11-23",
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ]
-    },
-    {
-      "title": "Upper C-Band (3.98-4.2 GHz); Expanding Flexible Use of the 3.7 to 4.2 GHz Band",
-      "type": "Rule",
-      "abstract": "In this document, the Federal Communications Commission (Commission) announces that the Office of Management and Budget (OMB) has approved the information collection requirements under OMB Control Number 3060-1272, as adopted in the Commission's Report and Order, Order of Proposed Modification, and Order on Reconsideration, FCC 26- 46.",
-      "document_number": "2026-21324",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21324/upper-c-band-398-42-ghz-expanding-flexible-use-of-the-37-to-42-ghz-band",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21324.pdf",
-      "publication_date": "2026-10-19",
-      "agencies": [
-        {
-          "raw_name": "FEDERAL COMMUNICATIONS COMMISSION",
-          "name": "Federal Communications Commission",
-          "id": 161,
-          "url": "https://www.federalregister.gov/agencies/federal-communications-commission",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/161",
-          "parent_id": null,
-          "slug": "federal-communications-commission"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-10-19",
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Administrative Leave for Workforce Realignment and Other Purposes",
-      "type": "Rule",
-      "abstract": "The Office of Personnel Management (OPM) is issuing a final rule to amend its regulations governing administrative leave for workforce realignment and other purposes. This final rule more fully addresses the appropriate uses of administrative leave, including use in connection with deferred resignation programs and other workforce realignment initiatives, and for other purposes. The final rule also clarifies when an agency may provide administrative leave during a reduction-in-force notice period and accept or deny an employee's request to withdraw a resignation in the context of a deferred resignation program.",
-      "document_number": "2026-21320",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21320/administrative-leave-for-workforce-realignment-and-other-purposes",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21320.pdf",
-      "publication_date": "2026-10-19",
-      "agencies": [
-        {
-          "raw_name": "OFFICE OF PERSONNEL MANAGEMENT",
-          "name": "Personnel Management Office",
-          "id": 406,
-          "url": "https://www.federalregister.gov/agencies/personnel-management-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/406",
-          "parent_id": null,
-          "slug": "personnel-management-office"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-11-18",
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Elimination of Time-in-Grade",
-      "type": "Rule",
-      "abstract": "The Office of Personnel Management (OPM) is adopting, substantially as proposed, its proposed rule eliminating the Time-in- Grade (TIG) restriction on advancement to competitive service positions in the General Schedule (GS). Under the prior regulations, a candidate generally could not be advanced to a covered position at GS-6 or above without completing 52 weeks in a position no more than one grade lower--or two grades lower for certain positions in two-grade-interval lines of work. This final rule removes that requirement. Employees remain subject to all applicable occupational qualification standards and any additional job-related qualification requirements established by their employing agency.",
-      "document_number": "2026-21319",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21319/elimination-of-time-in-grade",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21319.pdf",
-      "publication_date": "2026-10-19",
-      "agencies": [
-        {
-          "raw_name": "OFFICE OF PERSONNEL MANAGEMENT",
-          "name": "Personnel Management Office",
-          "id": 406,
-          "url": "https://www.federalregister.gov/agencies/personnel-management-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/406",
-          "parent_id": null,
-          "slug": "personnel-management-office"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2027-01-19",
-      "regulation_id_numbers": [
-        "3206-AP05"
-      ]
-    },
-    {
-      "title": "New Mailing Standards for Live Animals",
-      "type": "Rule",
-      "abstract": "The Postal Service is revising Publication 52, Hazardous, Restricted, and Perishable Mail (Pub 52), to improve package integrity and container identification for live animal shipments during processing and handling.",
-      "document_number": "2026-21317",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21317/new-mailing-standards-for-live-animals",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21317.pdf",
-      "publication_date": "2026-10-19",
-      "agencies": [
-        {
-          "raw_name": "POSTAL SERVICE",
-          "name": "Postal Service",
-          "id": 410,
-          "url": "https://www.federalregister.gov/agencies/postal-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/410",
-          "parent_id": null,
-          "slug": "postal-service"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-10-19",
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Managing Senior Professional Performance",
-      "type": "Rule",
-      "abstract": "The Office of Personnel Management (OPM) and the Office of Management and Budget (OMB) are issuing a final rule to strengthen the performance appraisal of senior-level (SL) and scientific or professional (ST) employees, collectively referred to as \"senior professionals.\" This final rule establishes a new subpart dedicated exclusively to senior professional performance appraisal that aligns more closely with Senior Executive Service (SES) performance appraisal regulations. The rule also eliminates senior professional appraisal programs, removes the prohibition of a standardized distribution of performance rating levels, and enhances oversight of the appraisal process.",
-      "document_number": "2026-21316",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21316/managing-senior-professional-performance",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21316.pdf",
-      "publication_date": "2026-10-19",
-      "agencies": [
-        {
-          "raw_name": "OFFICE OF PERSONNEL MANAGEMENT",
-          "name": "Personnel Management Office",
-          "id": 406,
-          "url": "https://www.federalregister.gov/agencies/personnel-management-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/406",
-          "parent_id": null,
-          "slug": "personnel-management-office"
-        },
-        {
-          "raw_name": "OFFICE OF MANAGEMENT AND BUDGET",
-          "name": "Management and Budget Office",
-          "id": 280,
-          "url": "https://www.federalregister.gov/agencies/management-and-budget-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/280",
-          "parent_id": null,
-          "slug": "management-and-budget-office"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-11-18",
-      "regulation_id_numbers": [
-        "0348-AB92",
-        "3206-AO88"
-      ]
-    },
-    {
-      "title": "Petition for Reconsideration of Action in Rulemaking Proceeding; Correction",
-      "type": "Proposed Rule",
-      "abstract": "The Federal Communications Commission published a document in the Federal Register concerning a Petition for Reconsideration (Petition) has been filed in the Commission's proceeding by Thomas Goode on behalf of the Alliance for Telecommunications Industry Solutions. That document contained incorrect dates.",
-      "document_number": "2026-21312",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21312/petition-for-reconsideration-of-action-in-rulemaking-proceeding-correction",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21312.pdf",
-      "publication_date": "2026-10-19",
-      "agencies": [
-        {
-          "raw_name": "FEDERAL COMMUNICATIONS COMMISSION",
-          "name": "Federal Communications Commission",
-          "id": 161,
-          "url": "https://www.federalregister.gov/agencies/federal-communications-commission",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/161",
-          "parent_id": null,
-          "slug": "federal-communications-commission"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Customs Requirements and Payment Procedures for Certain Customs Charges",
-      "type": "Rule",
-      "abstract": "The Postal Service is revising Mailing Standards of the United States Postal Service, International Mail Manual (IMM[supreg]), in various sections, to update mailer responsibilities with respect to customs requirements and to establish procedures for the payment, or reimbursement, of any customs charges that are assessed, including after the purchase of postage.",
-      "document_number": "2026-21310",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21310/customs-requirements-and-payment-procedures-for-certain-customs-charges",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21310.pdf",
-      "publication_date": "2026-10-19",
-      "agencies": [
-        {
-          "raw_name": "POSTAL SERVICE",
-          "name": "Postal Service",
-          "id": 410,
-          "url": "https://www.federalregister.gov/agencies/postal-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/410",
-          "parent_id": null,
-          "slug": "postal-service"
-        }
-      ],
-      "comments_close_on": "2026-11-18",
-      "comment_url": null,
-      "effective_on": "2026-10-19",
-      "regulation_id_numbers": []
-    },
-    {
-      "title": "Safety Zone; FRL Inaugural Invitational eFoil Exhibition Race, Miami Marine Stadium Basin, Miami, FL",
-      "type": "Proposed Rule",
-      "abstract": "The Coast Guard is proposing to establish a temporary safety zone for certain navigable waters in the Miami Marine Stadium Basin in connection with the FRL Inaugural Invitational eFoil Exhibition Race. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards associated with eFoil race operations. This proposed rulemaking would prohibit persons and vessels from being in the safety zone unless specifically authorized by the Captain of the Port, Sector Miami. We invite your comments on this proposed rulemaking.",
-      "document_number": "2026-21305",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21305/safety-zone-frl-inaugural-invitational-efoil-exhibition-race-miami-marine-stadium-basin-miami-fl",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21305.pdf",
-      "publication_date": "2026-10-19",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        },
-        {
-          "raw_name": "Coast Guard",
-          "name": "Coast Guard",
-          "id": 53,
-          "url": "https://www.federalregister.gov/agencies/coast-guard",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
-          "parent_id": 227,
-          "slug": "coast-guard"
-        }
-      ],
-      "comments_close_on": "2026-11-18",
-      "comment_url": "http://www.regulations.gov/commenton/USCG-2026-1162-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1625-AA00"
-      ]
-    },
-    {
-      "title": "Special Local Regulation; Ponce Harbor, Ponce, PR",
-      "type": "Rule",
-      "abstract": "The Coast Guard is establishing a temporary special local regulation (SLR) for certain waters within the Bahia de Ponce, Ponce, PR. This action is necessary to provide for the safety of life on these navigable waters near Ponce, PR during the Discover the Caribbean Regatta 2026 event to be held October 30, 2026, through November 1, 2026, and November 14, 2026, through November 15, 2026. This regulation prohibits persons and vessels from entering the regulated area unless specifically authorized by the Captain of the Port San Juan or their designated representative.",
-      "document_number": "2026-21302",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21302/special-local-regulation-ponce-harbor-ponce-pr",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21302.pdf",
-      "publication_date": "2026-10-19",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
-          "name": "Homeland Security Department",
-          "id": 227,
-          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
-          "parent_id": null,
-          "slug": "homeland-security-department"
-        },
-        {
-          "raw_name": "Coast Guard",
-          "name": "Coast Guard",
-          "id": 53,
-          "url": "https://www.federalregister.gov/agencies/coast-guard",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/53",
-          "parent_id": 227,
-          "slug": "coast-guard"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-10-30",
-      "regulation_id_numbers": [
-        "1625-AA08"
-      ]
-    },
-    {
-      "title": "Gates of the Arctic National Park and Preserve; Use of Off-Road Vehicles for Subsistence Purposes by Residents of Anaktuvuk Pass",
-      "type": "Proposed Rule",
-      "abstract": "The National Park Service (NPS) proposes to amend special regulations for Gates of the Arctic National Park and Preserve (Gates) to establish a process by which the Superintendent can establish reasonable mitigation measures on the use of off-road vehicles (ORVs) for subsistence purposes by local rural residents of Anaktuvuk Pass, but only when such use is causing or likely to cause an adverse impact to public health and safety, resources, historic or scientific values, subsistence uses, or endangered or threatened species.",
-      "document_number": "2026-21300",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21300/gates-of-the-arctic-national-park-and-preserve-use-of-off-road-vehicles-for-subsistence-purposes-by",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21300.pdf",
-      "publication_date": "2026-10-19",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE INTERIOR",
-          "name": "Interior Department",
-          "id": 253,
-          "url": "https://www.federalregister.gov/agencies/interior-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
-          "parent_id": null,
-          "slug": "interior-department"
-        },
-        {
-          "raw_name": "National Park Service",
-          "name": "National Park Service",
-          "id": 362,
-          "url": "https://www.federalregister.gov/agencies/national-park-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/362",
-          "parent_id": 253,
-          "slug": "national-park-service"
-        }
-      ],
-      "comments_close_on": "2026-12-18",
-      "comment_url": "http://www.regulations.gov/commenton/NPS-2026-0232-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1024-AF12"
-      ]
-    },
-    {
-      "title": "Alaska; Wildlife, Harvest, and Access",
-      "type": "Rule",
-      "abstract": "The National Park Service (NPS) amends its regulations for hunting, fishing, trapping, and other harvest-related activities in Alaska and the procedures used to restrict public use and access in Alaska park areas, including for subsistence. This rule restores the regulatory framework adopted to implement the Alaska National Interest Lands Conservation Act of 1980 (ANILCA) in 1981 that guided management for more than three decades, with targeted updates to that framework in response to public comments and further agency review. The restored framework recognizes the complementary and distinct roles of the State of Alaska, the Federal Subsistence Management Program, and the NPS in managing public uses and resources in Alaska park areas. The rule removes regulatory changes made in 2015, 2017, and 2024 that departed from that framework. These amendments are consistent with Executive Orders 14153 and 14192 and Secretary of the Interior's Orders 3422 and 3447.",
-      "document_number": "2026-21299",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21299/alaska-wildlife-harvest-and-access",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21299.pdf",
-      "publication_date": "2026-10-19",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE INTERIOR",
-          "name": "Interior Department",
-          "id": 253,
-          "url": "https://www.federalregister.gov/agencies/interior-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
-          "parent_id": null,
-          "slug": "interior-department"
-        },
-        {
-          "raw_name": "National Park Service",
-          "name": "National Park Service",
-          "id": 362,
-          "url": "https://www.federalregister.gov/agencies/national-park-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/362",
-          "parent_id": 253,
-          "slug": "national-park-service"
-        }
-      ],
-      "comments_close_on": null,
-      "comment_url": null,
-      "effective_on": "2026-11-18",
-      "regulation_id_numbers": [
-        "1024-AE96"
-      ]
-    },
-    {
-      "title": "Airworthiness Directives; Pratt & Whitney RTX Corporation (Type Certificate Previously Held by Pratt & Whitney Division United Technologies Corporation) Engines",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2026-09-02, which applies to certain Pratt & Whitney RTX Corporation (PW) Model PW4074, PW4074D, PW4077, PW4077D, PW4084D, PW4090, and PW4090-3 engines. AD 2026-09-02 requires repetitive angle ultrasonic scan inspections (AUSIs) of the high-pressure compressor (HPC) 15th- stage disks, front turbine hubs, high-pressure turbine (HPT) 1st-stage air seals, and HPT 2nd-stage hubs for crack indications, and removal from service and replacement if necessary, and for certain serial numbers, removal from service and replacement of the HPT 1st-stage air seal. Since the FAA issued AD 2026-09-02, the FAA was notified that a certain part number was omitted from AD 2026-09-02 and the applicability of the optional terminating action was matched to an unrelated requirement. This proposed AD would require repetitive AUSIs of the HPC 15th-stage disks, front turbine hubs, HPT 1st-stage air seals, and HPT 2nd-stage hubs for crack indications, and removal from service and replacement if necessary, and for certain serial numbers, removal from service and replacement of the HPT 1st-stage air seal. The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-21298",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/19/2026-21298/airworthiness-directives-pratt-and-whitney-rtx-corporation-type-certificate-previously-held-by-pratt",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-19/pdf/2026-21298.pdf",
-      "publication_date": "2026-10-19",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-12-03",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11811-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ]
-    },
-    {
       "title": "Periodic Reporting",
       "type": "Proposed Rule",
       "abstract": "The Commission is acknowledging a recent Postal Service filing requesting the Commission initiate a rulemaking proceeding to consider changes to analytical principles relating to periodic reports. This document informs the public of the filing, invites public comment, and takes other administrative steps.",
@@ -3143,6 +3163,355 @@
       "comment_url": null,
       "effective_on": null,
       "regulation_id_numbers": []
+    },
+    {
+      "title": "Extensions of Credit to Insiders",
+      "type": "Proposed Rule",
+      "abstract": "The FDIC is extending the public comment period on the proposed rule \"Extensions of Credit to Insiders,\" which was published in the Federal Register on August 6, 2026. The FDIC is extending the public comment period from October 5, 2026, to November 4, 2026, to provide interested parties with additional time to analyze the proposal and prepare comments.",
+      "document_number": "2026-20735",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/09/2026-20735/extensions-of-credit-to-insiders",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-09/pdf/2026-20735.pdf",
+      "publication_date": "2026-10-09",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL DEPOSIT INSURANCE CORPORATION",
+          "name": "Federal Deposit Insurance Corporation",
+          "id": 164,
+          "url": "https://www.federalregister.gov/agencies/federal-deposit-insurance-corporation",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/164",
+          "parent_id": null,
+          "slug": "federal-deposit-insurance-corporation"
+        }
+      ],
+      "comments_close_on": "2026-11-04",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3064-AG26"
+      ]
+    },
+    {
+      "title": "Loans to Executive Officers, Directors, and Principal Shareholders of Member Banks: Bank Holding Companies",
+      "type": "Proposed Rule",
+      "abstract": "On August 4, 2026, the Board of Governors of the Federal Reserve System (Board) published in the Federal Register a proposal that would update Regulation O, the Board's rule governing loans by member banks to their insiders and insiders of their affiliates. The proposal provided for a comment period ending on October 5, 2026. The Board is extending the comment period for 30 days, until November 4, 2026.",
+      "document_number": "2026-20509",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/07/2026-20509/loans-to-executive-officers-directors-and-principal-shareholders-of-member-banks-bank-holding",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-07/pdf/2026-20509.pdf",
+      "publication_date": "2026-10-07",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL RESERVE SYSTEM",
+          "name": "Federal Reserve System",
+          "id": 188,
+          "url": "https://www.federalregister.gov/agencies/federal-reserve-system",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/188",
+          "parent_id": null,
+          "slug": "federal-reserve-system"
+        }
+      ],
+      "comments_close_on": "2026-11-04",
+      "comment_url": null,
+      "effective_on": "2026-08-04",
+      "regulation_id_numbers": [
+        "7100-AH27"
+      ]
+    },
+    {
+      "title": "Overpressure Blast Effects Analysis Burden Reducing Clarification",
+      "type": "Proposed Rule",
+      "abstract": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to amend the regulations to state that a far-field overpressure blast effects analysis required for license applicants does not need to account for members of the public in hypothetical locations.",
+      "document_number": "2026-20392",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20392/overpressure-blast-effects-analysis-burden-reducing-clarification",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/pdf/2026-20392.pdf",
+      "publication_date": "2026-10-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-04",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9941-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AM31"
+      ]
+    },
+    {
+      "title": "Lightning Hazard Mitigation Burden-Reducing Exception",
+      "type": "Proposed Rule",
+      "abstract": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to add an exception for compliance with lightning hazard mitigation requirements for certain licensed launch and reentry operations.",
+      "document_number": "2026-20391",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20391/lightning-hazard-mitigation-burden-reducing-exception",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/pdf/2026-20391.pdf",
+      "publication_date": "2026-10-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-04",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9940-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AM30"
+      ]
+    },
+    {
+      "title": "Streamlining Flight Safety Analysis Methodology Means of Compliance",
+      "type": "Proposed Rule",
+      "abstract": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process. Specifically, FAA proposes to alleviate regulatory burden for license applicants by consolidating information required for an operator's flight safety analysis.",
+      "document_number": "2026-20388",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20388/streamlining-flight-safety-analysis-methodology-means-of-compliance",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/pdf/2026-20388.pdf",
+      "publication_date": "2026-10-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-04",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9936-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AM40"
+      ]
+    },
+    {
+      "title": "Digital Modernization for Licensing Electronic Application Submissions",
+      "type": "Proposed Rule",
+      "abstract": "FAA proposes to amend its commercial space launch and reentry licensing regulations to allow for submission of license and permit applications and requests for waivers, alternative time frames, and safety element approvals through additional electronic methods.",
+      "document_number": "2026-20387",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20387/digital-modernization-for-licensing-electronic-application-submissions",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/pdf/2026-20387.pdf",
+      "publication_date": "2026-10-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-04",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9935-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AM39"
+      ]
+    },
+    {
+      "title": "Simplifying Physical Containment Requirements",
+      "type": "Proposed Rule",
+      "abstract": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden on operators. Specifically, FAA proposes to relieve the burden by specifying that, when using physical containment as a hazard control strategy, operators do not need to develop flight hazard areas in accordance with FAA's existing flight hazard area analysis requirements.",
+      "document_number": "2026-20386",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20386/simplifying-physical-containment-requirements",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/pdf/2026-20386.pdf",
+      "publication_date": "2026-10-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-04",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9934-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AM38"
+      ]
+    },
+    {
+      "title": "Proposal of Special Measure Prohibiting the Transmittal of Funds Regarding Transactions Involving the A7 Network's Sub-Agents",
+      "type": "Proposed Rule",
+      "abstract": "FinCEN is issuing a finding and notice of proposed rulemaking, pursuant to section 9714(a) of the Combating Russian Money Laundering Act (Public Law 116-283), as amended by section 6106(b) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117-81), finding transactions involving any company operating outside of the United States that is controlled by the A7 Network, a sanctions evasion and money laundering service with ties to Russia, leveraged by a wide range of illicit actors, including Iran and its terrorist proxies, to be a class of transactions of primary money laundering concern in connection with Russian illicit finance and proposing the imposition of a prohibition on certain transmittals of funds, by any covered financial institution, involving that class of transactions.",
+      "document_number": "2026-20371",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20371/proposal-of-special-measure-prohibiting-the-transmittal-of-funds-regarding-transactions-involving",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/pdf/2026-20371.pdf",
+      "publication_date": "2026-10-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "Financial Crimes Enforcement Network",
+          "name": "Financial Crimes Enforcement Network",
+          "id": 194,
+          "url": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/194",
+          "parent_id": 497,
+          "slug": "financial-crimes-enforcement-network"
+        }
+      ],
+      "comments_close_on": "2026-11-04",
+      "comment_url": "http://www.regulations.gov/commenton/FINCEN-2026-0265-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1506-AB77"
+      ]
+    },
+    {
+      "title": "Exemptions From Materials Licensing",
+      "type": "Rule",
+      "abstract": "The U.S. Nuclear Regulatory Commission (NRC) is amending several regulations for byproduct, source, and special nuclear material by expanding how certain nuclear material can be safely used without a license. This action is responsive to the NRC's mission to enable safe, efficient, and reliable licensing and consistent with several Executive orders. These changes are deregulatory in nature, eliminating the need to obtain licenses for certain materials uses and quantities.",
+      "document_number": "2026-20336",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20336/exemptions-from-materials-licensing",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/pdf/2026-20336.pdf",
+      "publication_date": "2026-10-05",
+      "agencies": [
+        {
+          "raw_name": "NUCLEAR REGULATORY COMMISSION",
+          "name": "Nuclear Regulatory Commission",
+          "id": 383,
+          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
+          "parent_id": null,
+          "slug": "nuclear-regulatory-commission"
+        }
+      ],
+      "comments_close_on": "2026-11-04",
+      "comment_url": null,
+      "effective_on": "2026-12-21",
+      "regulation_id_numbers": [
+        "3150-AL61"
+      ]
+    },
+    {
+      "title": "Exemptions From Materials Licensing",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Nuclear Regulatory Commission (NRC) is proposing to amend several regulations for byproduct, source, and special nuclear material by expanding how certain nuclear material can be safely used without a license. This proposed action would be responsive to the NRC's mission to enable safe, efficient, and reliable licensing and consistent with several Executive orders. These changes would be deregulatory in nature, eliminating the need to obtain licenses for certain materials uses and quantities.",
+      "document_number": "2026-20335",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20335/exemptions-from-materials-licensing",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/pdf/2026-20335.pdf",
+      "publication_date": "2026-10-05",
+      "agencies": [
+        {
+          "raw_name": "NUCLEAR REGULATORY COMMISSION",
+          "name": "Nuclear Regulatory Commission",
+          "id": 383,
+          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
+          "parent_id": null,
+          "slug": "nuclear-regulatory-commission"
+        }
+      ],
+      "comments_close_on": "2026-11-04",
+      "comment_url": "http://www.regulations.gov/commenton/NRC-2025-1568-0002",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3150-AL61"
+      ]
+    },
+    {
+      "title": "Reforming Federal Reporting and Assessments in Child Welfare",
+      "type": "Proposed Rule",
+      "abstract": "ACF proposes to remove regulations that implement title IV-B of the Social Security Act (the Act) because they are outdated and refer to dates that have passed, have been superseded by subsequent amendments to the Act, duplicate or restate requirements already in title IV-B of the Act or other Federal law, and/or impose administrative and reporting requirements on agencies that do not meaningfully support Federal program oversight and administration of title IV-B programs. Four of these regulatory requirements are redesignated to the regulations addressing titles IV-E and IV-B plan requirements. ACF also proposes to remove the regulation that articulates the principles of child and family services reviews because it does not prescribe any requirements that states and tribes must follow, but rather provides unenforceable recommendations, and to remove redundant cross-references.",
+      "document_number": "2026-20329",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20329/reforming-federal-reporting-and-assessments-in-child-welfare",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/pdf/2026-20329.pdf",
+      "publication_date": "2026-10-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Administration for Children and Families",
+          "name": "Children and Families Administration",
+          "id": 49,
+          "url": "https://www.federalregister.gov/agencies/children-and-families-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/49",
+          "parent_id": 221,
+          "slug": "children-and-families-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-04",
+      "comment_url": "http://www.regulations.gov/commenton/ACF-2026-0562-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0970-AD32"
+      ]
     },
     {
       "title": "Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions; Extension of Comment Period",
@@ -3177,6 +3546,32 @@
       "effective_on": null,
       "regulation_id_numbers": [
         "0607-AA75"
+      ]
+    },
+    {
+      "title": "General Services Administration Acquisition Regulation; GSAR Implementation of Executive Order 14275, Acquisition of Utility Services",
+      "type": "Proposed Rule",
+      "abstract": "GSA is proposing to amend the General Services Administration Acquisition Regulation (GSAR) part 541 which outlines procedures and guidance for the procurement of utility services. GSA guidance does not apply to agencies using their special authorities listed in Federal Acquisition Regulation (FAR) section 41.103(a)(2) and (3). This proposed rule would align the GSAR with the FAR Council's proposed rule for FAR part 41.",
+      "document_number": "2026-20317",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20317/general-services-administration-acquisition-regulation-gsar-implementation-of-executive-order-14275",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/pdf/2026-20317.pdf",
+      "publication_date": "2026-10-05",
+      "agencies": [
+        {
+          "raw_name": "GENERAL SERVICES ADMINISTRATION",
+          "name": "General Services Administration",
+          "id": 210,
+          "url": "https://www.federalregister.gov/agencies/general-services-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/210",
+          "parent_id": null,
+          "slug": "general-services-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-04",
+      "comment_url": "http://www.regulations.gov/commenton/GSA-GSAR-2026-0595-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3090-AL14"
       ]
     },
     {
@@ -3927,65 +4322,37 @@
       ]
     },
     {
-      "title": "Passports: Expanding Online Passport Renewal Overseas",
-      "type": "Proposed Rule",
-      "abstract": "The Department proposes to amend 22 CFR 51.21 by consolidating requirements for persons applying by mail and online in the United States and overseas. This proposed change includes expanding online passport application availability to qualified applicants located in foreign countries. In addition, the Department is proposing to remove the requirement that an applicant's most recently issued passport must have a year or less of remaining validity to qualify to submit an online passport application. Finally, the Department is proposing technical corrections to 51.8(b) to change \"on-line\" to read \"online\" for consistency.",
-      "document_number": "2026-17655",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17655/passports-expanding-online-passport-renewal-overseas",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-28/pdf/2026-17655.pdf",
-      "publication_date": "2026-08-28",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF STATE",
-          "name": "State Department",
-          "id": 476,
-          "url": "https://www.federalregister.gov/agencies/state-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/476",
-          "parent_id": null,
-          "slug": "state-department"
-        }
-      ],
-      "comments_close_on": "2026-10-27",
-      "comment_url": "http://www.regulations.gov/commenton/DOS-2026-0925-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1400-AF97"
-      ]
-    },
-    {
-      "title": "Vessel and Shipyard Financing, Regulatory Revision",
+      "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
       "type": "Rule",
-      "abstract": "This interim final rule revises MARAD regulations implementing the Vessel and Shipyard Financing Program (Title XI Program or the Program) financial and programmatic requirements. Specifically, MARAD implements statutory changes, updates the vessel project and shipyard project financing requirements imposed on Title XI Program borrowers, aligns the Title XI Program with modern Federal credit best practices, corrects numerous legal citations, improves accessibility by modernizing text, and removes obsolete references. This rule also streamlines the MARAD Title XI regulations by removing 14 of 34 sections of the existing regulations.",
-      "document_number": "2026-17636",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17636/vessel-and-shipyard-financing-regulatory-revision",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-28/pdf/2026-17636.pdf",
-      "publication_date": "2026-08-28",
+      "abstract": "The Bureau of Industry and Security (\"BIS\") is publishing this temporary final rule to restrict the exportation of black mass and tungsten waste and scrap without a license. Specifically, as of August 27, 2026, U.S. persons engaged in the sale of black mass and tungsten waste and scrap must allocate 100 percent of monthly sales to U.S. persons, unless an adjustment or exception is obtained in advance from BIS. This action is taken pursuant to section 101 of the Defense Production Act of 1950, as amended (\"DPA\" or the \"Act\"), the Defense Priorities and Allocations System (15 CFR part 700) and Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials, dated July 30, 2026 (\"DPA Determination on Recoverable CMMs\"), in which the President authorized the Department of Commerce (\"Commerce\") to address the scarcity of recoverable critical minerals and materials (\"CMMs\"). BIS invites the public to submit comments on whether any additional sales requirements are necessary or appropriate to promote the national defense.",
+      "document_number": "2026-16078",
+      "html_url": "https://www.federalregister.gov/documents/2026/08/06/2026-16078/dpas-directive-allocation-order-and-additional-requirements-for-recoverable-critical-minerals-and",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-06/pdf/2026-16078.pdf",
+      "publication_date": "2026-08-06",
       "agencies": [
         {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
           "parent_id": null,
-          "slug": "transportation-department"
+          "slug": "commerce-department"
         },
         {
-          "raw_name": "Maritime Administration",
-          "name": "Maritime Administration",
-          "id": 282,
-          "url": "https://www.federalregister.gov/agencies/maritime-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/282",
-          "parent_id": 492,
-          "slug": "maritime-administration"
+          "raw_name": "Bureau of Industry and Security",
+          "name": "Industry and Security Bureau",
+          "id": 241,
+          "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+          "parent_id": 54,
+          "slug": "industry-and-security-bureau"
         }
       ],
-      "comments_close_on": "2026-10-27",
-      "comment_url": "http://www.regulations.gov/commenton/MARAD-2026-1288-0001",
-      "effective_on": "2026-08-28",
-      "regulation_id_numbers": [
-        "2133-AC05"
-      ]
+      "comments_close_on": "2026-11-04",
+      "comment_url": "http://www.regulations.gov/commenton/BIS-2026-0364-0001",
+      "effective_on": "2026-08-27",
+      "regulation_id_numbers": []
     }
   ]
 }
