@@ -1,8 +1,252 @@
 {
-  "updated_at": "2026-10-28T14:03:12.434020+00:00",
-  "as_of": "2026-10-28",
-  "count": 206,
+  "updated_at": "2026-10-29T14:23:13.688484+00:00",
+  "as_of": "2026-10-29",
+  "count": 215,
   "documents": [
+    {
+      "title": "Reducing Bureaucracy and Burden for Block Grants",
+      "type": "Proposed Rule",
+      "abstract": "ACF proposes to amend its block grant regulations to modernize requirements, reduce administrative burden on States and Tribal grantees, and improve the clarity and efficiency of program administration. The current regulations include outdated provisions and procedural requirements that no longer reflect statutory authority or agency practice. The proposed revisions are intended to streamline grantee obligations, eliminate unnecessary requirements, and align the regulations with current law and policy.",
+      "document_number": "2026-22123",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/29/2026-22123/reducing-bureaucracy-and-burden-for-block-grants",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-29/pdf/2026-22123.pdf",
+      "publication_date": "2026-10-29",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Administration for Children and Families",
+          "name": "Children and Families Administration",
+          "id": 49,
+          "url": "https://www.federalregister.gov/agencies/children-and-families-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/49",
+          "parent_id": 221,
+          "slug": "children-and-families-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-30",
+      "comment_url": "http://www.regulations.gov/commenton/ACF_FRDOC_0001-0173",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0970-AD49"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "ACF_FRDOC_0001"
+    },
+    {
+      "title": "Mandatory Guidelines for Federal Workplace Drug Testing Programs Using Urine (UrMG)",
+      "type": "Proposed Rule",
+      "abstract": "The Department of Health and Human Services (\"HHS\" or \"Department\") is proposing to revise the Mandatory Guidelines for Federal Workplace Drug Testing Programs using Urine (UrMG), published in the Federal Register on October 12, 2023).",
+      "document_number": "2026-22122",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/29/2026-22122/mandatory-guidelines-for-federal-workplace-drug-testing-programs-using-urine-urmg",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-29/pdf/2026-22122.pdf",
+      "publication_date": "2026-10-29",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        }
+      ],
+      "comments_close_on": "2026-12-28",
+      "comment_url": "http://www.regulations.gov/commenton/SAMHSA-2026-0002-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0930-AA40"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "SAMHSA-2026-0002"
+    },
+    {
+      "title": "Mandatory Guidelines for Federal Workplace Drug Testing Programs Using Oral Fluid (OFMG)",
+      "type": "Proposed Rule",
+      "abstract": "The Department of Health and Human Services (\"HHS\" or \"Department\") is proposing to revise the Mandatory Guidelines for Federal Workplace Drug Testing Programs using Oral Fluid (OFMG) published on October 12, 2023.",
+      "document_number": "2026-22121",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/29/2026-22121/mandatory-guidelines-for-federal-workplace-drug-testing-programs-using-oral-fluid-ofmg",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-29/pdf/2026-22121.pdf",
+      "publication_date": "2026-10-29",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        }
+      ],
+      "comments_close_on": "2026-12-28",
+      "comment_url": "http://www.regulations.gov/commenton/SAMHSA-2026-0001-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0930-AA41"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "SAMHSA-2026-0001"
+    },
+    {
+      "title": "Alaska Underground Injection Control (UIC) Program; Class VI Primacy",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA or the Agency) has received a complete Underground Injection Control (UIC) application from the State of Alaska, requesting primary enforcement responsibility (primacy) for Class VI injection wells under Safe Drinking Water Act (SDWA) section 1422. The EPA's approval of the State's UIC program primacy application would allow the Alaska Oil and Gas Conservation Commission (AOGCC) to issue and enforce compliance with UIC Class VI permits for injection wells used for geologic carbon sequestration. In this action, the EPA proposes to approve Alaska's application to implement the UIC program for Class VI injection wells located within the State, except those located within Indian country and those located within areas of exclusive Federal jurisdiction.",
+      "document_number": "2026-22085",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/29/2026-22085/alaska-underground-injection-control-uic-program-class-vi-primacy",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-29/pdf/2026-22085.pdf",
+      "publication_date": "2026-10-29",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-12-14",
+      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OW-2026-4588-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "EPA-HQ-OW-2026-4588"
+    },
+    {
+      "title": "Additional Reconsideration Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA) is proposing amendments to the New Source Performance Standards and Emission Guidelines for the Crude Oil and Natural Gas Source Category to address additional concerns raised with prior regulatory amendments finalized in March 2024. Specifically, the EPA is proposing changes in response to certain petitions for reconsideration of the March 2024 amendments, changes based on policy decisions and supporting legal interpretations, and changes that correct and clarify the regulatory text of the new source performance standards and emission guidelines. First, the EPA proposes to rescind the Super Emitter Program. Second, the EPA proposes to subcategorize different types of well sites affected and designated facilities to address issues related to the requirements finalized in March 2024 for marginal well sites and conventional well sites. Third, the EPA proposes changes to address issues related to liquids unloading, process controllers, pumps, fugitive emissions, storage vessels, covers and closed vent systems, equipment leaks at gas plants, and associated gas. Fourth, the EPA proposes changes to certain requirements finalized in March 2024 related to control devices and to provide owners and operators the option to conduct optical gas imaging surveys according to Appendix K for gas processing facilities. Lastly, the EPA proposes changes to correct inadvertent errors and to clarify regulatory language.",
+      "document_number": "2026-22082",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/29/2026-22082/additional-reconsideration-standards-of-performance-for-new-reconstructed-and-modified-sources-and",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-29/pdf/2026-22082.pdf",
+      "publication_date": "2026-10-29",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-11-30",
+      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OAR-2025-0163-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2060-AW73"
+      ],
+      "significant": true,
+      "comments_count": 0,
+      "docket_id": "EPA-HQ-OAR-2025-0163"
+    },
+    {
+      "title": "Air Plan Approval and Air Quality Designation; TN; Attainment Plan and Redesignation of the Sullivan County Nonattainment Area for the 2010 1-Hour Primary SO2 NAAQS",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA or Agency) is proposing to approve the State of Tennessee's attainment plan for the Sullivan County Nonattainment Area (Sullivan County Area or Area) for the 2010 Sulfur Dioxide (SO<INF>2</INF>) National Ambient Air Quality Standards (NAAQS). Additionally, the EPA is proposing to determine that the Area has attained the 2010 SO<INF>2</INF> NAAQS and to approve Tennessee's maintenance plan for continued attainment. With these approvals, the EPA is proposing to approve Tennessee's comprehensive source-specific SO<INF>2</INF> permitted limits for two facilities in the Area, other control measures, and provisions for Reasonably Available Control Measures (RACM) and Reasonably Available Control Technology (RACT), reasonable further progress (RFP), a modeling demonstration of SO<INF>2</INF> attainment and maintenance, and to approve Tennessee's request to redesignate the Area from nonattainment to attainment of the 2010 SO<INF>2</INF> NAAQS. The EPA is taking these actions in accordance with the Clean Air Act (CAA or Act).",
+      "document_number": "2026-22063",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/29/2026-22063/air-plan-approval-and-air-quality-designation-tn-attainment-plan-and-redesignation-of-the-sullivan",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-29/pdf/2026-22063.pdf",
+      "publication_date": "2026-10-29",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-11-30",
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R04-OAR-2026-0034-0031",
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "EPA-R04-OAR-2026-0034"
+    },
+    {
+      "title": "Air Plan Approval; California; Reasonable Further Progress Plan for the Coachella Valley Ozone Nonattainment Area",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA or \"the Agency\") is proposing to approve a state implementation plan (SIP) revision from the State of California to meet the Clean Air Act (CAA) \"Extreme\" nonattainment area requirements for the Riverside County (Coachella Valley), California ozone nonattainment area (\"Coachella Valley\") for the 2008 8-hour ozone national ambient air quality standards (NAAQS or \"standards\"). Specifically, the Agency is proposing to approve the reasonable further progress (RFP) demonstration and associated emissions inventory and motor vehicle emissions budgets (\"budgets\") for the Coachella Valley.",
+      "document_number": "2026-22055",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/29/2026-22055/air-plan-approval-california-reasonable-further-progress-plan-for-the-coachella-valley-ozone",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-29/pdf/2026-22055.pdf",
+      "publication_date": "2026-10-29",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-11-30",
+      "comment_url": "http://www.regulations.gov/commenton/EPA_FRDOC_0001-33240",
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "EPA_FRDOC_0001"
+    },
+    {
+      "title": "Establishment of Class D Airspace; Winter Haven, FL",
+      "type": "Proposed Rule",
+      "abstract": "This action proposes to establish Class D airspace extending upward from the surface up to and including 2,500 feet within a 4.4- mile radius of Winter Haven Regional Airport, in Winter Haven, FL, excluding that portion within the Bartow Executive Airport Class D airspace area, as a new air traffic control tower will service the airport. Controlled airspace is necessary for the safety and management of instrument flight rules (IFR) operations at this airport.",
+      "document_number": "2026-22042",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/29/2026-22042/establishment-of-class-d-airspace-winter-haven-fl",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-29/pdf/2026-22042.pdf",
+      "publication_date": "2026-10-29",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-14",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-13869-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-13869"
+    },
     {
       "title": "Special Local Regulation; Port Miami Main Shipping Channel, Miami FL",
       "type": "Proposed Rule",
@@ -38,7 +282,7 @@
         "1625-AA08"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "USCG-2026-1152"
     },
     {
@@ -69,12 +313,12 @@
           "slug": "copyright-office-library-of-congress"
         }
       ],
-      "comments_close_on": "2027-03-22",
+      "comments_close_on": "2026-12-07",
       "comment_url": "http://www.regulations.gov/commenton/COLC-2026-0199-0001",
-      "effective_on": "2026-12-07",
+      "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 2,
       "docket_id": "COLC-2026-0199"
     },
     {
@@ -112,7 +356,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-11818"
     },
     {
@@ -247,14 +491,90 @@
         }
       ],
       "comments_close_on": "2026-11-27",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/CMS-2026-3367-0002",
       "effective_on": null,
       "regulation_id_numbers": [
         "0938-AW03"
       ],
       "significant": null,
+      "comments_count": 5,
+      "docket_id": "CMS-2026-3367"
+    },
+    {
+      "title": "Airworthiness Directives; Airbus Helicopters",
+      "type": "Rule",
+      "abstract": "The FAA is adopting a new airworthiness directive (AD) for all Airbus Helicopters Model AS350B2, AS350B3, AS355N, AS355NP, and EC130B4 helicopters. This AD was prompted by a report of a release of the load on the cargo hook without manual release initiation by the pilot. This AD requires inspecting the load dropping control system, inspecting the manual release lever for free play, and, depending on the results, performing corrective actions. The FAA is issuing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-21856",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/27/2026-21856/airworthiness-directives-airbus-helicopters",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-27/pdf/2026-21856.pdf",
+      "publication_date": "2026-10-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-11",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11816-0001",
+      "effective_on": "2026-11-12",
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ],
+      "significant": false,
       "comments_count": 0,
-      "docket_id": "HHS_FRDOC_0001"
+      "docket_id": "FAA-2026-11816"
+    },
+    {
+      "title": "Airworthiness Directives; Airbus Helicopters",
+      "type": "Rule",
+      "abstract": "The FAA is adopting a new airworthiness directive (AD) for all Airbus Helicopters Model SA 365 N helicopters. This AD was prompted by reports of tightening torque loss on the input flange nut due to circular wear on the faces of the flange, the slip ring, and the input flange. This condition, if not addressed, could lead to degradation or jamming of the input roller bearings and loss of yaw control of the helicopter. This AD requires repetitive functional inspections (checks) and, depending on the results of the inspections, corrective actions. The FAA is issuing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-21854",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/27/2026-21854/airworthiness-directives-airbus-helicopters",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-27/pdf/2026-21854.pdf",
+      "publication_date": "2026-10-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-11",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11815-0001",
+      "effective_on": "2026-11-12",
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-11815"
     },
     {
       "title": "Airworthiness Directives; CFM International, S.A. Engines",
@@ -291,7 +611,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 3,
+      "comments_count": 5,
       "docket_id": "FAA-2026-11817"
     },
     {
@@ -383,7 +703,7 @@
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": 16,
+      "comments_count": 26,
       "docket_id": "NHTSA-2026-1519"
     },
     {
@@ -421,7 +741,7 @@
         "1505-AC94"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 4,
       "docket_id": "TREAS-DO-2026-0595"
     },
     {
@@ -513,7 +833,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "NRC-2026-4456"
     },
     {
@@ -542,7 +862,7 @@
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": 15,
+      "comments_count": 24,
       "docket_id": "TREAS-DO-2026-0529"
     },
     {
@@ -1682,7 +2002,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-11812"
     },
     {
@@ -1825,7 +2145,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 4,
       "docket_id": "FMC-2026-0463"
     },
     {
@@ -2013,7 +2333,7 @@
         "3150-AL70"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "NRC-2026-2377"
     },
     {
@@ -2306,7 +2626,7 @@
         "1615-AD23"
       ],
       "significant": null,
-      "comments_count": 137,
+      "comments_count": 142,
       "docket_id": "USCIS-2026-0397"
     },
     {
@@ -2335,7 +2655,7 @@
         "1615-AD26"
       ],
       "significant": null,
-      "comments_count": 347,
+      "comments_count": 377,
       "docket_id": "USCIS-2026-0529"
     },
     {
@@ -2480,33 +2800,6 @@
       "significant": true,
       "comments_count": 6,
       "docket_id": "USCBP-2026-0992"
-    },
-    {
-      "title": "Periodic Reporting",
-      "type": "Proposed Rule",
-      "abstract": "The Commission is acknowledging a recent Postal Service filing requesting the Commission initiate a rulemaking proceeding to consider changes to analytical principles relating to periodic reports. This document informs the public of the filing, invites public comment, and takes other administrative steps.",
-      "document_number": "2026-20865",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20865/periodic-reporting",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20865.pdf",
-      "publication_date": "2026-10-13",
-      "agencies": [
-        {
-          "raw_name": "POSTAL REGULATORY COMMISSION",
-          "name": "Postal Regulatory Commission",
-          "id": 409,
-          "url": "https://www.federalregister.gov/agencies/postal-regulatory-commission",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/409",
-          "parent_id": null,
-          "slug": "postal-regulatory-commission"
-        }
-      ],
-      "comments_close_on": "2026-10-28",
-      "comment_url": null,
-      "effective_on": null,
-      "regulation_id_numbers": [],
-      "significant": null,
-      "comments_count": 0,
-      "docket_id": null
     },
     {
       "title": "Magnuson-Stevens Fishery Conservation and Management Act Provisions; Fisheries of the Northeastern United States; Framework Adjustment 7 to the Atlantic Spiny Dogfish Fishery Management Plan",
@@ -2865,7 +3158,7 @@
         "1653-AB01"
       ],
       "significant": null,
-      "comments_count": 4065,
+      "comments_count": 4333,
       "docket_id": "ICEB-2026-0100"
     },
     {
@@ -2941,7 +3234,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 152,
+      "comments_count": 169,
       "docket_id": "CMS-2026-3235"
     },
     {
@@ -3033,7 +3326,7 @@
         "1625-AA09"
       ],
       "significant": false,
-      "comments_count": 19,
+      "comments_count": 20,
       "docket_id": "USCG-2026-0889"
     },
     {
@@ -3250,7 +3543,7 @@
         "2060-AW33"
       ],
       "significant": false,
-      "comments_count": 16,
+      "comments_count": 17,
       "docket_id": "EPA-HQ-OAR-2024-0078"
     },
     {
@@ -3648,7 +3941,7 @@
         "1506-AB77"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "FINCEN-2026-0265"
     },
     {
@@ -3771,7 +4064,7 @@
         "3150-AL61"
       ],
       "significant": null,
-      "comments_count": 309,
+      "comments_count": 444,
       "docket_id": "NRC-2025-1568"
     },
     {
@@ -3809,7 +4102,7 @@
         "0970-AD32"
       ],
       "significant": null,
-      "comments_count": 74,
+      "comments_count": 81,
       "docket_id": "ACF-2026-0562"
     },
     {
@@ -3914,7 +4207,7 @@
         "1545-BR97"
       ],
       "significant": null,
-      "comments_count": 21715,
+      "comments_count": 21740,
       "docket_id": "IRS-2026-1354"
     },
     {
@@ -3952,7 +4245,7 @@
         "1024-AE54"
       ],
       "significant": false,
-      "comments_count": 173,
+      "comments_count": 175,
       "docket_id": "NPS-2026-0199"
     },
     {
@@ -4028,7 +4321,7 @@
         "0570-AB13"
       ],
       "significant": false,
-      "comments_count": 85,
+      "comments_count": 94,
       "docket_id": "RBS-26-BUSINESS-0529"
     },
     {
@@ -4055,7 +4348,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 44,
+      "comments_count": 46,
       "docket_id": "DOT-OST-2026-3664"
     },
     {
@@ -4084,7 +4377,7 @@
         "3084-AB90"
       ],
       "significant": null,
-      "comments_count": 43,
+      "comments_count": 45,
       "docket_id": "FTC-2026-1552"
     },
     {
@@ -4149,7 +4442,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "EPA-R09-OAR-2025-1978"
     },
     {
@@ -4252,7 +4545,7 @@
         "1625-AC48"
       ],
       "significant": true,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "USCG-2025-0392"
     },
     {
@@ -4449,7 +4742,7 @@
         "1545-BR91"
       ],
       "significant": null,
-      "comments_count": 118,
+      "comments_count": 120,
       "docket_id": "IRS-2026-1321"
     },
     {
@@ -5258,7 +5551,7 @@
         "3245-AI67"
       ],
       "significant": null,
-      "comments_count": 390,
+      "comments_count": 397,
       "docket_id": "SBA-2026-0199"
     },
     {
@@ -5296,7 +5589,7 @@
         "0938-AW08"
       ],
       "significant": null,
-      "comments_count": 71,
+      "comments_count": 73,
       "docket_id": "CMS-2026-3037"
     },
     {
@@ -5334,7 +5627,7 @@
         "0579-AE77"
       ],
       "significant": true,
-      "comments_count": 9,
+      "comments_count": 10,
       "docket_id": "APHIS-2023-0069"
     },
     {
@@ -5551,7 +5844,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 2324,
+      "comments_count": 2379,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -5589,7 +5882,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 163,
+      "comments_count": 169,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -5848,7 +6141,7 @@
         "3206-AO92"
       ],
       "significant": true,
-      "comments_count": 8,
+      "comments_count": 9,
       "docket_id": "OPM-2026-0166"
     },
     {
@@ -5886,7 +6179,7 @@
         "0648-BN92"
       ],
       "significant": false,
-      "comments_count": 375,
+      "comments_count": 379,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     {
@@ -5924,7 +6217,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-8814"
     },
     {
@@ -5962,7 +6255,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "FAA-2026-8815"
     },
     {
@@ -6000,7 +6293,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "FAA-2026-8812"
     },
     {
@@ -6067,7 +6360,7 @@
         "2060-AX00"
       ],
       "significant": null,
-      "comments_count": 10797,
+      "comments_count": 11375,
       "docket_id": "EPA-HQ-OAR-2025-0124"
     },
     {
@@ -6094,7 +6387,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 8,
+      "comments_count": 9,
       "docket_id": "EPA-HQ-OLEM-2026-4326"
     },
     {
@@ -6161,7 +6454,7 @@
         "3206-XXXX"
       ],
       "significant": null,
-      "comments_count": 167,
+      "comments_count": 168,
       "docket_id": "OPM-2026-0661"
     },
     {
@@ -6418,7 +6711,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "FAA-2026-8804"
     },
     {
@@ -6561,7 +6854,7 @@
         "1615-AD22"
       ],
       "significant": null,
-      "comments_count": 26767,
+      "comments_count": 26854,
       "docket_id": "USCIS-2026-0364"
     },
     {
@@ -6709,7 +7002,7 @@
         "1004-AF57"
       ],
       "significant": null,
-      "comments_count": 60682,
+      "comments_count": 65308,
       "docket_id": "BLM-2026-0133"
     },
     {
@@ -6843,7 +7136,7 @@
         "1024-AE97"
       ],
       "significant": false,
-      "comments_count": 754,
+      "comments_count": 775,
       "docket_id": "NPS-2026-0166"
     },
     {
@@ -6919,7 +7212,7 @@
         "0910-AJ02"
       ],
       "significant": true,
-      "comments_count": 773,
+      "comments_count": 774,
       "docket_id": "FDA-2025-N-3262"
     },
     {
