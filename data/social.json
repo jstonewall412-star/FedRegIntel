@@ -1,29 +1,29 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T14:23:14.455499+00:00",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T14:12:13.933300+00:00",
   "posts": [
     {
       "kind": "trending",
-      "document_number": "2026-18261",
-      "url": "https://fedregintel.com/rules/2026-18261/",
-      "x": "📈 Gaining public comments (+4,626 since yesterday): Land Management Bureau's proposed rule, \"National Petroleum Reserve in Alaska…\". 65,308 public comments posted on Regulations.gov so far. Comments close Nov 9. Read it and weigh in: https://fedregintel.com/rules/2026-18261/",
-      "bluesky": "📈 Gaining public comments (+4,626 since yesterday): Land Management Bureau's proposed rule, \"National Petroleum Reserve in Alaska Production Site…\". 65,308 public comments posted on Regulations.gov so far. Comments close Nov 9. Read it and weigh in: https://fedregintel.com/rules/2026-18261/",
-      "long": "📈 Gaining public comments (+4,626 since yesterday): Land Management Bureau's proposed rule, \"National Petroleum Reserve in Alaska Production Site Development\". 65,308 public comments posted on Regulations.gov so far. Comments close Nov 9. The page links the official document and the comment form: https://fedregintel.com/rules/2026-18261/",
-      "youtube": "📈 Gaining comments (+4,626 since yesterday): Land Management Bureau's proposed rule, \"National Petroleum Reserve in Alaska Production Site Development.\" 65,308 public comments on Regulations.gov. Comments close Nov 9. https://fedregintel.com/rules/2026-18261/",
-      "x_length": 267
+      "document_number": "2026-20277",
+      "url": "https://fedregintel.com/rules/2026-20277/",
+      "x": "📈 Gaining public comments (+228 since yesterday): Internal Revenue Service's proposed rule, \"Federal Scholarship Tax Credit\". 21,968 public comments posted on Regulations.gov so far. Comments close Dec 1. Read it and weigh in: https://fedregintel.com/rules/2026-20277/",
+      "bluesky": "📈 Gaining public comments (+228 since yesterday): Internal Revenue Service's proposed rule, \"Federal Scholarship Tax Credit\". 21,968 public comments posted on Regulations.gov so far. Comments close Dec 1. Read it and weigh in: https://fedregintel.com/rules/2026-20277/",
+      "long": "📈 Gaining public comments (+228 since yesterday): Internal Revenue Service's proposed rule, \"Federal Scholarship Tax Credit\". 21,968 public comments posted on Regulations.gov so far. Comments close Dec 1. The page links the official document and the comment form: https://fedregintel.com/rules/2026-20277/",
+      "youtube": "📈 Gaining comments (+228 since yesterday): Internal Revenue Service's proposed rule, \"Federal Scholarship Tax Credit.\" 21,968 public comments on Regulations.gov. Comments close Dec 1. https://fedregintel.com/rules/2026-20277/",
+      "x_length": 259
     },
     {
       "kind": "deadline",
       "document_number": "2026-20078",
       "url": "https://fedregintel.com/rules/2026-20078/",
-      "x": "⏰ Comment period closes tomorrow: Federal Trade Commission's proposed rule, \"Petition for Rulemaking of Malik Tony Singleton\". 5 public comments posted on Regulations.gov so far. Comments close Oct 30. Read it and weigh in: https://fedregintel.com/rules/2026-20078/",
-      "bluesky": "⏰ Comment period closes tomorrow: Federal Trade Commission's proposed rule, \"Petition for Rulemaking of Malik Tony Singleton\". 5 public comments posted on Regulations.gov so far. Comments close Oct 30. Read it and weigh in: https://fedregintel.com/rules/2026-20078/",
-      "long": "⏰ Comment period closes tomorrow: Federal Trade Commission's proposed rule, \"Petition for Rulemaking of Malik Tony Singleton\". 5 public comments posted on Regulations.gov so far. Comments close Oct 30. The page links the official document and the comment form: https://fedregintel.com/rules/2026-20078/",
+      "x": "⏰ Comment period closes today: Federal Trade Commission's proposed rule, \"Petition for Rulemaking of Malik Tony Singleton\". 5 public comments posted on Regulations.gov so far. Comments close Oct 30. Read it and weigh in: https://fedregintel.com/rules/2026-20078/",
+      "bluesky": "⏰ Comment period closes today: Federal Trade Commission's proposed rule, \"Petition for Rulemaking of Malik Tony Singleton\". 5 public comments posted on Regulations.gov so far. Comments close Oct 30. Read it and weigh in: https://fedregintel.com/rules/2026-20078/",
+      "long": "⏰ Comment period closes today: Federal Trade Commission's proposed rule, \"Petition for Rulemaking of Malik Tony Singleton\". 5 public comments posted on Regulations.gov so far. Comments close Oct 30. The page links the official document and the comment form: https://fedregintel.com/rules/2026-20078/",
       "youtube": "⏰ Closing Oct 30: Federal Trade Commission's proposed rule, \"Petition for Rulemaking of Malik Tony Singleton.\" 5 public comments on Regulations.gov. https://fedregintel.com/rules/2026-20078/",
-      "x_length": 256
+      "x_length": 253
     }
   ],
-  "youtube": "Today's federal rules to watch 🗳\n\n📈 Gaining comments (+4,626 since yesterday): Land Management Bureau's proposed rule, \"National Petroleum Reserve in Alaska Production Site Development.\" 65,308 public comments on Regulations.gov. Comments close Nov 9. https://fedregintel.com/rules/2026-18261/\n\n⏰ Closing Oct 30: Federal Trade Commission's proposed rule, \"Petition for Rulemaking of Malik Tony Singleton.\" 5 public comments on Regulations.gov. https://fedregintel.com/rules/2026-20078/\n\nEvery rule open for comment, by deadline: https://fedregintel.com/rules/",
+  "youtube": "Today's federal rules to watch 🗳\n\n📈 Gaining comments (+228 since yesterday): Internal Revenue Service's proposed rule, \"Federal Scholarship Tax Credit.\" 21,968 public comments on Regulations.gov. Comments close Dec 1. https://fedregintel.com/rules/2026-20277/\n\n⏰ Closing Oct 30: Federal Trade Commission's proposed rule, \"Petition for Rulemaking of Malik Tony Singleton.\" 5 public comments on Regulations.gov. https://fedregintel.com/rules/2026-20078/\n\nEvery rule open for comment, by deadline: https://fedregintel.com/rules/",
   "posted": {},
   "history": [
     {
@@ -186,6 +186,12 @@
       "date": "2026-10-29",
       "trending": [
         "2026-18261"
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "trending": [
+        "2026-20277"
       ]
     }
   ]
