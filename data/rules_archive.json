@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T14:12:13.346038+00:00",
-  "count": 328,
+  "updated_at": "2026-10-31T13:40:04.786662+00:00",
+  "count": 331,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -2047,7 +2047,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 16,
+      "comments_count": 17,
       "docket_id": "BIS-2026-0364"
     },
     "2026-16108": {
@@ -2433,7 +2433,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 776,
+      "comments_count": 778,
       "docket_id": "FDA-2025-N-3262"
     },
     "2026-16313": {
@@ -4861,7 +4861,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 809,
+      "comments_count": 828,
       "docket_id": "NPS-2026-0166"
     },
     "2026-17926": {
@@ -4900,7 +4900,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 56,
+      "comments_count": 57,
       "docket_id": "USCBP-2026-1058"
     },
     "2026-17939": {
@@ -5240,7 +5240,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 67321,
+      "comments_count": 67945,
       "docket_id": "BLM-2026-0133"
     },
     "2026-18282": {
@@ -5749,7 +5749,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 26854,
+      "comments_count": 26996,
       "docket_id": "USCIS-2026-0364"
     },
     "2026-18648": {
@@ -6013,7 +6013,8 @@
       "first_seen": "2026-10-03",
       "significant": false,
       "comments_count": 1,
-      "docket_id": "FAA-2026-11287"
+      "docket_id": "FAA-2026-11287",
+      "final_checked": "2026-10-31"
     },
     "2026-18914": {
       "title": "International Traffic in Arms Regulations: Modification of Civil Aircraft To Incorporate Aircraft Survivability Equipment",
@@ -6094,7 +6095,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 169,
+      "comments_count": 171,
       "docket_id": "OPM-2026-0661"
     },
     "2026-19027": {
@@ -6152,7 +6153,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 11527,
+      "comments_count": 11652,
       "docket_id": "EPA-HQ-OAR-2025-0124"
     },
     "2026-19158": {
@@ -6459,7 +6460,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 381,
+      "comments_count": 389,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     "2026-19222": {
@@ -6818,7 +6819,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 186,
+      "comments_count": 195,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19350": {
@@ -6857,7 +6858,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 2464,
+      "comments_count": 2525,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19361": {
@@ -7107,7 +7108,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 87,
+      "comments_count": 130,
       "docket_id": "CMS-2026-3037"
     },
     "2026-19546": {
@@ -7137,7 +7138,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 406,
+      "comments_count": 412,
       "docket_id": "SBA-2026-0199"
     },
     "2026-19568": {
@@ -7167,7 +7168,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 24,
+      "comments_count": 25,
       "docket_id": "NRC-2025-1138"
     },
     "2026-19579": {
@@ -7825,7 +7826,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 45,
+      "comments_count": 46,
       "docket_id": "FTC-2026-1552"
     },
     "2026-20169": {
@@ -7853,7 +7854,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 48,
+      "comments_count": 53,
       "docket_id": "DOT-OST-2026-3664"
     },
     "2026-20178": {
@@ -7892,7 +7893,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 98,
+      "comments_count": 113,
       "docket_id": "RBS-26-BUSINESS-0529"
     },
     "2026-20251": {
@@ -7970,7 +7971,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 21968,
+      "comments_count": 22205,
       "docket_id": "IRS-2026-1354"
     },
     "2026-20296": {
@@ -8109,7 +8110,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 88,
+      "comments_count": 97,
       "docket_id": "ACF-2026-0562"
     },
     "2026-20335": {
@@ -8139,7 +8140,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 494,
+      "comments_count": 541,
       "docket_id": "NRC-2025-1568"
     },
     "2026-20336": {
@@ -8275,7 +8276,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "FINCEN-2026-0265"
     },
     "2026-20372": {
@@ -8596,7 +8597,7 @@
         "2060-AW33"
       ],
       "significant": false,
-      "comments_count": 27,
+      "comments_count": 40,
       "docket_id": "EPA-HQ-OAR-2024-0078",
       "first_seen": "2026-10-06"
     },
@@ -8779,7 +8780,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 178,
+      "comments_count": 195,
       "docket_id": "CMS-2026-3235",
       "first_seen": "2026-10-08"
     },
@@ -8848,7 +8849,7 @@
         "1653-AB01"
       ],
       "significant": null,
-      "comments_count": 4559,
+      "comments_count": 4716,
       "docket_id": "ICEB-2026-0100",
       "first_seen": "2026-10-08"
     },
@@ -9042,7 +9043,7 @@
         "1615-AD26"
       ],
       "significant": null,
-      "comments_count": 393,
+      "comments_count": 405,
       "docket_id": "USCIS-2026-0529",
       "first_seen": "2026-10-25"
     },
@@ -9072,7 +9073,7 @@
         "1615-AD23"
       ],
       "significant": null,
-      "comments_count": 162,
+      "comments_count": 171,
       "docket_id": "USCIS-2026-0397",
       "first_seen": "2026-10-25"
     },
@@ -9714,7 +9715,7 @@
         "0648-BO61"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "NOAA_FRDOC_0001",
       "first_seen": "2026-10-25"
     },
@@ -9953,7 +9954,7 @@
         "3038-AF82"
       ],
       "significant": null,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "CFTC-2026-2213",
       "first_seen": "2026-10-25"
     },
@@ -10339,7 +10340,7 @@
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": 9,
+      "comments_count": 10,
       "docket_id": "FNA-2026-0496",
       "first_seen": "2026-10-25"
     },
@@ -10443,7 +10444,7 @@
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": 31,
+      "comments_count": 48,
       "docket_id": "TREAS-DO-2026-0529",
       "first_seen": "2026-10-25"
     },
@@ -10616,7 +10617,7 @@
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": 27,
+      "comments_count": 30,
       "docket_id": "NHTSA-2026-1519",
       "first_seen": "2026-10-25"
     },
@@ -10815,7 +10816,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 21,
+      "comments_count": 31,
       "docket_id": "COLC-2026-0199",
       "first_seen": "2026-10-28"
     },
@@ -10838,14 +10839,14 @@
           "slug": "environmental-protection-agency"
         }
       ],
-      "comments_close_on": "2026-11-30",
+      "comments_close_on": "2026-12-16",
       "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OAR-2025-0163-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2060-AW73"
       ],
       "significant": true,
-      "comments_count": 5,
+      "comments_count": 11,
       "docket_id": "EPA-HQ-OAR-2025-0163",
       "first_seen": "2026-10-29"
     },
@@ -10903,7 +10904,7 @@
         "0930-AA41"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "SAMHSA-2026-0001",
       "first_seen": "2026-10-29"
     },
@@ -10933,7 +10934,7 @@
         "0930-AA40"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "SAMHSA-2026-0002",
       "first_seen": "2026-10-29"
     },
@@ -10972,7 +10973,7 @@
         "0970-AD49"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "ACF_FRDOC_0001",
       "first_seen": "2026-10-29"
     },
@@ -11040,6 +11041,103 @@
       "comments_count": 0,
       "docket_id": "CPSC-2015-0025",
       "first_seen": "2026-10-30"
+    },
+    "2026-22273": {
+      "title": "Infant Formula Nutrient Requirements",
+      "type": "Proposed Rule",
+      "abstract": "The Food and Drug Administration (FDA or we) proposes to amend the regulations on nutrient specifications and labeling for infant formula as part of its phased, comprehensive review of infant formula nutrients. This action, if finalized, would amend the minimum and/or maximum levels of four required nutrients, change the unit of measure for certain nutrients, change the permitted source to meet one of the nutrient requirements, and amend the content of the required labeling. This action also includes a comprehensive assessment of four additional nutrients for which we conclude that the current required levels remain appropriate and reflect the best available scientific evidence on infant nutritional requirements and safe intake levels.",
+      "document_number": "2026-22273",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/02/2026-22273/infant-formula-nutrient-requirements",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-02/pdf/2026-22273.pdf",
+      "publication_date": "2026-11-02",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "comments_close_on": "2027-03-02",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0910-AJ34"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-31"
+    },
+    "2026-22295": {
+      "title": "Significant New Use Rules on Certain Chemical Substances (26-7)",
+      "type": "Proposed Rule",
+      "abstract": "EPA is proposing significant new use rules (SNURs) under the Toxic Substances Control Act (TSCA) for certain chemical substances that were the subject of premanufacture notices (PMNs) and are also subject to an Order issued by EPA pursuant to TSCA. Once finalized, the SNURs would require persons who intend to manufacture (defined by statute to include import) or process any of these chemical substances for an activity that is proposed as a significant new use by this rulemaking to notify EPA at least 90 days before commencing that activity. The required notification initiates EPA's evaluation of the conditions of that use for that chemical substance. In addition, the manufacture or processing for the significant new use may not commence until EPA has conducted a review of the required notification, made an appropriate determination regarding that notification, and taken such actions as required by that determination.",
+      "document_number": "2026-22295",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/02/2026-22295/significant-new-use-rules-on-certain-chemical-substances-26-7",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-02/pdf/2026-22295.pdf",
+      "publication_date": "2026-11-02",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-12-02",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2070-AB27"
+      ],
+      "significant": false,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-31"
+    },
+    "2026-22337": {
+      "title": "Unleashing the Power of Unlicensed Ultra-Wideband Devices; Petition of Robert Bosch LLC for Amendment of the Part 15 Subpart F Ultra-Wideband Rules; and Petition of Alliance for Automative Innovation et al. To Amend Part 15 of the FCC's Rules To Permit the Operation of Certain Ultra-Wideband Devices",
+      "type": "Proposed Rule",
+      "abstract": "The Federal Communications Commission (Commission or FCC) proposes to update its rules for Ultra-Wideband (UWB) devices to reflect significant technological developments since the rules were first adopted in 2002. UWB technology has matured into a widely used, low-power enabler that supports applications in tracking, automation, precision location, health monitoring, athletic performance, and public safety. As capabilities of UWB have expanded, the existing rules have not kept pace with the technological change, resulting in an increasing number of waiver requests received by the Commission to authorize modern devices. The Notice of Proposed Rulemaking seeks comment on revisions intended to modernize the UWB framework, provide greater flexibility for future applications, promote continued innovation, and ensure the protection of incumbent federal and non-federal spectrum users.",
+      "document_number": "2026-22337",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/02/2026-22337/unleashing-the-power-of-unlicensed-ultra-wideband-devices-petition-of-robert-bosch-llc-for-amendment",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-02/pdf/2026-22337.pdf",
+      "publication_date": "2026-11-02",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL COMMUNICATIONS COMMISSION",
+          "name": "Federal Communications Commission",
+          "id": 161,
+          "url": "https://www.federalregister.gov/agencies/federal-communications-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/161",
+          "parent_id": null,
+          "slug": "federal-communications-commission"
+        }
+      ],
+      "comments_close_on": "2027-01-04",
+      "comment_url": null,
+      "effective_on": "2026-12-02",
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-10-31"
     },
     "C1-2026-20360": {
       "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",
