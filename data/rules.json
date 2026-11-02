@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T14:16:56.404681+00:00",
+  "updated_at": "2026-11-02T17:06:29.826207+00:00",
   "latest_date": "2026-11-02",
   "issue_count": 13,
   "documents": [
@@ -185,7 +185,7 @@
         }
       ],
       "comments_close_on": null,
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA_FRDOC_0001-28572",
       "effective_on": "2026-11-23",
       "regulation_id_numbers": [
         "2120-AA64"
@@ -281,7 +281,7 @@
         }
       ],
       "comments_close_on": "2026-12-02",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OPPT-2026-5974-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2070-AB27"
@@ -410,7 +410,7 @@
         }
       ],
       "comments_close_on": "2027-03-02",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FDA-2026-N-10832-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "0910-AJ34"
@@ -3151,6 +3151,56 @@
       ]
     },
     {
+      "title": "Optional Practical Training Fees",
+      "type": "Proposed Rule",
+      "abstract": "This rule proposes new fees for Optional Practical Training (OPT) to combat fraud, strengthen the integrity of the immigration system, and protect U.S. workers. The following fees would apply for each F-1 nonimmigrant student to engage in OPT through a Student and Exchange Visitor Program-certified institution: $70,000 for initial OPT; and $30,000 for any subsequent OPT.",
+      "document_number": "2026-20660",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20660/optional-practical-training-fees",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20660.pdf",
+      "publication_date": "2026-10-08",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        }
+      ],
+      "comments_close_on": "2026-11-09",
+      "comment_url": "http://www.regulations.gov/commenton/ICEB-2026-0100-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1653-AB01"
+      ]
+    },
+    {
+      "title": "Air Quality Plan; Arizona; Maricopa County Air Quality Department; New Source Review; Emission Reduction Credits-Rule 204",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA) is proposing to approve a revision to the Maricopa County Air Quality Department (MCAQD or \"Department\") portion of the Arizona State Implementation Plan (SIP). This revision establishes a federally enforceable program allowing nonroad engine fleet owners/operators to generate emission reduction credits (ERCs) by either retrofitting their nonroad engines or replacing their nonroad engines with lower-emitting nonroad engines while meeting other Clean Air Act (CAA or \"Act\") requirements. These ERCs are intended for use as offsets for major stationary sources under the Department's Nonattainment New Source Review (NNSR) program. We are proposing to approve a local rule to allow for the generation of ERCs through voluntary nonroad engine emission reductions under the CAA.",
+      "document_number": "2026-20612",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20612/air-quality-plan-arizona-maricopa-county-air-quality-department-new-source-review-emission-reduction",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-08/pdf/2026-20612.pdf",
+      "publication_date": "2026-10-08",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-11-09",
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R09-OAR-2026-4654-0001",
+      "effective_on": null,
+      "regulation_id_numbers": []
+    },
+    {
       "title": "Approval and Promulgation of State Air Quality Plans for Designated Facilities and Pollutants; West Virginia; Negative Declarations for Existing Large Municipal Waste Combustors and Other Solid Waste Incinerators",
       "type": "Proposed Rule",
       "abstract": "The Environmental Protection Agency (EPA) is proposing to approve the negative declarations submitted by the West Virginia Department of Environmental Protection (WVDEP) on July 13, 2026. The negative declarations submitted by WVDEP certify that there are no existing large municipal waste combustors (LMWC) or other solid waste incinerators (OSWI) subject to sections 111(d) and 129 of the Clean Air Act (CAA) within the jurisdiction of West Virginia.",
@@ -3751,6 +3801,102 @@
       "regulation_id_numbers": []
     },
     {
+      "title": "Amendment of Class E Airspace; Del Rio, TX",
+      "type": "Proposed Rule",
+      "abstract": "This action proposes to amend the Class E airspace at Del Rio, TX. The FAA is proposing this action as the result of a biennial review of the airspace associated with Laughlin Air Force Base (AFB), Del Rio, TX. This proposal would also update the name and geographic coordinates of Laughlin AFB to coincide with the FAA's aeronautical database. This action would bring the airspace into compliance with FAA orders and support instrument flight rule (IFR) procedures and operations.",
+      "document_number": "2026-19708",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/25/2026-19708/amendment-of-class-e-airspace-del-rio-tx",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-25/pdf/2026-19708.pdf",
+      "publication_date": "2026-09-25",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-09",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-12310-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ]
+    },
+    {
+      "title": "Regulatory Enhancements for Reactor Licensing, Decommissioning, and Operational Oversight",
+      "type": "Proposed Rule",
+      "abstract": "Consistent with Executive Order 14300, \"Ordering the Reform of the Nuclear Regulatory Commission,\" the NRC is conducting a review and wholesale revision of its regulations. This proposed rule primarily aims to provide regulatory enhancements for reactor licensing, decommissioning, and operational oversight and is one effort in the NRC's activities to address the direction in section 5 of Executive Order 14300.",
+      "document_number": "2026-19568",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/24/2026-19568/regulatory-enhancements-for-reactor-licensing-decommissioning-and-operational-oversight",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-24/pdf/2026-19568.pdf",
+      "publication_date": "2026-09-24",
+      "agencies": [
+        {
+          "raw_name": "NUCLEAR REGULATORY COMMISSION",
+          "name": "Nuclear Regulatory Commission",
+          "id": 383,
+          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
+          "parent_id": null,
+          "slug": "nuclear-regulatory-commission"
+        }
+      ],
+      "comments_close_on": "2026-11-09",
+      "comment_url": "http://www.regulations.gov/commenton/NRC-2025-1138-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3150-AL45"
+      ]
+    },
+    {
+      "title": "Airworthiness Directives; Textron Aviation, Inc. (Type Certificate Previously Held by Cessna Aircraft Company) Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2015-07-03, which applies to certain Cessna Aircraft Company (Cessna) (type certificate currently held by Textron Aviation, Inc.) (Textron) Model 402C and 414A airplanes. Since the FAA issued AD 2015-07-03, there have been additional reports of cracking and multi-site cracking in areas of engine beams that are difficult to access. This proposed AD would require repetitive inspections of the engine beam for cracks and applicable on-condition actions. This proposed AD would also add a new life-limit to affected engine beams and require replacement when engine beams reach this life-limit. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-19411",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/23/2026-19411/airworthiness-directives-textron-aviation-inc-type-certificate-previously-held-by-cessna-aircraft",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-23/pdf/2026-19411.pdf",
+      "publication_date": "2026-09-23",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-09",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8818-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
+    },
+    {
       "title": "Airworthiness Directives; Airbus SAS Airplanes",
       "type": "Proposed Rule",
       "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Airbus SAS Model A350-941 airplanes. This proposed AD was prompted by reports of engine health monitoring (EHM) messages requiring premature removal of hydro-mechanical units (HMUs). This proposed AD would require replacing certain HMUs before reaching a reduced life limit and would limit the installation of affected parts under certain conditions. The FAA is proposing this AD to address the unsafe condition on these products.",
@@ -4124,6 +4270,91 @@
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
+      ]
+    },
+    {
+      "title": "Political Contributions by Certain Investment Advisers",
+      "type": "Proposed Rule",
+      "abstract": "The Securities and Exchange Commission (the \"Commission\" or the \"SEC\") is proposing to rescind the political contribution rule under the Investment Advisers Act of 1940 (the \"Advisers Act\"), which prohibits investment advisers from providing investment advisory services for compensation to a government client for two years after an adviser or any covered associate of the adviser makes a contribution to certain categories of elected officials or candidates, among other prohibitions. In the more than fifteen years since the rule was adopted, implementation challenges associated with the political contribution rule have resulted in a range of significant unintended consequences, including compliance practices among some investment advisers that may have had the effect of restricting all political contributions by the investment advisers and their employees. Market participants also have stated that the political contribution rule is burdensome, complex, and both lacks clarity and creates a de facto strict liability standard. The Commission is of the view that other existing requirements of the Advisers Act and its associated rules, including prohibitions on fraud, fiduciary duty requirements, the compliance rule, and the code of ethics rule (defined below), are likely sufficient to address pay-to-play practices while allowing an adviser the flexibility to implement an approach that is more appropriately tailored to its particular risks, rendering the political contribution rule unnecessary. The Commission also is proposing to amend the rule under the Advisers Act pertaining to books and records consistent with the proposed rescission.",
+      "document_number": "2026-18424",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/10/2026-18424/political-contributions-by-certain-investment-advisers",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-10/pdf/2026-18424.pdf",
+      "publication_date": "2026-09-10",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "comments_close_on": "2026-11-09",
+      "comment_url": null,
+      "effective_on": "2026-09-10",
+      "regulation_id_numbers": [
+        "3235-AN65"
+      ]
+    },
+    {
+      "title": "Improving the Effectiveness of the Robocall Mitigation Database; Call Authentication Trust Anchor; Advanced Methods To Target and Eliminate Unlawful Robocalls",
+      "type": "Proposed Rule",
+      "abstract": "In this document, the Federal Communications Commission (Commission) proposes steps to strengthen the reliability, integrity, and effectiveness of the Robocall Mitigation Database (RMD or Database) as a core component of its illegal-call prevention framework. The Commission proposed measures aim to ensure that RMD filings are accurate, complete, and current, and to safeguard the Database so that only legitimate, transparent, and accountable providers may enter or remain listed. Specifically, the Commission proposes and seeks comment on measures to clarify which entities are required to file in the RMD, enhance the accuracy and completeness of submitted information, and specify which portions of filings may be publicly disclosed. Additionally, the Commission proposes and seeks comment on new tools to prevent bad actors and noncompliant providers from accessing or remaining in the RMD, including strengthened screening procedures for new filers, improved mechanisms for identifying noncompliant providers, expedited removal processes, and safeguards to prevent unauthorized re- entry into the Database.",
+      "document_number": "2026-18366",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/09/2026-18366/improving-the-effectiveness-of-the-robocall-mitigation-database-call-authentication-trust-anchor",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-09/pdf/2026-18366.pdf",
+      "publication_date": "2026-09-09",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL COMMUNICATIONS COMMISSION",
+          "name": "Federal Communications Commission",
+          "id": 161,
+          "url": "https://www.federalregister.gov/agencies/federal-communications-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/161",
+          "parent_id": null,
+          "slug": "federal-communications-commission"
+        }
+      ],
+      "comments_close_on": "2026-11-09",
+      "comment_url": null,
+      "effective_on": "2026-10-09",
+      "regulation_id_numbers": []
+    },
+    {
+      "title": "National Petroleum Reserve in Alaska Production Site Development",
+      "type": "Proposed Rule",
+      "abstract": "The Bureau of Land Management (BLM) is proposing to streamline its decision-making process for authorizing the construction and operation of qualifying oil and gas production sites and their associated rights-of-way (ROWs) in the National Petroleum Reserve in Alaska (the Petroleum Reserve or NPR-A). This proposed rule would establish pre-defined criteria for defined and repeatable common activities with similar environmental effects that, when met by an applicant, would result in a streamlined permitting process for qualifying production sites.",
+      "document_number": "2026-18261",
+      "html_url": "https://www.federalregister.gov/documents/2026/09/08/2026-18261/national-petroleum-reserve-in-alaska-production-site-development",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-08/pdf/2026-18261.pdf",
+      "publication_date": "2026-09-08",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "Bureau of Land Management",
+          "name": "Land Management Bureau",
+          "id": 275,
+          "url": "https://www.federalregister.gov/agencies/land-management-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/275",
+          "parent_id": 253,
+          "slug": "land-management-bureau"
+        }
+      ],
+      "comments_close_on": "2026-11-09",
+      "comment_url": "http://www.regulations.gov/commenton/BLM-2026-0133-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1004-AF57"
       ]
     },
     {
