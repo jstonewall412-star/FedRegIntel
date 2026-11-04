@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T15:10:53.066451+00:00",
-  "count": 332,
+  "updated_at": "2026-11-04T15:27:28.192247+00:00",
+  "count": 336,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -1718,7 +1718,7 @@
       "significant": null,
       "comments_count": 6,
       "docket_id": "APHIS-2025-0033",
-      "final_checked": "2026-10-26"
+      "final_checked": "2026-11-04"
     },
     "2026-15857": {
       "title": "Importation of Coffee Into Hawaii and Puerto Rico",
@@ -1758,7 +1758,7 @@
       "significant": null,
       "comments_count": 13,
       "docket_id": "APHIS-2023-0073",
-      "final_checked": "2026-10-26"
+      "final_checked": "2026-11-04"
     },
     "2026-15867": {
       "title": "OCC Rules Regarding the Availability of OCC Information",
@@ -1798,7 +1798,7 @@
       "significant": null,
       "comments_count": 6,
       "docket_id": "OCC-2026-0133",
-      "final_checked": "2026-10-26"
+      "final_checked": "2026-11-04"
     },
     "2026-15929": {
       "title": "Improving Emergency Medical Kit Efficacy and Flexibility in Commercial Airline Operations",
@@ -1838,7 +1838,7 @@
       "significant": null,
       "comments_count": 1664,
       "docket_id": "FAA-2026-9178",
-      "final_checked": "2026-10-26"
+      "final_checked": "2026-11-04"
     },
     "2026-15948": {
       "title": "Conflicts and Affiliations",
@@ -1869,7 +1869,7 @@
       "significant": null,
       "comments_count": 17,
       "docket_id": "CFTC-2026-1686",
-      "final_checked": "2026-10-26"
+      "final_checked": "2026-11-04"
     },
     "2026-15953": {
       "title": "Oil and Gas and Sulfur Operations on the Outer Continental Shelf-Revisions to the Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf",
@@ -1918,7 +1918,7 @@
       "significant": null,
       "comments_count": 18,
       "docket_id": "BOEM_FRDOC_0001",
-      "final_checked": "2026-10-26"
+      "final_checked": "2026-11-04"
     },
     "2026-15995": {
       "title": "Extensions of Credit to Insiders",
@@ -1949,7 +1949,7 @@
       "significant": null,
       "comments_count": 0,
       "docket_id": null,
-      "final_checked": "2026-10-26"
+      "final_checked": "2026-11-04"
     },
     "2026-16016": {
       "title": "New Mailing Standards for Live Animals",
@@ -2047,7 +2047,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 19,
+      "comments_count": 29,
       "docket_id": "BIS-2026-0364"
     },
     "2026-16108": {
@@ -2172,7 +2172,7 @@
       "significant": null,
       "comments_count": 12588,
       "docket_id": "ACF-2026-0595",
-      "final_checked": "2026-10-26"
+      "final_checked": "2026-11-04"
     },
     "2026-16196": {
       "title": "Build America: Eliminating Barriers to Wireline Deployments",
@@ -3632,7 +3632,7 @@
       "significant": null,
       "comments_count": 13614,
       "docket_id": "IRS-2026-1057",
-      "final_checked": "2026-10-26"
+      "final_checked": "2026-11-04"
     },
     "2026-16994": {
       "title": "Proposed Deletion From the National Priorities List",
@@ -3731,7 +3731,7 @@
       "significant": null,
       "comments_count": 2,
       "docket_id": "IRS-2026-1058",
-      "final_checked": "2026-10-26"
+      "final_checked": "2026-11-04"
     },
     "2026-17039": {
       "title": "Small Business Size Standards: Revised Size Standards Methodology",
@@ -3815,7 +3815,7 @@
       "significant": null,
       "comments_count": 4,
       "docket_id": "CFTC-2026-1849",
-      "final_checked": "2026-10-26"
+      "final_checked": "2026-11-04"
     },
     "2026-17108": {
       "title": "Withdrawal of International Airport Designation of Chalk Seaplane Base",
@@ -4198,7 +4198,7 @@
       "significant": null,
       "comments_count": 3,
       "docket_id": "IRS-2026-1123",
-      "final_checked": "2026-10-27"
+      "final_checked": "2026-11-04"
     },
     "2026-17416": {
       "title": "Swap Execution Facility Order Book Requirement for Permitted Transactions",
@@ -4419,7 +4419,7 @@
       "significant": null,
       "comments_count": 0,
       "docket_id": null,
-      "final_checked": "2026-10-26"
+      "final_checked": "2026-11-04"
     },
     "2026-17652": {
       "title": "Requests for Arbitration Panels",
@@ -4477,7 +4477,7 @@
       "significant": true,
       "comments_count": 13,
       "docket_id": "DOS-2026-0925",
-      "final_checked": "2026-10-28"
+      "final_checked": "2026-11-04"
     },
     "2026-17660": {
       "title": "International Traffic in Arms Regulations: Modification of Civil Aircraft To Incorporate Aircraft Survivability Equipment",
@@ -5050,7 +5050,7 @@
       "significant": null,
       "comments_count": 3,
       "docket_id": "NOAA-NMFS-2026-1025",
-      "final_checked": "2026-10-26"
+      "final_checked": "2026-11-04"
     },
     "2026-18103": {
       "title": "Notice of Availability and Request for Comment: Revision to the Voluntary Standard for Products Containing Button Cell or Coin Batteries",
@@ -5146,7 +5146,7 @@
       "significant": null,
       "comments_count": 37,
       "docket_id": "FAA-2026-10990",
-      "final_checked": "2026-10-26"
+      "final_checked": "2026-11-04"
     },
     "2026-18167": {
       "title": "Reducing Bureaucracy and Burden for the Repatriation of Mentally Ill Nationals",
@@ -5186,7 +5186,7 @@
       "significant": null,
       "comments_count": 4,
       "docket_id": "ACF-2026-0661",
-      "final_checked": "2026-10-26"
+      "final_checked": "2026-11-04"
     },
     "2026-18190": {
       "title": "Transfer Agent Rules",
@@ -5216,7 +5216,8 @@
       "first_seen": "2026-10-03",
       "significant": true,
       "comments_count": 0,
-      "docket_id": null
+      "docket_id": null,
+      "final_checked": "2026-11-04"
     },
     "2026-18261": {
       "title": "National Petroleum Reserve in Alaska Production Site Development",
@@ -5254,7 +5255,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 70291,
+      "comments_count": 70945,
       "docket_id": "BLM-2026-0133"
     },
     "2026-18282": {
@@ -5763,7 +5764,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 27123,
+      "comments_count": 27646,
       "docket_id": "USCIS-2026-0364"
     },
     "2026-18648": {
@@ -5804,7 +5805,7 @@
       "significant": true,
       "comments_count": 15936,
       "docket_id": "FS-2025-0001",
-      "final_checked": "2026-10-26"
+      "final_checked": "2026-11-04"
     },
     "2026-18755": {
       "title": "Clean Data Determination; 1997 8-Hour Ozone Standards; California; Sacramento Metro Area",
@@ -6109,7 +6110,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 171,
+      "comments_count": 172,
       "docket_id": "OPM-2026-0661"
     },
     "2026-19027": {
@@ -6475,7 +6476,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 398,
+      "comments_count": 401,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     "2026-19222": {
@@ -6796,7 +6797,7 @@
       "significant": null,
       "comments_count": 0,
       "docket_id": "NOAA-NMFS-2026-1354",
-      "final_checked": "2026-10-25"
+      "final_checked": "2026-11-04"
     },
     "2026-19349": {
       "title": "Nonclinical Testing Terminology",
@@ -6834,7 +6835,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 212,
+      "comments_count": 216,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19350": {
@@ -6873,7 +6874,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 2661,
+      "comments_count": 2742,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19361": {
@@ -6981,7 +6982,7 @@
       "significant": false,
       "comments_count": 1,
       "docket_id": "NHTSA-2023-0031",
-      "final_checked": "2026-10-25"
+      "final_checked": "2026-11-04"
     },
     "2026-19400": {
       "title": "Schedules of Controlled Substances: Placement of 4-Hydroxy-N,N-Diisopropyltryptamine (4-OH-DiPT), 5-Methoxy-alpha-Methyltryptamine (5-MeO-AMT), 5-Methoxy-N-Methyl-N-Isopropyltryptamine (5-MeO-MiPT), 5-Methoxy-N,N-Diethyltryptamine (5-MeO-DET), and N,N-Diisopropyltryptamine (DiPT) Into Schedule I",
@@ -7123,7 +7124,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 168,
+      "comments_count": 180,
       "docket_id": "CMS-2026-3037"
     },
     "2026-19546": {
@@ -7153,7 +7154,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 424,
+      "comments_count": 429,
       "docket_id": "SBA-2026-0199"
     },
     "2026-19568": {
@@ -7183,7 +7184,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 26,
+      "comments_count": 28,
       "docket_id": "NRC-2025-1138"
     },
     "2026-19579": {
@@ -7211,7 +7212,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 16,
+      "comments_count": 17,
       "docket_id": "CPSC-2026-0463"
     },
     "2026-19584": {
@@ -7250,7 +7251,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 24,
+      "comments_count": 25,
       "docket_id": "FAA-2026-12145"
     },
     "2026-19656": {
@@ -7580,7 +7581,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 126,
+      "comments_count": 127,
       "docket_id": "IRS-2026-1321"
     },
     "2026-20038": {
@@ -7744,7 +7745,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 7,
+      "comments_count": 8,
       "docket_id": "USCG-2025-0392"
     },
     "2026-20102": {
@@ -7811,7 +7812,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 11,
+      "comments_count": 12,
       "docket_id": "FWS-HQ-MB-2026-0133"
     },
     "2026-20143": {
@@ -7841,7 +7842,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 134,
+      "comments_count": 149,
       "docket_id": "FTC-2026-1552"
     },
     "2026-20169": {
@@ -7947,7 +7948,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 190,
+      "comments_count": 191,
       "docket_id": "NPS-2026-0199"
     },
     "2026-20277": {
@@ -7986,7 +7987,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 22362,
+      "comments_count": 22387,
       "docket_id": "IRS-2026-1354"
     },
     "2026-20296": {
@@ -8018,7 +8019,7 @@
       "significant": false,
       "comments_count": 0,
       "docket_id": "CPSC_FRDOC_0001",
-      "final_checked": "2026-10-25"
+      "final_checked": "2026-11-04"
     },
     "2026-20317": {
       "title": "General Services Administration Acquisition Regulation; GSAR Implementation of Executive Order 14275, Acquisition of Utility Services",
@@ -8047,7 +8048,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "GSA-GSAR-2026-0595"
     },
     "2026-20328": {
@@ -8126,7 +8127,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 150,
+      "comments_count": 170,
       "docket_id": "ACF-2026-0562"
     },
     "2026-20335": {
@@ -8156,7 +8157,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 690,
+      "comments_count": 739,
       "docket_id": "NRC-2025-1568"
     },
     "2026-20336": {
@@ -8398,7 +8399,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 4,
       "docket_id": "FAA-2026-9934"
     },
     "2026-20387": {
@@ -8437,7 +8438,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 6,
+      "comments_count": 8,
       "docket_id": "FAA-2026-9935"
     },
     "2026-20388": {
@@ -8476,7 +8477,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 6,
       "docket_id": "FAA-2026-9936"
     },
     "2026-20391": {
@@ -8515,7 +8516,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 5,
       "docket_id": "FAA-2026-9940"
     },
     "2026-20392": {
@@ -8554,7 +8555,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 6,
       "docket_id": "FAA-2026-9941"
     },
     "2026-20466": {
@@ -8613,7 +8614,7 @@
         "2060-AW33"
       ],
       "significant": false,
-      "comments_count": 42,
+      "comments_count": 46,
       "docket_id": "EPA-HQ-OAR-2024-0078",
       "first_seen": "2026-10-06"
     },
@@ -8796,7 +8797,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 214,
+      "comments_count": 227,
       "docket_id": "CMS-2026-3235",
       "first_seen": "2026-10-08"
     },
@@ -9059,7 +9060,7 @@
         "1615-AD26"
       ],
       "significant": null,
-      "comments_count": 446,
+      "comments_count": 474,
       "docket_id": "USCIS-2026-0529",
       "first_seen": "2026-10-25"
     },
@@ -9089,7 +9090,7 @@
         "1615-AD23"
       ],
       "significant": null,
-      "comments_count": 228,
+      "comments_count": 237,
       "docket_id": "USCIS-2026-0397",
       "first_seen": "2026-10-25"
     },
@@ -9692,7 +9693,7 @@
         "2060-AX09"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 46,
       "docket_id": "EPA-HQ-OAR-2024-0505",
       "first_seen": "2026-10-25"
     },
@@ -10037,7 +10038,7 @@
         "0938-AV88"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "CMS-2026-3533",
       "first_seen": "2026-10-25"
     },
@@ -10460,7 +10461,7 @@
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": 60,
+      "comments_count": 61,
       "docket_id": "TREAS-DO-2026-0529",
       "first_seen": "2026-10-25"
     },
@@ -10594,7 +10595,7 @@
         "1505-AC94"
       ],
       "significant": null,
-      "comments_count": 6,
+      "comments_count": 9,
       "docket_id": "TREAS-DO-2026-0595",
       "first_seen": "2026-10-25"
     },
@@ -10633,7 +10634,7 @@
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": 35,
+      "comments_count": 36,
       "docket_id": "NHTSA-2026-1519",
       "first_seen": "2026-10-25"
     },
@@ -10862,7 +10863,7 @@
         "2060-AW73"
       ],
       "significant": true,
-      "comments_count": 23,
+      "comments_count": 28,
       "docket_id": "EPA-HQ-OAR-2025-0163",
       "first_seen": "2026-10-29"
     },
@@ -11093,7 +11094,7 @@
         "0910-AJ34"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 8,
       "docket_id": "FDA-2026-N-10832",
       "first_seen": "2026-10-31"
     },
@@ -11190,9 +11191,147 @@
         "2137-AF45"
       ],
       "significant": true,
-      "comments_count": 0,
+      "comments_count": 3,
       "docket_id": "PHMSA-2019-0091",
       "first_seen": "2026-11-03"
+    },
+    "2026-22450": {
+      "title": "Update and Clarification of the Passenger Facility Charge Regulations",
+      "type": "Proposed Rule",
+      "abstract": "On September 27, 2023 FAA published a notice of proposed rulemaking (NPRM) to amend its Passenger Facility Charge (PFC) regulations to implement congressionally mandated changes to an existing pilot program within the PFC program. FAA also proposed to reaffirm existing program requirements and update or remove obsolete references within the PFC regulations. Following publication of the NPRM and before FAA issued a final rule, the FAA Reauthorization Act of 2024 (the 2024 Act) was signed into law on May 16, 2024. Several sections of the 2024 Act necessitate changes to PFC regulations or modifications to proposals made in the NPRM. As such, FAA now issues this supplemental proposal addressing: PFC turnback reductions; two new PFC-eligible projects; restrictions to PFC-eligible projects; FAA's timeline for review and acknowledgement of notice of intent (NOI) submissions; PFC streamlining review eligibility; and PFC submittal requirements. This proposal aligns with the requirements established by the 2024 Act.",
+      "document_number": "2026-22450",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/04/2026-22450/update-and-clarification-of-the-passenger-facility-charge-regulations",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-04/pdf/2026-22450.pdf",
+      "publication_date": "2026-11-04",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-04",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2022-1315-0009",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AL86"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FAA-2022-1315",
+      "first_seen": "2026-11-04"
+    },
+    "2026-22464": {
+      "title": "Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-44, V-170, and V-312; Eastern United States",
+      "type": "Proposed Rule",
+      "abstract": "This action proposes to amend domestic VOR Federal Airways V- 44, V-170, and V-312 in the eastern United States. The FAA is proposing these actions due to the planned decommissioning of the Andrews, MD (ADW), VOR/Tactical Air Navigation (VORTAC).",
+      "document_number": "2026-22464",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/04/2026-22464/amendment-of-domestic-very-high-frequency-omnidirectional-range-vor-federal-airways-v-44-v-170-and",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-04/pdf/2026-22464.pdf",
+      "publication_date": "2026-11-04",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-21",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-14030-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-14030",
+      "first_seen": "2026-11-04"
+    },
+    "2026-22495": {
+      "title": "Large-Bank Deposit Insurance Determination Modernization",
+      "type": "Proposed Rule",
+      "abstract": "The FDIC is seeking comment on a proposal that would: remove the regulation regarding recordkeeping for timely deposit insurance determination; revise the regulation regarding large-bank deposit insurance determination modernization to modify the requirements that, following rescission of the preceding regulation, would generally apply to institutions currently subject to the preceding regulation, with certain modifications, and clarify its requirements to better align the burdens of the rule with the benefits; and revise the regulation regarding indexing of specified regulatory thresholds to index the thresholds to inflation in the regulation regarding large-bank deposit insurance determination modernization.",
+      "document_number": "2026-22495",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/04/2026-22495/large-bank-deposit-insurance-determination-modernization",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-04/pdf/2026-22495.pdf",
+      "publication_date": "2026-11-04",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL DEPOSIT INSURANCE CORPORATION",
+          "name": "Federal Deposit Insurance Corporation",
+          "id": 164,
+          "url": "https://www.federalregister.gov/agencies/federal-deposit-insurance-corporation",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/164",
+          "parent_id": null,
+          "slug": "federal-deposit-insurance-corporation"
+        }
+      ],
+      "comments_close_on": "2027-01-04",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3064-AG35"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null,
+      "first_seen": "2026-11-04"
+    },
+    "2026-22537": {
+      "title": "Member Business Loans; Commercial Lending",
+      "type": "Rule",
+      "abstract": "The NCUA Board (Board) is amending its regulations governing member business loans and commercial lending. This interim final rule eliminates an outdated, transitional provision that is no longer necessary. This action is necessary to reduce regulatory complexity and improve the clarity of the NCUA's regulations. The intended effect is to enhance clarity and simplify compliance for federally insured credit unions (FICUs).",
+      "document_number": "2026-22537",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/04/2026-22537/member-business-loans-commercial-lending",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-04/pdf/2026-22537.pdf",
+      "publication_date": "2026-11-04",
+      "agencies": [
+        {
+          "raw_name": "NATIONAL CREDIT UNION ADMINISTRATION",
+          "name": "National Credit Union Administration",
+          "id": 335,
+          "url": "https://www.federalregister.gov/agencies/national-credit-union-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/335",
+          "parent_id": null,
+          "slug": "national-credit-union-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-04",
+      "comment_url": "http://www.regulations.gov/commenton/NCUA_FRDOC_0001-0547",
+      "effective_on": "2026-11-04",
+      "regulation_id_numbers": [
+        "3133-AG12"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "NCUA_FRDOC_0001",
+      "first_seen": "2026-11-04"
     },
     "C1-2026-20360": {
       "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",
