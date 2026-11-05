@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-04T15:27:28.192247+00:00",
-  "count": 336,
+  "updated_at": "2026-11-05T15:29:46.136297+00:00",
+  "count": 341,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -2433,7 +2433,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 782,
+      "comments_count": 785,
       "docket_id": "FDA-2025-N-3262"
     },
     "2026-16313": {
@@ -4913,7 +4913,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 58,
+      "comments_count": 60,
       "docket_id": "USCBP-2026-1058"
     },
     "2026-17939": {
@@ -5255,7 +5255,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 70945,
+      "comments_count": 71385,
       "docket_id": "BLM-2026-0133"
     },
     "2026-18282": {
@@ -5694,7 +5694,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "EPA-HQ-OLEM-2026-4324"
     },
     "2026-18574": {
@@ -5764,7 +5764,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 27646,
+      "comments_count": 27796,
       "docket_id": "USCIS-2026-0364"
     },
     "2026-18648": {
@@ -5960,7 +5960,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 2,
+      "comments_count": 4,
       "docket_id": "OPM-2017-0004"
     },
     "2026-18854": {
@@ -6476,7 +6476,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 401,
+      "comments_count": 410,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     "2026-19222": {
@@ -6835,7 +6835,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 216,
+      "comments_count": 262,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19350": {
@@ -6874,7 +6874,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 2742,
+      "comments_count": 3078,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19361": {
@@ -7124,7 +7124,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 180,
+      "comments_count": 300,
       "docket_id": "CMS-2026-3037"
     },
     "2026-19546": {
@@ -7154,7 +7154,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 429,
+      "comments_count": 438,
       "docket_id": "SBA-2026-0199"
     },
     "2026-19568": {
@@ -7184,7 +7184,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 28,
+      "comments_count": 29,
       "docket_id": "NRC-2025-1138"
     },
     "2026-19579": {
@@ -7251,7 +7251,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 25,
+      "comments_count": 26,
       "docket_id": "FAA-2026-12145"
     },
     "2026-19656": {
@@ -7366,7 +7366,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 5,
+      "comments_count": 6,
       "docket_id": "ATF-2026-0365"
     },
     "2026-19710": {
@@ -7452,7 +7452,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 4,
+      "comments_count": 6,
       "docket_id": "EPA-HQ-OAR-2025-0302"
     },
     "2026-19860": {
@@ -7812,7 +7812,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 12,
+      "comments_count": 15,
       "docket_id": "FWS-HQ-MB-2026-0133"
     },
     "2026-20143": {
@@ -7842,7 +7842,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 149,
+      "comments_count": 157,
       "docket_id": "FTC-2026-1552"
     },
     "2026-20169": {
@@ -7948,7 +7948,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 191,
+      "comments_count": 195,
       "docket_id": "NPS-2026-0199"
     },
     "2026-20277": {
@@ -7987,7 +7987,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 22387,
+      "comments_count": 22413,
       "docket_id": "IRS-2026-1354"
     },
     "2026-20296": {
@@ -8049,7 +8049,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 4,
-      "docket_id": "GSA-GSAR-2026-0595"
+      "docket_id": "GSA-GSAR-2026-0595",
+      "final_checked": "2026-11-05"
     },
     "2026-20328": {
       "title": "Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions; Extension of Comment Period",
@@ -8128,7 +8129,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 170,
-      "docket_id": "ACF-2026-0562"
+      "docket_id": "ACF-2026-0562",
+      "final_checked": "2026-11-05"
     },
     "2026-20335": {
       "title": "Exemptions From Materials Licensing",
@@ -8158,7 +8160,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 739,
-      "docket_id": "NRC-2025-1568"
+      "docket_id": "NRC-2025-1568",
+      "final_checked": "2026-11-05"
     },
     "2026-20336": {
       "title": "Exemptions From Materials Licensing",
@@ -8294,7 +8297,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 6,
-      "docket_id": "FINCEN-2026-0265"
+      "docket_id": "FINCEN-2026-0265",
+      "final_checked": "2026-11-05"
     },
     "2026-20372": {
       "title": "Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-16, V-184, and Revocation of V-284 and V-577; Eastern United States",
@@ -8400,7 +8404,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 4,
-      "docket_id": "FAA-2026-9934"
+      "docket_id": "FAA-2026-9934",
+      "final_checked": "2026-11-05"
     },
     "2026-20387": {
       "title": "Digital Modernization for Licensing Electronic Application Submissions",
@@ -8439,7 +8444,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 8,
-      "docket_id": "FAA-2026-9935"
+      "docket_id": "FAA-2026-9935",
+      "final_checked": "2026-11-05"
     },
     "2026-20388": {
       "title": "Streamlining Flight Safety Analysis Methodology Means of Compliance",
@@ -8478,7 +8484,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 6,
-      "docket_id": "FAA-2026-9936"
+      "docket_id": "FAA-2026-9936",
+      "final_checked": "2026-11-05"
     },
     "2026-20391": {
       "title": "Lightning Hazard Mitigation Burden-Reducing Exception",
@@ -8517,7 +8524,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 5,
-      "docket_id": "FAA-2026-9940"
+      "docket_id": "FAA-2026-9940",
+      "final_checked": "2026-11-05"
     },
     "2026-20392": {
       "title": "Overpressure Blast Effects Analysis Burden Reducing Clarification",
@@ -8556,7 +8564,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 6,
-      "docket_id": "FAA-2026-9941"
+      "docket_id": "FAA-2026-9941",
+      "final_checked": "2026-11-05"
     },
     "2026-20466": {
       "title": "Adviser and Regulated Fund Custody Rules; Crypto Custody Rules",
@@ -8614,7 +8623,7 @@
         "2060-AW33"
       ],
       "significant": false,
-      "comments_count": 46,
+      "comments_count": 59,
       "docket_id": "EPA-HQ-OAR-2024-0078",
       "first_seen": "2026-10-06"
     },
@@ -8704,7 +8713,8 @@
       "significant": null,
       "comments_count": 0,
       "docket_id": null,
-      "first_seen": "2026-10-07"
+      "first_seen": "2026-10-07",
+      "final_checked": "2026-11-05"
     },
     "2026-20532": {
       "title": "Privacy Act of 1974; Implementation",
@@ -8797,7 +8807,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 227,
+      "comments_count": 234,
       "docket_id": "CMS-2026-3235",
       "first_seen": "2026-10-08"
     },
@@ -8866,7 +8876,7 @@
         "1653-AB01"
       ],
       "significant": null,
-      "comments_count": 5106,
+      "comments_count": 5904,
       "docket_id": "ICEB-2026-0100",
       "first_seen": "2026-10-08"
     },
@@ -8935,7 +8945,8 @@
       "significant": null,
       "comments_count": 0,
       "docket_id": null,
-      "first_seen": "2026-10-25"
+      "first_seen": "2026-10-25",
+      "final_checked": "2026-11-05"
     },
     "2026-20865": {
       "title": "Periodic Reporting",
@@ -9060,7 +9071,7 @@
         "1615-AD26"
       ],
       "significant": null,
-      "comments_count": 474,
+      "comments_count": 493,
       "docket_id": "USCIS-2026-0529",
       "first_seen": "2026-10-25"
     },
@@ -9090,7 +9101,7 @@
         "1615-AD23"
       ],
       "significant": null,
-      "comments_count": 237,
+      "comments_count": 581,
       "docket_id": "USCIS-2026-0397",
       "first_seen": "2026-10-25"
     },
@@ -9120,7 +9131,7 @@
         "2070-AL45"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "EPA-HQ-OPPT-2026-7327",
       "first_seen": "2026-10-25"
     },
@@ -9497,7 +9508,7 @@
         "3133-AG04"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "NCUA-2026-1882",
       "first_seen": "2026-10-25"
     },
@@ -9587,7 +9598,7 @@
         "3206-AP18"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "OPM-2026-0463",
       "first_seen": "2026-10-25"
     },
@@ -9693,7 +9704,7 @@
         "2060-AX09"
       ],
       "significant": null,
-      "comments_count": 46,
+      "comments_count": 57,
       "docket_id": "EPA-HQ-OAR-2024-0505",
       "first_seen": "2026-10-25"
     },
@@ -9855,7 +9866,7 @@
         "1024-AF12"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "NPS-2026-0232",
       "first_seen": "2026-10-25"
     },
@@ -9941,7 +9952,7 @@
         "3038-AF81"
       ],
       "significant": null,
-      "comments_count": 5,
+      "comments_count": 7,
       "docket_id": "CFTC-2026-2214",
       "first_seen": "2026-10-25"
     },
@@ -9971,7 +9982,7 @@
         "3038-AF82"
       ],
       "significant": null,
-      "comments_count": 8,
+      "comments_count": 9,
       "docket_id": "CFTC-2026-2213",
       "first_seen": "2026-10-25"
     },
@@ -10038,7 +10049,7 @@
         "0938-AV88"
       ],
       "significant": null,
-      "comments_count": 5,
+      "comments_count": 7,
       "docket_id": "CMS-2026-3533",
       "first_seen": "2026-10-25"
     },
@@ -10357,7 +10368,7 @@
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": 10,
+      "comments_count": 11,
       "docket_id": "FNA-2026-0496",
       "first_seen": "2026-10-25"
     },
@@ -10461,7 +10472,7 @@
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": 61,
+      "comments_count": 65,
       "docket_id": "TREAS-DO-2026-0529",
       "first_seen": "2026-10-25"
     },
@@ -10595,7 +10606,7 @@
         "1505-AC94"
       ],
       "significant": null,
-      "comments_count": 9,
+      "comments_count": 10,
       "docket_id": "TREAS-DO-2026-0595",
       "first_seen": "2026-10-25"
     },
@@ -10634,7 +10645,7 @@
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": 36,
+      "comments_count": 40,
       "docket_id": "NHTSA-2026-1519",
       "first_seen": "2026-10-25"
     },
@@ -10720,7 +10731,7 @@
         "0938-AW03"
       ],
       "significant": null,
-      "comments_count": 18,
+      "comments_count": 20,
       "docket_id": "CMS-2026-3367",
       "first_seen": "2026-10-27"
     },
@@ -10833,7 +10844,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 39,
+      "comments_count": 42,
       "docket_id": "COLC-2026-0199",
       "first_seen": "2026-10-28"
     },
@@ -10863,7 +10874,7 @@
         "2060-AW73"
       ],
       "significant": true,
-      "comments_count": 28,
+      "comments_count": 33,
       "docket_id": "EPA-HQ-OAR-2025-0163",
       "first_seen": "2026-10-29"
     },
@@ -11094,7 +11105,7 @@
         "0910-AJ34"
       ],
       "significant": null,
-      "comments_count": 8,
+      "comments_count": 12,
       "docket_id": "FDA-2026-N-10832",
       "first_seen": "2026-10-31"
     },
@@ -11230,7 +11241,7 @@
         "2120-AL86"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2022-1315",
       "first_seen": "2026-11-04"
     },
@@ -11269,7 +11280,7 @@
         "2120-AA66"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-14030",
       "first_seen": "2026-11-04"
     },
@@ -11323,15 +11334,166 @@
         }
       ],
       "comments_close_on": "2027-01-04",
-      "comment_url": "http://www.regulations.gov/commenton/NCUA_FRDOC_0001-0547",
+      "comment_url": "http://www.regulations.gov/commenton/NCUA-2026-1884-0001",
       "effective_on": "2026-11-04",
       "regulation_id_numbers": [
         "3133-AG12"
       ],
       "significant": null,
       "comments_count": 0,
-      "docket_id": "NCUA_FRDOC_0001",
+      "docket_id": "NCUA-2026-1884",
       "first_seen": "2026-11-04"
+    },
+    "2026-22581": {
+      "title": "Petition for Rulemaking of New Hope Now",
+      "type": "Proposed Rule",
+      "abstract": "Please take notice that the Federal Trade Commission (\"Commission\") received a petition for rulemaking from New Hope Now and has published that petition online at https://www.regulations.gov. The Commission invites written comments concerning the petition. Publication of this petition is pursuant to the Commission's Rules of Practice and Procedure and does not affect the legal status of the petition or its final disposition.",
+      "document_number": "2026-22581",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22581/petition-for-rulemaking-of-new-hope-now",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-05/pdf/2026-22581.pdf",
+      "publication_date": "2026-11-05",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL TRADE COMMISSION",
+          "name": "Federal Trade Commission",
+          "id": 192,
+          "url": "https://www.federalregister.gov/agencies/federal-trade-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/192",
+          "parent_id": null,
+          "slug": "federal-trade-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-07",
+      "comment_url": "http://www.regulations.gov/commenton/FTC-2026-1783-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "FTC-2026-1783",
+      "first_seen": "2026-11-05"
+    },
+    "2026-22588": {
+      "title": "Air Quality Implementation Plans; California; San Joaquin Valley; 2015 8-Hour Ozone Nonattainment Area Requirements; and California Consumer Products Regulations",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Environmental Protection Agency (EPA) proposes to approve State implementation plan (SIP) revisions submitted by the State of California to meet Clean Air Act (CAA or \"Act\") requirements for the 2015 8-hour ozone national ambient air quality standards (NAAQS or \"standards\") in the San Joaquin Valley ozone nonattainment area (\"San Joaquin Valley\" or \"SJV\"). In this document, the EPA refers to these submissions collectively as the \"SJV 70 ppb Ozone SIP.\" The EPA proposes to approve the SJV 70 parts per billion (ppb) Ozone SIP as meeting the applicable ozone nonattainment area requirements for emissions inventories, reasonably available control measures, attainment demonstration, rate of progress and reasonable further progress, motor vehicle emissions budgets, and enhanced monitoring. The EPA is also initiating the adequacy process for the budgets included in this SIP submission through this proposed rule. The EPA also proposes to approve two SIP revisions amending the SIP to incorporate changes reflecting updates to California Air Resources Board (CARB) Consumer Products Regulations and Method 310, which apply statewide and upon which the SJV 70 ppb Ozone SIP relies. These regulations concern emissions of volatile organic compounds (VOC) from antiperspirants, deodorants, consumer products, and aerosol coating products, and Method 310 is used to determine the VOC and reactive organic compounds content of these products. The EPA proposes to approve these regulations for purposes of the State's SIP under the CAA.",
+      "document_number": "2026-22588",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22588/air-quality-implementation-plans-california-san-joaquin-valley-2015-8-hour-ozone-nonattainment-area",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-05/pdf/2026-22588.pdf",
+      "publication_date": "2026-11-05",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-12-07",
+      "comment_url": "http://www.regulations.gov/commenton/EPA_FRDOC_0001-33259",
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "EPA_FRDOC_0001",
+      "first_seen": "2026-11-05"
+    },
+    "2026-22615": {
+      "title": "Proposed Priorities and Definitions-Secretary's Supplemental Priorities and Definitions",
+      "type": "Proposed Rule",
+      "abstract": "The Secretary proposes to amend the Notice of Final Priorities and Definitions--Secretary's Supplemental Priorities and Definitions on Evidence-Based Literacy, Education Choice, and Returning Education to the States published in the Federal Register on September 9, 2025, the Notice of Final Priority and Definitions--Secretary's Supplemental Priority and Definitions on Meaningful Learning Opportunities published in the Federal Register on February 12, 2026, the Notice of Final Priority and Definitions--Secretary's Supplemental Priority and Definitions on Career Pathways and Workforce Readiness published in the Federal Register on April 13, 2026, and the Notice of Final Priority and Definitions--Secretary's Supplemental Priority and Definitions on Advancing Artificial Intelligence in Education published in the Federal Register on April 13, 2026. The proposed amendments are needed to ensure that the U.S. Department of Education (ED, or the Department) has priorities that represent the full spectrum of learners, reflect the expertise of the Federal agencies that are active partners in our mission, and incorporate lessons learned from implementation in FY 2026 grant competitions.",
+      "document_number": "2026-22615",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22615/proposed-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-05/pdf/2026-22615.pdf",
+      "publication_date": "2026-11-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF EDUCATION",
+          "name": "Education Department",
+          "id": 126,
+          "url": "https://www.federalregister.gov/agencies/education-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/126",
+          "parent_id": null,
+          "slug": "education-department"
+        }
+      ],
+      "comments_close_on": "2026-12-07",
+      "comment_url": "http://www.regulations.gov/commenton/ED-2026-OS-3169-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null,
+      "first_seen": "2026-11-05"
+    },
+    "2026-22617": {
+      "title": "Deepwater Port Application Processing and Licensing",
+      "type": "Proposed Rule",
+      "abstract": "This document proposes procedures for the processing of applications for the licensing of deepwater ports. The proposed rule reflects the transfer of deepwater port license application processing management under the Deepwater Port Act from the United States Coast Guard (USCG) to MARAD. Pursuant to the National Defense Authorization Act for Fiscal Year 2026 (2026 NDAA), MARAD is the Federal lead agency for purposes of the National Environmental Policy Act of 1969 (NEPA) for all deepwater port license applications. USCG responsibility for authorities pertaining to design, construction, equipment, operation of deepwater ports, and navigational safety are not affected by the 2026 NDAA statutory changes, or this proposed rule and will continue to be administered by USCG.",
+      "document_number": "2026-22617",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22617/deepwater-port-application-processing-and-licensing",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-05/pdf/2026-22617.pdf",
+      "publication_date": "2026-11-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Maritime Administration",
+          "name": "Maritime Administration",
+          "id": 282,
+          "url": "https://www.federalregister.gov/agencies/maritime-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/282",
+          "parent_id": 492,
+          "slug": "maritime-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-04",
+      "comment_url": "http://www.regulations.gov/commenton/MARAD-2026-0728-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2133-AC01"
+      ],
+      "significant": true,
+      "comments_count": 0,
+      "docket_id": "MARAD-2026-0728",
+      "first_seen": "2026-11-05"
+    },
+    "2026-22650": {
+      "title": "Purchasing and Property Management",
+      "type": "Proposed Rule",
+      "abstract": "This proposed rule revises the Legal Services Corporation's (LSC) definition of \"capital improvement\" by removing the threshold amount of LSC funds that must be expended on an improvement to real estate for the expenditure to qualify as a capital improvement. The proposed amendment would distinguish the definition of a capital improvement from the monetary thresholds required for prior approval; promote consistent tracking and oversight of LSC funds used for capital improvements; and strengthen accountability for LSC funds invested in recipients' real property.",
+      "document_number": "2026-22650",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22650/purchasing-and-property-management",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-05/pdf/2026-22650.pdf",
+      "publication_date": "2026-11-05",
+      "agencies": [
+        {
+          "raw_name": "LEGAL SERVICES CORPORATION",
+          "name": "Legal Services Corporation",
+          "id": 276,
+          "url": "https://www.federalregister.gov/agencies/legal-services-corporation",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/276",
+          "parent_id": null,
+          "slug": "legal-services-corporation"
+        }
+      ],
+      "comments_close_on": "2026-12-21",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null,
+      "first_seen": "2026-11-05"
     },
     "C1-2026-20360": {
       "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",
