@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05T15:29:46.136297+00:00",
-  "count": 341,
+  "updated_at": "2026-11-06T15:05:23.942668+00:00",
+  "count": 343,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -2433,7 +2433,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 785,
+      "comments_count": 809,
       "docket_id": "FDA-2025-N-3262"
     },
     "2026-16313": {
@@ -4913,7 +4913,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 60,
+      "comments_count": 61,
       "docket_id": "USCBP-2026-1058"
     },
     "2026-17939": {
@@ -5255,7 +5255,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 71385,
+      "comments_count": 71761,
       "docket_id": "BLM-2026-0133"
     },
     "2026-18282": {
@@ -5694,7 +5694,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "EPA-HQ-OLEM-2026-4324"
     },
     "2026-18574": {
@@ -5764,7 +5764,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 27796,
+      "comments_count": 28060,
       "docket_id": "USCIS-2026-0364"
     },
     "2026-18648": {
@@ -5930,7 +5930,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 27,
+      "comments_count": 28,
       "docket_id": "FAA-2026-10991"
     },
     "2026-18828": {
@@ -6110,7 +6110,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 172,
+      "comments_count": 173,
       "docket_id": "OPM-2026-0661"
     },
     "2026-19027": {
@@ -6138,7 +6138,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 10,
+      "comments_count": 11,
       "docket_id": "EPA-HQ-OLEM-2026-4326"
     },
     "2026-19072": {
@@ -6476,7 +6476,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 410,
+      "comments_count": 415,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     "2026-19222": {
@@ -6835,7 +6835,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 262,
+      "comments_count": 277,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19350": {
@@ -6874,7 +6874,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 3078,
+      "comments_count": 3301,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19361": {
@@ -6941,7 +6941,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "MARAD-2026-1552"
     },
     "2026-19370": {
@@ -7124,7 +7124,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 300,
+      "comments_count": 407,
       "docket_id": "CMS-2026-3037"
     },
     "2026-19546": {
@@ -7154,7 +7154,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 438,
+      "comments_count": 449,
       "docket_id": "SBA-2026-0199"
     },
     "2026-19568": {
@@ -7184,7 +7184,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 29,
+      "comments_count": 33,
       "docket_id": "NRC-2025-1138"
     },
     "2026-19579": {
@@ -7812,7 +7812,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 15,
+      "comments_count": 16,
       "docket_id": "FWS-HQ-MB-2026-0133"
     },
     "2026-20143": {
@@ -7842,7 +7842,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 157,
+      "comments_count": 163,
       "docket_id": "FTC-2026-1552"
     },
     "2026-20169": {
@@ -7987,7 +7987,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 22413,
+      "comments_count": 22435,
       "docket_id": "IRS-2026-1354"
     },
     "2026-20296": {
@@ -8625,7 +8625,8 @@
       "significant": false,
       "comments_count": 59,
       "docket_id": "EPA-HQ-OAR-2024-0078",
-      "first_seen": "2026-10-06"
+      "first_seen": "2026-10-06",
+      "final_checked": "2026-11-06"
     },
     "2026-20474": {
       "title": "Investment Adviser Performance-Based Compensation Modernization",
@@ -8807,7 +8808,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 234,
+      "comments_count": 241,
       "docket_id": "CMS-2026-3235",
       "first_seen": "2026-10-08"
     },
@@ -8846,7 +8847,7 @@
         "1685-AA38"
       ],
       "significant": null,
-      "comments_count": 20,
+      "comments_count": 21,
       "docket_id": "USCBP-2026-0298",
       "first_seen": "2026-10-08"
     },
@@ -8876,7 +8877,7 @@
         "1653-AB01"
       ],
       "significant": null,
-      "comments_count": 5904,
+      "comments_count": 6345,
       "docket_id": "ICEB-2026-0100",
       "first_seen": "2026-10-08"
     },
@@ -9041,7 +9042,7 @@
         "3038-AF80"
       ],
       "significant": null,
-      "comments_count": 22,
+      "comments_count": 25,
       "docket_id": "CFTC-2026-2179",
       "first_seen": "2026-10-25"
     },
@@ -9071,7 +9072,7 @@
         "1615-AD26"
       ],
       "significant": null,
-      "comments_count": 493,
+      "comments_count": 506,
       "docket_id": "USCIS-2026-0529",
       "first_seen": "2026-10-25"
     },
@@ -9101,7 +9102,7 @@
         "1615-AD23"
       ],
       "significant": null,
-      "comments_count": 581,
+      "comments_count": 633,
       "docket_id": "USCIS-2026-0397",
       "first_seen": "2026-10-25"
     },
@@ -9198,7 +9199,7 @@
         "2060-AX07"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 5,
       "docket_id": "EPA-HQ-OAR-2025-0186",
       "first_seen": "2026-10-25"
     },
@@ -9598,7 +9599,7 @@
         "3206-AP18"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "OPM-2026-0463",
       "first_seen": "2026-10-25"
     },
@@ -9704,7 +9705,7 @@
         "2060-AX09"
       ],
       "significant": null,
-      "comments_count": 57,
+      "comments_count": 64,
       "docket_id": "EPA-HQ-OAR-2024-0505",
       "first_seen": "2026-10-25"
     },
@@ -9866,7 +9867,7 @@
         "1024-AF12"
       ],
       "significant": null,
-      "comments_count": 5,
+      "comments_count": 6,
       "docket_id": "NPS-2026-0232",
       "first_seen": "2026-10-25"
     },
@@ -9982,7 +9983,7 @@
         "3038-AF82"
       ],
       "significant": null,
-      "comments_count": 9,
+      "comments_count": 10,
       "docket_id": "CFTC-2026-2213",
       "first_seen": "2026-10-25"
     },
@@ -10049,7 +10050,7 @@
         "0938-AV88"
       ],
       "significant": null,
-      "comments_count": 7,
+      "comments_count": 9,
       "docket_id": "CMS-2026-3533",
       "first_seen": "2026-10-25"
     },
@@ -10368,7 +10369,7 @@
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": 11,
+      "comments_count": 12,
       "docket_id": "FNA-2026-0496",
       "first_seen": "2026-10-25"
     },
@@ -10472,7 +10473,7 @@
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": 65,
+      "comments_count": 73,
       "docket_id": "TREAS-DO-2026-0529",
       "first_seen": "2026-10-25"
     },
@@ -10606,7 +10607,7 @@
         "1505-AC94"
       ],
       "significant": null,
-      "comments_count": 10,
+      "comments_count": 11,
       "docket_id": "TREAS-DO-2026-0595",
       "first_seen": "2026-10-25"
     },
@@ -10645,7 +10646,7 @@
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": 40,
+      "comments_count": 43,
       "docket_id": "NHTSA-2026-1519",
       "first_seen": "2026-10-25"
     },
@@ -10731,7 +10732,7 @@
         "0938-AW03"
       ],
       "significant": null,
-      "comments_count": 20,
+      "comments_count": 21,
       "docket_id": "CMS-2026-3367",
       "first_seen": "2026-10-27"
     },
@@ -11105,7 +11106,7 @@
         "0910-AJ34"
       ],
       "significant": null,
-      "comments_count": 12,
+      "comments_count": 14,
       "docket_id": "FDA-2026-N-10832",
       "first_seen": "2026-10-31"
     },
@@ -11202,7 +11203,7 @@
         "2137-AF45"
       ],
       "significant": true,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "PHMSA-2019-0091",
       "first_seen": "2026-11-03"
     },
@@ -11368,7 +11369,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FTC-2026-1783",
       "first_seen": "2026-11-05"
     },
@@ -11392,12 +11393,12 @@
         }
       ],
       "comments_close_on": "2026-12-07",
-      "comment_url": "http://www.regulations.gov/commenton/EPA_FRDOC_0001-33259",
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R09-OAR-2026-8252-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
-      "docket_id": "EPA_FRDOC_0001",
+      "comments_count": 1,
+      "docket_id": "EPA-R09-OAR-2026-8252",
       "first_seen": "2026-11-05"
     },
     "2026-22615": {
@@ -11424,8 +11425,8 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
-      "docket_id": null,
+      "comments_count": 8,
+      "docket_id": "ED-2026-OS-3169",
       "first_seen": "2026-11-05"
     },
     "2026-22617": {
@@ -11463,7 +11464,7 @@
         "2133-AC01"
       ],
       "significant": true,
-      "comments_count": 0,
+      "comments_count": 2,
       "docket_id": "MARAD-2026-0728",
       "first_seen": "2026-11-05"
     },
@@ -11494,6 +11495,84 @@
       "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-11-05"
+    },
+    "2026-22679": {
+      "title": "Special Supplemental Nutrition Program for Women, Infants, and Children (WIC): Online Ordering and Transactions and Food Delivery Revisions To Meet the Needs of a Modern, Data-Driven Program",
+      "type": "Rule",
+      "abstract": "This final rule considers public comments submitted in response to the proposed rule to remove barriers to online ordering and internet-based transactions in the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) published on February 23, 2023. USDA FNA is issuing this regulatory action to support State innovation and develop and implement modernized systems, while underscoring program integrity. It allows for the use of new technologies to improve the WIC shopping experience while increasing access to healthy foods for WIC participants. This final rule also complements the Program's complete transition to electronic benefit transfer (EBT) by streamlining and modernizing certain WIC food delivery regulations to support current technology and future innovation, and introduces measures to support a modern, data-driven program that uses new technologies for food delivery.",
+      "document_number": "2026-22679",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22679/special-supplemental-nutrition-program-for-women-infants-and-children-wic-online-ordering-and",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-06/pdf/2026-22679.pdf",
+      "publication_date": "2026-11-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Food and Nutrition Administration",
+          "name": "Food and Nutrition Administration",
+          "id": 625,
+          "url": "https://www.federalregister.gov/agencies/food-and-nutrition-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/625",
+          "parent_id": 12,
+          "slug": "food-and-nutrition-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-05",
+      "comment_url": "http://www.regulations.gov/commenton/FNA-2026-0595-0001",
+      "effective_on": "2026-12-07",
+      "regulation_id_numbers": [
+        "0584-AE85"
+      ],
+      "significant": true,
+      "comments_count": 0,
+      "docket_id": "FNA-2026-0595",
+      "first_seen": "2026-11-06"
+    },
+    "2026-22682": {
+      "title": "Endangered and Threatened Wildlife and Plants; Technical Corrections for 43 Wildlife and Plant Species on the Lists of Endangered and Threatened Wildlife and Plants",
+      "type": "Rule",
+      "abstract": "We, the U.S. Fish and Wildlife Service (Service), announce technical corrections for 43 wildlife and plant species under the Endangered Species Act of 1973, as amended (Act). For 7 wildlife species and 30 plant species that predominately occur in California and Nevada, we are revising the List of Endangered and Threatened Wildlife and the List of Endangered and Threatened Plants (\"the Lists\") to reflect the current scientifically accepted taxonomy and nomenclature of these species. We are also making commensurate revisions to the applicable critical habitat sections. Further, for six wildlife species occurring within the United States and territories, we are correcting errors in the Lists made in previous publications. The taxonomic, nomenclatural, and orthographic revisions and the corrections of publication errors are editorial in nature and involve no substantive changes to the Lists or any applicable regulations.",
+      "document_number": "2026-22682",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22682/endangered-and-threatened-wildlife-and-plants-technical-corrections-for-43-wildlife-and-plant",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-06/pdf/2026-22682.pdf",
+      "publication_date": "2026-11-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "Fish and Wildlife Service",
+          "name": "Fish and Wildlife Service",
+          "id": 197,
+          "url": "https://www.federalregister.gov/agencies/fish-and-wildlife-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/197",
+          "parent_id": 253,
+          "slug": "fish-and-wildlife-service"
+        }
+      ],
+      "comments_close_on": "2026-12-07",
+      "comment_url": "http://www.regulations.gov/commenton/FWS-R8-ES-2026-0530-0001",
+      "effective_on": "2027-02-04",
+      "regulation_id_numbers": [
+        "1018-BB21"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FWS-R8-ES-2026-0530",
+      "first_seen": "2026-11-06"
     },
     "C1-2026-20360": {
       "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",
