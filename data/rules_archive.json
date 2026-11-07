@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T15:05:23.942668+00:00",
-  "count": 343,
+  "updated_at": "2026-11-07T14:04:18.807641+00:00",
+  "count": 344,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -2433,7 +2433,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 809,
+      "comments_count": 818,
       "docket_id": "FDA-2025-N-3262"
     },
     "2026-16313": {
@@ -4913,7 +4913,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 61,
+      "comments_count": 64,
       "docket_id": "USCBP-2026-1058"
     },
     "2026-17939": {
@@ -5255,7 +5255,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 71761,
+      "comments_count": 74386,
       "docket_id": "BLM-2026-0133"
     },
     "2026-18282": {
@@ -5930,7 +5930,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 28,
+      "comments_count": 30,
       "docket_id": "FAA-2026-10991"
     },
     "2026-18828": {
@@ -6029,7 +6029,7 @@
       "significant": false,
       "comments_count": 1,
       "docket_id": "FAA-2026-11287",
-      "final_checked": "2026-10-31"
+      "final_checked": "2026-11-07"
     },
     "2026-18914": {
       "title": "International Traffic in Arms Regulations: Modification of Civil Aircraft To Incorporate Aircraft Survivability Equipment",
@@ -6110,7 +6110,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 173,
+      "comments_count": 174,
       "docket_id": "OPM-2026-0661"
     },
     "2026-19027": {
@@ -6138,7 +6138,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 11,
+      "comments_count": 13,
       "docket_id": "EPA-HQ-OLEM-2026-4326"
     },
     "2026-19072": {
@@ -6476,7 +6476,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 415,
+      "comments_count": 423,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     "2026-19222": {
@@ -6506,7 +6506,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 10,
+      "comments_count": 11,
       "docket_id": "OPM-2026-0166"
     },
     "2026-19254": {
@@ -6835,7 +6835,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 277,
+      "comments_count": 280,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19350": {
@@ -6874,7 +6874,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 3301,
+      "comments_count": 3424,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19361": {
@@ -7124,7 +7124,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 407,
+      "comments_count": 495,
       "docket_id": "CMS-2026-3037"
     },
     "2026-19546": {
@@ -7154,7 +7154,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 449,
+      "comments_count": 455,
       "docket_id": "SBA-2026-0199"
     },
     "2026-19568": {
@@ -7184,7 +7184,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 33,
+      "comments_count": 38,
       "docket_id": "NRC-2025-1138"
     },
     "2026-19579": {
@@ -7452,7 +7452,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "EPA-HQ-OAR-2025-0302"
     },
     "2026-19860": {
@@ -7581,7 +7581,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 127,
+      "comments_count": 130,
       "docket_id": "IRS-2026-1321"
     },
     "2026-20038": {
@@ -7667,7 +7667,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 7,
+      "comments_count": 8,
       "docket_id": "DOS-2026-0991"
     },
     "2026-20084": {
@@ -7812,7 +7812,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 16,
+      "comments_count": 18,
       "docket_id": "FWS-HQ-MB-2026-0133"
     },
     "2026-20143": {
@@ -7842,7 +7842,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 163,
+      "comments_count": 170,
       "docket_id": "FTC-2026-1552"
     },
     "2026-20169": {
@@ -7987,7 +7987,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 22435,
+      "comments_count": 22453,
       "docket_id": "IRS-2026-1354"
     },
     "2026-20296": {
@@ -8808,7 +8808,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 241,
+      "comments_count": 253,
       "docket_id": "CMS-2026-3235",
       "first_seen": "2026-10-08"
     },
@@ -8847,7 +8847,7 @@
         "1685-AA38"
       ],
       "significant": null,
-      "comments_count": 21,
+      "comments_count": 22,
       "docket_id": "USCBP-2026-0298",
       "first_seen": "2026-10-08"
     },
@@ -8877,7 +8877,7 @@
         "1653-AB01"
       ],
       "significant": null,
-      "comments_count": 6345,
+      "comments_count": 6848,
       "docket_id": "ICEB-2026-0100",
       "first_seen": "2026-10-08"
     },
@@ -9072,7 +9072,7 @@
         "1615-AD26"
       ],
       "significant": null,
-      "comments_count": 506,
+      "comments_count": 532,
       "docket_id": "USCIS-2026-0529",
       "first_seen": "2026-10-25"
     },
@@ -9102,7 +9102,7 @@
         "1615-AD23"
       ],
       "significant": null,
-      "comments_count": 633,
+      "comments_count": 1745,
       "docket_id": "USCIS-2026-0397",
       "first_seen": "2026-10-25"
     },
@@ -9132,7 +9132,7 @@
         "2070-AL45"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "EPA-HQ-OPPT-2026-7327",
       "first_seen": "2026-10-25"
     },
@@ -9395,7 +9395,7 @@
         "1545-BS15"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "IRS-2026-1420",
       "first_seen": "2026-10-25"
     },
@@ -9509,7 +9509,7 @@
         "3133-AG04"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "NCUA-2026-1882",
       "first_seen": "2026-10-25"
     },
@@ -9539,7 +9539,7 @@
         "3133-AF90"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "NCUA-2026-1883",
       "first_seen": "2026-10-25"
     },
@@ -9569,7 +9569,7 @@
         "3133-AF91"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "NCUA-2026-1889",
       "first_seen": "2026-10-25"
     },
@@ -9705,7 +9705,7 @@
         "2060-AX09"
       ],
       "significant": null,
-      "comments_count": 64,
+      "comments_count": 65,
       "docket_id": "EPA-HQ-OAR-2024-0505",
       "first_seen": "2026-10-25"
     },
@@ -10050,7 +10050,7 @@
         "0938-AV88"
       ],
       "significant": null,
-      "comments_count": 9,
+      "comments_count": 11,
       "docket_id": "CMS-2026-3533",
       "first_seen": "2026-10-25"
     },
@@ -10158,7 +10158,7 @@
         "3133-AG26"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "NCUA-2026-1887",
       "first_seen": "2026-10-25"
     },
@@ -10188,7 +10188,7 @@
         "3133-AG21"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "NCUA-2026-1886",
       "first_seen": "2026-10-25"
     },
@@ -10246,7 +10246,7 @@
         "3133-AG24"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "NCUA-2026-1888",
       "first_seen": "2026-10-25"
     },
@@ -10369,7 +10369,7 @@
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": 12,
+      "comments_count": 13,
       "docket_id": "FNA-2026-0496",
       "first_seen": "2026-10-25"
     },
@@ -10473,7 +10473,7 @@
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": 73,
+      "comments_count": 92,
       "docket_id": "TREAS-DO-2026-0529",
       "first_seen": "2026-10-25"
     },
@@ -10607,7 +10607,7 @@
         "1505-AC94"
       ],
       "significant": null,
-      "comments_count": 11,
+      "comments_count": 13,
       "docket_id": "TREAS-DO-2026-0595",
       "first_seen": "2026-10-25"
     },
@@ -10646,7 +10646,7 @@
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": 43,
+      "comments_count": 45,
       "docket_id": "NHTSA-2026-1519",
       "first_seen": "2026-10-25"
     },
@@ -10732,7 +10732,7 @@
         "0938-AW03"
       ],
       "significant": null,
-      "comments_count": 21,
+      "comments_count": 23,
       "docket_id": "CMS-2026-3367",
       "first_seen": "2026-10-27"
     },
@@ -10875,7 +10875,7 @@
         "2060-AW73"
       ],
       "significant": true,
-      "comments_count": 33,
+      "comments_count": 37,
       "docket_id": "EPA-HQ-OAR-2025-0163",
       "first_seen": "2026-10-29"
     },
@@ -11425,7 +11425,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 8,
+      "comments_count": 11,
       "docket_id": "ED-2026-OS-3169",
       "first_seen": "2026-11-05"
     },
@@ -11464,7 +11464,7 @@
         "2133-AC01"
       ],
       "significant": true,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "MARAD-2026-0728",
       "first_seen": "2026-11-05"
     },
@@ -11573,6 +11573,45 @@
       "comments_count": 0,
       "docket_id": "FWS-R8-ES-2026-0530",
       "first_seen": "2026-11-06"
+    },
+    "2026-22739": {
+      "title": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardization and Comparability of Hospital Price Transparency (HPT) Data; Prior Authorization; Accrediting Organization (AO) Deeming for Emergency Medical Treatment and Labor Act (EMTALA); and Notices of Closure of Teaching Hospitals and Opportunities To Apply for Available Slots",
+      "type": "Rule",
+      "abstract": "This final rule with comment period revises the Medicare Hospital Outpatient Prospective Payment System (OPPS) and the Medicare Ambulatory Surgical Center (ASC) payment system for calendar year 2027 based on our continuing experience with these systems. We also describe the changes to the amounts and factors used to determine the payment rates for Medicare services paid under the OPPS and those paid under the ASC payment systems. In addition, this final rule with comment period updates and refines the requirements for the Hospital Outpatient Quality Reporting Program and the Ambulatory Surgical Center Quality Reporting Program. There are no changes to the Rural Emergency Hospital Quality Reporting Program. We finalized the expansion of the prior authorization requirement to include additional Botulinum Toxin Injection services. We also finalized implementation of certain provisions of the Consolidated Appropriations Act, 2026, for off-campus outpatient departments of a provider. In addition, this final rule with comment period announces notices of closure of teaching hospitals and opportunities to apply for available slots. Additionally, we finalized the policy that hospital accrediting organizations (AOs) with deeming authority may assess compliance with certain Emergency Medical Treatment and Labor Act (EMTALA) administrative requirements under 42 CFR 489.20 during accreditation and reaccreditation surveys.",
+      "document_number": "2026-22739",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-06/pdf/2026-22739.pdf",
+      "publication_date": "2026-11-06",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Centers for Medicare & Medicaid Services",
+          "name": "Centers for Medicare & Medicaid Services",
+          "id": 45,
+          "url": "https://www.federalregister.gov/agencies/centers-for-medicare-medicaid-services",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/45",
+          "parent_id": 221,
+          "slug": "centers-for-medicare-medicaid-services"
+        }
+      ],
+      "comments_close_on": "2027-01-04",
+      "comment_url": null,
+      "effective_on": "2027-01-01",
+      "regulation_id_numbers": [
+        "0938-AV83"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "CMS_FRDOC_0001",
+      "first_seen": "2026-11-07"
     },
     "C1-2026-20360": {
       "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",
