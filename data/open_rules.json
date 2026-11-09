@@ -1,8 +1,223 @@
 {
-  "updated_at": "2026-11-08T14:18:56.399730+00:00",
-  "as_of": "2026-11-08",
-  "count": 201,
+  "updated_at": "2026-11-09T17:32:15.509260+00:00",
+  "as_of": "2026-11-09",
+  "count": 207,
   "documents": [
+    {
+      "title": "Television Broadcasting Services Odessa, Texas",
+      "type": "Proposed Rule",
+      "abstract": "This document proposes to amend the Table of TV Allotments (Table) of the Federal Communications Commission's (Commission) rules in response to a petition for rulemaking filed by Gray Television Licensee, LLC (Gray), the licensee of KOSA-TV (KOSA-TV), Odessa, Texas (Odessa). Gray held a construction permit to construct a facility on UHF channel 31 at Odessa, and now requests that the Bureau substitute VHF channel 7 for UHF channel 31 in the Table, with the technical parameters as set forth in KOSA-TV's current license. The Media Bureau previously granted a petition for rulemaking submitted by Gray to substitute UHF channel 31 for VHF channel 7 at Odessa. Gray states that it is unable to complete construction of its new channel within the time specified on the construction permit, and therefore requests amendment of the Table to allow it to continue to operate on VHF channel 7 at its currently licensed technical parameters to provide uninterrupted service to viewers. Given that the Licensee proposes to utilize its currently licensed parameters, we believe VHF channel 7 can be substituted for UHF channel 31 at Odessa as proposed, in compliance with the principal community coverage requirements of the Commission's rules. In addition, we find that this channel change meets the technical requirements set forth in the Commission's rules.",
+      "document_number": "2026-22833",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22833/television-broadcasting-services-odessa-texas",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-09/pdf/2026-22833.pdf",
+      "publication_date": "2026-11-09",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL COMMUNICATIONS COMMISSION",
+          "name": "Federal Communications Commission",
+          "id": 161,
+          "url": "https://www.federalregister.gov/agencies/federal-communications-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/161",
+          "parent_id": null,
+          "slug": "federal-communications-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-24",
+      "comment_url": null,
+      "effective_on": "2026-12-09",
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
+    },
+    {
+      "title": "Pecans Grown in the States of Alabama, Arkansas, Arizona, California, Florida, Georgia, Kansas, Louisiana, Missouri, Mississippi, North Carolina, New Mexico, Oklahoma, South Carolina, and Texas; Changes to Membership and Handling Requirements",
+      "type": "Proposed Rule",
+      "abstract": "This proposed rule would implement recommendations from the American Pecan Council (Council) to eliminate regional and size designations for sheller members, modify the nomination process for sheller members, adjust the requirements of the inter-handler transfer report form, and establish a late fee and interest charges for unpaid assessments. The rule will also propose two technical corrections.",
+      "document_number": "2026-22826",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22826/pecans-grown-in-the-states-of-alabama-arkansas-arizona-california-florida-georgia-kansas-louisiana",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-09/pdf/2026-22826.pdf",
+      "publication_date": "2026-11-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Agricultural Marketing Service",
+          "name": "Agricultural Marketing Service",
+          "id": 9,
+          "url": "https://www.federalregister.gov/agencies/agricultural-marketing-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/9",
+          "parent_id": 12,
+          "slug": "agricultural-marketing-service"
+        }
+      ],
+      "comments_close_on": "2026-12-09",
+      "comment_url": "http://www.regulations.gov/commenton/AMS-SC-25-0881-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "AMS-SC-25-0881"
+    },
+    {
+      "title": "Pacific Island Fisheries; Commercial Fishing in the Pacific Remote Islands Marine National Monument Expansion",
+      "type": "Proposed Rule",
+      "abstract": "NMFS proposes to amend regulations that prohibit commercial fishing in the Pacific Remote Islands Marine National Monument Expansion (PRIMNM Expansion), which comprises waters of the U.S. exclusive economic zone (EEZ) between 50 to 200 nautical miles (nmi; 93 to 370 kilometers (km)) around Johnston Atoll and Wake and Jarvis Islands. This action is necessary to conform fishing regulations with Presidential Proclamation 10918 of April 17, 2025--Unleashing American Commercial Fishing in the Pacific, as amended by Presidential Proclamation 11035 of June 11, 2026--Restoring American Commercial Fishing in the Pacific, and in light of a court order. Fisheries in the PRIMNM Expansion would be regulated pursuant to existing fishing regulations under the Magnuson-Stevens Fishery Conservation and Management Act (Magnuson-Stevens Act), the Western and Central Pacific Fisheries Convention Implementation Act (WCPFCIA), the South Pacific Tuna Act (SPTA), and other applicable laws, that apply to all U.S. commercial fishing vessels but were superseded and made inapplicable when the commercial fishing prohibition for the PRIMNM Expansion was established. The proposed rule supports the long-term sustainability of U.S. fisheries and provides for the proper care and management of the PRIMNM and PRIMNM Expansion and the objects of historic or scientific interest therein, as directed by Proclamation 10918, as amended by Proclamation 11035.",
+      "document_number": "2026-22815",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22815/pacific-island-fisheries-commercial-fishing-in-the-pacific-remote-islands-marine-national-monument",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-09/pdf/2026-22815.pdf",
+      "publication_date": "2026-11-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-09",
+      "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2026-2410-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0648-BN99"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "NOAA-NMFS-2026-2410"
+    },
+    {
+      "title": "Conditional Expected Casualty Exception for Failures Resulting in an Uncontrolled Atmospheric Return",
+      "type": "Proposed Rule",
+      "abstract": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to allow a launch and reentry vehicle operator to protect against high consequence events during an uncontrolled atmospheric return by showing that there would be sufficient breakup of the vehicle to ensure protection against a single event expected to produce multiple casualties.",
+      "document_number": "2026-22784",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22784/conditional-expected-casualty-exception-for-failures-resulting-in-an-uncontrolled-atmospheric-return",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-09/pdf/2026-22784.pdf",
+      "publication_date": "2026-11-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-09",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9942-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AM33"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-9942"
+    },
+    {
+      "title": "Flight Safety Limits Objectives Burden Reducing Clarification",
+      "type": "Proposed Rule",
+      "abstract": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to clarify the requirements for establishing flight safety limits that define when a vehicle operator must initiate flight abort.",
+      "document_number": "2026-22783",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22783/flight-safety-limits-objectives-burden-reducing-clarification",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-09/pdf/2026-22783.pdf",
+      "publication_date": "2026-11-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-09",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9937-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AM43"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-9937"
+    },
+    {
+      "title": "Flight Abort Burden Reducing Clarification on End of Flight Safety Limits",
+      "type": "Proposed Rule",
+      "abstract": "FAA proposes to amend its commercial space launch and reentry licensing regulations to streamline the licensing process and reduce regulatory burden for license applicants. Specifically, FAA proposes to clarify the conditions under which a vehicle operator is not required to abort a flight.",
+      "document_number": "2026-22782",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/09/2026-22782/flight-abort-burden-reducing-clarification-on-end-of-flight-safety-limits",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-09/pdf/2026-22782.pdf",
+      "publication_date": "2026-11-09",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-09",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-9943-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AM37"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-9943"
+    },
     {
       "title": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardization and Comparability of Hospital Price Transparency (HPT) Data; Prior Authorization; Accrediting Organization (AO) Deeming for Emergency Medical Treatment and Labor Act (EMTALA); and Notices of Closure of Teaching Hospitals and Opportunities To Apply for Available Slots",
       "type": "Rule",
@@ -32,14 +247,14 @@
         }
       ],
       "comments_close_on": "2027-01-04",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/CMS-2026-2344-2189",
       "effective_on": "2027-01-01",
       "regulation_id_numbers": [
         "0938-AV83"
       ],
       "significant": null,
       "comments_count": 0,
-      "docket_id": "CMS_FRDOC_0001"
+      "docket_id": "CMS-2026-2344"
     },
     {
       "title": "Drawbridge Operation Regulation; Harlem River, Between the Boroughs of Manhattan and the Bronx, New York City, New York",
@@ -190,7 +405,7 @@
         "0584-AE85"
       ],
       "significant": true,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FNA-2026-0595"
     },
     {
@@ -1101,7 +1316,7 @@
         "0910-AJ34"
       ],
       "significant": null,
-      "comments_count": 14,
+      "comments_count": 16,
       "docket_id": "FDA-2026-N-10832"
     },
     {
@@ -1231,7 +1446,7 @@
         "0930-AA40"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "SAMHSA-2026-0002"
     },
     {
@@ -1316,7 +1531,7 @@
         "2060-AW73"
       ],
       "significant": true,
-      "comments_count": 61,
+      "comments_count": 68,
       "docket_id": "EPA-HQ-OAR-2025-0163"
     },
     {
@@ -1444,7 +1659,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 42,
+      "comments_count": 44,
       "docket_id": "COLC-2026-0199"
     },
     {
@@ -1623,7 +1838,7 @@
         "0938-AW03"
       ],
       "significant": null,
-      "comments_count": 24,
+      "comments_count": 26,
       "docket_id": "CMS-2026-3367"
     },
     {
@@ -1829,7 +2044,7 @@
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": 46,
+      "comments_count": 48,
       "docket_id": "NHTSA-2026-1519"
     },
     {
@@ -2512,7 +2727,7 @@
         "0938-AV88"
       ],
       "significant": null,
-      "comments_count": 13,
+      "comments_count": 17,
       "docket_id": "CMS-2026-3533"
     },
     {
@@ -2606,7 +2821,7 @@
         "3038-AF82"
       ],
       "significant": null,
-      "comments_count": 10,
+      "comments_count": 11,
       "docket_id": "CFTC-2026-2213"
     },
     {
@@ -3016,7 +3231,7 @@
         "2060-AX09"
       ],
       "significant": null,
-      "comments_count": 65,
+      "comments_count": 68,
       "docket_id": "EPA-HQ-OAR-2024-0505"
     },
     {
@@ -3602,7 +3817,7 @@
         "0970-AD50"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "ACF-2026-0826"
     },
     {
@@ -3723,7 +3938,7 @@
         "2070-AL45"
       ],
       "significant": null,
-      "comments_count": 5,
+      "comments_count": 6,
       "docket_id": "EPA-HQ-OPPT-2026-7327"
     },
     {
@@ -3781,7 +3996,7 @@
         "1615-AD26"
       ],
       "significant": null,
-      "comments_count": 554,
+      "comments_count": 583,
       "docket_id": "USCIS-2026-0529"
     },
     {
@@ -3962,7 +4177,7 @@
         "0648-BO48"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 5,
       "docket_id": "NOAA-NMFS-2026-1321"
     },
     {
@@ -4255,7 +4470,7 @@
         "1653-AB01"
       ],
       "significant": null,
-      "comments_count": 7101,
+      "comments_count": 7439,
       "docket_id": "ICEB-2026-0100"
     },
     {
@@ -4331,7 +4546,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 253,
+      "comments_count": 259,
       "docket_id": "CMS-2026-3235"
     },
     {
@@ -4358,7 +4573,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "EPA-R09-OAR-2026-4654"
     },
     {
@@ -4763,7 +4978,7 @@
         "1545-BR97"
       ],
       "significant": null,
-      "comments_count": 22463,
+      "comments_count": 22475,
       "docket_id": "IRS-2026-1354"
     },
     {
@@ -4868,7 +5083,7 @@
         "3084-AB90"
       ],
       "significant": null,
-      "comments_count": 171,
+      "comments_count": 173,
       "docket_id": "FTC-2026-1552"
     },
     {
@@ -5583,7 +5798,7 @@
         "2060-AW66"
       ],
       "significant": false,
-      "comments_count": 7,
+      "comments_count": 9,
       "docket_id": "EPA-HQ-OAR-2025-0302"
     },
     {
@@ -5905,7 +6120,7 @@
         "3150-AL45"
       ],
       "significant": null,
-      "comments_count": 42,
+      "comments_count": 51,
       "docket_id": "NRC-2025-1138"
     },
     {
@@ -5934,7 +6149,7 @@
         "3245-AI67"
       ],
       "significant": null,
-      "comments_count": 458,
+      "comments_count": 460,
       "docket_id": "SBA-2026-0199"
     },
     {
@@ -5972,7 +6187,7 @@
         "0938-AW08"
       ],
       "significant": null,
-      "comments_count": 500,
+      "comments_count": 525,
       "docket_id": "CMS-2026-3037"
     },
     {
@@ -6124,7 +6339,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 3522,
+      "comments_count": 3604,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -6162,7 +6377,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 285,
+      "comments_count": 291,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -6345,7 +6560,7 @@
         "0648-BN92"
       ],
       "significant": false,
-      "comments_count": 423,
+      "comments_count": 426,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     {
@@ -6401,7 +6616,7 @@
         "3206-XXXX"
       ],
       "significant": null,
-      "comments_count": 174,
+      "comments_count": 175,
       "docket_id": "OPM-2026-0661"
     },
     {
@@ -6497,7 +6712,7 @@
         "1615-AD22"
       ],
       "significant": null,
-      "comments_count": 28597,
+      "comments_count": 28819,
       "docket_id": "USCIS-2026-0364"
     },
     {
@@ -6645,7 +6860,7 @@
         "1004-AF57"
       ],
       "significant": null,
-      "comments_count": 77093,
+      "comments_count": 80002,
       "docket_id": "BLM-2026-0133"
     },
     {
@@ -6759,7 +6974,7 @@
         "0910-AJ02"
       ],
       "significant": true,
-      "comments_count": 822,
+      "comments_count": 828,
       "docket_id": "FDA-2025-N-3262"
     }
   ]
