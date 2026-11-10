@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T17:32:15.509260+00:00",
-  "count": 350,
+  "updated_at": "2026-11-10T15:36:46.458562+00:00",
+  "count": 356,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -2433,7 +2433,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 828,
+      "comments_count": 829,
       "docket_id": "FDA-2025-N-3262"
     },
     "2026-16313": {
@@ -3966,7 +3966,7 @@
       "significant": null,
       "comments_count": 38,
       "docket_id": "CFTC-2026-1850",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-17183": {
       "title": "Regulation Crypto Assets",
@@ -3997,7 +3997,7 @@
       "significant": true,
       "comments_count": 0,
       "docket_id": null,
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-17211": {
       "title": "Travel Management; National Forest System Lands",
@@ -4059,7 +4059,7 @@
         "1875-AA14"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-17296": {
       "title": "Membership Adjustment of the Mushroom Council",
@@ -4158,7 +4158,7 @@
         "1615-AD20"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-17365": {
       "title": "Pro Rata Share of Subpart F Income, Tested Income, or Tested Loss",
@@ -4226,7 +4226,7 @@
         "3038-AF79"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-17445": {
       "title": "List of Approved Spent Fuel Storage Casks: TN Americas, LLC Standardized NUHOMS® Horizontal Modular Storage System for Irradiated Nuclear Fuel, Certificate of Compliance No. 1004, Renewed Amendment No. 19",
@@ -4388,7 +4388,7 @@
         "3046-AB46"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-17649": {
       "title": "Disclosure of Information; Extension of Comment Period",
@@ -4673,7 +4673,7 @@
         "1545-BR76"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-17767": {
       "title": "Promoting Telehealth in Rural America",
@@ -4735,7 +4735,7 @@
         "1557-AF56"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-17865": {
       "title": "Reciprocal Deposits: Implementing the 21st Century ROAD to Housing Act",
@@ -4799,7 +4799,7 @@
         "1506-AB76"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-17895": {
       "title": "National Wildlife Refuge System; 2026-2027 Station-Specific Hunting and Sport Fishing Regulations",
@@ -4875,7 +4875,7 @@
       "significant": false,
       "comments_count": 929,
       "docket_id": "NPS-2026-0166",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-17926": {
       "title": "Heightened Import Disclosures for Supply Chain Visibility",
@@ -4913,7 +4913,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 64,
+      "comments_count": 67,
       "docket_id": "USCBP-2026-1058"
     },
     "2026-17939": {
@@ -4945,7 +4945,7 @@
       "significant": null,
       "comments_count": 0,
       "docket_id": null,
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-17957": {
       "title": "Establishment of Special Air Traffic Rules in the Vicinity of President Donald J. Trump International Airport (DJT)",
@@ -4982,7 +4982,7 @@
         "2120-AM36"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-18015": {
       "title": "Television Broadcasting Services Colusa, California",
@@ -5106,7 +5106,7 @@
       "significant": null,
       "comments_count": 65,
       "docket_id": "EPA-HQ-OW-2026-6965",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-18162": {
       "title": "Modernizing Medical Standards for Non-Insulin Dependent Diabetes Mellitus Cases",
@@ -5256,7 +5256,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 80002,
-      "docket_id": "BLM-2026-0133"
+      "docket_id": "BLM-2026-0133",
+      "final_checked": "2026-11-10"
     },
     "2026-18282": {
       "title": "Unleashing Unlicensed Spectrum for Direct-to-Device",
@@ -5333,7 +5334,7 @@
       "significant": true,
       "comments_count": 28659,
       "docket_id": "EPA-HQ-OW-2025-0322",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-18337": {
       "title": "Simplified Geographic Preference Procurement in Child Nutrition Programs",
@@ -5488,7 +5489,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 0,
-      "docket_id": null
+      "docket_id": null,
+      "final_checked": "2026-11-10"
     },
     "2026-18470": {
       "title": "Endangered and Threatened Wildlife and Plants; Removal of Gila Chub From the List of Endangered and Threatened Wildlife",
@@ -5525,7 +5527,7 @@
         "1018-BG36"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-18481": {
       "title": "Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions",
@@ -5565,7 +5567,7 @@
       "significant": null,
       "comments_count": 47113,
       "docket_id": "USBC-2026-0628",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-18484": {
       "title": "Reef Fish Fishery of the Gulf of America; 2027 Red Grouper Commercial Quota Retention",
@@ -5605,7 +5607,7 @@
       "significant": null,
       "comments_count": 9,
       "docket_id": "NOAA-NMFS-2026-1882",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-18504": {
       "title": "In Situ Recovery Monitoring and Decommissioning Timeliness",
@@ -5636,7 +5638,7 @@
       "significant": null,
       "comments_count": 18,
       "docket_id": "NRC-2025-1204",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-18531": {
       "title": "Modernization of Regulations Under 9 CFR Parts 101-118 and 123-124",
@@ -5694,7 +5696,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "EPA-HQ-OLEM-2026-4324"
     },
     "2026-18574": {
@@ -5735,7 +5737,7 @@
       "significant": null,
       "comments_count": 5,
       "docket_id": "IRS-2026-1223",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-18631": {
       "title": "Eliminating the Discretionary 60-Day Grace Period",
@@ -5930,7 +5932,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 30,
+      "comments_count": 32,
       "docket_id": "FAA-2026-10991"
     },
     "2026-18828": {
@@ -6138,7 +6140,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 14,
+      "comments_count": 15,
       "docket_id": "EPA-HQ-OLEM-2026-4326"
     },
     "2026-19072": {
@@ -6170,7 +6172,7 @@
       "significant": null,
       "comments_count": 12016,
       "docket_id": "EPA-HQ-OAR-2025-0124",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-19158": {
       "title": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 14, 28, 36, and 52",
@@ -6237,7 +6239,7 @@
       "significant": null,
       "comments_count": 7,
       "docket_id": "FAR-2026-0010",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-19159": {
       "title": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 9, 27, and 47",
@@ -6304,7 +6306,7 @@
       "significant": null,
       "comments_count": 7,
       "docket_id": "FAR-2026-0011",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-19160": {
       "title": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 16, 17, and 35",
@@ -6371,7 +6373,7 @@
       "significant": null,
       "comments_count": 13,
       "docket_id": "FAR-2026-0006",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-19162": {
       "title": "Federal Acquisition Regulation: Revolutionary FAR Overhaul Parts 8, 12, 13, 15, 38, 44, and 51",
@@ -6438,7 +6440,7 @@
       "significant": null,
       "comments_count": 26,
       "docket_id": "FAR-2026-0003",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-19182": {
       "title": "Coral, Coral Reefs, and Live/Hardbottom Habitats of the South Atlantic and the Shrimp Fishery of the South Atlantic Region; Amendments 11/12",
@@ -6476,7 +6478,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 426,
+      "comments_count": 433,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     "2026-19222": {
@@ -6547,7 +6549,7 @@
       "significant": null,
       "comments_count": 2,
       "docket_id": "USCG-2026-0049",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-19259": {
       "title": "Proxy Solicitation Modernization",
@@ -6635,7 +6637,7 @@
         "3038-AF26"
       ],
       "first_seen": "2026-09-01",
-      "final_checked": "2026-11-03"
+      "final_checked": "2026-11-10"
     },
     "2026-19308": {
       "title": "Merger Transactions",
@@ -6835,7 +6837,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 291,
+      "comments_count": 294,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19350": {
@@ -6874,7 +6876,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 3604,
+      "comments_count": 3714,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19361": {
@@ -7124,7 +7126,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 525,
+      "comments_count": 560,
       "docket_id": "CMS-2026-3037"
     },
     "2026-19546": {
@@ -7154,7 +7156,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 460,
+      "comments_count": 473,
       "docket_id": "SBA-2026-0199"
     },
     "2026-19568": {
@@ -7185,7 +7187,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 51,
-      "docket_id": "NRC-2025-1138"
+      "docket_id": "NRC-2025-1138",
+      "final_checked": "2026-11-10"
     },
     "2026-19579": {
       "title": "Substantial Product Hazard List: Amendments to Requirements for Window Covering Cords",
@@ -7251,7 +7254,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 28,
+      "comments_count": 29,
       "docket_id": "FAA-2026-12145"
     },
     "2026-19656": {
@@ -7581,7 +7584,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 130,
+      "comments_count": 131,
       "docket_id": "IRS-2026-1321"
     },
     "2026-20038": {
@@ -7842,7 +7845,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 173,
+      "comments_count": 180,
       "docket_id": "FTC-2026-1552"
     },
     "2026-20169": {
@@ -7987,7 +7990,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 22475,
+      "comments_count": 22485,
       "docket_id": "IRS-2026-1354"
     },
     "2026-20296": {
@@ -8808,7 +8811,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 259,
+      "comments_count": 271,
       "docket_id": "CMS-2026-3235",
       "first_seen": "2026-10-08"
     },
@@ -8879,7 +8882,8 @@
       "significant": null,
       "comments_count": 7439,
       "docket_id": "ICEB-2026-0100",
-      "first_seen": "2026-10-08"
+      "first_seen": "2026-10-08",
+      "final_checked": "2026-11-10"
     },
     "2026-20721": {
       "title": "Requirements for Additional Traceability Records for Certain Foods: Enforcement Policy for Certain Retail Food Establishments and Restaurants; Draft Guidance for Industry; Availability",
@@ -9042,7 +9046,7 @@
         "3038-AF80"
       ],
       "significant": null,
-      "comments_count": 25,
+      "comments_count": 27,
       "docket_id": "CFTC-2026-2179",
       "first_seen": "2026-10-25"
     },
@@ -9072,7 +9076,7 @@
         "1615-AD26"
       ],
       "significant": null,
-      "comments_count": 583,
+      "comments_count": 634,
       "docket_id": "USCIS-2026-0529",
       "first_seen": "2026-10-25"
     },
@@ -9102,7 +9106,7 @@
         "1615-AD23"
       ],
       "significant": null,
-      "comments_count": 3286,
+      "comments_count": 6437,
       "docket_id": "USCIS-2026-0397",
       "first_seen": "2026-10-25"
     },
@@ -9169,7 +9173,7 @@
       "effective_on": "2026-10-14",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FDA-2026-F-2048",
       "first_seen": "2026-10-25"
     },
@@ -9395,7 +9399,7 @@
         "1545-BS15"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "IRS-2026-1420",
       "first_seen": "2026-10-25"
     },
@@ -9423,7 +9427,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "DOJ_FRDOC_0001",
       "first_seen": "2026-10-25"
     },
@@ -9599,7 +9603,7 @@
         "3206-AP18"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "OPM-2026-0463",
       "first_seen": "2026-10-25"
     },
@@ -9705,7 +9709,7 @@
         "2060-AX09"
       ],
       "significant": null,
-      "comments_count": 68,
+      "comments_count": 77,
       "docket_id": "EPA-HQ-OAR-2024-0505",
       "first_seen": "2026-10-25"
     },
@@ -10050,7 +10054,7 @@
         "0938-AV88"
       ],
       "significant": null,
-      "comments_count": 17,
+      "comments_count": 19,
       "docket_id": "CMS-2026-3533",
       "first_seen": "2026-10-25"
     },
@@ -10369,7 +10373,7 @@
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": 13,
+      "comments_count": 15,
       "docket_id": "FNA-2026-0496",
       "first_seen": "2026-10-25"
     },
@@ -10473,7 +10477,7 @@
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": 92,
+      "comments_count": 102,
       "docket_id": "TREAS-DO-2026-0529",
       "first_seen": "2026-10-25"
     },
@@ -10607,7 +10611,7 @@
         "1505-AC94"
       ],
       "significant": null,
-      "comments_count": 13,
+      "comments_count": 15,
       "docket_id": "TREAS-DO-2026-0595",
       "first_seen": "2026-10-25"
     },
@@ -10646,7 +10650,7 @@
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": 48,
+      "comments_count": 50,
       "docket_id": "NHTSA-2026-1519",
       "first_seen": "2026-10-25"
     },
@@ -10732,7 +10736,7 @@
         "0938-AW03"
       ],
       "significant": null,
-      "comments_count": 26,
+      "comments_count": 28,
       "docket_id": "CMS-2026-3367",
       "first_seen": "2026-10-27"
     },
@@ -10875,7 +10879,7 @@
         "2060-AW73"
       ],
       "significant": true,
-      "comments_count": 68,
+      "comments_count": 76,
       "docket_id": "EPA-HQ-OAR-2025-0163",
       "first_seen": "2026-10-29"
     },
@@ -10933,7 +10937,7 @@
         "0930-AA41"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "SAMHSA-2026-0001",
       "first_seen": "2026-10-29"
     },
@@ -10963,7 +10967,7 @@
         "0930-AA40"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 6,
       "docket_id": "SAMHSA-2026-0002",
       "first_seen": "2026-10-29"
     },
@@ -11002,7 +11006,7 @@
         "0970-AD49"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "ACF_FRDOC_0001",
       "first_seen": "2026-10-29"
     },
@@ -11106,7 +11110,7 @@
         "0910-AJ34"
       ],
       "significant": null,
-      "comments_count": 16,
+      "comments_count": 21,
       "docket_id": "FDA-2026-N-10832",
       "first_seen": "2026-10-31"
     },
@@ -11425,7 +11429,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 16,
+      "comments_count": 19,
       "docket_id": "ED-2026-OS-3169",
       "first_seen": "2026-11-05"
     },
@@ -11531,7 +11535,7 @@
         "0584-AE85"
       ],
       "significant": true,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "FNA-2026-0595",
       "first_seen": "2026-11-06"
     },
@@ -11648,7 +11652,7 @@
         "2120-AM37"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-9943",
       "first_seen": "2026-11-09"
     },
@@ -11687,7 +11691,7 @@
         "2120-AM43"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-9937",
       "first_seen": "2026-11-09"
     },
@@ -11726,9 +11730,48 @@
         "2120-AM33"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-9942",
       "first_seen": "2026-11-09"
+    },
+    "2026-22812": {
+      "title": "Medicare and Medicaid Programs; Cutting Administrative Requirements for Excellence in Patient Care",
+      "type": "Proposed Rule",
+      "abstract": "This proposed rule would reform Medicare and Medicaid regulations deemed obsolete or excessively burdensome on healthcare providers and suppliers, with the objective of reducing costs, enhancing flexibility in delivering innovative care, and streamlining existing regulations. This reform seeks to enable healthcare professionals to devote more resources to improving patient care by eliminating or minimizing requirements that impede quality patient care or that divert resources away from furnishing high quality patient care.",
+      "document_number": "2026-22812",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22812/medicare-and-medicaid-programs-cutting-administrative-requirements-for-excellence-in-patient-care",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22812.pdf",
+      "publication_date": "2026-11-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Centers for Medicare & Medicaid Services",
+          "name": "Centers for Medicare & Medicaid Services",
+          "id": 45,
+          "url": "https://www.federalregister.gov/agencies/centers-for-medicare-medicaid-services",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/45",
+          "parent_id": 221,
+          "slug": "centers-for-medicare-medicaid-services"
+        }
+      ],
+      "comments_close_on": "2027-01-11",
+      "comment_url": "http://www.regulations.gov/commenton/CMS_FRDOC_0001-4490",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0938-AW04"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "CMS_FRDOC_0001",
+      "first_seen": "2026-11-10"
     },
     "2026-22815": {
       "title": "Pacific Island Fisheries; Commercial Fishing in the Pacific Remote Islands Marine National Monument Expansion",
@@ -11765,7 +11808,7 @@
         "0648-BN99"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 40,
       "docket_id": "NOAA-NMFS-2026-2410",
       "first_seen": "2026-11-09"
     },
@@ -11802,7 +11845,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 2,
       "docket_id": "AMS-SC-25-0881",
       "first_seen": "2026-11-09"
     },
@@ -11825,14 +11868,207 @@
           "slug": "federal-communications-commission"
         }
       ],
-      "comments_close_on": "2026-12-24",
+      "comments_close_on": "2026-12-09",
       "comment_url": null,
-      "effective_on": "2026-12-09",
+      "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-11-09"
+    },
+    "2026-22860": {
+      "title": "Revision of Regulations for Planning, Programming, Budgeting",
+      "type": "Proposed Rule",
+      "abstract": "The BLM proposes to amend existing regulations that establish the procedures to prepare, revise, or amend land use plans pursuant to the Federal Land Policy and Management Act, as amended (FLPMA). We solicit comment on all aspects of this proposed rule.",
+      "document_number": "2026-22860",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22860/revision-of-regulations-for-planning-programming-budgeting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22860.pdf",
+      "publication_date": "2026-11-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "Bureau of Land Management",
+          "name": "Land Management Bureau",
+          "id": 275,
+          "url": "https://www.federalregister.gov/agencies/land-management-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/275",
+          "parent_id": 253,
+          "slug": "land-management-bureau"
+        }
+      ],
+      "comments_close_on": "2027-01-11",
+      "comment_url": "http://www.regulations.gov/commenton/BLM-2026-0298-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1004-AF53"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "BLM-2026-0298",
+      "first_seen": "2026-11-10"
+    },
+    "2026-22903": {
+      "title": "Unemployment Insurance Program National Minimum Weekly Work Search Requirements",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Department of Labor (Department), through the Employment and Training Administration (ETA), is proposing to amend 20 CFR part 604 both to reflect a 2012 update in Federal law in which Congress, by amending section 303(a) of the Social Security Act (SSA), established a Federal work search requirement; and to establish a national minimum weekly work search requirement standard for the Federal-State unemployment compensation (UC) program. This proposed rule would mandate, among other things, that States require individuals claiming UC to complete at least five qualifying work search activities or, where applicable, meet State-adopted points-based system requirements amounting to five qualifying activities or satisfy equivalent labor force attachment criteria, each week for which UC is claimed; that individuals report their work search activities as part of their certification process prior to payment being issued; and that State law allow for certain qualifying work search activities beyond simply employer contacts. This action is necessary to reduce inconsistencies beyond those created by local labor markets in State- level requirements for individuals to actively seek work. The intended effect is to hold States accountable for administering a UC program that provides temporary wage replacement to eligible individuals while they are actively seeking work through a meaningful engagement with the labor market.",
+      "document_number": "2026-22903",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22903/unemployment-insurance-program-national-minimum-weekly-work-search-requirements",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22903.pdf",
+      "publication_date": "2026-11-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Employment and Training Administration",
+          "name": "Employment and Training Administration",
+          "id": 133,
+          "url": "https://www.federalregister.gov/agencies/employment-and-training-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/133",
+          "parent_id": 271,
+          "slug": "employment-and-training-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-11",
+      "comment_url": "http://www.regulations.gov/commenton/ETA-2026-0100-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1205-AC31"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "ETA-2026-0100",
+      "first_seen": "2026-11-10"
+    },
+    "2026-22936": {
+      "title": "Supplemental Nutrition Assistance Program: Reforming Categorical Eligibility",
+      "type": "Proposed Rule",
+      "abstract": "Under section 5(a) of the Food and Nutrition Act of 2008, households in which each member receives benefits under a State program funded by Temporary Assistance for Needy Families (TANF) are categorically eligible for the Supplemental Nutrition Assistance Program (SNAP). Current SNAP regulations consider TANF benefits to include both cash assistance and non-cash or in-kind benefits or services from TANF-funded programs. This proposal would limit categorical eligibility to only households that receive TANF assistance, as defined at 45 CFR 260.31. These revisions would ensure that SNAP benefits are targeted to needy households that have qualified for TANF assistance while still aligning categorical eligibility's statutory purpose of simplifying program administration. A 100-word summary of this rule has been posted to www.regulations.gov and can be found here.",
+      "document_number": "2026-22936",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22936/supplemental-nutrition-assistance-program-reforming-categorical-eligibility",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22936.pdf",
+      "publication_date": "2026-11-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Food and Nutrition Administration",
+          "name": "Food and Nutrition Administration",
+          "id": 625,
+          "url": "https://www.federalregister.gov/agencies/food-and-nutrition-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/625",
+          "parent_id": 12,
+          "slug": "food-and-nutrition-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-10",
+      "comment_url": "http://www.regulations.gov/commenton/FNA-2026-0661-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0584-AF10"
+      ],
+      "significant": true,
+      "comments_count": 0,
+      "docket_id": "FNA-2026-0661",
+      "first_seen": "2026-11-10"
+    },
+    "2026-22944": {
+      "title": "Modification to Work Requirements for Able-Bodied Adults",
+      "type": "Proposed Rule",
+      "abstract": "The proposed rule would codify USDA's regulatory implementation of provisions of the One Big Beautiful Bill Act of 2025 (OBBB) changing the three-month time limit for certain participants subject to work requirements in the Supplemental Nutrition Assistance Program (SNAP). These changes include modifying the list of exceptions from the time limit for certain populations; updating requirements for areas to qualify for waivers of the time limit; and adding the temporary good faith exemptions in Alaska and Hawaii. Additionally, this rule proposes to strengthen requirements for requesting waivers of the time limit and revise the SNAP definition of a homeless individual.",
+      "document_number": "2026-22944",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22944/modification-to-work-requirements-for-able-bodied-adults",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22944.pdf",
+      "publication_date": "2026-11-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Food and Nutrition Administration",
+          "name": "Food and Nutrition Administration",
+          "id": 625,
+          "url": "https://www.federalregister.gov/agencies/food-and-nutrition-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/625",
+          "parent_id": 12,
+          "slug": "food-and-nutrition-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-10",
+      "comment_url": "http://www.regulations.gov/commenton/FNA-2026-0628-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0584-AF09"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "FNA-2026-0628",
+      "first_seen": "2026-11-10"
+    },
+    "2026-22951": {
+      "title": "Special Conditions: Gulfstream Aerospace Corporation, Model GVII-G400 Airplane; Flight Envelope Protection: Takeoff Stall Protection",
+      "type": "Rule",
+      "abstract": "These special conditions are issued for the Gulfstream Aerospace Corporation (Gulfstream) Model GVII-G400 airplane. This airplane will have a novel or unusual design feature when compared to the state of technology envisioned in the airworthiness standards for transport category airplanes. This design feature is an envelope protection function to protect the airplane from over- and rapid- rotation on takeoff. The applicable airworthiness regulations do not contain adequate or appropriate safety standards for this design feature. These special conditions contain the additional safety standards that the Administrator considers necessary to establish a level of safety equivalent to that established by the existing airworthiness standards.",
+      "document_number": "2026-22951",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22951/special-conditions-gulfstream-aerospace-corporation-model-gvii-g400-airplane-flight-envelope",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-10/pdf/2026-22951.pdf",
+      "publication_date": "2026-11-10",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-28",
+      "comment_url": "http://www.regulations.gov/commenton/FAA_FRDOC_0001-28604",
+      "effective_on": "2026-11-10",
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "FAA_FRDOC_0001",
+      "first_seen": "2026-11-10"
     },
     "C1-2026-20360": {
       "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",
