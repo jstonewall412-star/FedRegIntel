@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T15:15:17.438610+00:00",
+  "updated_at": "2026-11-12T15:59:26.808982+00:00",
   "latest_date": "2026-11-12",
   "issue_count": 27,
   "documents": [
@@ -58,7 +58,7 @@
         }
       ],
       "comments_close_on": "2026-12-14",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/DEA_FRDOC_0001-0552",
       "effective_on": "2026-11-12",
       "regulation_id_numbers": []
     },
@@ -91,7 +91,7 @@
         }
       ],
       "comments_close_on": "2026-12-28",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-13805-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
@@ -192,7 +192,7 @@
         }
       ],
       "comments_close_on": "2026-12-28",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-13809-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
@@ -452,7 +452,7 @@
         }
       ],
       "comments_close_on": "2027-01-11",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/MSHA-2026-0200-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "1219-AC22"
@@ -568,7 +568,7 @@
         }
       ],
       "comments_close_on": "2026-12-14",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FS-2026-0199-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "0596-AD75"
@@ -664,7 +664,7 @@
         }
       ],
       "comments_close_on": "2026-12-28",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/EPA_FRDOC_0001-33271",
       "effective_on": null,
       "regulation_id_numbers": []
     },
@@ -697,7 +697,7 @@
         }
       ],
       "comments_close_on": "2026-12-14",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2026-1750-0428",
       "effective_on": null,
       "regulation_id_numbers": [
         "0648-BN92"
@@ -732,7 +732,7 @@
         }
       ],
       "comments_close_on": "2026-12-28",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-14192-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA66"
@@ -802,7 +802,7 @@
         }
       ],
       "comments_close_on": "2027-01-11",
-      "comment_url": null,
+      "comment_url": "http://www.regulations.gov/commenton/FDA_FRDOC_0001-14599",
       "effective_on": null,
       "regulation_id_numbers": []
     },
@@ -3663,6 +3663,30 @@
       ]
     },
     {
+      "title": "Periodic Reporting",
+      "type": "Proposed Rule",
+      "abstract": "The Commission is acknowledging a recent Postal Service filing requesting the Commission initiate a rulemaking proceeding to consider changes to analytical principles relating to periodic reports. This document informs the public of the filing, invites public comment, and takes other administrative steps.",
+      "document_number": "2026-21000",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/14/2026-21000/periodic-reporting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-21000.pdf",
+      "publication_date": "2026-10-14",
+      "agencies": [
+        {
+          "raw_name": "POSTAL REGULATORY COMMISSION",
+          "name": "Postal Regulatory Commission",
+          "id": 409,
+          "url": "https://www.federalregister.gov/agencies/postal-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/409",
+          "parent_id": null,
+          "slug": "postal-regulatory-commission"
+        }
+      ],
+      "comments_close_on": "2026-11-19",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": []
+    },
+    {
       "title": "Food Additives Permitted in Feed and Drinking Water of Animals; Chromium Propionate",
       "type": "Rule",
       "abstract": "The Food and Drug Administration (FDA, we, or the Agency) is amending the regulations for food additives permitted in feed and drinking water of animals to provide for the safe use of chromium propionate as a source of chromium in food for laying hens and breeder chickens. This action is in response to a food additive petition filed by Kemin Industries, Inc.",
@@ -3807,6 +3831,144 @@
       "regulation_id_numbers": [
         "0648-BO48"
       ]
+    },
+    {
+      "title": "Airworthiness Directives; Airbus Helicopters",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2026-12-09, which applies to all Airbus Helicopters Model AS350B, AS350BA, AS350B1, and AS350D helicopters. AD 2026-12-09 requires revising the airworthiness limitations section (ALS) of the existing maintenance manual (MM) or instructions for continued airworthiness (ICA) and the existing approved maintenance or inspection program, as applicable. Since the FAA issued AD 2026-12-09, a determination was made that new and more restrictive airworthiness limitations and maintenance tasks are necessary. This proposed AD would require incorporating these airworthiness limitations into the ALS of the existing MM or ICA and the existing approved maintenance or inspection program, as applicable. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-20411",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20411/airworthiness-directives-airbus-helicopters",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/pdf/2026-20411.pdf",
+      "publication_date": "2026-10-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-19",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11800-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
+    },
+    {
+      "title": "Airworthiness Directives; DG Aviation GmbH (Type Certificate Previously Held by DG Flugzeugbau GmbH) Gliders",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2025-13-08, which applies to all DG Aviation GmbH Model DG-1000T gliders. AD 2025-13-08 requires revising the glider flight manual and installing \"Motor INOP\" placards to prohibit operation with the powerplant. Since issuance of AD 2025-13-08, a design improvement to the propeller adapter ring has been developed that is considered terminating action for the operational prohibition of AD 2025-13-08. This proposed AD would retain the requirement to revise the flight manual, would provide an optional terminating action for the retained actions by incorporating a specified modification, would allow removal of the \"Motor INOP\" placards following accomplishment of that optional terminating action, and would require removal, inspection, and reinstallation of the propeller adapter disk, including installation of safety pins. This proposed AD would also prohibit the installation of affected propeller adapter rings. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-20393",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20393/airworthiness-directives-dg-aviation-gmbh-type-certificate-previously-held-by-dg-flugzeugbau-gmbh",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/pdf/2026-20393.pdf",
+      "publication_date": "2026-10-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-19",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11798-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ]
+    },
+    {
+      "title": "Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-16, V-184, and Revocation of V-284 and V-577; Eastern United States",
+      "type": "Proposed Rule",
+      "abstract": "This action proposes to amend domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-16, V-184, and revoke V- 284 and V-577 in the eastern United States. The FAA is proposing these actions due to the planned decommissioning of the Cedar Lake, NJ (VCN), VOR/Distance Measuring Equipment (DME).",
+      "document_number": "2026-20372",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20372/amendment-of-domestic-very-high-frequency-omnidirectional-range-vor-federal-airways-v-16-v-184-and",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/pdf/2026-20372.pdf",
+      "publication_date": "2026-10-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-19",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-12409-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ]
+    },
+    {
+      "title": "Special Conditions: Honda Aircraft Company LLC Model HA-480 Airplane; High Altitude Operation",
+      "type": "Proposed Rule",
+      "abstract": "This action proposes special conditions for the Honda Aircraft Company LLC (Honda) Model HA-480 airplane. This airplane will have a novel or unusual design feature when compared to the state of technology envisioned in the airworthiness standards for normal category airplanes. This airplane will have design features associated with high altitude operations up to 47,000 feet. The applicable airworthiness regulations do not contain adequate or appropriate safety standards for this design feature. These proposed special conditions contain the additional safety standards that the Administrator considers necessary to establish a level of safety equivalent to that established by the existing airworthiness standards.",
+      "document_number": "2026-20350",
+      "html_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20350/special-conditions-honda-aircraft-company-llc-model-ha-480-airplane-high-altitude-operation",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-05/pdf/2026-20350.pdf",
+      "publication_date": "2026-10-05",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-11-19",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2025-5730-0001",
+      "effective_on": null,
+      "regulation_id_numbers": []
     },
     {
       "title": "Amendment of Class D and E Airspace, Revocation of Class E Airspace; Montgomery, AL",
