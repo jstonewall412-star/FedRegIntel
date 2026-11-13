@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-12T15:59:27.289235+00:00",
-  "count": 365,
+  "updated_at": "2026-11-13T15:25:17.174755+00:00",
+  "count": 367,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -2433,7 +2433,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 851,
+      "comments_count": 854,
       "docket_id": "FDA-2025-N-3262"
     },
     "2026-16313": {
@@ -2926,7 +2926,8 @@
       "first_seen": "2026-10-03",
       "significant": null,
       "comments_count": 2,
-      "docket_id": "IRS-2026-0958"
+      "docket_id": "IRS-2026-0958",
+      "final_checked": "2026-11-13"
     },
     "2026-16590": {
       "title": "FCC To Review E-Rate Program To Ensure Congress's Vision",
@@ -4913,7 +4914,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 71,
+      "comments_count": 72,
       "docket_id": "USCBP-2026-1058"
     },
     "2026-17939": {
@@ -5933,7 +5934,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 41,
+      "comments_count": 57,
       "docket_id": "FAA-2026-10991"
     },
     "2026-18828": {
@@ -6113,7 +6114,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 177,
+      "comments_count": 178,
       "docket_id": "OPM-2026-0661"
     },
     "2026-19027": {
@@ -6479,7 +6480,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 440,
+      "comments_count": 461,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     "2026-19222": {
@@ -6838,7 +6839,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 315,
+      "comments_count": 330,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19350": {
@@ -6877,7 +6878,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 3965,
+      "comments_count": 4070,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19361": {
@@ -7088,7 +7089,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 11,
+      "comments_count": 12,
       "docket_id": "APHIS-2023-0069"
     },
     "2026-19535": {
@@ -7127,7 +7128,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 743,
+      "comments_count": 924,
       "docket_id": "CMS-2026-3037"
     },
     "2026-19546": {
@@ -7157,7 +7158,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 491,
+      "comments_count": 508,
       "docket_id": "SBA-2026-0199"
     },
     "2026-19568": {
@@ -7216,7 +7217,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 17,
+      "comments_count": 18,
       "docket_id": "CPSC-2026-0463"
     },
     "2026-19584": {
@@ -7457,7 +7458,8 @@
       "first_seen": "2026-10-03",
       "significant": false,
       "comments_count": 10,
-      "docket_id": "EPA-HQ-OAR-2025-0302"
+      "docket_id": "EPA-HQ-OAR-2025-0302",
+      "final_checked": "2026-11-13"
     },
     "2026-19860": {
       "title": "Implementing the Federal Reserve Board's Responsibilities Under the GENIUS Act",
@@ -7671,7 +7673,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 10,
+      "comments_count": 11,
       "docket_id": "DOS-2026-0991"
     },
     "2026-20084": {
@@ -7749,7 +7751,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 8,
+      "comments_count": 9,
       "docket_id": "USCG-2025-0392"
     },
     "2026-20102": {
@@ -7846,7 +7848,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 187,
+      "comments_count": 188,
       "docket_id": "FTC-2026-1552"
     },
     "2026-20169": {
@@ -7952,7 +7954,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 232,
+      "comments_count": 238,
       "docket_id": "NPS-2026-0199"
     },
     "2026-20277": {
@@ -7991,7 +7993,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 22515,
+      "comments_count": 22542,
       "docket_id": "IRS-2026-1354"
     },
     "2026-20296": {
@@ -8630,7 +8632,7 @@
       "comments_count": 59,
       "docket_id": "EPA-HQ-OAR-2024-0078",
       "first_seen": "2026-10-06",
-      "final_checked": "2026-11-06"
+      "final_checked": "2026-11-13"
     },
     "2026-20474": {
       "title": "Investment Adviser Performance-Based Compensation Modernization",
@@ -8812,7 +8814,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 294,
+      "comments_count": 296,
       "docket_id": "CMS-2026-3235",
       "first_seen": "2026-10-08"
     },
@@ -9077,7 +9079,7 @@
         "1615-AD26"
       ],
       "significant": null,
-      "comments_count": 769,
+      "comments_count": 1105,
       "docket_id": "USCIS-2026-0529",
       "first_seen": "2026-10-25"
     },
@@ -9107,7 +9109,7 @@
         "1615-AD23"
       ],
       "significant": null,
-      "comments_count": 9371,
+      "comments_count": 10597,
       "docket_id": "USCIS-2026-0397",
       "first_seen": "2026-10-25"
     },
@@ -9204,7 +9206,7 @@
         "2060-AX07"
       ],
       "significant": null,
-      "comments_count": 5,
+      "comments_count": 7,
       "docket_id": "EPA-HQ-OAR-2025-0186",
       "first_seen": "2026-10-25"
     },
@@ -9331,7 +9333,7 @@
         "3150-AL70"
       ],
       "significant": null,
-      "comments_count": 5,
+      "comments_count": 6,
       "docket_id": "NRC-2026-2377",
       "first_seen": "2026-10-25"
     },
@@ -9400,7 +9402,7 @@
         "1545-BS15"
       ],
       "significant": null,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "IRS-2026-1420",
       "first_seen": "2026-10-25"
     },
@@ -9710,7 +9712,7 @@
         "2060-AX09"
       ],
       "significant": null,
-      "comments_count": 77,
+      "comments_count": 78,
       "docket_id": "EPA-HQ-OAR-2024-0505",
       "first_seen": "2026-10-25"
     },
@@ -9988,7 +9990,7 @@
         "3038-AF82"
       ],
       "significant": null,
-      "comments_count": 12,
+      "comments_count": 13,
       "docket_id": "CFTC-2026-2213",
       "first_seen": "2026-10-25"
     },
@@ -10055,7 +10057,7 @@
         "0938-AV88"
       ],
       "significant": null,
-      "comments_count": 21,
+      "comments_count": 25,
       "docket_id": "CMS-2026-3533",
       "first_seen": "2026-10-25"
     },
@@ -10374,7 +10376,7 @@
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": 16,
+      "comments_count": 17,
       "docket_id": "FNA-2026-0496",
       "first_seen": "2026-10-25"
     },
@@ -10478,7 +10480,7 @@
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": 107,
+      "comments_count": 109,
       "docket_id": "TREAS-DO-2026-0529",
       "first_seen": "2026-10-25"
     },
@@ -10612,7 +10614,7 @@
         "1505-AC94"
       ],
       "significant": null,
-      "comments_count": 20,
+      "comments_count": 23,
       "docket_id": "TREAS-DO-2026-0595",
       "first_seen": "2026-10-25"
     },
@@ -10651,7 +10653,7 @@
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": 51,
+      "comments_count": 52,
       "docket_id": "NHTSA-2026-1519",
       "first_seen": "2026-10-25"
     },
@@ -10737,7 +10739,7 @@
         "0938-AW03"
       ],
       "significant": null,
-      "comments_count": 33,
+      "comments_count": 34,
       "docket_id": "CMS-2026-3367",
       "first_seen": "2026-10-27"
     },
@@ -10813,7 +10815,7 @@
         "2137-AF75"
       ],
       "significant": false,
-      "comments_count": 8,
+      "comments_count": 9,
       "docket_id": "PHMSA-2025-0048",
       "first_seen": "2026-10-27"
     },
@@ -10850,7 +10852,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 45,
+      "comments_count": 46,
       "docket_id": "COLC-2026-0199",
       "first_seen": "2026-10-28"
     },
@@ -10880,7 +10882,7 @@
         "2060-AW73"
       ],
       "significant": true,
-      "comments_count": 147,
+      "comments_count": 154,
       "docket_id": "EPA-HQ-OAR-2025-0163",
       "first_seen": "2026-10-29"
     },
@@ -11111,7 +11113,7 @@
         "0910-AJ34"
       ],
       "significant": null,
-      "comments_count": 23,
+      "comments_count": 24,
       "docket_id": "FDA-2026-N-10832",
       "first_seen": "2026-10-31"
     },
@@ -11402,7 +11404,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "EPA-R09-OAR-2026-8252",
       "first_seen": "2026-11-05"
     },
@@ -11770,7 +11772,7 @@
         "0938-AW04"
       ],
       "significant": null,
-      "comments_count": 3378,
+      "comments_count": 5429,
       "docket_id": "CMS-2026-3631",
       "first_seen": "2026-11-10"
     },
@@ -11809,7 +11811,7 @@
         "0648-BN99"
       ],
       "significant": null,
-      "comments_count": 1185,
+      "comments_count": 1484,
       "docket_id": "NOAA-NMFS-2026-2410",
       "first_seen": "2026-11-09"
     },
@@ -11913,7 +11915,7 @@
         "1004-AF53"
       ],
       "significant": null,
-      "comments_count": 73,
+      "comments_count": 153,
       "docket_id": "BLM-2026-0298",
       "first_seen": "2026-11-10"
     },
@@ -12026,7 +12028,7 @@
         "1205-AC31"
       ],
       "significant": null,
-      "comments_count": 5,
+      "comments_count": 7,
       "docket_id": "ETA-2026-0100",
       "first_seen": "2026-11-10"
     },
@@ -12065,7 +12067,7 @@
         "0584-AF10"
       ],
       "significant": true,
-      "comments_count": 262,
+      "comments_count": 1019,
       "docket_id": "FNA-2026-0661",
       "first_seen": "2026-11-10"
     },
@@ -12104,7 +12106,7 @@
         "0584-AF09"
       ],
       "significant": null,
-      "comments_count": 19,
+      "comments_count": 24,
       "docket_id": "FNA-2026-0628",
       "first_seen": "2026-11-10"
     },
@@ -12174,12 +12176,12 @@
         }
       ],
       "comments_close_on": "2027-01-11",
-      "comment_url": "http://www.regulations.gov/commenton/FDA_FRDOC_0001-14599",
+      "comment_url": "http://www.regulations.gov/commenton/FDA-2026-N-12508-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
-      "docket_id": "FDA_FRDOC_0001",
+      "comments_count": 1,
+      "docket_id": "FDA-2026-N-12508",
       "first_seen": "2026-11-11"
     },
     "2026-23017": {
@@ -12217,7 +12219,7 @@
         "2120-AA66"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-14192",
       "first_seen": "2026-11-11"
     },
@@ -12256,7 +12258,7 @@
         "0648-BN92"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 5,
       "docket_id": "NOAA-NMFS-2026-1750",
       "first_seen": "2026-11-11"
     },
@@ -12295,7 +12297,7 @@
         "0596-AD75"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 93,
       "docket_id": "FS-2026-0199",
       "first_seen": "2026-11-11"
     },
@@ -12334,7 +12336,7 @@
         "1219-AC22"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 4,
       "docket_id": "MSHA-2026-0200",
       "first_seen": "2026-11-11"
     },
@@ -12395,13 +12397,100 @@
         }
       ],
       "comments_close_on": "2026-12-14",
-      "comment_url": "http://www.regulations.gov/commenton/DEA_FRDOC_0001-0552",
+      "comment_url": "http://www.regulations.gov/commenton/DEA-2026-2080-0001",
       "effective_on": "2026-11-12",
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 0,
-      "docket_id": "DEA_FRDOC_0001",
+      "docket_id": "DEA-2026-2080",
       "first_seen": "2026-11-11"
+    },
+    "2026-23086": {
+      "title": "Horse Protection",
+      "type": "Proposed Rule",
+      "abstract": "On May 8, 2024, the Animal and Plant Health Inspection Service (APHIS) of the United States Department of Agriculture published in the Federal Register a final rule that amended the regulations promulgated under the Horse Protection Act (the May 2024 Horse Protection final rule). APHIS is proposing to remove the provisions of the May 2024 Horse Protection final rule that have been vacated by court order and proposing to withdraw the remaining non-vacated provisions of the May 2024 Horse Protection final rule to ensure that the regulations afford due process and better align with the Act. APHIS is also proposing to amend the regulations by revising, among other things, the certification requirements for training and licensing of designated qualified persons (DQPs); enhancing DQP inspection procedures and the process for appealing APHIS inspections before any possible disqualification by management; and clarifying that if a horse is determined to be sore, it is disqualified from participating in the class in which the inspection took place and not the entire event.",
+      "document_number": "2026-23086",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23086/horse-protection",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-13/pdf/2026-23086.pdf",
+      "publication_date": "2026-11-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "comments_close_on": "2026-12-14",
+      "comment_url": "http://www.regulations.gov/commenton/APHIS-2026-0067-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0579-AE93"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "APHIS-2026-0067",
+      "first_seen": "2026-11-13"
+    },
+    "2026-23145": {
+      "title": "Oil and Gas and Sulfur Operations in the Outer Continental Shelf-Revisions to the Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf; Reopening of Comment Period",
+      "type": "Proposed Rule",
+      "abstract": "The Department of the Interior (DOI or Department), acting through MMA, is reopening the comment period for Proposed Rule: Oil and Gas and Sulfur Operations in the Outer Continental Shelf--Revisions to the Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf, which was published in the Federal Register on August 6, 2026.",
+      "document_number": "2026-23145",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23145/oil-and-gas-and-sulfur-operations-in-the-outer-continental-shelf-revisions-to-the-requirements-for",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-13/pdf/2026-23145.pdf",
+      "publication_date": "2026-11-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "Bureau of Safety and Environmental Enforcement",
+          "name": "Safety and Environmental Enforcement Bureau",
+          "id": 576,
+          "url": "https://www.federalregister.gov/agencies/safety-and-environmental-enforcement-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/576",
+          "parent_id": 253,
+          "slug": "safety-and-environmental-enforcement-bureau"
+        },
+        {
+          "raw_name": "Bureau of Ocean Energy Management",
+          "name": "Ocean Energy Management Bureau",
+          "id": 575,
+          "url": "https://www.federalregister.gov/agencies/ocean-energy-management-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/575",
+          "parent_id": 253,
+          "slug": "ocean-energy-management-bureau"
+        }
+      ],
+      "comments_close_on": "2026-12-14",
+      "comment_url": "http://www.regulations.gov/commenton/BSEE_FRDOC_0001-0330",
+      "effective_on": "2026-08-06",
+      "regulation_id_numbers": [
+        "1082-AA05"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "BSEE_FRDOC_0001",
+      "first_seen": "2026-11-13"
     },
     "C1-2026-20360": {
       "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",

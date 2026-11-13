@@ -1,8 +1,310 @@
 {
-  "updated_at": "2026-11-12T15:59:27.289235+00:00",
-  "as_of": "2026-11-12",
-  "count": 217,
+  "updated_at": "2026-11-13T15:25:17.174755+00:00",
+  "as_of": "2026-11-13",
+  "count": 218,
   "documents": [
+    {
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 787-8 airplanes. This proposed AD was prompted by a report that certain wing skin outer mold line (OML) penetrating fasteners installed using threaded nuts without cap seals do not provide reliable protection against potential ignition sources when subjected to direct attachment lightning currents. This proposed AD would require inspecting between certain ribs on the left and right wing for wing skin penetrating fasteners with a threaded nut adjacent to the electromagnetic effects (EME) sleeve; inspecting the left and right wing fuel tanks, surge tanks, and dry bays for threaded nuts installed on fasteners that penetrate the upper and lower wing skins; accomplishing the inspection specified in a certain airworthiness limitation (AWL); and applicable on-condition actions. This proposed AD would also require accomplishing concurrent requirements and revising the maintenance program to incorporate the airworthiness limitation task. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-23198",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23198/airworthiness-directives-the-boeing-company-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-13/pdf/2026-23198.pdf",
+      "publication_date": "2026-11-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-28",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-13802-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-13802"
+    },
+    {
+      "title": "Oil and Gas and Sulfur Operations in the Outer Continental Shelf-Revisions to the Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf; Reopening of Comment Period",
+      "type": "Proposed Rule",
+      "abstract": "The Department of the Interior (DOI or Department), acting through MMA, is reopening the comment period for Proposed Rule: Oil and Gas and Sulfur Operations in the Outer Continental Shelf--Revisions to the Requirements for Exploratory Drilling on the Arctic Outer Continental Shelf, which was published in the Federal Register on August 6, 2026.",
+      "document_number": "2026-23145",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23145/oil-and-gas-and-sulfur-operations-in-the-outer-continental-shelf-revisions-to-the-requirements-for",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-13/pdf/2026-23145.pdf",
+      "publication_date": "2026-11-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "Bureau of Safety and Environmental Enforcement",
+          "name": "Safety and Environmental Enforcement Bureau",
+          "id": 576,
+          "url": "https://www.federalregister.gov/agencies/safety-and-environmental-enforcement-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/576",
+          "parent_id": 253,
+          "slug": "safety-and-environmental-enforcement-bureau"
+        },
+        {
+          "raw_name": "Bureau of Ocean Energy Management",
+          "name": "Ocean Energy Management Bureau",
+          "id": 575,
+          "url": "https://www.federalregister.gov/agencies/ocean-energy-management-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/575",
+          "parent_id": 253,
+          "slug": "ocean-energy-management-bureau"
+        }
+      ],
+      "comments_close_on": "2026-12-14",
+      "comment_url": "http://www.regulations.gov/commenton/BSEE_FRDOC_0001-0330",
+      "effective_on": "2026-08-06",
+      "regulation_id_numbers": [
+        "1082-AA05"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "BSEE_FRDOC_0001"
+    },
+    {
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all The Boeing Company Model 747-400 and 747-400F series airplanes. This proposed AD was prompted by a report of an overheated alternating current motor pump (ACMP) that caused a fire in the main landing gear (MLG) wheel well. This proposed AD would require a maintenance records check or inspection for any installed ACMP with a certain part number and applicable on-condition actions. This proposed AD would also prohibit the installation of affected parts. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-23134",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23134/airworthiness-directives-the-boeing-company-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-13/pdf/2026-23134.pdf",
+      "publication_date": "2026-11-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-28",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-13810-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-13810"
+    },
+    {
+      "title": "Air Plan Approval; Oregon Department of Environmental Quality; Emission Standards and Controls for Sources Emitting Gasoline Vapors",
+      "type": "Proposed Rule",
+      "abstract": "The Environmental Protection Agency (EPA) proposes to approve a revision to the Oregon State Implementation Plan (SIP) submitted by the Oregon Department of Environmental Quality (ODEQ) on December 17, 2025, for the Portland and Salem/Keizer, Oregon 1979 1-hour ozone maintenance areas. The proposed revision updates ODEQ's requirements in the SIP for Stages I and II vapor recovery systems at gasoline dispensing facilities including: decommissioning existing Stage II systems incompatible with onboard refueling vapor recovery systems; allowing removal from service of Stage II vapor recovery equipment compatible with onboard refueling vapor recovery; and removing the requirement for Stage II vapor recovery at new installations. The proposed revisions also include more widespread adoption of Stage I Enhanced Vapor Recovery, Stage I vapor balance, and enhanced conventional nozzles, among other changes. The EPA is proposing to find that ODEQ's demonstration to remove Stage II requirements is consistent with the Clean Air Act and the EPA's guidance.",
+      "document_number": "2026-23124",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23124/air-plan-approval-oregon-department-of-environmental-quality-emission-standards-and-controls-for",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-13/pdf/2026-23124.pdf",
+      "publication_date": "2026-11-13",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-12-14",
+      "comment_url": "http://www.regulations.gov/commenton/EPA_FRDOC_0001-33274",
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "EPA_FRDOC_0001"
+    },
+    {
+      "title": "Airworthiness Directives; Pratt & Whitney Canada Corp. Engines",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Pratt & Whitney Canada Corp. (P&WC) Model PW814GA and PW815GA engines. This proposed AD was prompted by the manufacturer revising the airworthiness limitations section (ALS) of the existing airworthiness limitations manual (ALM) to introduce new or more restrictive airworthiness limitations and associated thresholds and intervals for life-limited parts. This proposed AD would require updating the ALS of the existing ALM or instructions for continued airworthiness (ICA) and the existing approved maintenance or inspection program, as applicable, to incorporate new or more restrictive instructions and associated thresholds and intervals for life-limited parts. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-23118",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23118/airworthiness-directives-pratt-and-whitney-canada-corp-engines",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-13/pdf/2026-23118.pdf",
+      "publication_date": "2026-11-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-28",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-13811-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-13811"
+    },
+    {
+      "title": "Airworthiness Directives; General Electric Company Engines",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain General Electric Company (GE) Model GE Passport 20-17BB1A, GE Passport 20-18BB1A, GE Passport 20-19BB1A, and GE Passport 20-19BB1B engines. This proposed AD was prompted by an engine in-flight shutdown (IFSD) due to an engine fire caused by fuel leakage within the engine core compartment. This proposed AD would require replacement of a certain start bleed valve (SBV) fuel tube with a redesigned SBV fuel tube. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-23116",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23116/airworthiness-directives-general-electric-company-engines",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-13/pdf/2026-23116.pdf",
+      "publication_date": "2026-11-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-28",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-13813-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-13813"
+    },
+    {
+      "title": "Amendment of Class C Airspace; President Donald J. Trump International Airport, FL",
+      "type": "Proposed Rule",
+      "abstract": "This action proposes to amend Class C airspace at the President Donald J. Trump International Airport (DJT), West Palm Beach, FL. The FAA is proposing this action to enhance the efficient management of air traffic operations and reduce the potential for midair collision in the West Palm Beach, FL, terminal area.",
+      "document_number": "2026-23109",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23109/amendment-of-class-c-airspace-president-donald-j-trump-international-airport-fl",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-13/pdf/2026-23109.pdf",
+      "publication_date": "2026-11-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-12",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-5281-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-5281"
+    },
+    {
+      "title": "Horse Protection",
+      "type": "Proposed Rule",
+      "abstract": "On May 8, 2024, the Animal and Plant Health Inspection Service (APHIS) of the United States Department of Agriculture published in the Federal Register a final rule that amended the regulations promulgated under the Horse Protection Act (the May 2024 Horse Protection final rule). APHIS is proposing to remove the provisions of the May 2024 Horse Protection final rule that have been vacated by court order and proposing to withdraw the remaining non-vacated provisions of the May 2024 Horse Protection final rule to ensure that the regulations afford due process and better align with the Act. APHIS is also proposing to amend the regulations by revising, among other things, the certification requirements for training and licensing of designated qualified persons (DQPs); enhancing DQP inspection procedures and the process for appealing APHIS inspections before any possible disqualification by management; and clarifying that if a horse is determined to be sore, it is disqualified from participating in the class in which the inspection took place and not the entire event.",
+      "document_number": "2026-23086",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/13/2026-23086/horse-protection",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-13/pdf/2026-23086.pdf",
+      "publication_date": "2026-11-13",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Animal and Plant Health Inspection Service",
+          "name": "Animal and Plant Health Inspection Service",
+          "id": 22,
+          "url": "https://www.federalregister.gov/agencies/animal-and-plant-health-inspection-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/22",
+          "parent_id": 12,
+          "slug": "animal-and-plant-health-inspection-service"
+        }
+      ],
+      "comments_close_on": "2026-12-14",
+      "comment_url": "http://www.regulations.gov/commenton/APHIS-2026-0067-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0579-AE93"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "APHIS-2026-0067"
+    },
     {
       "title": "Schedules of Controlled Substances: Placement of Oveporexton in Schedule IV",
       "type": "Rule",
@@ -32,12 +334,12 @@
         }
       ],
       "comments_close_on": "2026-12-14",
-      "comment_url": "http://www.regulations.gov/commenton/DEA_FRDOC_0001-0552",
+      "comment_url": "http://www.regulations.gov/commenton/DEA-2026-2080-0001",
       "effective_on": "2026-11-12",
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 0,
-      "docket_id": "DEA_FRDOC_0001"
+      "docket_id": "DEA-2026-2080"
     },
     {
       "title": "Airworthiness Directives; Dassault Aviation Airplanes",
@@ -74,7 +376,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 2,
       "docket_id": "FAA-2026-13805"
     },
     {
@@ -112,7 +414,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-13809"
     },
     {
@@ -177,7 +479,7 @@
         "1219-AC22"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 4,
       "docket_id": "MSHA-2026-0200"
     },
     {
@@ -215,7 +517,7 @@
         "0596-AD75"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 93,
       "docket_id": "FS-2026-0199"
     },
     {
@@ -242,7 +544,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "EPA_FRDOC_0001"
     },
     {
@@ -280,7 +582,7 @@
         "0648-BN92"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 5,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     {
@@ -318,7 +620,7 @@
         "2120-AA66"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-14192"
     },
     {
@@ -350,12 +652,12 @@
         }
       ],
       "comments_close_on": "2027-01-11",
-      "comment_url": "http://www.regulations.gov/commenton/FDA_FRDOC_0001-14599",
+      "comment_url": "http://www.regulations.gov/commenton/FDA-2026-N-12508-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
-      "docket_id": "FDA_FRDOC_0001"
+      "comments_count": 1,
+      "docket_id": "FDA-2026-N-12508"
     },
     {
       "title": "Special Conditions: Gulfstream Aerospace Corporation, Model GVII-G400 Airplane; Flight Envelope Protection: Takeoff Stall Protection",
@@ -428,7 +730,7 @@
         "0584-AF09"
       ],
       "significant": null,
-      "comments_count": 19,
+      "comments_count": 24,
       "docket_id": "FNA-2026-0628"
     },
     {
@@ -466,7 +768,7 @@
         "0584-AF10"
       ],
       "significant": true,
-      "comments_count": 262,
+      "comments_count": 1019,
       "docket_id": "FNA-2026-0661"
     },
     {
@@ -580,7 +882,7 @@
         "1205-AC31"
       ],
       "significant": null,
-      "comments_count": 5,
+      "comments_count": 7,
       "docket_id": "ETA-2026-0100"
     },
     {
@@ -728,7 +1030,7 @@
         "1004-AF53"
       ],
       "significant": null,
-      "comments_count": 73,
+      "comments_count": 153,
       "docket_id": "BLM-2026-0298"
     },
     {
@@ -766,7 +1068,7 @@
         "0938-AW04"
       ],
       "significant": null,
-      "comments_count": 3378,
+      "comments_count": 5429,
       "docket_id": "CMS-2026-3631"
     },
     {
@@ -867,7 +1169,7 @@
         "0648-BN99"
       ],
       "significant": null,
-      "comments_count": 1185,
+      "comments_count": 1484,
       "docket_id": "NOAA-NMFS-2026-2410"
     },
     {
@@ -1431,7 +1733,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "EPA-R09-OAR-2026-8252"
     },
     {
@@ -2082,7 +2384,7 @@
         "0910-AJ34"
       ],
       "significant": null,
-      "comments_count": 23,
+      "comments_count": 24,
       "docket_id": "FDA-2026-N-10832"
     },
     {
@@ -2297,7 +2599,7 @@
         "2060-AW73"
       ],
       "significant": true,
-      "comments_count": 147,
+      "comments_count": 154,
       "docket_id": "EPA-HQ-OAR-2025-0163"
     },
     {
@@ -2425,7 +2727,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 45,
+      "comments_count": 46,
       "docket_id": "COLC-2026-0199"
     },
     {
@@ -2501,7 +2803,7 @@
         "2137-AF75"
       ],
       "significant": false,
-      "comments_count": 8,
+      "comments_count": 9,
       "docket_id": "PHMSA-2025-0048"
     },
     {
@@ -2604,7 +2906,7 @@
         "0938-AW03"
       ],
       "significant": null,
-      "comments_count": 33,
+      "comments_count": 34,
       "docket_id": "CMS-2026-3367"
     },
     {
@@ -2810,7 +3112,7 @@
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": 51,
+      "comments_count": 52,
       "docket_id": "NHTSA-2026-1519"
     },
     {
@@ -2848,7 +3150,7 @@
         "1505-AC94"
       ],
       "significant": null,
-      "comments_count": 20,
+      "comments_count": 23,
       "docket_id": "TREAS-DO-2026-0595"
     },
     {
@@ -2942,7 +3244,7 @@
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": 107,
+      "comments_count": 109,
       "docket_id": "TREAS-DO-2026-0529"
     },
     {
@@ -3052,7 +3354,7 @@
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": 16,
+      "comments_count": 17,
       "docket_id": "FNA-2026-0496"
     },
     {
@@ -3466,7 +3768,7 @@
         "0938-AV88"
       ],
       "significant": null,
-      "comments_count": 21,
+      "comments_count": 25,
       "docket_id": "CMS-2026-3533"
     },
     {
@@ -3560,7 +3862,7 @@
         "3038-AF82"
       ],
       "significant": null,
-      "comments_count": 12,
+      "comments_count": 13,
       "docket_id": "CFTC-2026-2213"
     },
     {
@@ -3970,7 +4272,7 @@
         "2060-AX09"
       ],
       "significant": null,
-      "comments_count": 77,
+      "comments_count": 78,
       "docket_id": "EPA-HQ-OAR-2024-0505"
     },
     {
@@ -4317,7 +4619,7 @@
         "1545-BS15"
       ],
       "significant": null,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "IRS-2026-1420"
     },
     {
@@ -4413,7 +4715,7 @@
         "3150-AL70"
       ],
       "significant": null,
-      "comments_count": 5,
+      "comments_count": 6,
       "docket_id": "NRC-2026-2377"
     },
     {
@@ -4612,7 +4914,7 @@
         "2060-AX07"
       ],
       "significant": null,
-      "comments_count": 5,
+      "comments_count": 7,
       "docket_id": "EPA-HQ-OAR-2025-0186"
     },
     {
@@ -4706,7 +5008,7 @@
         "1615-AD23"
       ],
       "significant": null,
-      "comments_count": 9371,
+      "comments_count": 10597,
       "docket_id": "USCIS-2026-0397"
     },
     {
@@ -4735,7 +5037,7 @@
         "1615-AD26"
       ],
       "significant": null,
-      "comments_count": 769,
+      "comments_count": 1105,
       "docket_id": "USCIS-2026-0529"
     },
     {
@@ -4880,44 +5182,6 @@
       "significant": true,
       "comments_count": 6,
       "docket_id": "USCBP-2026-0992"
-    },
-    {
-      "title": "Magnuson-Stevens Fishery Conservation and Management Act Provisions; Fisheries of the Northeastern United States; Framework Adjustment 7 to the Atlantic Spiny Dogfish Fishery Management Plan",
-      "type": "Proposed Rule",
-      "abstract": "NMFS proposes measures included in Framework Adjustment 7 to the Spiny Dogfish Fishery Management Plan (FMP), as recommended by the Mid-Atlantic and New England Fishery Management Councils. Framework 7 proposes fishing year 2026 and projected 2027 specifications, which would establish allowable harvest levels for the spiny dogfish fishery to prevent overfishing while enabling optimum yield based on the best scientific information available. Framework 7 also proposes changes to the Atlantic spiny dogfish accountability measures intended to provide the commercial fishery with greater flexibility by no longer requiring full payback of annual catch limit (ACL) overages when the Atlantic spiny dogfish stock is considered healthy.",
-      "document_number": "2026-20863",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/13/2026-20863/magnuson-stevens-fishery-conservation-and-management-act-provisions-fisheries-of-the-northeastern",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-13/pdf/2026-20863.pdf",
-      "publication_date": "2026-10-13",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF COMMERCE",
-          "name": "Commerce Department",
-          "id": 54,
-          "url": "https://www.federalregister.gov/agencies/commerce-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
-          "parent_id": null,
-          "slug": "commerce-department"
-        },
-        {
-          "raw_name": "National Oceanic and Atmospheric Administration",
-          "name": "National Oceanic and Atmospheric Administration",
-          "id": 361,
-          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
-          "parent_id": 54,
-          "slug": "national-oceanic-and-atmospheric-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-12",
-      "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2026-1321-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "0648-BO48"
-      ],
-      "significant": null,
-      "comments_count": 8,
-      "docket_id": "NOAA-NMFS-2026-1321"
     },
     {
       "title": "Airworthiness Directives; Elixir Aircraft",
@@ -5256,7 +5520,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 294,
+      "comments_count": 296,
       "docket_id": "CMS-2026-3235"
     },
     {
@@ -5661,7 +5925,7 @@
         "1545-BR97"
       ],
       "significant": null,
-      "comments_count": 22515,
+      "comments_count": 22542,
       "docket_id": "IRS-2026-1354"
     },
     {
@@ -5699,7 +5963,7 @@
         "1024-AE54"
       ],
       "significant": false,
-      "comments_count": 232,
+      "comments_count": 238,
       "docket_id": "NPS-2026-0199"
     },
     {
@@ -5766,7 +6030,7 @@
         "3084-AB90"
       ],
       "significant": null,
-      "comments_count": 187,
+      "comments_count": 188,
       "docket_id": "FTC-2026-1552"
     },
     {
@@ -5880,7 +6144,7 @@
         "1625-AC48"
       ],
       "significant": true,
-      "comments_count": 8,
+      "comments_count": 9,
       "docket_id": "USCG-2025-0392"
     },
     {
@@ -5947,7 +6211,7 @@
         "1400-AF40"
       ],
       "significant": true,
-      "comments_count": 10,
+      "comments_count": 11,
       "docket_id": "DOS-2026-0991"
     },
     {
@@ -6280,7 +6544,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "FAA-2026-11785"
     },
     {
@@ -6416,187 +6680,6 @@
       "significant": null,
       "comments_count": 0,
       "docket_id": null
-    },
-    {
-      "title": "Establishment, Modification, and Revocation of Class E Airspace; Alaska, AK",
-      "type": "Proposed Rule",
-      "abstract": "This action supplements a notice of proposed rulemaking (NPRM) published by the FAA in the Federal Register on June 17, 2025, which proposed to establish Class E domestic en route airspace (Class E6) within a designated landmass and within 12 miles from a designated shoreline associated with the state of Alaska to facilitate the vectoring of instrument flight rules (IFR) aircraft on direct routes where the current en route structure is insufficient or improper within the proposed airspace areas. As revised in this SNPRM, the FAA now proposes to establish five discrete areas of Class E domestic en route airspace over the state. Due to redundancy, the NPRM also proposed to remove two Class E6 airspace areas and modify 101 Class E airspace areas extending upward from at least 700 feet or more above the surface of the earth (Class E5) to remove any portion extending upward from 1,200 feet above the surface. This SNPRM continues to propose these actions, but also now proposes to remove two Class E airspace areas extending upward from 1,200 feet above the surface, revoke a duplicate Class E5 airspace legal description, and redefine airspace areas from a \"Point of Origin\" instead of using their respective airport reference points. Finally, both the NPRM and this SNPRM propose administrative amendments to the legal descriptions of 101 Class E5 airspace areas that would correct or update nomenclature as needed. This action would support IFR operations while enhancing the safety and management of aircraft operations within the National Airspace System (NAS).",
-      "document_number": "2026-19815",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/28/2026-19815/establishment-modification-and-revocation-of-class-e-airspace-alaska-ak",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-28/pdf/2026-19815.pdf",
-      "publication_date": "2026-09-28",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-12",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2024-2333-0007",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA66"
-      ],
-      "significant": false,
-      "comments_count": 2,
-      "docket_id": "FAA-2024-2333"
-    },
-    {
-      "title": "National Emission Standards for Hazardous Air Pollutants for Gasoline Distribution Facilities and Standards of Performance for Bulk Gasoline Terminals Reconsideration",
-      "type": "Proposed Rule",
-      "abstract": "On May 8, 2024, the U.S. Environmental Protection Agency (EPA) published the National Emission Standards for Hazardous Air Pollutants (NESHAP): Gasoline Distribution Technology Reviews and New Source Performance Standards (NSPS) Review for Bulk Gasoline Terminals final rule (\"2024 Final Rule\"). The EPA is reconsidering various provisions of the 2024 Final Rule in this proposed rule, including the operating limits and continuous compliance requirements for air emission control devices, and the vapor tightness requirements for gasoline cargo tanks. The EPA is also reconsidering the modification criteria in the NSPS and proposing other technical corrections and clarifications. The EPA does not anticipate that this proposed action will impact volatile organic compound (VOC) or hazardous air pollutant (HAP) emissions generated by gasoline distribution facilities because the proposed amendments do not impact the stringency of the emission standards set by the 2024 Final Rule. As such, the EPA expects the proposed amendments will have no impact on air quality or overall human health. The EPA is not reopening any other aspect of the 2024 Final Rule and does not intend to respond to comments addressing any other issues or provisions not specifically addressed in this proposed rulemaking.",
-      "document_number": "2026-19774",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/28/2026-19774/national-emission-standards-for-hazardous-air-pollutants-for-gasoline-distribution-facilities-and",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-28/pdf/2026-19774.pdf",
-      "publication_date": "2026-09-28",
-      "agencies": [
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": "2026-11-12",
-      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OAR-2025-0302-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2060-AW66"
-      ],
-      "significant": false,
-      "comments_count": 10,
-      "docket_id": "EPA-HQ-OAR-2025-0302"
-    },
-    {
-      "title": "Airworthiness Directives; Costruzioni Aeronautiche Tecnam S.P.A. Airplanes",
-      "type": "Rule",
-      "abstract": "The FAA is adopting a new airworthiness directive (AD) for certain Costruzioni Aeronautiche Tecnam S.p.A. (Tecnam) Model P2006T airplanes. This AD was prompted by a report of partial detachment of the left aileron due to a missing hinge pin. This AD requires a one- time detailed visual inspection of the affected aileron hinges for damage (cracks, warping of the hinges or hinge pin, scratched paint, missing or broken torque stripe, etc.) and cotter pins for improper installation and, depending on the findings, applicable corrective action. The FAA is issuing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-19760",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/28/2026-19760/airworthiness-directives-costruzioni-aeronautiche-tecnam-spa-airplanes",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-28/pdf/2026-19760.pdf",
-      "publication_date": "2026-09-28",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-12",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11784-0001",
-      "effective_on": "2026-10-13",
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ],
-      "significant": false,
-      "comments_count": 0,
-      "docket_id": "FAA-2026-11784"
-    },
-    {
-      "title": "Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters",
-      "type": "Rule",
-      "abstract": "The FAA is adopting a new airworthiness directive (AD) for all Airbus Helicopters Deutschland GmbH (AHD) Model EC135P1, EC135P2, EC135P2+, EC135P3, EC135T1, EC135T2, EC135T2+, EC135T3, and EC635T2+ helicopters. This AD was prompted by a determination that in cases of loss of oil from the main gearbox (MGB), the low pressure caution or warning light might not activate. This AD requires revising the existing rotorcraft flight manual (RFM) for the helicopter by incorporating updated emergency, malfunction, and normal procedures. The FAA is issuing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-19757",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/28/2026-19757/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-28/pdf/2026-19757.pdf",
-      "publication_date": "2026-09-28",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-12",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11786-0001",
-      "effective_on": "2026-10-13",
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ],
-      "significant": false,
-      "comments_count": 1,
-      "docket_id": "FAA-2026-11786"
-    },
-    {
-      "title": "Airworthiness Directives; Airbus Helicopters",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus Helicopters Model AS 365 N2, AS 365 N3, EC 155 B, EC 155 B1, SA 365 N, and SA 365 N1 helicopters. This proposed AD was prompted by gaps between the seals and engine cowling, which were found during an investigation related to an engine compartment fire. Gaps between the seals and engine cowling could cause inadequate sealing of the engine compartment firewalls leading to fire propagation between engine compartments and reduced effectiveness of the extinguishing agent. This proposed AD would require modifying the engine compartment firewalls by installing angle-brackets along the firewalls. The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-19729",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/28/2026-19729/airworthiness-directives-airbus-helicopters",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-28/pdf/2026-19729.pdf",
-      "publication_date": "2026-09-28",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-12",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11787-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ],
-      "significant": false,
-      "comments_count": 1,
-      "docket_id": "FAA-2026-11787"
     },
     {
       "title": "Revising Requirements and Exceptions for Storing Explosives",
@@ -6736,7 +6819,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 17,
+      "comments_count": 18,
       "docket_id": "CPSC-2026-0463"
     },
     {
@@ -6765,7 +6848,7 @@
         "3245-AI67"
       ],
       "significant": null,
-      "comments_count": 491,
+      "comments_count": 508,
       "docket_id": "SBA-2026-0199"
     },
     {
@@ -6803,7 +6886,7 @@
         "0938-AW08"
       ],
       "significant": null,
-      "comments_count": 743,
+      "comments_count": 924,
       "docket_id": "CMS-2026-3037"
     },
     {
@@ -6841,7 +6924,7 @@
         "0579-AE77"
       ],
       "significant": true,
-      "comments_count": 11,
+      "comments_count": 12,
       "docket_id": "APHIS-2023-0069"
     },
     {
@@ -6917,7 +7000,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 3965,
+      "comments_count": 4070,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -6955,7 +7038,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 315,
+      "comments_count": 330,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -7138,7 +7221,7 @@
         "0648-BN92"
       ],
       "significant": false,
-      "comments_count": 440,
+      "comments_count": 461,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     {
@@ -7194,7 +7277,7 @@
         "3206-XXXX"
       ],
       "significant": null,
-      "comments_count": 177,
+      "comments_count": 178,
       "docket_id": "OPM-2026-0661"
     },
     {
@@ -7261,7 +7344,7 @@
         "2120-AM13"
       ],
       "significant": false,
-      "comments_count": 41,
+      "comments_count": 57,
       "docket_id": "FAA-2026-10991"
     },
     {
@@ -7326,46 +7409,8 @@
         "1685-AA47"
       ],
       "significant": null,
-      "comments_count": 71,
+      "comments_count": 72,
       "docket_id": "USCBP-2026-1058"
-    },
-    {
-      "title": "Foreign Currency Gain or Loss of Controlled Foreign Corporations",
-      "type": "Proposed Rule",
-      "abstract": "This document contains proposed regulations providing rules relating to the determination and recognition of foreign currency gain or loss with respect to qualified business units (\"QBUs\") of controlled foreign corporations (\"CFCs\"). The proposed regulations provide an election under which a CFC generally would not be required to compute or recognize foreign currency gain or loss upon a remittance from a QBU, except in connection with certain inbound nonrecognition transactions.",
-      "document_number": "2026-16569",
-      "html_url": "https://www.federalregister.gov/documents/2026/08/14/2026-16569/foreign-currency-gain-or-loss-of-controlled-foreign-corporations",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-08-14/pdf/2026-16569.pdf",
-      "publication_date": "2026-08-14",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF THE TREASURY",
-          "name": "Treasury Department",
-          "id": 497,
-          "url": "https://www.federalregister.gov/agencies/treasury-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
-          "parent_id": null,
-          "slug": "treasury-department"
-        },
-        {
-          "raw_name": "Internal Revenue Service",
-          "name": "Internal Revenue Service",
-          "id": 254,
-          "url": "https://www.federalregister.gov/agencies/internal-revenue-service",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/254",
-          "parent_id": 497,
-          "slug": "internal-revenue-service"
-        }
-      ],
-      "comments_close_on": "2026-11-12",
-      "comment_url": "http://www.regulations.gov/commenton/IRS-2026-0958-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1545-BS16"
-      ],
-      "significant": null,
-      "comments_count": 2,
-      "docket_id": "IRS-2026-0958"
     },
     {
       "title": "Substances Generally Recognized as Safe",
@@ -7402,7 +7447,7 @@
         "0910-AJ02"
       ],
       "significant": true,
-      "comments_count": 851,
+      "comments_count": 854,
       "docket_id": "FDA-2025-N-3262"
     }
   ]
