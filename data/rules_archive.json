@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T15:25:17.174755+00:00",
-  "count": 367,
+  "updated_at": "2026-11-14T14:10:41.126877+00:00",
+  "count": 370,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -2433,7 +2433,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 854,
+      "comments_count": 860,
       "docket_id": "FDA-2025-N-3262"
     },
     "2026-16313": {
@@ -4914,7 +4914,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 72,
+      "comments_count": 75,
       "docket_id": "USCBP-2026-1058"
     },
     "2026-17939": {
@@ -5935,7 +5935,8 @@
       "first_seen": "2026-10-03",
       "significant": false,
       "comments_count": 57,
-      "docket_id": "FAA-2026-10991"
+      "docket_id": "FAA-2026-10991",
+      "final_checked": "2026-11-14"
     },
     "2026-18828": {
       "title": "Shared Certificates and Pooled Hiring Actions",
@@ -6033,7 +6034,7 @@
       "significant": false,
       "comments_count": 1,
       "docket_id": "FAA-2026-11287",
-      "final_checked": "2026-11-07"
+      "final_checked": "2026-11-14"
     },
     "2026-18914": {
       "title": "International Traffic in Arms Regulations: Modification of Civil Aircraft To Incorporate Aircraft Survivability Equipment",
@@ -6142,7 +6143,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 24,
+      "comments_count": 27,
       "docket_id": "EPA-HQ-OLEM-2026-4326"
     },
     "2026-19072": {
@@ -6480,7 +6481,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 461,
+      "comments_count": 487,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     "2026-19222": {
@@ -6510,7 +6511,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 11,
+      "comments_count": 14,
       "docket_id": "OPM-2026-0166"
     },
     "2026-19254": {
@@ -6839,7 +6840,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 330,
+      "comments_count": 344,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19350": {
@@ -6878,7 +6879,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 4070,
+      "comments_count": 4134,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19361": {
@@ -7128,7 +7129,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 924,
+      "comments_count": 977,
       "docket_id": "CMS-2026-3037"
     },
     "2026-19546": {
@@ -7158,7 +7159,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 508,
+      "comments_count": 523,
       "docket_id": "SBA-2026-0199"
     },
     "2026-19568": {
@@ -7712,7 +7713,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "DEA-2026-1684"
     },
     "2026-20087": {
@@ -7818,7 +7819,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 21,
+      "comments_count": 22,
       "docket_id": "FWS-HQ-MB-2026-0133"
     },
     "2026-20143": {
@@ -7848,7 +7849,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 188,
+      "comments_count": 189,
       "docket_id": "FTC-2026-1552"
     },
     "2026-20169": {
@@ -7954,7 +7955,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 238,
+      "comments_count": 243,
       "docket_id": "NPS-2026-0199"
     },
     "2026-20277": {
@@ -7993,7 +7994,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 22542,
+      "comments_count": 22555,
       "docket_id": "IRS-2026-1354"
     },
     "2026-20296": {
@@ -8814,7 +8815,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 296,
+      "comments_count": 301,
       "docket_id": "CMS-2026-3235",
       "first_seen": "2026-10-08"
     },
@@ -8853,7 +8854,7 @@
         "1685-AA38"
       ],
       "significant": null,
-      "comments_count": 22,
+      "comments_count": 23,
       "docket_id": "USCBP-2026-0298",
       "first_seen": "2026-10-08"
     },
@@ -9081,7 +9082,8 @@
       "significant": null,
       "comments_count": 1105,
       "docket_id": "USCIS-2026-0529",
-      "first_seen": "2026-10-25"
+      "first_seen": "2026-10-25",
+      "final_checked": "2026-11-14"
     },
     "2026-20956": {
       "title": "Removing 30-Day Refugee Termination Notice",
@@ -9141,7 +9143,8 @@
       "significant": null,
       "comments_count": 6,
       "docket_id": "EPA-HQ-OPPT-2026-7327",
-      "first_seen": "2026-10-25"
+      "first_seen": "2026-10-25",
+      "final_checked": "2026-11-14"
     },
     "2026-20979": {
       "title": "Food Additives Permitted in Feed and Drinking Water of Animals; Chromium Propionate",
@@ -9275,7 +9278,8 @@
       "significant": null,
       "comments_count": 2,
       "docket_id": "ACF-2026-0826",
-      "first_seen": "2026-10-25"
+      "first_seen": "2026-10-25",
+      "final_checked": "2026-11-14"
     },
     "2026-21030": {
       "title": "AP1000 Design Certification Renewal",
@@ -9335,7 +9339,8 @@
       "significant": null,
       "comments_count": 6,
       "docket_id": "NRC-2026-2377",
-      "first_seen": "2026-10-25"
+      "first_seen": "2026-10-25",
+      "final_checked": "2026-11-14"
     },
     "2026-21037": {
       "title": "Investment Company Cross Trading",
@@ -9402,7 +9407,7 @@
         "1545-BS15"
       ],
       "significant": null,
-      "comments_count": 7,
+      "comments_count": 8,
       "docket_id": "IRS-2026-1420",
       "first_seen": "2026-10-25"
     },
@@ -9458,7 +9463,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "DOJ_FRDOC_0001",
       "first_seen": "2026-10-25"
     },
@@ -9486,7 +9491,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 5,
+      "comments_count": 6,
       "docket_id": "FMC-2026-0463",
       "first_seen": "2026-10-25"
     },
@@ -9712,7 +9717,7 @@
         "2060-AX09"
       ],
       "significant": null,
-      "comments_count": 78,
+      "comments_count": 136,
       "docket_id": "EPA-HQ-OAR-2024-0505",
       "first_seen": "2026-10-25"
     },
@@ -9751,7 +9756,7 @@
         "0648-BO61"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "NOAA_FRDOC_0001",
       "first_seen": "2026-10-25"
     },
@@ -9960,7 +9965,7 @@
         "3038-AF81"
       ],
       "significant": null,
-      "comments_count": 9,
+      "comments_count": 11,
       "docket_id": "CFTC-2026-2214",
       "first_seen": "2026-10-25"
     },
@@ -9990,7 +9995,7 @@
         "3038-AF82"
       ],
       "significant": null,
-      "comments_count": 13,
+      "comments_count": 15,
       "docket_id": "CFTC-2026-2213",
       "first_seen": "2026-10-25"
     },
@@ -10057,7 +10062,7 @@
         "0938-AV88"
       ],
       "significant": null,
-      "comments_count": 25,
+      "comments_count": 27,
       "docket_id": "CMS-2026-3533",
       "first_seen": "2026-10-25"
     },
@@ -10223,7 +10228,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "FTC-2026-1618",
       "first_seen": "2026-10-25"
     },
@@ -10376,7 +10381,7 @@
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": 17,
+      "comments_count": 18,
       "docket_id": "FNA-2026-0496",
       "first_seen": "2026-10-25"
     },
@@ -10480,7 +10485,7 @@
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": 109,
+      "comments_count": 117,
       "docket_id": "TREAS-DO-2026-0529",
       "first_seen": "2026-10-25"
     },
@@ -10614,7 +10619,7 @@
         "1505-AC94"
       ],
       "significant": null,
-      "comments_count": 23,
+      "comments_count": 24,
       "docket_id": "TREAS-DO-2026-0595",
       "first_seen": "2026-10-25"
     },
@@ -10739,7 +10744,7 @@
         "0938-AW03"
       ],
       "significant": null,
-      "comments_count": 34,
+      "comments_count": 35,
       "docket_id": "CMS-2026-3367",
       "first_seen": "2026-10-27"
     },
@@ -10882,7 +10887,7 @@
         "2060-AW73"
       ],
       "significant": true,
-      "comments_count": 154,
+      "comments_count": 164,
       "docket_id": "EPA-HQ-OAR-2025-0163",
       "first_seen": "2026-10-29"
     },
@@ -11210,7 +11215,7 @@
         "2137-AF45"
       ],
       "significant": true,
-      "comments_count": 4,
+      "comments_count": 6,
       "docket_id": "PHMSA-2019-0091",
       "first_seen": "2026-11-03"
     },
@@ -11538,7 +11543,7 @@
         "0584-AE85"
       ],
       "significant": true,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "FNA-2026-0595",
       "first_seen": "2026-11-06"
     },
@@ -11616,7 +11621,7 @@
         "0938-AV83"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "CMS-2026-2344",
       "first_seen": "2026-11-07"
     },
@@ -11772,7 +11777,7 @@
         "0938-AW04"
       ],
       "significant": null,
-      "comments_count": 5429,
+      "comments_count": 6609,
       "docket_id": "CMS-2026-3631",
       "first_seen": "2026-11-10"
     },
@@ -11811,7 +11816,7 @@
         "0648-BN99"
       ],
       "significant": null,
-      "comments_count": 1484,
+      "comments_count": 1655,
       "docket_id": "NOAA-NMFS-2026-2410",
       "first_seen": "2026-11-09"
     },
@@ -12028,7 +12033,7 @@
         "1205-AC31"
       ],
       "significant": null,
-      "comments_count": 7,
+      "comments_count": 9,
       "docket_id": "ETA-2026-0100",
       "first_seen": "2026-11-10"
     },
@@ -12067,7 +12072,7 @@
         "0584-AF10"
       ],
       "significant": true,
-      "comments_count": 1019,
+      "comments_count": 1222,
       "docket_id": "FNA-2026-0661",
       "first_seen": "2026-11-10"
     },
@@ -12180,7 +12185,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "FDA-2026-N-12508",
       "first_seen": "2026-11-11"
     },
@@ -12297,7 +12302,7 @@
         "0596-AD75"
       ],
       "significant": null,
-      "comments_count": 93,
+      "comments_count": 120,
       "docket_id": "FS-2026-0199",
       "first_seen": "2026-11-11"
     },
@@ -12336,7 +12341,7 @@
         "1219-AC22"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 14,
       "docket_id": "MSHA-2026-0200",
       "first_seen": "2026-11-11"
     },
@@ -12440,7 +12445,7 @@
         "0579-AE93"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 61,
       "docket_id": "APHIS-2026-0067",
       "first_seen": "2026-11-13"
     },
@@ -12488,9 +12493,117 @@
         "1082-AA05"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 2,
       "docket_id": "BSEE_FRDOC_0001",
       "first_seen": "2026-11-13"
+    },
+    "2026-23220": {
+      "title": "Dole State and Tribal Outreach Grant Program",
+      "type": "Proposed Rule",
+      "abstract": "The Department of Veterans Affairs (VA) is proposing regulations to implement the Dole State and Tribal Outreach Grant Program (DSTOGP), as authorized under the Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act. This program aids veterans and their families by awarding funding to eligible organizations to carry out programs to improve covered outreach and assistance to ensure that veterans and their families are fully informed about, and assisted in applying for, any veterans and veterans-related benefits and programs (including veterans programs of a State or Indian Tribe) for which they may be eligible.",
+      "document_number": "2026-23220",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/16/2026-23220/dole-state-and-tribal-outreach-grant-program",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-16/pdf/2026-23220.pdf",
+      "publication_date": "2026-11-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF VETERANS AFFAIRS",
+          "name": "Veterans Affairs Department",
+          "id": 520,
+          "url": "https://www.federalregister.gov/agencies/veterans-affairs-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/520",
+          "parent_id": null,
+          "slug": "veterans-affairs-department"
+        }
+      ],
+      "comments_close_on": "2026-12-16",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2900-AS68"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-11-14"
+    },
+    "2026-23228": {
+      "title": "Castle Mountains National Monument and Craters of the Moon National Monument; Hunting",
+      "type": "Proposed Rule",
+      "abstract": "The National Park Service (NPS) proposes to promulgate special regulations to allow hunting in Castle Mountains National Monument and Craters of the Moon National Monument. The regulations would recognize the authority of the States to manage wildlife while also allowing for appropriate management of hunting by the NPS to protect public health and safety, objects of historic and scientific interest that the Monuments were established to protect, and endangered or threatened species. Allowing hunting in these National Monuments is directed by Executive Order 14429, \"Reinvigorating America's Hunting Heritage,\" and advances the policy of the Trump Administration to reinvigorate, protect, and expand America's hunting heritage to benefit our people and our land.",
+      "document_number": "2026-23228",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/16/2026-23228/castle-mountains-national-monument-and-craters-of-the-moon-national-monument-hunting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-16/pdf/2026-23228.pdf",
+      "publication_date": "2026-11-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "National Park Service",
+          "name": "National Park Service",
+          "id": 362,
+          "url": "https://www.federalregister.gov/agencies/national-park-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/362",
+          "parent_id": 253,
+          "slug": "national-park-service"
+        }
+      ],
+      "comments_close_on": "2026-12-16",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1024-AF13"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-11-14"
+    },
+    "2026-23239": {
+      "title": "Federal Motor Vehicle Safety Standards; Modernization of FMVSS No. 108 To Accommodate ADS-Equipped Vehicles",
+      "type": "Proposed Rule",
+      "abstract": "In response to requests from the Alliance for Automotive Innovation (the Alliance), Society of Automotive Engineers (SAE) International, and Gatik AI Inc. (Gatik), NHTSA is announcing a 15-day extension of the public comment period for the notice of proposed rulemaking (NPRM) published on October 26, 2026 proposing to amend Federal Motor Vehicle Safety Standard (FMVSS) No. 108, \"Lamps, reflective devices, and associated equipment.\" The proposed modifications would distinguish how regulations apply to vehicles with and without manually operated driving controls. The comment period for the notice was originally scheduled to end on November 25, 2026. It will now end on December 10, 2026.",
+      "document_number": "2026-23239",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/16/2026-23239/federal-motor-vehicle-safety-standards-modernization-of-fmvss-no-108-to-accommodate-ads-equipped",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-16/pdf/2026-23239.pdf",
+      "publication_date": "2026-11-16",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "National Highway Traffic Safety Administration",
+          "name": "National Highway Traffic Safety Administration",
+          "id": 345,
+          "url": "https://www.federalregister.gov/agencies/national-highway-traffic-safety-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/345",
+          "parent_id": 492,
+          "slug": "national-highway-traffic-safety-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-10",
+      "comment_url": null,
+      "effective_on": "2026-10-26",
+      "regulation_id_numbers": [
+        "2127-AM70"
+      ],
+      "significant": true,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-11-14"
     },
     "C1-2026-20360": {
       "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",
