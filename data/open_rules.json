@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T14:10:41.126877+00:00",
-  "as_of": "2026-11-14",
+  "updated_at": "2026-11-15T14:46:32.104228+00:00",
+  "as_of": "2026-11-15",
   "count": 215,
   "documents": [
     {
@@ -434,7 +434,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "EPA-R10-OAR-2026-2972"
     },
     {
@@ -586,7 +586,7 @@
         "0579-AE93"
       ],
       "significant": null,
-      "comments_count": 61,
+      "comments_count": 90,
       "docket_id": "APHIS-2026-0067"
     },
     {
@@ -763,7 +763,7 @@
         "1219-AC22"
       ],
       "significant": null,
-      "comments_count": 14,
+      "comments_count": 16,
       "docket_id": "MSHA-2026-0200"
     },
     {
@@ -801,7 +801,7 @@
         "0596-AD75"
       ],
       "significant": null,
-      "comments_count": 120,
+      "comments_count": 144,
       "docket_id": "FS-2026-0199"
     },
     {
@@ -1014,7 +1014,7 @@
         "0584-AF09"
       ],
       "significant": null,
-      "comments_count": 24,
+      "comments_count": 26,
       "docket_id": "FNA-2026-0628"
     },
     {
@@ -1052,7 +1052,7 @@
         "0584-AF10"
       ],
       "significant": true,
-      "comments_count": 1222,
+      "comments_count": 1295,
       "docket_id": "FNA-2026-0661"
     },
     {
@@ -1166,7 +1166,7 @@
         "1205-AC31"
       ],
       "significant": null,
-      "comments_count": 9,
+      "comments_count": 10,
       "docket_id": "ETA-2026-0100"
     },
     {
@@ -1314,7 +1314,7 @@
         "1004-AF53"
       ],
       "significant": null,
-      "comments_count": 153,
+      "comments_count": 335,
       "docket_id": "BLM-2026-0298"
     },
     {
@@ -1352,7 +1352,7 @@
         "0938-AW04"
       ],
       "significant": null,
-      "comments_count": 6609,
+      "comments_count": 6923,
       "docket_id": "CMS-2026-3631"
     },
     {
@@ -1453,7 +1453,7 @@
         "0648-BN99"
       ],
       "significant": null,
-      "comments_count": 1655,
+      "comments_count": 1751,
       "docket_id": "NOAA-NMFS-2026-2410"
     },
     {
@@ -1529,7 +1529,7 @@
         "2120-AM43"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "FAA-2026-9937"
     },
     {
@@ -1963,7 +1963,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 28,
+      "comments_count": 31,
       "docket_id": "ED-2026-OS-3169"
     },
     {
@@ -2601,7 +2601,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 1,
+      "comments_count": 0,
       "docket_id": "FAA-2026-11820"
     },
     {
@@ -2630,7 +2630,7 @@
         "2070-AB27"
       ],
       "significant": false,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "EPA-HQ-OPPT-2026-5974"
     },
     {
@@ -2883,7 +2883,7 @@
         "2060-AW73"
       ],
       "significant": true,
-      "comments_count": 164,
+      "comments_count": 167,
       "docket_id": "EPA-HQ-OAR-2025-0163"
     },
     {
@@ -3011,7 +3011,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 46,
+      "comments_count": 47,
       "docket_id": "COLC-2026-0199"
     },
     {
@@ -3396,7 +3396,7 @@
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": 52,
+      "comments_count": 53,
       "docket_id": "NHTSA-2026-1519"
     },
     {
@@ -3434,7 +3434,7 @@
         "1505-AC94"
       ],
       "significant": null,
-      "comments_count": 24,
+      "comments_count": 25,
       "docket_id": "TREAS-DO-2026-0595"
     },
     {
@@ -3528,7 +3528,7 @@
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": 117,
+      "comments_count": 120,
       "docket_id": "TREAS-DO-2026-0529"
     },
     {
@@ -3638,7 +3638,7 @@
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": 18,
+      "comments_count": 19,
       "docket_id": "FNA-2026-0496"
     },
     {
@@ -3842,7 +3842,7 @@
         "3133-AG21"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "NCUA-2026-1886"
     },
     {
@@ -4052,7 +4052,7 @@
         "0938-AV88"
       ],
       "significant": null,
-      "comments_count": 27,
+      "comments_count": 28,
       "docket_id": "CMS-2026-3533"
     },
     {
@@ -4146,7 +4146,7 @@
         "3038-AF82"
       ],
       "significant": null,
-      "comments_count": 15,
+      "comments_count": 17,
       "docket_id": "CFTC-2026-2213"
     },
     {
@@ -4527,7 +4527,7 @@
         "0648-BO61"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "NOAA_FRDOC_0001"
     },
     {
@@ -4556,7 +4556,7 @@
         "2060-AX09"
       ],
       "significant": null,
-      "comments_count": 136,
+      "comments_count": 147,
       "docket_id": "EPA-HQ-OAR-2024-0505"
     },
     {
@@ -4811,7 +4811,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "FMC-2026-0463"
     },
     {
@@ -5245,7 +5245,7 @@
         "1651-AB60"
       ],
       "significant": true,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "USCBP-2026-0992"
     },
     {
@@ -5585,7 +5585,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 301,
+      "comments_count": 305,
       "docket_id": "CMS-2026-3235"
     },
     {
@@ -5990,7 +5990,7 @@
         "1545-BR97"
       ],
       "significant": null,
-      "comments_count": 22555,
+      "comments_count": 23154,
       "docket_id": "IRS-2026-1354"
     },
     {
@@ -6028,7 +6028,7 @@
         "1024-AE54"
       ],
       "significant": false,
-      "comments_count": 243,
+      "comments_count": 244,
       "docket_id": "NPS-2026-0199"
     },
     {
@@ -6095,7 +6095,7 @@
         "3084-AB90"
       ],
       "significant": null,
-      "comments_count": 189,
+      "comments_count": 190,
       "docket_id": "FTC-2026-1552"
     },
     {
@@ -6352,7 +6352,7 @@
         "1545-BR91"
       ],
       "significant": null,
-      "comments_count": 132,
+      "comments_count": 134,
       "docket_id": "IRS-2026-1321"
     },
     {
@@ -6799,7 +6799,7 @@
         "3245-AI67"
       ],
       "significant": null,
-      "comments_count": 523,
+      "comments_count": 529,
       "docket_id": "SBA-2026-0199"
     },
     {
@@ -6837,7 +6837,7 @@
         "0938-AW08"
       ],
       "significant": null,
-      "comments_count": 977,
+      "comments_count": 986,
       "docket_id": "CMS-2026-3037"
     },
     {
@@ -6951,7 +6951,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 4134,
+      "comments_count": 4190,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -6989,7 +6989,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 344,
+      "comments_count": 350,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -7172,7 +7172,7 @@
         "0648-BN92"
       ],
       "significant": false,
-      "comments_count": 487,
+      "comments_count": 505,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     {
@@ -7199,7 +7199,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 27,
+      "comments_count": 29,
       "docket_id": "EPA-HQ-OLEM-2026-4326"
     },
     {
@@ -7257,7 +7257,7 @@
         "3206-AO24"
       ],
       "significant": true,
-      "comments_count": 4,
+      "comments_count": 6,
       "docket_id": "OPM-2017-0004"
     },
     {
@@ -7360,7 +7360,7 @@
         "0910-AJ02"
       ],
       "significant": true,
-      "comments_count": 860,
+      "comments_count": 1117,
       "docket_id": "FDA-2025-N-3262"
     }
   ]
