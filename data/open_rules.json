@@ -1,8 +1,303 @@
 {
-  "updated_at": "2026-11-16T17:03:47.221428+00:00",
-  "as_of": "2026-11-16",
-  "count": 215,
+  "updated_at": "2026-11-17T16:54:08.905201+00:00",
+  "as_of": "2026-11-17",
+  "count": 209,
   "documents": [
+    {
+      "title": "Modernizing to Electronic Payments",
+      "type": "Proposed Rule",
+      "abstract": "FAA proposes to modernize its payment systems to require electronic payments and eliminate the option to pay by paper payment methods such as cash, money orders, and paper checks. This proposal complies with Executive Order 14247 titled \"Modernizing Payments To and From America's Bank Account,\" which seeks to increase the efficiency of the Federal Government by phasing out paper receipts and mandating electronic payments to and from agencies.",
+      "document_number": "2026-23397",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/17/2026-23397/modernizing-to-electronic-payments",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-17/pdf/2026-23397.pdf",
+      "publication_date": "2026-11-17",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-04",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-3538-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AM16"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-3538"
+    },
+    {
+      "title": "Airworthiness Directives; Daher Aircraft, SAS",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2015-17-10, which applies to certain SOCATA (type certificate currently held by Daher Aircraft, SAS) (Daher) Model TBM 700 airplanes. AD 2015- 17-10 requires repetitively inspecting the forging body of the main landing gear (MLG) for cracks and, depending on findings, performing corrective actions. AD 2015-17-10 allows for replacement of affected MLG with a reinforced landing gear as a terminating action for repetitive inspections. Since the FAA issued AD 2015-17-10, additional MLG serviceable parts have been developed, and it has been determined that dye penetrant is no longer an authorized inspection method. This proposed AD would continue to require the actions of AD 2015-17-10, add the additional serviceable parts, and eliminate the option of using dye penetrant as an inspection method. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-23372",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/17/2026-23372/airworthiness-directives-daher-aircraft-sas",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-17/pdf/2026-23372.pdf",
+      "publication_date": "2026-11-17",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-04",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-13817-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-13817"
+    },
+    {
+      "title": "Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program",
+      "type": "Proposed Rule",
+      "abstract": "The Department of Labor (Department or DOL) proposes to amend its regulations regarding the certification of job opportunities offered by employers seeking to employ aliens on a permanent basis in the United States. This Notice of Proposed Rulemaking (NPRM or proposed rule) strengthens the standards by which the Department receives and reviews employers' applications for permanent labor certification and improves the integrity of the overall employment-based immigrant visa program to more effectively protect the wages and job opportunities of U.S. workers similarly employed in the United States. Among the issues addressed in this proposed rule are eliminating further administration of Schedule A, which exempts certain job opportunities from the statutorily required labor market test; strengthening the minimum standards of recruitment to ensure all employers seeking labor certification access the broadest pool of high-quality U.S. workers using the latest technologies and methods; enhancing safeguards for U.S. workers impacted by layoffs, including those laid off by employers using third-party staffing companies and establishing standards for employers to report layoffs; expanding requirements for employers to provide U.S. workers with notice of filing (NOF) applications for permanent labor certification; improving employer compliance with program requirements and consideration of qualified U.S. workers that is comparable to job opportunities for which permanent labor certification is not required; and codifying the Department's practice of electronically receiving, processing, and issuing final determinations on employer requests for prevailing wages and permanent labor certifications. The changes in this proposed rule are consistent with the Secretary of Labor's (Secretary) statutory responsibilities to certify that there are not sufficient workers in the United States who are able, willing, qualified, and available to fill the petitioning employer's job opportunity at the time of application for a visa and admission to the United States, and that the employment of such alien will not adversely affect the wages and working conditions of similarly employed workers in the United States.",
+      "document_number": "2026-23370",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-17/pdf/2026-23370.pdf",
+      "publication_date": "2026-11-17",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Employment and Training Administration",
+          "name": "Employment and Training Administration",
+          "id": 133,
+          "url": "https://www.federalregister.gov/agencies/employment-and-training-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/133",
+          "parent_id": 271,
+          "slug": "employment-and-training-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-19",
+      "comment_url": "http://www.regulations.gov/commenton/ETA-2026-0133-0002",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1205-AC29"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "ETA-2026-0133"
+    },
+    {
+      "title": "Discontinuing Premium Collection From Policyholders on Certain National Service Life Insurance Policies",
+      "type": "Proposed Rule",
+      "abstract": "The Department of Veterans Affairs (VA) is proposing to amend its National Service Life Insurance (NSLI) regulations to cease collecting premiums from veterans with NSLI policies identified by the prefixes \"V,\" \"J,\" and \"JR.\" VA has determined there are sufficient financial resources to cover the remaining active policies, enabling veterans to benefit from continued coverage without having to pay future premiums. These programs cover predominantly World War II- era veterans.",
+      "document_number": "2026-23364",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/17/2026-23364/discontinuing-premium-collection-from-policyholders-on-certain-national-service-life-insurance",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-17/pdf/2026-23364.pdf",
+      "publication_date": "2026-11-17",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF VETERANS AFFAIRS",
+          "name": "Veterans Affairs Department",
+          "id": 520,
+          "url": "https://www.federalregister.gov/agencies/veterans-affairs-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/520",
+          "parent_id": null,
+          "slug": "veterans-affairs-department"
+        }
+      ],
+      "comments_close_on": "2026-12-17",
+      "comment_url": "http://www.regulations.gov/commenton/VA-2026-VBA-0430-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2900-AS98"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "VA-2026-VBA-0430"
+    },
+    {
+      "title": "Periodic Reporting",
+      "type": "Proposed Rule",
+      "abstract": "The Commission is acknowledging a recent Postal Service filing requesting the Commission initiate a rulemaking proceeding to consider changes to analytical principles relating to periodic reports. This document informs the public of the filing, invites public comment, and takes other administrative steps.",
+      "document_number": "2026-23363",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/17/2026-23363/periodic-reporting",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-17/pdf/2026-23363.pdf",
+      "publication_date": "2026-11-17",
+      "agencies": [
+        {
+          "raw_name": "POSTAL REGULATORY COMMISSION",
+          "name": "Postal Regulatory Commission",
+          "id": 409,
+          "url": "https://www.federalregister.gov/agencies/postal-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/409",
+          "parent_id": null,
+          "slug": "postal-regulatory-commission"
+        }
+      ],
+      "comments_close_on": "2026-11-27",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
+    },
+    {
+      "title": "Small Business Investment Company (SBIC) Leverage Availability",
+      "type": "Rule",
+      "abstract": "The U.S. Small Business Administration (\"SBA\" or \"Agency\") is publishing this interim final rule (\"IFR\") amending the U.S. Small Business Administration's loan guarantee regulations applicable to the Small Business Investment Company (\"SBIC\") program to implement the provisions of the Investing in All of America Act of 2025 (\"the Investing Act\"). These provisions increase the maximum amount of leverage available to SBICs issuing standard debentures in ratios of up to two-to-one against private capital, update the private capital definition to include certain government-sponsored corporations and college/university trusts or endowments, and grant Small Business Investment Companies access to additional \"bonus\" leverage for investments in critical technology areas, small manufacturers, rural areas, and low-income geographic areas, all in conformance with the Investing Act.",
+      "document_number": "2026-23358",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/17/2026-23358/small-business-investment-company-sbic-leverage-availability",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-17/pdf/2026-23358.pdf",
+      "publication_date": "2026-11-17",
+      "agencies": [
+        {
+          "raw_name": "SMALL BUSINESS ADMINISTRATION",
+          "name": "Small Business Administration",
+          "id": 468,
+          "url": "https://www.federalregister.gov/agencies/small-business-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/468",
+          "parent_id": null,
+          "slug": "small-business-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-17",
+      "comment_url": "http://www.regulations.gov/commenton/SBA-2026-0232-0001",
+      "effective_on": "2026-11-17",
+      "regulation_id_numbers": [
+        "3245-AI77"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "SBA-2026-0232"
+    },
+    {
+      "title": "Rulemaking To Provide That N-acetyl-L-cysteine Is Not Excluded From the Dietary Supplement Definition",
+      "type": "Proposed Rule",
+      "abstract": "The Food and Drug Administration (FDA or we) is proposing to issue a regulation finding that N-acetyl-L-cysteine (NAC) is not excluded from the dietary supplement definition in the Federal Food, Drug, and Cosmetic Act (FD&C Act). This action, if finalized, would allow products containing NAC to be lawfully marketed as dietary supplements, provided that such products are not otherwise in violation of the FD&C Act. We also propose to provide that the addition of NAC to a dietary supplement is not a prohibited act under section 301(ll) of the FD&C Act.",
+      "document_number": "2026-23351",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/17/2026-23351/rulemaking-to-provide-that-n-acetyl-l-cysteine-is-not-excluded-from-the-dietary-supplement",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-17/pdf/2026-23351.pdf",
+      "publication_date": "2026-11-17",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-19",
+      "comment_url": "http://www.regulations.gov/commenton/FDA-2025-N-2699-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0910-AI91"
+      ],
+      "significant": true,
+      "comments_count": 0,
+      "docket_id": "FDA-2025-N-2699"
+    },
+    {
+      "title": "Advisory Committee on Reactor Safeguards Functions",
+      "type": "Rule",
+      "abstract": "The U.S. Nuclear Regulatory Commission (NRC) is amending its regulations in response to section 4.(b) of Executive Order (E.O.) 14300, \"Ordering the Reform of the Nuclear Regulatory Commission.\" Specifically, this direct final rule revises the NRC's regulations to reduce the personnel and functions of the Advisory Committee on Reactor Safeguards (ACRS) to the minimum necessary to fulfill the ACRS's statutory obligations.",
+      "document_number": "2026-23343",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/17/2026-23343/advisory-committee-on-reactor-safeguards-functions",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-17/pdf/2026-23343.pdf",
+      "publication_date": "2026-11-17",
+      "agencies": [
+        {
+          "raw_name": "NUCLEAR REGULATORY COMMISSION",
+          "name": "Nuclear Regulatory Commission",
+          "id": 383,
+          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
+          "parent_id": null,
+          "slug": "nuclear-regulatory-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-17",
+      "comment_url": "http://www.regulations.gov/commenton/NRC-2025-0974-0001",
+      "effective_on": "2027-02-01",
+      "regulation_id_numbers": [
+        "3150-AL43"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "NRC-2025-0974"
+    },
+    {
+      "title": "Advisory Committee on Reactor Safeguards Functions",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Nuclear Regulatory Commission (NRC) is proposing to amend its regulations in response to Section 4.(b) of Executive Order (E.O.) 14300, \"Ordering the Reform of the Nuclear Regulatory Commission.\" Specifically, this proposed rule revises the NRC's regulations to reduce the personnel and functions of the Advisory Committee on Reactor Safeguards (ACRS) to the minimum necessary to fulfill the ACRS's statutory obligations.",
+      "document_number": "2026-23342",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/17/2026-23342/advisory-committee-on-reactor-safeguards-functions",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-17/pdf/2026-23342.pdf",
+      "publication_date": "2026-11-17",
+      "agencies": [
+        {
+          "raw_name": "NUCLEAR REGULATORY COMMISSION",
+          "name": "Nuclear Regulatory Commission",
+          "id": 383,
+          "url": "https://www.federalregister.gov/agencies/nuclear-regulatory-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/383",
+          "parent_id": null,
+          "slug": "nuclear-regulatory-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-17",
+      "comment_url": "http://www.regulations.gov/commenton/NRC-2025-0974-0002",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3150-AL43"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "NRC-2025-0974"
+    },
     {
       "title": "Fisheries of the Exclusive Economic Zone off Alaska; Pelagic Trawl Gear Definition",
       "type": "Proposed Rule",
@@ -32,14 +327,14 @@
         }
       ],
       "comments_close_on": "2026-12-16",
-      "comment_url": "http://www.regulations.gov/commenton/NOAA_FRDOC_0001-7727",
+      "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2026-0397-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "0648-BO04"
       ],
       "significant": null,
-      "comments_count": 0,
-      "docket_id": "NOAA_FRDOC_0001"
+      "comments_count": 1,
+      "docket_id": "NOAA-NMFS-2026-0397"
     },
     {
       "title": "Federal Motor Vehicle Safety Standards; Modernization of FMVSS No. 108 To Accommodate ADS-Equipped Vehicles",
@@ -70,14 +365,14 @@
         }
       ],
       "comments_close_on": "2026-12-10",
-      "comment_url": "http://www.regulations.gov/commenton/NHTSA_FRDOC_0001-3052",
+      "comment_url": "http://www.regulations.gov/commenton/NHTSA-2026-1519-0057",
       "effective_on": "2026-10-26",
       "regulation_id_numbers": [
         "2127-AM70"
       ],
       "significant": true,
       "comments_count": 0,
-      "docket_id": "NHTSA_FRDOC_0001"
+      "docket_id": "NHTSA-2026-1519"
     },
     {
       "title": "Air Plan Approval; AK; Fairbanks PM2.5 Boundary Redesignation and Clean Data Determination",
@@ -103,7 +398,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "EPA-R10-OAR-2026-8551"
     },
     {
@@ -135,14 +430,14 @@
         }
       ],
       "comments_close_on": "2026-12-31",
-      "comment_url": "http://www.regulations.gov/commenton/FAA_FRDOC_0001-28626",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-13815-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
-      "docket_id": "FAA_FRDOC_0001"
+      "comments_count": 1,
+      "docket_id": "FAA-2026-13815"
     },
     {
       "title": "Castle Mountains National Monument and Craters of the Moon National Monument; Hunting",
@@ -179,7 +474,7 @@
         "1024-AF13"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 4,
       "docket_id": "NPS-2026-0265"
     },
     {
@@ -208,7 +503,7 @@
         "2900-AS68"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 4,
       "docket_id": "VA-2026-VBA-0397"
     },
     {
@@ -240,14 +535,14 @@
         }
       ],
       "comments_close_on": "2026-12-31",
-      "comment_url": "http://www.regulations.gov/commenton/FAA_FRDOC_0001-28628",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-13816-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
-      "docket_id": "FAA_FRDOC_0001"
+      "comments_count": 1,
+      "docket_id": "FAA-2026-13816"
     },
     {
       "title": "Airworthiness Directives; Airbus Helicopters",
@@ -278,14 +573,14 @@
         }
       ],
       "comments_close_on": "2026-12-31",
-      "comment_url": "http://www.regulations.gov/commenton/FAA_FRDOC_0001-28625",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-13814-0001",
       "effective_on": null,
       "regulation_id_numbers": [
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
-      "docket_id": "FAA_FRDOC_0001"
+      "comments_count": 1,
+      "docket_id": "FAA-2026-13814"
     },
     {
       "title": "Airworthiness Directives; The Boeing Company Airplanes",
@@ -369,7 +664,7 @@
         "1082-AA05"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 7,
       "docket_id": "BSEE-2026-0133"
     },
     {
@@ -586,7 +881,7 @@
         "0579-AE93"
       ],
       "significant": null,
-      "comments_count": 103,
+      "comments_count": 119,
       "docket_id": "APHIS-2026-0067"
     },
     {
@@ -763,7 +1058,7 @@
         "1219-AC22"
       ],
       "significant": null,
-      "comments_count": 17,
+      "comments_count": 20,
       "docket_id": "MSHA-2026-0200"
     },
     {
@@ -801,7 +1096,7 @@
         "0596-AD75"
       ],
       "significant": null,
-      "comments_count": 155,
+      "comments_count": 164,
       "docket_id": "FS-2026-0199"
     },
     {
@@ -1014,7 +1309,7 @@
         "0584-AF09"
       ],
       "significant": null,
-      "comments_count": 27,
+      "comments_count": 29,
       "docket_id": "FNA-2026-0628"
     },
     {
@@ -1052,7 +1347,7 @@
         "0584-AF10"
       ],
       "significant": true,
-      "comments_count": 1342,
+      "comments_count": 1431,
       "docket_id": "FNA-2026-0661"
     },
     {
@@ -1166,7 +1461,7 @@
         "1205-AC31"
       ],
       "significant": null,
-      "comments_count": 10,
+      "comments_count": 15,
       "docket_id": "ETA-2026-0100"
     },
     {
@@ -1314,7 +1609,7 @@
         "1004-AF53"
       ],
       "significant": null,
-      "comments_count": 416,
+      "comments_count": 485,
       "docket_id": "BLM-2026-0298"
     },
     {
@@ -1352,7 +1647,7 @@
         "0938-AW04"
       ],
       "significant": null,
-      "comments_count": 7218,
+      "comments_count": 7803,
       "docket_id": "CMS-2026-3631"
     },
     {
@@ -1453,7 +1748,7 @@
         "0648-BN99"
       ],
       "significant": null,
-      "comments_count": 1821,
+      "comments_count": 2055,
       "docket_id": "NOAA-NMFS-2026-2410"
     },
     {
@@ -1963,7 +2258,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 31,
+      "comments_count": 32,
       "docket_id": "ED-2026-OS-3169"
     },
     {
@@ -2536,7 +2831,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "FAA-2026-11819"
     },
     {
@@ -2883,7 +3178,7 @@
         "2060-AW73"
       ],
       "significant": true,
-      "comments_count": 172,
+      "comments_count": 192,
       "docket_id": "EPA-HQ-OAR-2025-0163"
     },
     {
@@ -3011,7 +3306,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 49,
+      "comments_count": 51,
       "docket_id": "COLC-2026-0199"
     },
     {
@@ -3396,7 +3691,7 @@
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": 54,
+      "comments_count": 55,
       "docket_id": "NHTSA-2026-1519"
     },
     {
@@ -3434,7 +3729,7 @@
         "1505-AC94"
       ],
       "significant": null,
-      "comments_count": 27,
+      "comments_count": 29,
       "docket_id": "TREAS-DO-2026-0595"
     },
     {
@@ -3528,7 +3823,7 @@
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": 121,
+      "comments_count": 147,
       "docket_id": "TREAS-DO-2026-0529"
     },
     {
@@ -3638,7 +3933,7 @@
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": 19,
+      "comments_count": 21,
       "docket_id": "FNA-2026-0496"
     },
     {
@@ -4052,7 +4347,7 @@
         "0938-AV88"
       ],
       "significant": null,
-      "comments_count": 28,
+      "comments_count": 30,
       "docket_id": "CMS-2026-3533"
     },
     {
@@ -4146,7 +4441,7 @@
         "3038-AF82"
       ],
       "significant": null,
-      "comments_count": 20,
+      "comments_count": 40,
       "docket_id": "CFTC-2026-2213"
     },
     {
@@ -4175,7 +4470,7 @@
         "3038-AF81"
       ],
       "significant": null,
-      "comments_count": 11,
+      "comments_count": 30,
       "docket_id": "CFTC-2026-2214"
     },
     {
@@ -4408,7 +4703,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "EPA-R09-OAR-2024-0600"
     },
     {
@@ -4435,7 +4730,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "EPA-R09-OAR-2026-5119"
     },
     {
@@ -4462,7 +4757,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "EPA-R09-OAR-2026-5581"
     },
     {
@@ -4493,44 +4788,6 @@
       "docket_id": null
     },
     {
-      "title": "Fishery Management Plans of St. Croix and St. Thomas and St. John; Spiny Lobster Management Measures",
-      "type": "Proposed Rule",
-      "abstract": "NMFS proposes regulations to implement Framework Action 4 under both the St. Croix Fishery Management Plan (FMP) and the St. Thomas and St. John FMP, as prepared by the Caribbean Fishery Management Council (Council). The proposed rule would update annual catch limits (ACLs) for spiny lobster in St. Croix and in St. Thomas and St. John. The purpose of this proposed rule and Framework Action 4 is to update management reference points for spiny lobster consistent with the most recent stock assessments to prevent overfishing and achieve optimum yield (OY).",
-      "document_number": "2026-21205",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/16/2026-21205/fishery-management-plans-of-st-croix-and-st-thomas-and-st-john-spiny-lobster-management-measures",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-16/pdf/2026-21205.pdf",
-      "publication_date": "2026-10-16",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF COMMERCE",
-          "name": "Commerce Department",
-          "id": 54,
-          "url": "https://www.federalregister.gov/agencies/commerce-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
-          "parent_id": null,
-          "slug": "commerce-department"
-        },
-        {
-          "raw_name": "National Oceanic and Atmospheric Administration",
-          "name": "National Oceanic and Atmospheric Administration",
-          "id": 361,
-          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
-          "parent_id": 54,
-          "slug": "national-oceanic-and-atmospheric-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2026-2146-0003",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "0648-BO61"
-      ],
-      "significant": null,
-      "comments_count": 4,
-      "docket_id": "NOAA-NMFS-2026-2146"
-    },
-    {
       "title": "Renewable Fuel Standard (RFS) Program: Reallocation of Additional 2025 Small Refinery Exemptions",
       "type": "Proposed Rule",
       "abstract": "The U.S. Environmental Protection Agency (EPA) is co-proposing two approaches to revising the existing 2026 and 2027 small refinery exemption (SRE) reallocation volumes under the Renewable Fuel Standard (RFS) program in response to a higher volume of 2025 SREs than previously projected when the Agency set the renewable fuel volumes and percentage standards on April 1, 2026. One approach would reallocate the additional 2025 SRE volume equally between the 2026 and 2027 SRE reallocation volumes, while the other approach would reallocate all the additional 2025 SRE volume to the 2027 SRE reallocation volume. Additionally, given the proposed revision to the 2026 standards, this proposed action may extend the existing 2026 compliance reporting deadline of March 31, 2027.",
@@ -4556,7 +4813,7 @@
         "2060-AX09"
       ],
       "significant": null,
-      "comments_count": 150,
+      "comments_count": 162,
       "docket_id": "EPA-HQ-OAR-2024-0505"
     },
     {
@@ -4672,35 +4929,6 @@
       "docket_id": "FAA-2026-11812"
     },
     {
-      "title": "Family and Medical Leave Act",
-      "type": "Rule",
-      "abstract": "The Office of Personnel Management (OPM) is issuing a direct final rule making technical revisions to OPM's Family and Medical Leave Act (FMLA) regulations to incorporate various statutory amendments. The rule reflects statutory changes making virtually all Federal civilian service and certain honorable active military service qualify for determining FMLA eligibility, making clear that annual and sick leave provided under an authority outside of title 5, United States Code, may be substituted for unpaid FMLA leave, and excluding certain Veterans Health Administration (VHA) employees from title 5 FMLA coverage.",
-      "document_number": "2026-21104",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/15/2026-21104/family-and-medical-leave-act",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-15/pdf/2026-21104.pdf",
-      "publication_date": "2026-10-15",
-      "agencies": [
-        {
-          "raw_name": "OFFICE OF PERSONNEL MANAGEMENT",
-          "name": "Personnel Management Office",
-          "id": 406,
-          "url": "https://www.federalregister.gov/agencies/personnel-management-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/406",
-          "parent_id": null,
-          "slug": "personnel-management-office"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/OPM-2026-0463-0001",
-      "effective_on": "2026-12-14",
-      "regulation_id_numbers": [
-        "3206-AP18"
-      ],
-      "significant": null,
-      "comments_count": 4,
-      "docket_id": "OPM-2026-0463"
-    },
-    {
       "title": "Central Liquidity Facility",
       "type": "Proposed Rule",
       "abstract": "The NCUA Board (Board) is proposing to adopt as final the revisions to the Central Liquidity Facility (CLF) rule made under two interim final rules (IFRs) published in the Federal Register on April 29, 2020, and March 24, 2021. The proposal would adopt the amendments made by these IFRs and, where appropriate, would remove provisions from the NCUA's regulations that have lapsed under the terms of the IFRs. The proposal would also remove or modify certain filing requirements and criteria the Board uses to approve CLF members. Finally, the proposal would amend the timing requirements related to pay adjustments to the capital stock subscription, clarify various regulatory provisions, and make necessary conforming edits.",
@@ -4813,60 +5041,6 @@
       "significant": null,
       "comments_count": 7,
       "docket_id": "FMC-2026-0463"
-    },
-    {
-      "title": "Privacy Act of 1974; Implementation",
-      "type": "Proposed Rule",
-      "abstract": "In the Notice section of today's Federal Register, the Executive Office for Immigration Review (EOIR), a component within the United States Department of Justice (DOJ or Department), has published a notice of a new system of records titled \"Fraud and Abuse Prevention Program Records\" and numbered JUSTICE/EOIR-006. This system of records is exempt from U.S.C. 552a(c)(3) and (d) pursuant to 5 U.S.C. 552a (k)(2). EOIR proposes to exempt this system of records from certain provisions of the Privacy Act in order to protect law enforcement sensitive materials maintained in the system. For the reasons provided below, the Department proposes to amend its Privacy Act regulations by exempting records in this system from certain provisions of the Privacy Act. Public comment is invited.",
-      "document_number": "2026-21063",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/15/2026-21063/privacy-act-of-1974-implementation",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-15/pdf/2026-21063.pdf",
-      "publication_date": "2026-10-15",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF JUSTICE",
-          "name": "Justice Department",
-          "id": 268,
-          "url": "https://www.federalregister.gov/agencies/justice-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/268",
-          "parent_id": null,
-          "slug": "justice-department"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/DOJ_FRDOC_0001-0336",
-      "effective_on": null,
-      "regulation_id_numbers": [],
-      "significant": null,
-      "comments_count": 8,
-      "docket_id": "DOJ_FRDOC_0001"
-    },
-    {
-      "title": "Privacy Act of 1974; Implementation",
-      "type": "Proposed Rule",
-      "abstract": "In the Notice section of today's Federal Register, the Office of Justice Programs (OJP), a component within the United States Department of Justice (DOJ or Department), has published a notice of a new system of records, Bureau of Justice Statistics (BJS) Statistical Data, JUSTICE/OJP-017, for the statistical data collections that BJS conducts under 34 U.S.C. 10132. In this notice of proposed rulemaking, the OJP proposes to exempt this system of records from certain provisions of the Privacy Act in order to comply with the confidentiality provisions of 34 U.S.C. 10231 and 34 U.S.C. 30303 and the requirement of 34 U.S.C. 10134 that the data are to be used solely for statistical or research purposes. Additionally, data are to be used for authorized purposes under the Prison Rape Elimination Act of 2003 (PREA; 44 U.S.C. 3563) and the Death in Custody Reporting Act of 2013 (DCRA; Pub. L. 113-242). Consistent with the data use requirements set forth in 34 U.S.C. 10134, no adverse determinations are made from these records as to any identifiable individual. For the reasons provided below, the Department proposes to amend its Privacy Act regulations by establishing an exemption for records in this system from certain provisions of the Privacy Act. Public comment is invited.",
-      "document_number": "2026-21060",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/15/2026-21060/privacy-act-of-1974-implementation",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-15/pdf/2026-21060.pdf",
-      "publication_date": "2026-10-15",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF JUSTICE",
-          "name": "Justice Department",
-          "id": 268,
-          "url": "https://www.federalregister.gov/agencies/justice-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/268",
-          "parent_id": null,
-          "slug": "justice-department"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/DOJ_FRDOC_0001-0335",
-      "effective_on": null,
-      "regulation_id_numbers": [],
-      "significant": null,
-      "comments_count": 4,
-      "docket_id": "DOJ_FRDOC_0001"
     },
     {
       "title": "Premium Tax Credit",
@@ -5169,7 +5343,7 @@
         "3038-AF80"
       ],
       "significant": null,
-      "comments_count": 27,
+      "comments_count": 29,
       "docket_id": "CFTC-2026-2179"
     },
     {
@@ -5585,7 +5759,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 305,
+      "comments_count": 313,
       "docket_id": "CMS-2026-3235"
     },
     {
@@ -5990,7 +6164,7 @@
         "1545-BR97"
       ],
       "significant": null,
-      "comments_count": 24516,
+      "comments_count": 24731,
       "docket_id": "IRS-2026-1354"
     },
     {
@@ -6028,46 +6202,8 @@
         "1024-AE54"
       ],
       "significant": false,
-      "comments_count": 246,
+      "comments_count": 248,
       "docket_id": "NPS-2026-0199"
-    },
-    {
-      "title": "Amendment of Class D and E Airspace, Revocation of Class E Airspace; Montgomery, AL",
-      "type": "Proposed Rule",
-      "abstract": "This action proposes to amend Class D airspace for Maxwell Air Force Base (AFB), Montgomery, AL, by making administrative updates. It also proposes to amend Class E airspace from 700 feet by expanding it by 0.5 NM from a 7-mile to a 7.5-mile radius around Maxwell AFB to contain IFR departures, along with making administrative changes. Finally, it proposes to revoke Class E airspace from the surface around Maxwell AFB, as the airport no longer meets the qualifications for Class E surface area airspace. Controlled airspace is necessary for the safety and management of instrument flight rules (IFR) operations in the area.",
-      "document_number": "2026-20202",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/02/2026-20202/amendment-of-class-d-and-e-airspace-revocation-of-class-e-airspace-montgomery-al",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-02/pdf/2026-20202.pdf",
-      "publication_date": "2026-10-02",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-8948-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA66"
-      ],
-      "significant": false,
-      "comments_count": 0,
-      "docket_id": "FAA-2026-8948"
     },
     {
       "title": "Rule on Impersonation of Government and Businesses",
@@ -6095,7 +6231,7 @@
         "3084-AB90"
       ],
       "significant": null,
-      "comments_count": 191,
+      "comments_count": 193,
       "docket_id": "FTC-2026-1552"
     },
     {
@@ -6133,46 +6269,8 @@
         "1018-BI13"
       ],
       "significant": false,
-      "comments_count": 25,
+      "comments_count": 27,
       "docket_id": "FWS-HQ-MB-2026-0133"
-    },
-    {
-      "title": "Airworthiness Directives; Leonardo S.p.a. Helicopters",
-      "type": "Rule",
-      "abstract": "The FAA is adopting a new airworthiness directive (AD) for certain Leonardo S.p.a. Model AB139 and AW139 helicopters. This AD was prompted by a report of a nozzle exhaust duct clamp separating from the engine nozzle duct and coming to rest on the tail rotor (TR) drive shaft. This AD requires repetitively inspecting certain clamp assemblies and, depending on the results of the inspection, replacing parts. This AD also prohibits the installation of an affected clamp assembly, unless certain requirements are met. The FAA is issuing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-20100",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/01/2026-20100/airworthiness-directives-leonardo-spa-helicopters",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-01/pdf/2026-20100.pdf",
-      "publication_date": "2026-10-01",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11789-0001",
-      "effective_on": "2026-10-16",
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ],
-      "significant": false,
-      "comments_count": 0,
-      "docket_id": "FAA-2026-11789"
     },
     {
       "title": "Clarification of Certain Mariner Training Requirements",
@@ -6280,44 +6378,6 @@
       "docket_id": "DOS-2026-0991"
     },
     {
-      "title": "Airworthiness Directives; Embraer S.A. Airplanes",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2024-05-13, which applied to all Embraer S.A. Model EMB-545 and EMB-550 airplanes. AD 2024-05-13 requires revising the Limitations and Normal Procedures sections of the existing airplane flight manual (AFM) to incorporate new operational airspeed limitations, and flight control limitations and approach procedures when angle of attack (AOA) limiter protection is engaged. AD 2024-05-13 also requires inspecting records for instances of AOA limiter engagement during a certain phase of flight and reporting findings to the FAA. Since the FAA issued AD 2024- 05-13, the manufacturer developed a modification to the flight control computer (FCC) software and related AFM revisions. This proposed AD would continue to require certain actions in AD 2024-05-13. This proposed AD would also require updating the FCC software and incorporating a new revision of the existing AFM, which would terminate the operational airspeed limitations, and flight control limitations and approach procedures when AOA limiter protection is engaged. The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-20076",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/01/2026-20076/airworthiness-directives-embraer-sa-airplanes",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-01/pdf/2026-20076.pdf",
-      "publication_date": "2026-10-01",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11796-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ],
-      "significant": false,
-      "comments_count": 0,
-      "docket_id": "FAA-2026-11796"
-    },
-    {
       "title": "Trump Accounts",
       "type": "Proposed Rule",
       "abstract": "This document contains proposed regulations regarding general requirements for Trump accounts, the establishment of an initial Trump account (including automatic enrollment by the Secretary of the Treasury) and qualified general contributions (including qualified stock contributions), which are a special type of contribution made to Trump accounts. This document also withdraws a prior notice of proposed rulemaking (REG-117270-25) containing proposed regulations regarding the election to establish an initial Trump account and reproposes the regulations as CC-00226466-26. These proposed regulations would affect trustees of Trump accounts, account beneficiaries of Trump accounts, responsible parties of Trump accounts, and eligible donors who fund qualified general contributions.",
@@ -6352,160 +6412,8 @@
         "1545-BR91"
       ],
       "significant": null,
-      "comments_count": 134,
+      "comments_count": 136,
       "docket_id": "IRS-2026-1321"
-    },
-    {
-      "title": "Airworthiness Directives; Airbus Helicopters",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2026-10-16, which applies to all Airbus Helicopters Model AS355E, AS355F, AS355F1, AS355F2, AS355N, and AS355NP helicopters. AD 2026-10- 16 requires revising the airworthiness limitations section (ALS) of the existing maintenance manual (MM) or instructions for continued airworthiness (ICA) and the existing approved maintenance or inspection program, as applicable. Since the FAA issued AD 2026-10-16, a determination was made that new or more restrictive airworthiness limitations and maintenance tasks are necessary. This proposed AD would require incorporating these airworthiness limitations into the ALS of the existing MM or ICA and the existing approved maintenance or inspection program, as applicable. The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-19987",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-19987/airworthiness-directives-airbus-helicopters",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-19987.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11795-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ],
-      "significant": false,
-      "comments_count": 0,
-      "docket_id": "FAA-2026-11795"
-    },
-    {
-      "title": "Airworthiness Directives; Vulcanair S.p.A. Airplanes",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Vulcanair S.p.A. Model P.68 and P.68B airplanes. This proposed AD was prompted by a report of fuel starvation that resulted in an uncommanded in-flight engine shutdown. This proposed AD would require, for certain airplanes, modification of the fuel level indicator and, for all airplanes, calibration of the fuel level indicator, installation of new quantity and warning placards, and updating the aircraft flight manual (AFM) and the aircraft maintenance manual (AMM). The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-19972",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-19972/airworthiness-directives-vulcanair-spa-airplanes",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-19972.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11794-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ],
-      "significant": false,
-      "comments_count": 0,
-      "docket_id": "FAA-2026-11794"
-    },
-    {
-      "title": "Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Airbus Helicopters Deutschland GmbH (AHD) Model EC135P1, EC135P2, EC135P2+, EC135P3, EC135T1, EC135T2, EC135T2+, EC135T3, and EC635T2+ helicopters. This proposed AD was prompted by a report of a loss of the tail rotor controls due to a broken control rod of the yaw actuator. This proposed AD would require a one-time inspection of the ball pivot, yaw actuator assembly, and associated parts, and a repetitive inspection of the ball pivot. Depending on the inspection results, this proposed AD would require replacement of affected parts, further inspections, and application of new sealing compound. This proposed AD would also prohibit the installation of an affected part unless it is a serviceable part and certain requirements are met. The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-19971",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-19971/airworthiness-directives-airbus-helicopters-deutschland-gmbh-ahd-helicopters",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-19971.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11792-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ],
-      "significant": false,
-      "comments_count": 0,
-      "docket_id": "FAA-2026-11792"
-    },
-    {
-      "title": "Airworthiness Directives; Bell Textron Canada Limited Helicopters",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Bell Textron Canada Limited (Bell) Model 505 helicopters. This proposed AD was prompted by a determination that new or more restrictive airworthiness limitations are necessary. This proposed AD would require revising the airworthiness limitation schedule (ALS) of the existing maintenance manual (MM) or instructions for continued airworthiness (ICA) and the existing approved maintenance or inspection program, as applicable. The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-19970",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-19970/airworthiness-directives-bell-textron-canada-limited-helicopters",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-19970.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11791-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ],
-      "significant": false,
-      "comments_count": 0,
-      "docket_id": "FAA-2026-11791"
     },
     {
       "title": "Forms and Procedures for Review of State Certifications by the Stablecoin Certification Review Committee",
@@ -6535,44 +6443,6 @@
       "significant": null,
       "comments_count": 5,
       "docket_id": "TREAS-DO-2026-0562"
-    },
-    {
-      "title": "Airworthiness Directives; Airbus SAS Airplanes",
-      "type": "Proposed Rule",
-      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2025-17-06, which applies to certain Airbus SAS Model A330-200 series airplanes, A330-200 Freighter series airplanes, A330-300 series airplanes, A330-841 airplanes, and A330-941 airplanes. AD 2025-17-06 requires revising the existing maintenance or inspection program, as applicable, to incorporate new or more restrictive airworthiness limitations. Since the FAA issued AD 2025-17-06, the FAA has determined that new or more restrictive airworthiness limitations are necessary. This proposed AD would require revising the existing maintenance or inspection program, as applicable, to incorporate new or more restrictive airworthiness limitations. The FAA is proposing this AD to address the unsafe condition on these products.",
-      "document_number": "2026-19960",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/30/2026-19960/airworthiness-directives-airbus-sas-airplanes",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-30/pdf/2026-19960.pdf",
-      "publication_date": "2026-09-30",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "Federal Aviation Administration",
-          "name": "Federal Aviation Administration",
-          "id": 159,
-          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
-          "parent_id": 492,
-          "slug": "federal-aviation-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-11793-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2120-AA64"
-      ],
-      "significant": false,
-      "comments_count": 0,
-      "docket_id": "FAA-2026-11793"
     },
     {
       "title": "Application Procedures for Board-Supervised Insured Depository Institutions Seeking Approval for a Subsidiary To Issue Payment Stablecoins",
@@ -6799,7 +6669,7 @@
         "3245-AI67"
       ],
       "significant": null,
-      "comments_count": 533,
+      "comments_count": 553,
       "docket_id": "SBA-2026-0199"
     },
     {
@@ -6837,7 +6707,7 @@
         "0938-AW08"
       ],
       "significant": null,
-      "comments_count": 992,
+      "comments_count": 1055,
       "docket_id": "CMS-2026-3037"
     },
     {
@@ -6875,7 +6745,7 @@
         "0579-AE77"
       ],
       "significant": true,
-      "comments_count": 12,
+      "comments_count": 13,
       "docket_id": "APHIS-2023-0069"
     },
     {
@@ -6951,7 +6821,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 4248,
+      "comments_count": 4299,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -6989,7 +6859,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 353,
+      "comments_count": 364,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -7134,7 +7004,7 @@
         "3206-AO92"
       ],
       "significant": true,
-      "comments_count": 14,
+      "comments_count": 19,
       "docket_id": "OPM-2026-0166"
     },
     {
@@ -7172,93 +7042,8 @@
         "0648-BN92"
       ],
       "significant": false,
-      "comments_count": 517,
+      "comments_count": 537,
       "docket_id": "NOAA-NMFS-2026-1750"
-    },
-    {
-      "title": "Indiana: Approval of State Coal Combustion Residuals Permit Program",
-      "type": "Proposed Rule",
-      "abstract": "The Environmental Protection Agency (EPA or the Agency) is proposing to approve Indiana's Coal Combustion Residuals (CCR) partial permit program under the Resource Conservation and Recovery Act (RCRA). After reviewing the CCR permit program application submitted by the Indiana Department of Environmental Management (IDEM), EPA has preliminarily determined that Indiana's CCR permit program meets the standard for partial approval under RCRA. If approved, Indiana's CCR permit program will operate in lieu of the Federal CCR program, with the exception of the specific provisions noted below. EPA is seeking comment on this proposal during a 60-day public comment period and will hold a hybrid in-person and online public hearing on EPA's preliminary approval of Indiana's partial CCR permit program.",
-      "document_number": "2026-19027",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/16/2026-19027/indiana-approval-of-state-coal-combustion-residuals-permit-program",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-16/pdf/2026-19027.pdf",
-      "publication_date": "2026-09-16",
-      "agencies": [
-        {
-          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
-          "name": "Environmental Protection Agency",
-          "id": 145,
-          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
-          "parent_id": null,
-          "slug": "environmental-protection-agency"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/EPA-HQ-OLEM-2026-4326-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [],
-      "significant": null,
-      "comments_count": 31,
-      "docket_id": "EPA-HQ-OLEM-2026-4326"
-    },
-    {
-      "title": "Federal Employees Health Benefits Program: Optimizing FEHB Plan Offerings",
-      "type": "Proposed Rule",
-      "abstract": "This request for information (RFI) seeks public input on how to optimize health benefits plan options offered in the Federal Employees Health Benefits (FEHB) Program, which includes the Postal Service Health Benefits (PSHB) Program, to give enrollees high value choices at competitive costs while ensuring the appropriate number and distribution of options are available to enrollees. Currently, health benefits plans in the FEHB Program are limited to offering three options or two options and a high-deductible health plan (HDHP) pursuant to 5 CFR 890.201(b)(3)(i). The information gathered through this RFI will inform the Office of Personnel Management (OPM) as to whether modifications to the current FEHB regulations are needed through future notice and comment rulemaking as OPM explores ways to optimize the FEHB and PSHB portfolio and provide enrollees with high value choices at competitive costs.",
-      "document_number": "2026-18944",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/15/2026-18944/federal-employees-health-benefits-program-optimizing-fehb-plan-offerings",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-15/pdf/2026-18944.pdf",
-      "publication_date": "2026-09-15",
-      "agencies": [
-        {
-          "raw_name": "OFFICE OF PERSONNEL MANAGEMENT",
-          "name": "Personnel Management Office",
-          "id": 406,
-          "url": "https://www.federalregister.gov/agencies/personnel-management-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/406",
-          "parent_id": null,
-          "slug": "personnel-management-office"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/OPM-2026-0661-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "3206-XXXX"
-      ],
-      "significant": null,
-      "comments_count": 183,
-      "docket_id": "OPM-2026-0661"
-    },
-    {
-      "title": "Shared Certificates and Pooled Hiring Actions",
-      "type": "Rule",
-      "abstract": "The U.S. Office of Personnel Management (OPM) is issuing an interim rule to improve hiring efficiency across federal agencies, modify provisions pertaining to how an appointing authority (i.e., the head of a Federal agency or department) may share a competitive certificate with one or more appointing authorities, implement provisions to allow an appointing authority to share an excepted service certificate with one or more appointing authorities, and implement provisions regarding OPM-led hiring actions which allow federal agencies to utilize competitive and excepted service certificates for occupations common to many agencies.",
-      "document_number": "2026-18828",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/15/2026-18828/shared-certificates-and-pooled-hiring-actions",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-15/pdf/2026-18828.pdf",
-      "publication_date": "2026-09-15",
-      "agencies": [
-        {
-          "raw_name": "OFFICE OF PERSONNEL MANAGEMENT",
-          "name": "Personnel Management Office",
-          "id": 406,
-          "url": "https://www.federalregister.gov/agencies/personnel-management-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/406",
-          "parent_id": null,
-          "slug": "personnel-management-office"
-        }
-      ],
-      "comments_close_on": "2026-11-16",
-      "comment_url": "http://www.regulations.gov/commenton/OPM-2017-0004-0007",
-      "effective_on": "2026-10-15",
-      "regulation_id_numbers": [
-        "3206-AO24"
-      ],
-      "significant": true,
-      "comments_count": 6,
-      "docket_id": "OPM-2017-0004"
     },
     {
       "title": "Unleashing Unlicensed Spectrum for Direct-to-Device",
@@ -7322,7 +7107,7 @@
         "1685-AA47"
       ],
       "significant": null,
-      "comments_count": 76,
+      "comments_count": 79,
       "docket_id": "USCBP-2026-1058"
     },
     {
@@ -7360,7 +7145,7 @@
         "0910-AJ02"
       ],
       "significant": true,
-      "comments_count": 1171,
+      "comments_count": 1190,
       "docket_id": "FDA-2025-N-3262"
     }
   ]
