@@ -1,8 +1,192 @@
 {
-  "updated_at": "2026-11-17T16:54:08.905201+00:00",
-  "as_of": "2026-11-17",
-  "count": 209,
+  "updated_at": "2026-11-18T16:28:36.788434+00:00",
+  "as_of": "2026-11-18",
+  "count": 213,
   "documents": [
+    {
+      "title": "Air Plan Approval; Texas; Revisions to Concrete Batch Plant Standard Permit",
+      "type": "Proposed Rule",
+      "abstract": "Pursuant to the Federal Clean Air Act (CAA or the Act), the Environmental Protection Agency (EPA) is proposing to approve revisions to the Texas State Implementation Plan (SIP) submitted by the Texas Commission on Environmental Quality (TCEQ) on April 2, 2026, to update the provisions for standard permits (SP) for concrete batch plants (CBP) that perform wet batching, dry batching, or central mixing.",
+      "document_number": "2026-23521",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/18/2026-23521/air-plan-approval-texas-revisions-to-concrete-batch-plant-standard-permit",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-18/pdf/2026-23521.pdf",
+      "publication_date": "2026-11-18",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-12-18",
+      "comment_url": "http://www.regulations.gov/commenton/EPA_FRDOC_0001-33285",
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "EPA_FRDOC_0001"
+    },
+    {
+      "title": "Air Plan Approval; Texas; Collin County Second 10-Year Maintenance Plan for the 2008 Lead Standard",
+      "type": "Proposed Rule",
+      "abstract": "Pursuant to the Federal Clean Air Act (CAA or the Act), the U.S. Environmental Protection Agency (EPA) is proposing to approve a revision to the Texas State Implementation Plan (SIP) containing the State's plan for maintaining the 2008 Lead (Pb) National Ambient Air Quality Standard (NAAQS or standard) through 2037 for the Collin County area, submitted by the State of Texas, through the Texas Commission on Environmental Quality (TCEQ) on September 25, 2025.",
+      "document_number": "2026-23519",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/18/2026-23519/air-plan-approval-texas-collin-county-second-10-year-maintenance-plan-for-the-2008-lead-standard",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-18/pdf/2026-23519.pdf",
+      "publication_date": "2026-11-18",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-12-18",
+      "comment_url": "http://www.regulations.gov/commenton/EPA_FRDOC_0001-33287",
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "EPA_FRDOC_0001"
+    },
+    {
+      "title": "Air Plan Approval; Virginia; Interstate Transport Requirements for the 2010 SO2 NAAQS",
+      "type": "Proposed Rule",
+      "abstract": "Pursuant to the Federal Clean Air Act (CAA or Act), the U.S. Environmental Protection Agency (EPA) is proposing to approve a State implementation plan (SIP) revision submitted by the Commonwealth of Virginia demonstrating that Virginia satisfies the interstate transport requirements of the CAA, for the 2010 1-hour sulfur dioxide (SO<INF>2</INF>) primary national ambient air quality standard (NAAQS). Specifically, the EPA proposes to find that the Virginia SIP contains adequate provisions prohibiting emissions from Commonwealth sources from contributing significantly to nonattainment or interfering with maintenance of the 2010 SO<INF>2</INF> NAAQS in any other State, consistent with the good neighbor provision of the CAA.",
+      "document_number": "2026-23517",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/18/2026-23517/air-plan-approval-virginia-interstate-transport-requirements-for-the-2010-so2-naaqs",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-18/pdf/2026-23517.pdf",
+      "publication_date": "2026-11-18",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-12-18",
+      "comment_url": "http://www.regulations.gov/commenton/EPA-R03-OAR-2026-0661-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "EPA-R03-OAR-2026-0661"
+    },
+    {
+      "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Military Readiness Activities in the Mariana Islands Training and Testing Study Area",
+      "type": "Proposed Rule",
+      "abstract": "NMFS has received a request from the U.S. Department of the Navy (including the U.S. Navy and the U.S. Marine Corps; Navy) and on behalf of the U.S. Coast Guard (Coast Guard), U.S. Army (Army), and U.S. Air Force (Air Force) (hereafter, Navy, Coast Guard, Army, and Air Force are collectively referred to as the Action Proponents) for Incidental Take Regulations (ITR) and an associated Letter of Authorization (LOA) pursuant to the Marine Mammal Protection Act (MMPA). The requested regulations would govern the authorization of take of marine mammals incidental to training and testing activities and modernization and sustainment of ranges conducted in the Mariana Islands Training and Testing (MITT) Study Area over the course of 7 years from July 2027 through July 2034. NMFS requests comments on this proposed rule. NMFS will consider public comments prior to making any final decision on the promulgation of the requested ITR and issuance of the LOA; agency responses to public comments will be summarized in the final rule, if issued. The Action Proponents' activities are considered military readiness activities pursuant to the MMPA, as amended by the National Defense Authorization Act for Fiscal Year 2004 (2004 NDAA) and the NDAA for Fiscal Year 2019 (2019 NDAA).",
+      "document_number": "2026-23450",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/18/2026-23450/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-18/pdf/2026-23450.pdf",
+      "publication_date": "2026-11-18",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-18",
+      "comment_url": "http://www.regulations.gov/commenton/NOAA_FRDOC_0001-7729",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0648-BO60"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "NOAA_FRDOC_0001"
+    },
+    {
+      "title": "Amendment of Class D and Class E Airspace; Naples, FL",
+      "type": "Proposed Rule",
+      "abstract": "This action proposes to amend Class D surface airspace in Naples, FL, to properly contain instrument flight rule procedures. It also proposes to remove the Class E transition airspace extensions, as they are no longer necessary. Additionally, it proposes to reduce the Class E airspace extending upward from 700 feet above the surface, as updated instrument approach procedures have lessened the need for additional airspace. Finally, it proposes administrative updates to the airspace legal description.",
+      "document_number": "2026-23437",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/18/2026-23437/amendment-of-class-d-and-class-e-airspace-naples-fl",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-18/pdf/2026-23437.pdf",
+      "publication_date": "2026-11-18",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-04",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-13869-0003",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-13869"
+    },
+    {
+      "title": "Safety Standard for Button Cell or Coin Batteries and Consumer Products Containing Such Batteries",
+      "type": "Rule",
+      "abstract": "In September 2023, the U.S. Consumer Product Safety Commission (CPSC or Commission) issued a safety standard for button cell or coin batteries and consumer products containing such products in accordance with Reese's Law. The standard incorporated by reference ANSI/UL 4200A- 2023, Standard for Safety for Products Incorporating Button Batteries or Coin Cell Batteries. UL Standards and Engagement (ULSE) has now issued a revised standard, ANSI/UL 4200A-2026. Consistent with Reese's Law, this direct final rule updates the mandatory safety standard to incorporate by reference ANSI/UL 4200A-2026.",
+      "document_number": "2026-23435",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/18/2026-23435/safety-standard-for-button-cell-or-coin-batteries-and-consumer-products-containing-such-batteries",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-18/pdf/2026-23435.pdf",
+      "publication_date": "2026-11-18",
+      "agencies": [
+        {
+          "raw_name": "CONSUMER PRODUCT SAFETY COMMISSION",
+          "name": "Consumer Product Safety Commission",
+          "id": 84,
+          "url": "https://www.federalregister.gov/agencies/consumer-product-safety-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/84",
+          "parent_id": null,
+          "slug": "consumer-product-safety-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-18",
+      "comment_url": "http://www.regulations.gov/commenton/CPSC_FRDOC_0001-1566",
+      "effective_on": "2027-02-13",
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "CPSC_FRDOC_0001"
+    },
     {
       "title": "Modernizing to Electronic Payments",
       "type": "Proposed Rule",
@@ -38,7 +222,7 @@
         "2120-AM16"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 3,
       "docket_id": "FAA-2026-3538"
     },
     {
@@ -76,7 +260,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-13817"
     },
     {
@@ -143,7 +327,7 @@
         "2900-AS98"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 14,
       "docket_id": "VA-2026-VBA-0430"
     },
     {
@@ -237,7 +421,7 @@
         "0910-AI91"
       ],
       "significant": true,
-      "comments_count": 0,
+      "comments_count": 3,
       "docket_id": "FDA-2025-N-2699"
     },
     {
@@ -266,7 +450,7 @@
         "3150-AL43"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "NRC-2025-0974"
     },
     {
@@ -295,7 +479,7 @@
         "3150-AL43"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 2,
       "docket_id": "NRC-2025-0974"
     },
     {
@@ -474,7 +658,7 @@
         "1024-AF13"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 7,
       "docket_id": "NPS-2026-0265"
     },
     {
@@ -503,7 +687,7 @@
         "2900-AS68"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "VA-2026-VBA-0397"
     },
     {
@@ -664,7 +848,7 @@
         "1082-AA05"
       ],
       "significant": null,
-      "comments_count": 7,
+      "comments_count": 9,
       "docket_id": "BSEE-2026-0133"
     },
     {
@@ -881,7 +1065,7 @@
         "0579-AE93"
       ],
       "significant": null,
-      "comments_count": 119,
+      "comments_count": 132,
       "docket_id": "APHIS-2026-0067"
     },
     {
@@ -1096,7 +1280,7 @@
         "0596-AD75"
       ],
       "significant": null,
-      "comments_count": 164,
+      "comments_count": 174,
       "docket_id": "FS-2026-0199"
     },
     {
@@ -1161,7 +1345,7 @@
         "0648-BN92"
       ],
       "significant": false,
-      "comments_count": 6,
+      "comments_count": 10,
       "docket_id": "NOAA-NMFS-2026-1750"
     },
     {
@@ -1309,7 +1493,7 @@
         "0584-AF09"
       ],
       "significant": null,
-      "comments_count": 29,
+      "comments_count": 34,
       "docket_id": "FNA-2026-0628"
     },
     {
@@ -1347,7 +1531,7 @@
         "0584-AF10"
       ],
       "significant": true,
-      "comments_count": 1431,
+      "comments_count": 1479,
       "docket_id": "FNA-2026-0661"
     },
     {
@@ -1461,7 +1645,7 @@
         "1205-AC31"
       ],
       "significant": null,
-      "comments_count": 15,
+      "comments_count": 19,
       "docket_id": "ETA-2026-0100"
     },
     {
@@ -1609,7 +1793,7 @@
         "1004-AF53"
       ],
       "significant": null,
-      "comments_count": 485,
+      "comments_count": 564,
       "docket_id": "BLM-2026-0298"
     },
     {
@@ -1647,7 +1831,7 @@
         "0938-AW04"
       ],
       "significant": null,
-      "comments_count": 7803,
+      "comments_count": 8114,
       "docket_id": "CMS-2026-3631"
     },
     {
@@ -1748,7 +1932,7 @@
         "0648-BN99"
       ],
       "significant": null,
-      "comments_count": 2055,
+      "comments_count": 2480,
       "docket_id": "NOAA-NMFS-2026-2410"
     },
     {
@@ -1900,7 +2084,7 @@
         "0938-AV83"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "CMS-2026-2344"
     },
     {
@@ -2258,7 +2442,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 32,
+      "comments_count": 35,
       "docket_id": "ED-2026-OS-3169"
     },
     {
@@ -2431,7 +2615,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 3,
       "docket_id": "FTC-2026-1783"
     },
     {
@@ -3064,7 +3248,7 @@
         "0970-AD49"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 6,
       "docket_id": "ACF_FRDOC_0001"
     },
     {
@@ -3178,7 +3362,7 @@
         "2060-AW73"
       ],
       "significant": true,
-      "comments_count": 192,
+      "comments_count": 221,
       "docket_id": "EPA-HQ-OAR-2025-0163"
     },
     {
@@ -3306,7 +3490,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 51,
+      "comments_count": 53,
       "docket_id": "COLC-2026-0199"
     },
     {
@@ -3485,7 +3669,7 @@
         "0938-AW03"
       ],
       "significant": null,
-      "comments_count": 35,
+      "comments_count": 37,
       "docket_id": "CMS-2026-3367"
     },
     {
@@ -3599,7 +3783,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 10,
+      "comments_count": 11,
       "docket_id": "FAA-2026-11817"
     },
     {
@@ -3691,7 +3875,7 @@
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": 55,
+      "comments_count": 57,
       "docket_id": "NHTSA-2026-1519"
     },
     {
@@ -3823,7 +4007,7 @@
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": 147,
+      "comments_count": 199,
       "docket_id": "TREAS-DO-2026-0529"
     },
     {
@@ -3933,7 +4117,7 @@
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": 21,
+      "comments_count": 23,
       "docket_id": "FNA-2026-0496"
     },
     {
@@ -4108,7 +4292,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "FTC-2026-1618"
     },
     {
@@ -4441,7 +4625,7 @@
         "3038-AF82"
       ],
       "significant": null,
-      "comments_count": 40,
+      "comments_count": 48,
       "docket_id": "CFTC-2026-2213"
     },
     {
@@ -4470,7 +4654,7 @@
         "3038-AF81"
       ],
       "significant": null,
-      "comments_count": 30,
+      "comments_count": 40,
       "docket_id": "CFTC-2026-2214"
     },
     {
@@ -4638,7 +4822,7 @@
         "1024-AF12"
       ],
       "significant": null,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "NPS-2026-0232"
     },
     {
@@ -4703,7 +4887,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "EPA-R09-OAR-2024-0600"
     },
     {
@@ -4730,7 +4914,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "EPA-R09-OAR-2026-5119"
     },
     {
@@ -4757,7 +4941,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 4,
       "docket_id": "EPA-R09-OAR-2026-5581"
     },
     {
@@ -4813,7 +4997,7 @@
         "2060-AX09"
       ],
       "significant": null,
-      "comments_count": 162,
+      "comments_count": 163,
       "docket_id": "EPA-HQ-OAR-2024-0505"
     },
     {
@@ -5343,7 +5527,7 @@
         "3038-AF80"
       ],
       "significant": null,
-      "comments_count": 29,
+      "comments_count": 30,
       "docket_id": "CFTC-2026-2179"
     },
     {
@@ -5759,7 +5943,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 313,
+      "comments_count": 325,
       "docket_id": "CMS-2026-3235"
     },
     {
@@ -5797,7 +5981,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-1338"
     },
     {
@@ -6164,7 +6348,7 @@
         "1545-BR97"
       ],
       "significant": null,
-      "comments_count": 24731,
+      "comments_count": 24833,
       "docket_id": "IRS-2026-1354"
     },
     {
@@ -6202,7 +6386,7 @@
         "1024-AE54"
       ],
       "significant": false,
-      "comments_count": 248,
+      "comments_count": 249,
       "docket_id": "NPS-2026-0199"
     },
     {
@@ -6231,7 +6415,7 @@
         "3084-AB90"
       ],
       "significant": null,
-      "comments_count": 193,
+      "comments_count": 197,
       "docket_id": "FTC-2026-1552"
     },
     {
@@ -6412,7 +6596,7 @@
         "1545-BR91"
       ],
       "significant": null,
-      "comments_count": 136,
+      "comments_count": 137,
       "docket_id": "IRS-2026-1321"
     },
     {
@@ -6575,7 +6759,7 @@
         "1140-AA67"
       ],
       "significant": null,
-      "comments_count": 7,
+      "comments_count": 9,
       "docket_id": "ATF-2026-0364"
     },
     {
@@ -6613,7 +6797,7 @@
         "2120-AM24"
       ],
       "significant": null,
-      "comments_count": 29,
+      "comments_count": 30,
       "docket_id": "FAA-2026-12145"
     },
     {
@@ -6669,7 +6853,7 @@
         "3245-AI67"
       ],
       "significant": null,
-      "comments_count": 553,
+      "comments_count": 576,
       "docket_id": "SBA-2026-0199"
     },
     {
@@ -6707,7 +6891,7 @@
         "0938-AW08"
       ],
       "significant": null,
-      "comments_count": 1055,
+      "comments_count": 1191,
       "docket_id": "CMS-2026-3037"
     },
     {
@@ -6745,7 +6929,7 @@
         "0579-AE77"
       ],
       "significant": true,
-      "comments_count": 13,
+      "comments_count": 14,
       "docket_id": "APHIS-2023-0069"
     },
     {
@@ -6821,7 +7005,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 4299,
+      "comments_count": 4385,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -6859,7 +7043,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 364,
+      "comments_count": 370,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -6979,73 +7163,6 @@
       "docket_id": null
     },
     {
-      "title": "Employment in the Excepted Service",
-      "type": "Proposed Rule",
-      "abstract": "The Office of Personnel Management (OPM) proposes to amend its regulations governing the excepted service, Pathways Programs, and administrative law judge (ALJ) appointments. The proposed rule would conform OPM regulations to current excepted-service schedules, including Schedules E, Policy/Career, and G; modernize part 302 procedures while preserving veterans' preference, compensable-injury restoration rights, and other priority placement rights; authorize and clarify Pathways conversions to Schedule Policy/Career; and make related conforming amendments.",
-      "document_number": "2026-19222",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/18/2026-19222/employment-in-the-excepted-service",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-18/pdf/2026-19222.pdf",
-      "publication_date": "2026-09-18",
-      "agencies": [
-        {
-          "raw_name": "OFFICE OF PERSONNEL MANAGEMENT",
-          "name": "Personnel Management Office",
-          "id": 406,
-          "url": "https://www.federalregister.gov/agencies/personnel-management-office",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/406",
-          "parent_id": null,
-          "slug": "personnel-management-office"
-        }
-      ],
-      "comments_close_on": "2026-11-17",
-      "comment_url": "http://www.regulations.gov/commenton/OPM-2026-0166-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "3206-AO92"
-      ],
-      "significant": true,
-      "comments_count": 19,
-      "docket_id": "OPM-2026-0166"
-    },
-    {
-      "title": "Coral, Coral Reefs, and Live/Hardbottom Habitats of the South Atlantic and the Shrimp Fishery of the South Atlantic Region; Amendments 11/12",
-      "type": "Proposed Rule",
-      "abstract": "The South Atlantic Fishery Management Council (Council) has submitted Amendment 11 to the Fishery Management Plan for Coral, Coral Reefs, and Live/Hardbottom Habitats of the South Atlantic (Coral FMP) and Amendment 12 to the Fishery Management Plan for the Shrimp Fishery of the South Atlantic Region (Shrimp FMP; jointly Amendments 11/12) for review, approval, and implementation by NMFS. If approved, Amendments 11/12 would establish a shrimp fishery access area (SFAA) along the eastern boundary of the northern extension of the Oculina Bank Habitat Area of Particular Concern (OHAPC) where trawling for rock shrimp is currently prohibited. The purpose of Amendments 11/12 is to reinstate access to historic rock shrimp fishing grounds, achieve optimum yield (OY) in the rock shrimp fishery, while minimizing impacts to deep-water corals in the OHAPC.",
-      "document_number": "2026-19182",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/18/2026-19182/coral-coral-reefs-and-livehardbottom-habitats-of-the-south-atlantic-and-the-shrimp-fishery-of-the",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-18/pdf/2026-19182.pdf",
-      "publication_date": "2026-09-18",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF COMMERCE",
-          "name": "Commerce Department",
-          "id": 54,
-          "url": "https://www.federalregister.gov/agencies/commerce-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
-          "parent_id": null,
-          "slug": "commerce-department"
-        },
-        {
-          "raw_name": "National Oceanic and Atmospheric Administration",
-          "name": "National Oceanic and Atmospheric Administration",
-          "id": 361,
-          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
-          "parent_id": 54,
-          "slug": "national-oceanic-and-atmospheric-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-17",
-      "comment_url": "http://www.regulations.gov/commenton/NOAA-NMFS-2026-1750-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "0648-BN92"
-      ],
-      "significant": false,
-      "comments_count": 537,
-      "docket_id": "NOAA-NMFS-2026-1750"
-    },
-    {
       "title": "Unleashing Unlicensed Spectrum for Direct-to-Device",
       "type": "Proposed Rule",
       "abstract": "The Federal Communications Commission (Commission or FCC) issues a Notice of Proposed Rulemaking proposes to expand opportunities for direct-to-device (D2D) communications by permitting certain unlicensed devices to communicate with satellites on a non-interference basis. Building on recent market growth and new industry investment in D2D technologies, the NPRM explores adding satellite allocations in specific unlicensed bands, clarifying that equipment may operate within spacecraft, and establishing a flexible regulatory framework that preserves incumbent operations while enabling continued innovation. The Commission seeks comment on technical, licensing, and policy considerations to support expanded D2D connectivity and ensure coexistence with existing services.",
@@ -7107,7 +7224,7 @@
         "1685-AA47"
       ],
       "significant": null,
-      "comments_count": 79,
+      "comments_count": 80,
       "docket_id": "USCBP-2026-1058"
     },
     {
@@ -7145,7 +7262,7 @@
         "0910-AJ02"
       ],
       "significant": true,
-      "comments_count": 1190,
+      "comments_count": 1193,
       "docket_id": "FDA-2025-N-3262"
     }
   ]
