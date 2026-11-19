@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T16:28:36.788434+00:00",
-  "count": 380,
+  "updated_at": "2026-11-19T16:35:37.785768+00:00",
+  "count": 385,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -2439,7 +2439,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 1193,
+      "comments_count": 1233,
       "docket_id": "FDA-2025-N-3262"
     },
     "2026-16313": {
@@ -4920,7 +4920,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 80,
+      "comments_count": 84,
       "docket_id": "USCBP-2026-1058"
     },
     "2026-17939": {
@@ -6849,7 +6849,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 370,
+      "comments_count": 380,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19350": {
@@ -6888,7 +6888,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 4385,
+      "comments_count": 4438,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19361": {
@@ -6955,7 +6955,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "MARAD-2026-1552"
     },
     "2026-19370": {
@@ -7138,7 +7138,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 1191,
+      "comments_count": 1306,
       "docket_id": "CMS-2026-3037"
     },
     "2026-19546": {
@@ -7168,7 +7168,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 576,
+      "comments_count": 617,
       "docket_id": "SBA-2026-0199"
     },
     "2026-19568": {
@@ -7227,7 +7227,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 18,
+      "comments_count": 20,
       "docket_id": "CPSC-2026-0463"
     },
     "2026-19584": {
@@ -7266,7 +7266,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 30,
+      "comments_count": 31,
       "docket_id": "FAA-2026-12145"
     },
     "2026-19656": {
@@ -7342,7 +7342,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 9,
+      "comments_count": 11,
       "docket_id": "ATF-2026-0364"
     },
     "2026-19692": {
@@ -7381,7 +7381,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "ATF-2026-0365"
     },
     "2026-19710": {
@@ -7858,7 +7858,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 197,
+      "comments_count": 206,
       "docket_id": "FTC-2026-1552"
     },
     "2026-20169": {
@@ -7964,7 +7964,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 249,
+      "comments_count": 250,
       "docket_id": "NPS-2026-0199"
     },
     "2026-20277": {
@@ -8003,7 +8003,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 24833,
+      "comments_count": 24965,
       "docket_id": "IRS-2026-1354"
     },
     "2026-20296": {
@@ -8066,7 +8066,7 @@
       "significant": null,
       "comments_count": 4,
       "docket_id": "GSA-GSAR-2026-0595",
-      "final_checked": "2026-11-12"
+      "final_checked": "2026-11-19"
     },
     "2026-20328": {
       "title": "Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions; Extension of Comment Period",
@@ -8146,7 +8146,7 @@
       "significant": null,
       "comments_count": 170,
       "docket_id": "ACF-2026-0562",
-      "final_checked": "2026-11-12"
+      "final_checked": "2026-11-19"
     },
     "2026-20335": {
       "title": "Exemptions From Materials Licensing",
@@ -8177,7 +8177,7 @@
       "significant": null,
       "comments_count": 739,
       "docket_id": "NRC-2025-1568",
-      "final_checked": "2026-11-12"
+      "final_checked": "2026-11-19"
     },
     "2026-20336": {
       "title": "Exemptions From Materials Licensing",
@@ -8314,7 +8314,7 @@
       "significant": null,
       "comments_count": 6,
       "docket_id": "FINCEN-2026-0265",
-      "final_checked": "2026-11-12"
+      "final_checked": "2026-11-19"
     },
     "2026-20372": {
       "title": "Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-16, V-184, and Revocation of V-284 and V-577; Eastern United States",
@@ -8352,7 +8352,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 1,
+      "comments_count": 3,
       "docket_id": "FAA-2026-12409"
     },
     "2026-20374": {
@@ -8421,7 +8421,7 @@
       "significant": null,
       "comments_count": 4,
       "docket_id": "FAA-2026-9934",
-      "final_checked": "2026-11-12"
+      "final_checked": "2026-11-19"
     },
     "2026-20387": {
       "title": "Digital Modernization for Licensing Electronic Application Submissions",
@@ -8461,7 +8461,7 @@
       "significant": null,
       "comments_count": 8,
       "docket_id": "FAA-2026-9935",
-      "final_checked": "2026-11-12"
+      "final_checked": "2026-11-19"
     },
     "2026-20388": {
       "title": "Streamlining Flight Safety Analysis Methodology Means of Compliance",
@@ -8501,7 +8501,7 @@
       "significant": null,
       "comments_count": 6,
       "docket_id": "FAA-2026-9936",
-      "final_checked": "2026-11-12"
+      "final_checked": "2026-11-19"
     },
     "2026-20391": {
       "title": "Lightning Hazard Mitigation Burden-Reducing Exception",
@@ -8541,7 +8541,7 @@
       "significant": null,
       "comments_count": 5,
       "docket_id": "FAA-2026-9940",
-      "final_checked": "2026-11-12"
+      "final_checked": "2026-11-19"
     },
     "2026-20392": {
       "title": "Overpressure Blast Effects Analysis Burden Reducing Clarification",
@@ -8581,7 +8581,7 @@
       "significant": null,
       "comments_count": 6,
       "docket_id": "FAA-2026-9941",
-      "final_checked": "2026-11-12"
+      "final_checked": "2026-11-19"
     },
     "2026-20466": {
       "title": "Adviser and Regulated Fund Custody Rules; Crypto Custody Rules",
@@ -8731,7 +8731,7 @@
       "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-10-07",
-      "final_checked": "2026-11-12"
+      "final_checked": "2026-11-19"
     },
     "2026-20532": {
       "title": "Privacy Act of 1974; Implementation",
@@ -8824,7 +8824,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 325,
+      "comments_count": 339,
       "docket_id": "CMS-2026-3235",
       "first_seen": "2026-10-08"
     },
@@ -8863,7 +8863,7 @@
         "1685-AA38"
       ],
       "significant": null,
-      "comments_count": 23,
+      "comments_count": 24,
       "docket_id": "USCBP-2026-0298",
       "first_seen": "2026-10-08"
     },
@@ -8964,7 +8964,7 @@
       "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-10-25",
-      "final_checked": "2026-11-12"
+      "final_checked": "2026-11-19"
     },
     "2026-20865": {
       "title": "Periodic Reporting",
@@ -9416,7 +9416,7 @@
         "1545-BS15"
       ],
       "significant": null,
-      "comments_count": 8,
+      "comments_count": 9,
       "docket_id": "IRS-2026-1420",
       "first_seen": "2026-10-25"
     },
@@ -9726,7 +9726,7 @@
         "2060-AX09"
       ],
       "significant": null,
-      "comments_count": 163,
+      "comments_count": 202,
       "docket_id": "EPA-HQ-OAR-2024-0505",
       "first_seen": "2026-10-25"
     },
@@ -10007,7 +10007,8 @@
       "significant": null,
       "comments_count": 48,
       "docket_id": "CFTC-2026-2213",
-      "first_seen": "2026-10-25"
+      "first_seen": "2026-10-25",
+      "final_checked": "2026-11-19"
     },
     "2026-21383": {
       "title": "New Source Performance Standards and National Emission Standards for Hazardous Air Pollutants; Delegation of Authority to Northwest Clean Air Agency, Washington State",
@@ -10072,7 +10073,7 @@
         "0938-AV88"
       ],
       "significant": null,
-      "comments_count": 30,
+      "comments_count": 31,
       "docket_id": "CMS-2026-3533",
       "first_seen": "2026-10-25"
     },
@@ -10391,7 +10392,7 @@
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": 23,
+      "comments_count": 27,
       "docket_id": "FNA-2026-0496",
       "first_seen": "2026-10-25"
     },
@@ -10495,7 +10496,7 @@
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": 199,
+      "comments_count": 236,
       "docket_id": "TREAS-DO-2026-0529",
       "first_seen": "2026-10-25"
     },
@@ -10629,7 +10630,7 @@
         "1505-AC94"
       ],
       "significant": null,
-      "comments_count": 29,
+      "comments_count": 30,
       "docket_id": "TREAS-DO-2026-0595",
       "first_seen": "2026-10-25"
     },
@@ -10668,7 +10669,7 @@
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": 57,
+      "comments_count": 58,
       "docket_id": "NHTSA-2026-1519",
       "first_seen": "2026-10-25"
     },
@@ -10754,7 +10755,7 @@
         "0938-AW03"
       ],
       "significant": null,
-      "comments_count": 37,
+      "comments_count": 39,
       "docket_id": "CMS-2026-3367",
       "first_seen": "2026-10-27"
     },
@@ -10867,7 +10868,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 53,
+      "comments_count": 56,
       "docket_id": "COLC-2026-0199",
       "first_seen": "2026-10-28"
     },
@@ -10897,7 +10898,7 @@
         "2060-AW73"
       ],
       "significant": true,
-      "comments_count": 221,
+      "comments_count": 2283,
       "docket_id": "EPA-HQ-OAR-2025-0163",
       "first_seen": "2026-10-29"
     },
@@ -10985,7 +10986,7 @@
         "0930-AA40"
       ],
       "significant": null,
-      "comments_count": 8,
+      "comments_count": 9,
       "docket_id": "SAMHSA-2026-0002",
       "first_seen": "2026-10-29"
     },
@@ -11447,7 +11448,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 35,
+      "comments_count": 40,
       "docket_id": "ED-2026-OS-3169",
       "first_seen": "2026-11-05"
     },
@@ -11787,7 +11788,7 @@
         "0938-AW04"
       ],
       "significant": null,
-      "comments_count": 8114,
+      "comments_count": 8808,
       "docket_id": "CMS-2026-3631",
       "first_seen": "2026-11-10"
     },
@@ -11826,7 +11827,7 @@
         "0648-BN99"
       ],
       "significant": null,
-      "comments_count": 2480,
+      "comments_count": 2731,
       "docket_id": "NOAA-NMFS-2026-2410",
       "first_seen": "2026-11-09"
     },
@@ -11930,7 +11931,7 @@
         "1004-AF53"
       ],
       "significant": null,
-      "comments_count": 564,
+      "comments_count": 1271,
       "docket_id": "BLM-2026-0298",
       "first_seen": "2026-11-10"
     },
@@ -12004,7 +12005,7 @@
       "effective_on": "2027-01-11",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FDA-2026-C-3071",
       "first_seen": "2026-11-11"
     },
@@ -12043,7 +12044,7 @@
         "1205-AC31"
       ],
       "significant": null,
-      "comments_count": 19,
+      "comments_count": 20,
       "docket_id": "ETA-2026-0100",
       "first_seen": "2026-11-10"
     },
@@ -12082,7 +12083,7 @@
         "0584-AF10"
       ],
       "significant": true,
-      "comments_count": 1479,
+      "comments_count": 1614,
       "docket_id": "FNA-2026-0661",
       "first_seen": "2026-11-10"
     },
@@ -12121,7 +12122,7 @@
         "0584-AF09"
       ],
       "significant": null,
-      "comments_count": 34,
+      "comments_count": 48,
       "docket_id": "FNA-2026-0628",
       "first_seen": "2026-11-10"
     },
@@ -12273,7 +12274,7 @@
         "0648-BN92"
       ],
       "significant": false,
-      "comments_count": 10,
+      "comments_count": 13,
       "docket_id": "NOAA-NMFS-2026-1750",
       "first_seen": "2026-11-11"
     },
@@ -12312,7 +12313,7 @@
         "0596-AD75"
       ],
       "significant": null,
-      "comments_count": 174,
+      "comments_count": 176,
       "docket_id": "FS-2026-0199",
       "first_seen": "2026-11-11"
     },
@@ -12351,7 +12352,7 @@
         "1219-AC22"
       ],
       "significant": null,
-      "comments_count": 20,
+      "comments_count": 22,
       "docket_id": "MSHA-2026-0200",
       "first_seen": "2026-11-11"
     },
@@ -12416,7 +12417,7 @@
       "effective_on": "2026-11-12",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "DEA-2026-2080",
       "first_seen": "2026-11-11"
     },
@@ -12455,7 +12456,7 @@
         "0579-AE93"
       ],
       "significant": null,
-      "comments_count": 132,
+      "comments_count": 138,
       "docket_id": "APHIS-2026-0067",
       "first_seen": "2026-11-13"
     },
@@ -12503,7 +12504,7 @@
         "1082-AA05"
       ],
       "significant": null,
-      "comments_count": 9,
+      "comments_count": 10,
       "docket_id": "BSEE-2026-0133",
       "first_seen": "2026-11-13"
     },
@@ -12572,7 +12573,7 @@
         "1024-AF13"
       ],
       "significant": null,
-      "comments_count": 7,
+      "comments_count": 14,
       "docket_id": "NPS-2026-0265",
       "first_seen": "2026-11-14"
     },
@@ -12611,7 +12612,7 @@
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "NHTSA-2026-1519",
       "first_seen": "2026-11-14"
     },
@@ -12641,7 +12642,7 @@
         "3150-AL43"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "NRC-2025-0974",
       "first_seen": "2026-11-17"
     },
@@ -12740,7 +12741,7 @@
         "3245-AI77"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "SBA-2026-0232",
       "first_seen": "2026-11-17"
     },
@@ -12798,7 +12799,7 @@
         "2900-AS98"
       ],
       "significant": null,
-      "comments_count": 14,
+      "comments_count": 19,
       "docket_id": "VA-2026-VBA-0430",
       "first_seen": "2026-11-17"
     },
@@ -12837,7 +12838,7 @@
         "1205-AC29"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 507,
       "docket_id": "ETA-2026-0133",
       "first_seen": "2026-11-17"
     },
@@ -12876,7 +12877,7 @@
         "2120-AM16"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "FAA-2026-3538",
       "first_seen": "2026-11-17"
     },
@@ -12900,12 +12901,12 @@
         }
       ],
       "comments_close_on": "2026-12-18",
-      "comment_url": "http://www.regulations.gov/commenton/CPSC_FRDOC_0001-1566",
+      "comment_url": "http://www.regulations.gov/commenton/CPSC-2023-0004-0156",
       "effective_on": "2027-02-13",
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 0,
-      "docket_id": "CPSC_FRDOC_0001",
+      "docket_id": "CPSC-2023-0004",
       "first_seen": "2026-11-18"
     },
     "2026-23450": {
@@ -12943,9 +12944,187 @@
         "0648-BO60"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 2,
       "docket_id": "NOAA_FRDOC_0001",
       "first_seen": "2026-11-18"
+    },
+    "2026-23461": {
+      "title": "Medicare, Medicaid, and Marketplace Programs; Comprehensive Regulations To Uncover Suspicious Healthcare (CRUSH)",
+      "type": "Proposed Rule",
+      "abstract": "This proposed rule would revise provisions regarding provider enrollment, medical review, investigations, and other program integrity oversight provisions to greatly strengthen our ability to crush fraud, enhance program integrity efforts across Medicare, Medicaid, Children's Health Insurance Program, and the Marketplace and maximize regulatory authorities to address inappropriate payments.",
+      "document_number": "2026-23461",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/19/2026-23461/medicare-medicaid-and-marketplace-programs-comprehensive-regulations-to-uncover-suspicious",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23461.pdf",
+      "publication_date": "2026-11-19",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Centers for Medicare & Medicaid Services",
+          "name": "Centers for Medicare & Medicaid Services",
+          "id": 45,
+          "url": "https://www.federalregister.gov/agencies/centers-for-medicare-medicaid-services",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/45",
+          "parent_id": 221,
+          "slug": "centers-for-medicare-medicaid-services"
+        },
+        {
+          "raw_name": "Office of the Secretary"
+        }
+      ],
+      "comments_close_on": "2027-01-19",
+      "comment_url": "http://www.regulations.gov/commenton/CMS_FRDOC_0001-4501",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0938-AV97"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "CMS_FRDOC_0001",
+      "first_seen": "2026-11-19"
+    },
+    "2026-23465": {
+      "title": "Proposed QPAM Re-Eligibility Options After Disqualification (QROAD) Class Prohibited Transaction Exemption",
+      "type": "Proposed Rule",
+      "abstract": "This document gives notice of a proposed class prohibited transaction exemption (PTE). This proposed QROAD class PTE (Proposed QROAD Class Exemption) would allow certain qualified professional asset managers (QPAMs) to continue relying on PTE 84-14, known as the QPAM Class Exemption, even after an event that would otherwise make them ineligible under Section I(g) of that exemption. To use this alternative path, the QPAM must comply with the protective conditions in this Proposed QROAD Class Exemption, if granted. This proposal does not change any fiduciary duties under ERISA section 404 or expand the relief available under the QPAM Class Exemption.",
+      "document_number": "2026-23465",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/18/2026-23465/proposed-qpam-re-eligibility-options-after-disqualification-qroad-class-prohibited-transaction",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-18/pdf/2026-23465.pdf",
+      "publication_date": "2026-11-18",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF LABOR",
+          "name": "Labor Department",
+          "id": 271,
+          "url": "https://www.federalregister.gov/agencies/labor-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/271",
+          "parent_id": null,
+          "slug": "labor-department"
+        },
+        {
+          "raw_name": "Employee Benefits Security Administration",
+          "name": "Employee Benefits Security Administration",
+          "id": 131,
+          "url": "https://www.federalregister.gov/agencies/employee-benefits-security-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/131",
+          "parent_id": 271,
+          "slug": "employee-benefits-security-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-19",
+      "comment_url": "http://www.regulations.gov/commenton/EBSA-2026-0430-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 2,
+      "docket_id": "EBSA-2026-0430",
+      "first_seen": "2026-11-19"
+    },
+    "2026-23555": {
+      "title": "Executive Compensation Disclosure Reform",
+      "type": "Proposed Rule",
+      "abstract": "The Securities and Exchange Commission (\"Commission\") is proposing amendments to its executive and director compensation disclosure rules to make the requirements more principles-based and to reduce compliance burdens for registrants, while maintaining the disclosure of material information to investors. The proposed amendments would focus the disclosures on the principal executive officer (\"PEO\") and principal financial officer (\"PFO\"), streamline the tabular disclosure requirements, and simplify and rationalize various other aspects of the compensation disclosure rules, including the Compensation Discussion and Analysis (\"CD&A\"), pay ratio, pay- versus-performance, and perquisites disclosure requirements.",
+      "document_number": "2026-23555",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/19/2026-23555/executive-compensation-disclosure-reform",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23555.pdf",
+      "publication_date": "2026-11-19",
+      "agencies": [
+        {
+          "raw_name": "SECURITIES AND EXCHANGE COMMISSION",
+          "name": "Securities and Exchange Commission",
+          "id": 466,
+          "url": "https://www.federalregister.gov/agencies/securities-and-exchange-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/466",
+          "parent_id": null,
+          "slug": "securities-and-exchange-commission"
+        }
+      ],
+      "comments_close_on": "2027-01-19",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3235-AN60"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null,
+      "first_seen": "2026-11-19"
+    },
+    "2026-23571": {
+      "title": "Veteran Readiness and Employment Program: Update to Reduced Work Tolerance and Basic Eligibility Period",
+      "type": "Proposed Rule",
+      "abstract": "The Department of Veterans Affairs (VA) proposes to amend the Veteran Readiness and Employment (VR&E) regulations to align with current practice and statute. The rule would expand the list of approved providers for reduced work tolerance (RWT) documentation, allowing for more accurate and timely processing by a Vocational Rehabilitation Counselor (VRC). VA also proposes to clarify that a veteran who is subject to a basic period of eligibility would receive a new 12-year period of eligibility if such veteran obtains a compensable service-connected disability rating based on a subsequent period of active-duty service. Finally, the rule would remove the eligibility termination date for veterans discharged on or after January 1, 2013, consistent with the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020.",
+      "document_number": "2026-23571",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/19/2026-23571/veteran-readiness-and-employment-program-update-to-reduced-work-tolerance-and-basic-eligibility",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23571.pdf",
+      "publication_date": "2026-11-19",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF VETERANS AFFAIRS",
+          "name": "Veterans Affairs Department",
+          "id": 520,
+          "url": "https://www.federalregister.gov/agencies/veterans-affairs-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/520",
+          "parent_id": null,
+          "slug": "veterans-affairs-department"
+        }
+      ],
+      "comments_close_on": "2027-01-19",
+      "comment_url": "http://www.regulations.gov/commenton/VA-2026-VBA-0463-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2900-AS94"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "VA-2026-VBA-0463",
+      "first_seen": "2026-11-19"
+    },
+    "2026-23614": {
+      "title": "Customer Due Diligence Requirements for Covered Financial Institutions",
+      "type": "Proposed Rule",
+      "abstract": "FinCEN is issuing this proposed rule to strengthen customer due diligence requirements under the Customer Due Diligence Rule consistent with the policy goals of, and as directed by, Executive Order 14406, Restoring Integrity to America's Financial System. Specifically, the proposal ensures financial institutions covered by the Customer Due Diligence Rule collect sufficient information to verify the identities of beneficial owners of legal entity customers and maintain the authority, where warranted, to obtain additional information, including information relevant to whether the beneficial owners of legal entity customers possess lawful immigration status and employment authorization in the United States when such information is relevant to assessing risks.",
+      "document_number": "2026-23614",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/19/2026-23614/customer-due-diligence-requirements-for-covered-financial-institutions",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23614.pdf",
+      "publication_date": "2026-11-19",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE TREASURY",
+          "name": "Treasury Department",
+          "id": 497,
+          "url": "https://www.federalregister.gov/agencies/treasury-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/497",
+          "parent_id": null,
+          "slug": "treasury-department"
+        },
+        {
+          "raw_name": "Financial Crimes Enforcement Network",
+          "name": "Financial Crimes Enforcement Network",
+          "id": 194,
+          "url": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/194",
+          "parent_id": 497,
+          "slug": "financial-crimes-enforcement-network"
+        }
+      ],
+      "comments_close_on": "2027-01-19",
+      "comment_url": "http://www.regulations.gov/commenton/FINCEN-2026-0298-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1506-AB78"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "FINCEN-2026-0298",
+      "first_seen": "2026-11-19"
     },
     "C1-2026-20360": {
       "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",
