@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T16:35:37.785768+00:00",
-  "count": 385,
+  "updated_at": "2026-11-20T16:10:15.440490+00:00",
+  "count": 391,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -2439,7 +2439,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 1233,
+      "comments_count": 1249,
       "docket_id": "FDA-2025-N-3262"
     },
     "2026-16313": {
@@ -2933,7 +2933,7 @@
       "significant": null,
       "comments_count": 2,
       "docket_id": "IRS-2026-0958",
-      "final_checked": "2026-11-13"
+      "final_checked": "2026-11-20"
     },
     "2026-16590": {
       "title": "FCC To Review E-Rate Program To Ensure Congress's Vision",
@@ -4920,7 +4920,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 84,
+      "comments_count": 86,
       "docket_id": "USCBP-2026-1058"
     },
     "2026-17939": {
@@ -6849,7 +6849,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 380,
+      "comments_count": 388,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19350": {
@@ -6888,7 +6888,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 4438,
+      "comments_count": 4533,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19361": {
@@ -7099,7 +7099,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 14,
+      "comments_count": 15,
       "docket_id": "APHIS-2023-0069"
     },
     "2026-19535": {
@@ -7138,7 +7138,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 1306,
+      "comments_count": 1531,
       "docket_id": "CMS-2026-3037"
     },
     "2026-19546": {
@@ -7168,7 +7168,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 617,
+      "comments_count": 728,
       "docket_id": "SBA-2026-0199"
     },
     "2026-19568": {
@@ -7227,7 +7227,7 @@
       "regulation_id_numbers": [],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 20,
+      "comments_count": 22,
       "docket_id": "CPSC-2026-0463"
     },
     "2026-19584": {
@@ -7266,7 +7266,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 31,
+      "comments_count": 32,
       "docket_id": "FAA-2026-12145"
     },
     "2026-19656": {
@@ -7469,7 +7469,7 @@
       "significant": false,
       "comments_count": 10,
       "docket_id": "EPA-HQ-OAR-2025-0302",
-      "final_checked": "2026-11-13"
+      "final_checked": "2026-11-20"
     },
     "2026-19860": {
       "title": "Implementing the Federal Reserve Board's Responsibilities Under the GENIUS Act",
@@ -7597,7 +7597,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 137,
+      "comments_count": 138,
       "docket_id": "IRS-2026-1321"
     },
     "2026-20038": {
@@ -7858,7 +7858,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 206,
+      "comments_count": 208,
       "docket_id": "FTC-2026-1552"
     },
     "2026-20169": {
@@ -7964,7 +7964,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 250,
+      "comments_count": 251,
       "docket_id": "NPS-2026-0199"
     },
     "2026-20277": {
@@ -8003,7 +8003,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 24965,
+      "comments_count": 25202,
       "docket_id": "IRS-2026-1354"
     },
     "2026-20296": {
@@ -8353,7 +8353,8 @@
       "first_seen": "2026-10-03",
       "significant": false,
       "comments_count": 3,
-      "docket_id": "FAA-2026-12409"
+      "docket_id": "FAA-2026-12409",
+      "final_checked": "2026-11-20"
     },
     "2026-20374": {
       "title": "Section 3 Benchmarks for Creating Economic Opportunities for Low- and Very Low-Income Persons and Eligible Businesses",
@@ -8642,7 +8643,7 @@
       "comments_count": 59,
       "docket_id": "EPA-HQ-OAR-2024-0078",
       "first_seen": "2026-10-06",
-      "final_checked": "2026-11-13"
+      "final_checked": "2026-11-20"
     },
     "2026-20474": {
       "title": "Investment Adviser Performance-Based Compensation Modernization",
@@ -8824,7 +8825,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 339,
+      "comments_count": 347,
       "docket_id": "CMS-2026-3235",
       "first_seen": "2026-10-08"
     },
@@ -9696,7 +9697,7 @@
         "1219-AC17"
       ],
       "significant": false,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "MSHA-2025-0089",
       "first_seen": "2026-10-25"
     },
@@ -9726,7 +9727,7 @@
         "2060-AX09"
       ],
       "significant": null,
-      "comments_count": 202,
+      "comments_count": 277,
       "docket_id": "EPA-HQ-OAR-2024-0505",
       "first_seen": "2026-10-25"
     },
@@ -10239,7 +10240,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "FTC-2026-1618",
       "first_seen": "2026-10-25"
     },
@@ -10297,7 +10298,7 @@
       "effective_on": "2026-12-21",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "EPA-R09-UST-2025-0703",
       "first_seen": "2026-10-25"
     },
@@ -10392,7 +10393,7 @@
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": 27,
+      "comments_count": 28,
       "docket_id": "FNA-2026-0496",
       "first_seen": "2026-10-25"
     },
@@ -10496,7 +10497,7 @@
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": 236,
+      "comments_count": 262,
       "docket_id": "TREAS-DO-2026-0529",
       "first_seen": "2026-10-25"
     },
@@ -10591,7 +10592,7 @@
         "2127-AM20"
       ],
       "significant": false,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "NHTSA-2023-0031",
       "first_seen": "2026-10-25"
     },
@@ -10630,7 +10631,7 @@
         "1505-AC94"
       ],
       "significant": null,
-      "comments_count": 30,
+      "comments_count": 33,
       "docket_id": "TREAS-DO-2026-0595",
       "first_seen": "2026-10-25"
     },
@@ -10755,7 +10756,7 @@
         "0938-AW03"
       ],
       "significant": null,
-      "comments_count": 39,
+      "comments_count": 41,
       "docket_id": "CMS-2026-3367",
       "first_seen": "2026-10-27"
     },
@@ -10868,7 +10869,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 56,
+      "comments_count": 57,
       "docket_id": "COLC-2026-0199",
       "first_seen": "2026-10-28"
     },
@@ -10898,7 +10899,7 @@
         "2060-AW73"
       ],
       "significant": true,
-      "comments_count": 2283,
+      "comments_count": 4581,
       "docket_id": "EPA-HQ-OAR-2025-0163",
       "first_seen": "2026-10-29"
     },
@@ -10956,7 +10957,7 @@
         "0930-AA41"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "SAMHSA-2026-0001",
       "first_seen": "2026-10-29"
     },
@@ -11062,7 +11063,7 @@
       "effective_on": "2026-10-30",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "DEA-2026-1783",
       "first_seen": "2026-10-30"
     },
@@ -11226,7 +11227,7 @@
         "2137-AF45"
       ],
       "significant": true,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "PHMSA-2019-0091",
       "first_seen": "2026-11-03"
     },
@@ -11448,7 +11449,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 40,
+      "comments_count": 44,
       "docket_id": "ED-2026-OS-3169",
       "first_seen": "2026-11-05"
     },
@@ -11788,7 +11789,7 @@
         "0938-AW04"
       ],
       "significant": null,
-      "comments_count": 8808,
+      "comments_count": 9843,
       "docket_id": "CMS-2026-3631",
       "first_seen": "2026-11-10"
     },
@@ -11827,7 +11828,7 @@
         "0648-BN99"
       ],
       "significant": null,
-      "comments_count": 2731,
+      "comments_count": 2905,
       "docket_id": "NOAA-NMFS-2026-2410",
       "first_seen": "2026-11-09"
     },
@@ -11931,7 +11932,7 @@
         "1004-AF53"
       ],
       "significant": null,
-      "comments_count": 1271,
+      "comments_count": 1454,
       "docket_id": "BLM-2026-0298",
       "first_seen": "2026-11-10"
     },
@@ -12044,7 +12045,7 @@
         "1205-AC31"
       ],
       "significant": null,
-      "comments_count": 20,
+      "comments_count": 22,
       "docket_id": "ETA-2026-0100",
       "first_seen": "2026-11-10"
     },
@@ -12083,7 +12084,7 @@
         "0584-AF10"
       ],
       "significant": true,
-      "comments_count": 1614,
+      "comments_count": 1750,
       "docket_id": "FNA-2026-0661",
       "first_seen": "2026-11-10"
     },
@@ -12122,7 +12123,7 @@
         "0584-AF09"
       ],
       "significant": null,
-      "comments_count": 48,
+      "comments_count": 52,
       "docket_id": "FNA-2026-0628",
       "first_seen": "2026-11-10"
     },
@@ -12274,7 +12275,7 @@
         "0648-BN92"
       ],
       "significant": false,
-      "comments_count": 13,
+      "comments_count": 14,
       "docket_id": "NOAA-NMFS-2026-1750",
       "first_seen": "2026-11-11"
     },
@@ -12313,7 +12314,7 @@
         "0596-AD75"
       ],
       "significant": null,
-      "comments_count": 176,
+      "comments_count": 179,
       "docket_id": "FS-2026-0199",
       "first_seen": "2026-11-11"
     },
@@ -12456,7 +12457,7 @@
         "0579-AE93"
       ],
       "significant": null,
-      "comments_count": 138,
+      "comments_count": 144,
       "docket_id": "APHIS-2026-0067",
       "first_seen": "2026-11-13"
     },
@@ -12573,7 +12574,7 @@
         "1024-AF13"
       ],
       "significant": null,
-      "comments_count": 14,
+      "comments_count": 25,
       "docket_id": "NPS-2026-0265",
       "first_seen": "2026-11-14"
     },
@@ -12799,7 +12800,7 @@
         "2900-AS98"
       ],
       "significant": null,
-      "comments_count": 19,
+      "comments_count": 20,
       "docket_id": "VA-2026-VBA-0430",
       "first_seen": "2026-11-17"
     },
@@ -12838,7 +12839,7 @@
         "1205-AC29"
       ],
       "significant": null,
-      "comments_count": 507,
+      "comments_count": 558,
       "docket_id": "ETA-2026-0133",
       "first_seen": "2026-11-17"
     },
@@ -12986,7 +12987,7 @@
         "0938-AV97"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 9,
       "docket_id": "CMS_FRDOC_0001",
       "first_seen": "2026-11-19"
     },
@@ -13019,13 +13020,52 @@
         }
       ],
       "comments_close_on": "2027-01-19",
-      "comment_url": "http://www.regulations.gov/commenton/EBSA-2026-0430-0001",
+      "comment_url": "http://www.regulations.gov/commenton/EBSA-2026-0397-0001",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 2,
-      "docket_id": "EBSA-2026-0430",
+      "comments_count": 3,
+      "docket_id": "EBSA-2026-0397",
       "first_seen": "2026-11-19"
+    },
+    "2026-23529": {
+      "title": "Addressing Remote Access to Advanced Semiconductors",
+      "type": "Rule",
+      "abstract": "In this interim final rule (IFR), the Department of Commerce is establishing new rules to prevent certain foreign actors from leveraging advanced computing power based on U.S. technology to threaten U.S. national security and foreign policy interests. First, this rule establishes new restrictions which will apply for exports, reexports, or transfers (in-country) to overseas data centers that remotely supply significant volumes of compute to companies headquartered in Country Group D:5 or Macau. These restrictions will undermine the ability of companies headquartered in countries of concern from using U.S. advanced Super Intelligence (SI) semiconductors to train advanced SI models. Data centers, foreign foundries, and chip exporters are required to perform robust due diligence on their customers, including any direct or indirect ownership or control by persons in Country Group D:5 or Macau, as part of complying with this new control. The license requirement will not apply to commercial recommender systems, such as those used by online retailers or social media companies, as these functions do not pose the same national security threat. Second, in addition to the current license requirements for advanced semiconductors, a license will be required to export, reexport, or transfer (in-country) advanced semiconductors to Indonesia, Malaysia, Singapore, Thailand, or Brazil (and any additional country designated by the Secretary of Commerce, in consultation with the Secretary of State or the Assistant to the President for National Security Affairs)--countries which present a higher-than-normal risk of diversion. The license requirement for these five countries will not apply to semiconductors destined to companies headquartered in, or whose ultimate parent company is headquartered in, the United States, provided certain reporting requirements are met. Commerce will be actively monitoring for countries that tolerate evasion of this IFR and will consider a range of consequences for such countries, such as import restrictions, new license requirements on advanced semiconductor exports, downgrading the country's status in the U.S. export control regime, and Entity List designations and temporary export prohibitions for foreign persons involved in such activities. Third, this IFR amends the presumptions which front-end chips fabricators and chip packagers face when exporting advanced-node logic chips. These amendments reduce the number of pathways to overcome the presumptions for chip designers located in destinations which face a license requirement for SI chips. This change gives the U.S. government critical oversight over companies headquartered in certain countries that seek to leverage advanced semiconductor production capabilities in third countries. Finally, the IFR formally rescinds the regulations implementing the Biden-era AI Diffusion Rule. The AI Diffusion Rule has never been enforced. The regulatory changes in this rule formalize the rescission of the AI Diffusion Rule, which the Department of Commerce Bureau of Industry and Security (BIS) announced in May 2025.",
+      "document_number": "2026-23529",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-19/pdf/2026-23529.pdf",
+      "publication_date": "2026-11-19",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "Bureau of Industry and Security",
+          "name": "Industry and Security Bureau",
+          "id": 241,
+          "url": "https://www.federalregister.gov/agencies/industry-and-security-bureau",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/241",
+          "parent_id": 54,
+          "slug": "industry-and-security-bureau"
+        }
+      ],
+      "comments_close_on": "2027-01-19",
+      "comment_url": null,
+      "effective_on": "2026-11-19",
+      "regulation_id_numbers": [
+        "0694-AK50"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "BIS_FRDOC_0001",
+      "first_seen": "2026-11-20"
     },
     "2026-23555": {
       "title": "Executive Compensation Disclosure Reform",
@@ -13083,7 +13123,7 @@
         "2900-AS94"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 2,
       "docket_id": "VA-2026-VBA-0463",
       "first_seen": "2026-11-19"
     },
@@ -13122,9 +13162,182 @@
         "1506-AB78"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 8,
       "docket_id": "FINCEN-2026-0298",
       "first_seen": "2026-11-19"
+    },
+    "2026-23669": {
+      "title": "Custodial Deposits: Implementing the 21st Century ROAD to Housing Act",
+      "type": "Proposed Rule",
+      "abstract": "The Federal Deposit Insurance Corporation (FDIC) invites public comment on a proposed rule that would amend the brokered deposit regulations to implement section 901 of the 21st Century ROAD to Housing Act related to custodial deposits.",
+      "document_number": "2026-23669",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/20/2026-23669/custodial-deposits-implementing-the-21st-century-road-to-housing-act",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-20/pdf/2026-23669.pdf",
+      "publication_date": "2026-11-20",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL DEPOSIT INSURANCE CORPORATION",
+          "name": "Federal Deposit Insurance Corporation",
+          "id": 164,
+          "url": "https://www.federalregister.gov/agencies/federal-deposit-insurance-corporation",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/164",
+          "parent_id": null,
+          "slug": "federal-deposit-insurance-corporation"
+        }
+      ],
+      "comments_close_on": "2027-01-19",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "3064-AG38"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null,
+      "first_seen": "2026-11-20"
+    },
+    "2026-23705": {
+      "title": "Petition for Rulemaking of Alden Graham",
+      "type": "Proposed Rule",
+      "abstract": "Please take notice that the Federal Trade Commission (\"Commission\") received a petition for rulemaking from Alden Graham and has published that petition online at https://www.regulations.gov. The Commission invites written comments concerning the petition. Publication of this petition is pursuant to the Commission's Rules of Practice and Procedure and does not affect the legal status of the petition or its final disposition.",
+      "document_number": "2026-23705",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/20/2026-23705/petition-for-rulemaking-of-alden-graham",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-20/pdf/2026-23705.pdf",
+      "publication_date": "2026-11-20",
+      "agencies": [
+        {
+          "raw_name": "FEDERAL TRADE COMMISSION",
+          "name": "Federal Trade Commission",
+          "id": 192,
+          "url": "https://www.federalregister.gov/agencies/federal-trade-commission",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/192",
+          "parent_id": null,
+          "slug": "federal-trade-commission"
+        }
+      ],
+      "comments_close_on": "2026-12-21",
+      "comment_url": "http://www.regulations.gov/commenton/FTC-2026-1849-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "FTC-2026-1849",
+      "first_seen": "2026-11-20"
+    },
+    "2026-23706": {
+      "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for Mazama Newt",
+      "type": "Proposed Rule",
+      "abstract": "We, the U.S. Fish and Wildlife Service (Service), propose to list the Mazama newt (Taricha granulosa mazamae), an amphibian species from the Crater Lake caldera in Crater Lake National Park in Klamath County, Oregon, as an endangered species under the Endangered Species Act of 1973, as amended (Act). This determination also serves as our 12-month finding on a petition to list the Mazama newt. After a review of the best scientific and commercial data available, we find that listing the species is warranted. If we finalize this rule as proposed, it would add this species to the List of Endangered and Threatened Wildlife and extend the Act's protections to the species. We find that designating critical habitat for this species is not determinable at this time.",
+      "document_number": "2026-23706",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/20/2026-23706/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-mazama-newt",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-20/pdf/2026-23706.pdf",
+      "publication_date": "2026-11-20",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "Fish and Wildlife Service",
+          "name": "Fish and Wildlife Service",
+          "id": 197,
+          "url": "https://www.federalregister.gov/agencies/fish-and-wildlife-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/197",
+          "parent_id": 253,
+          "slug": "fish-and-wildlife-service"
+        }
+      ],
+      "comments_close_on": "2027-01-19",
+      "comment_url": "http://www.regulations.gov/commenton/FWS-R8-ES-2026-2938-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1018-BJ02"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "FWS-R8-ES-2026-2938",
+      "first_seen": "2026-11-20"
+    },
+    "2026-23709": {
+      "title": "Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; 2026 Tribal Fishery Allocations for Pacific Whiting; Reapportionment Between Tribal and Non-Tribal Sectors",
+      "type": "Rule",
+      "abstract": "This document announces the reapportionment of 29,130 metric tons of Pacific whiting from the Tribal allocation to the non-Tribal commercial fishery sectors via automatic actions on September 14, and 23, and October 5, 2026. This reapportionment is to allow full utilization of the Pacific whiting resource.",
+      "document_number": "2026-23709",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/20/2026-23709/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-20/pdf/2026-23709.pdf",
+      "publication_date": "2026-11-20",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-07",
+      "comment_url": "http://www.regulations.gov/commenton/NOAA_FRDOC_0001-7733",
+      "effective_on": "2026-10-05",
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "NOAA_FRDOC_0001",
+      "first_seen": "2026-11-20"
+    },
+    "2026-23711": {
+      "title": "Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for White Sands Pupfish and Critical Habitat Determination",
+      "type": "Proposed Rule",
+      "abstract": "We, the U.S. Fish and Wildlife Service (Service), propose to list the White Sands pupfish (Cyprinodon tularosa), a fish species from southcentral New Mexico, as a threatened species with protective regulations under section 4(d) of the Endangered Species Act of 1973, as amended (Act). This determination also serves as our 12-month finding on a petition to list the White Sands pupfish. After a review of the best scientific and commercial data available, we find that listing the species is warranted. If we finalize this rule as proposed, it would add this species to the List of Endangered and Threatened Wildlife and extend the Act's protections to the species. All areas meeting the definition of critical habitat for the White Sands pupfish occur on Department of War (DoW) owned facilities and are exempt from designation as critical habitat in accordance with section 4(a)(3)(B) of the Act. Therefore, we are not proposing any areas as critical habitat for the White Sands pupfish.",
+      "document_number": "2026-23711",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/20/2026-23711/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-20/pdf/2026-23711.pdf",
+      "publication_date": "2026-11-20",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "Fish and Wildlife Service",
+          "name": "Fish and Wildlife Service",
+          "id": 197,
+          "url": "https://www.federalregister.gov/agencies/fish-and-wildlife-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/197",
+          "parent_id": 253,
+          "slug": "fish-and-wildlife-service"
+        }
+      ],
+      "comments_close_on": "2027-01-19",
+      "comment_url": "http://www.regulations.gov/commenton/FWS-R2-ES-2026-1651-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1018-BH87"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FWS-R2-ES-2026-1651",
+      "first_seen": "2026-11-20"
     },
     "C1-2026-20360": {
       "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",
