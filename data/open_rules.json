@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-21T15:23:59.502653+00:00",
-  "as_of": "2026-11-21",
-  "count": 216,
+  "updated_at": "2026-11-22T15:20:25.702103+00:00",
+  "as_of": "2026-11-22",
+  "count": 215,
   "documents": [
     {
       "title": "Establishment of Class E Airspace; Columbus, TX",
@@ -372,7 +372,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "FTC-2026-1849"
     },
     {
@@ -439,7 +439,7 @@
         "1506-AB78"
       ],
       "significant": null,
-      "comments_count": 9,
+      "comments_count": 10,
       "docket_id": "FINCEN-2026-0298"
     },
     {
@@ -804,7 +804,7 @@
         "0938-AV97"
       ],
       "significant": null,
-      "comments_count": 16,
+      "comments_count": 20,
       "docket_id": "CMS-2026-0826"
     },
     {
@@ -1138,7 +1138,7 @@
         "1205-AC29"
       ],
       "significant": null,
-      "comments_count": 594,
+      "comments_count": 607,
       "docket_id": "ETA-2026-0133"
     },
     {
@@ -1319,7 +1319,7 @@
         "3150-AL43"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "NRC-2025-0974"
     },
     {
@@ -1357,7 +1357,7 @@
         "0648-BO04"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "NOAA-NMFS-2026-0397"
     },
     {
@@ -1395,7 +1395,7 @@
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "NHTSA-2026-1519"
     },
     {
@@ -1498,7 +1498,7 @@
         "1024-AF13"
       ],
       "significant": null,
-      "comments_count": 31,
+      "comments_count": 36,
       "docket_id": "NPS-2026-0265"
     },
     {
@@ -1905,7 +1905,7 @@
         "0579-AE93"
       ],
       "significant": null,
-      "comments_count": 145,
+      "comments_count": 146,
       "docket_id": "APHIS-2026-0067"
     },
     {
@@ -2082,7 +2082,7 @@
         "1219-AC22"
       ],
       "significant": null,
-      "comments_count": 25,
+      "comments_count": 26,
       "docket_id": "MSHA-2026-0200"
     },
     {
@@ -2120,7 +2120,7 @@
         "0596-AD75"
       ],
       "significant": null,
-      "comments_count": 655,
+      "comments_count": 737,
       "docket_id": "FS-2026-0199"
     },
     {
@@ -2371,7 +2371,7 @@
         "0584-AF10"
       ],
       "significant": true,
-      "comments_count": 1978,
+      "comments_count": 2048,
       "docket_id": "FNA-2026-0661"
     },
     {
@@ -2485,7 +2485,7 @@
         "1205-AC31"
       ],
       "significant": null,
-      "comments_count": 22,
+      "comments_count": 23,
       "docket_id": "ETA-2026-0100"
     },
     {
@@ -2633,7 +2633,7 @@
         "1004-AF53"
       ],
       "significant": null,
-      "comments_count": 1807,
+      "comments_count": 2079,
       "docket_id": "BLM-2026-0298"
     },
     {
@@ -2671,7 +2671,7 @@
         "0938-AW04"
       ],
       "significant": null,
-      "comments_count": 10741,
+      "comments_count": 11598,
       "docket_id": "CMS-2026-3631"
     },
     {
@@ -2772,7 +2772,7 @@
         "0648-BN99"
       ],
       "significant": null,
-      "comments_count": 3021,
+      "comments_count": 3142,
       "docket_id": "NOAA-NMFS-2026-2410"
     },
     {
@@ -3282,7 +3282,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 44,
+      "comments_count": 45,
       "docket_id": "ED-2026-OS-3169"
     },
     {
@@ -3987,7 +3987,7 @@
         "0910-AJ34"
       ],
       "significant": null,
-      "comments_count": 24,
+      "comments_count": 25,
       "docket_id": "FDA-2026-N-10832"
     },
     {
@@ -4202,7 +4202,7 @@
         "2060-AW73"
       ],
       "significant": true,
-      "comments_count": 4581,
+      "comments_count": 9067,
       "docket_id": "EPA-HQ-OAR-2025-0163"
     },
     {
@@ -4330,7 +4330,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 57,
+      "comments_count": 60,
       "docket_id": "COLC-2026-0199"
     },
     {
@@ -4509,7 +4509,7 @@
         "0938-AW03"
       ],
       "significant": null,
-      "comments_count": 47,
+      "comments_count": 49,
       "docket_id": "CMS-2026-3367"
     },
     {
@@ -4715,7 +4715,7 @@
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": 58,
+      "comments_count": 59,
       "docket_id": "NHTSA-2026-1519"
     },
     {
@@ -4753,46 +4753,8 @@
         "1505-AC94"
       ],
       "significant": null,
-      "comments_count": 35,
+      "comments_count": 37,
       "docket_id": "TREAS-DO-2026-0595"
-    },
-    {
-      "title": "Part 572; Anthropomorphic Test Devices; Test Device for Human Occupant Restraint 50th Percentile Adult Male Dummy (THOR-50M); Extension of Comment Period",
-      "type": "Proposed Rule",
-      "abstract": "In response to a request from the Alliance for Automotive Innovation (Auto Innovators), NHTSA is announcing a 30-day extension of the public comment period for the Supplemental Notice of Proposed Rulemaking (SNPRM) published on September 22, 2026. The SNPRM supplements NHTSA's September 2023 notice of proposed rulemaking to amend NHTSA's regulations to include an advanced crash test dummy (the Test Device for Human Occupant Restraint (THOR) 50th percentile adult male) by requesting comment on specifying an additional spine configuration and an alternative to the face foam, and announcing the availability of additional documents. The comment period for the SNPRM was originally scheduled to end on October 22, 2026. It will now end on November 21, 2026.",
-      "document_number": "2026-21730",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/23/2026-21730/part-572-anthropomorphic-test-devices-test-device-for-human-occupant-restraint-50th-percentile-adult",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-23/pdf/2026-21730.pdf",
-      "publication_date": "2026-10-23",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "National Highway Traffic Safety Administration",
-          "name": "National Highway Traffic Safety Administration",
-          "id": 345,
-          "url": "https://www.federalregister.gov/agencies/national-highway-traffic-safety-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/345",
-          "parent_id": 492,
-          "slug": "national-highway-traffic-safety-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-21",
-      "comment_url": "http://www.regulations.gov/commenton/NHTSA-2023-0031-0037",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2127-AM20"
-      ],
-      "significant": false,
-      "comments_count": 4,
-      "docket_id": "NHTSA-2023-0031"
     },
     {
       "title": "Irradiated Fuel Reprocessing Plants",
@@ -4818,7 +4780,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 6,
       "docket_id": "NRC-2026-4456"
     },
     {
@@ -4847,7 +4809,7 @@
         "1505-AC96"
       ],
       "significant": null,
-      "comments_count": 323,
+      "comments_count": 329,
       "docket_id": "TREAS-DO-2026-0529"
     },
     {
@@ -4957,7 +4919,7 @@
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": 29,
+      "comments_count": 31,
       "docket_id": "FNA-2026-0496"
     },
     {
@@ -5049,7 +5011,7 @@
         "1625-AA09"
       ],
       "significant": false,
-      "comments_count": 5,
+      "comments_count": 6,
       "docket_id": "USCG-2024-0407"
     },
     {
@@ -5306,7 +5268,7 @@
         "0938-AV88"
       ],
       "significant": null,
-      "comments_count": 32,
+      "comments_count": 33,
       "docket_id": "CMS-2026-3533"
     },
     {
@@ -5487,7 +5449,7 @@
         "2060-AX09"
       ],
       "significant": null,
-      "comments_count": 293,
+      "comments_count": 294,
       "docket_id": "EPA-HQ-OAR-2024-0505"
     },
     {
@@ -5525,7 +5487,7 @@
         "1219-AC17"
       ],
       "significant": false,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "MSHA-2025-0089"
     },
     {
@@ -5628,7 +5590,7 @@
         "3133-AF91"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "NCUA-2026-1889"
     },
     {
@@ -5713,7 +5675,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 7,
+      "comments_count": 8,
       "docket_id": "FMC-2026-0463"
     },
     {
@@ -5751,7 +5713,7 @@
         "1545-BS15"
       ],
       "significant": null,
-      "comments_count": 10,
+      "comments_count": 11,
       "docket_id": "IRS-2026-1420"
     },
     {
@@ -5990,7 +5952,7 @@
         "3038-AF80"
       ],
       "significant": null,
-      "comments_count": 30,
+      "comments_count": 31,
       "docket_id": "CFTC-2026-2179"
     },
     {
@@ -6066,7 +6028,7 @@
         "1651-AB60"
       ],
       "significant": true,
-      "comments_count": 8,
+      "comments_count": 9,
       "docket_id": "USCBP-2026-0992"
     },
     {
@@ -6292,7 +6254,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "FAA-2026-11799"
     },
     {
@@ -6406,7 +6368,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 381,
+      "comments_count": 388,
       "docket_id": "CMS-2026-3235"
     },
     {
@@ -6556,7 +6518,7 @@
       "effective_on": "2026-11-04",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "HUD-2026-1651"
     },
     {
@@ -6623,7 +6585,7 @@
         "1545-BR97"
       ],
       "significant": null,
-      "comments_count": 25309,
+      "comments_count": 25340,
       "docket_id": "IRS-2026-1354"
     },
     {
@@ -6661,7 +6623,7 @@
         "1024-AE54"
       ],
       "significant": false,
-      "comments_count": 253,
+      "comments_count": 255,
       "docket_id": "NPS-2026-0199"
     },
     {
@@ -6690,7 +6652,7 @@
         "3084-AB90"
       ],
       "significant": null,
-      "comments_count": 212,
+      "comments_count": 217,
       "docket_id": "FTC-2026-1552"
     },
     {
@@ -6871,7 +6833,7 @@
         "1545-BR91"
       ],
       "significant": null,
-      "comments_count": 139,
+      "comments_count": 140,
       "docket_id": "IRS-2026-1321"
     },
     {
@@ -6900,7 +6862,7 @@
         "1505-AC97"
       ],
       "significant": null,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "TREAS-DO-2026-0562"
     },
     {
@@ -7072,7 +7034,7 @@
         "2120-AM24"
       ],
       "significant": null,
-      "comments_count": 33,
+      "comments_count": 36,
       "docket_id": "FAA-2026-12145"
     },
     {
@@ -7137,7 +7099,7 @@
         "0938-AW08"
       ],
       "significant": null,
-      "comments_count": 1728,
+      "comments_count": 1821,
       "docket_id": "CMS-2026-3037"
     },
     {
@@ -7251,7 +7213,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 4625,
+      "comments_count": 4692,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -7289,7 +7251,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 394,
+      "comments_count": 399,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -7450,7 +7412,7 @@
         "0910-AJ02"
       ],
       "significant": true,
-      "comments_count": 1255,
+      "comments_count": 1262,
       "docket_id": "FDA-2025-N-3262"
     }
   ]

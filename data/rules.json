@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T15:23:58.505462+00:00",
+  "updated_at": "2026-11-22T15:20:24.987526+00:00",
   "latest_date": "2026-11-23",
   "issue_count": 12,
   "documents": [
@@ -3275,41 +3275,6 @@
       "effective_on": null,
       "regulation_id_numbers": [
         "2127-AM70"
-      ]
-    },
-    {
-      "title": "Part 572; Anthropomorphic Test Devices; Test Device for Human Occupant Restraint 50th Percentile Adult Male Dummy (THOR-50M); Extension of Comment Period",
-      "type": "Proposed Rule",
-      "abstract": "In response to a request from the Alliance for Automotive Innovation (Auto Innovators), NHTSA is announcing a 30-day extension of the public comment period for the Supplemental Notice of Proposed Rulemaking (SNPRM) published on September 22, 2026. The SNPRM supplements NHTSA's September 2023 notice of proposed rulemaking to amend NHTSA's regulations to include an advanced crash test dummy (the Test Device for Human Occupant Restraint (THOR) 50th percentile adult male) by requesting comment on specifying an additional spine configuration and an alternative to the face foam, and announcing the availability of additional documents. The comment period for the SNPRM was originally scheduled to end on October 22, 2026. It will now end on November 21, 2026.",
-      "document_number": "2026-21730",
-      "html_url": "https://www.federalregister.gov/documents/2026/10/23/2026-21730/part-572-anthropomorphic-test-devices-test-device-for-human-occupant-restraint-50th-percentile-adult",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-23/pdf/2026-21730.pdf",
-      "publication_date": "2026-10-23",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF TRANSPORTATION",
-          "name": "Transportation Department",
-          "id": 492,
-          "url": "https://www.federalregister.gov/agencies/transportation-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
-          "parent_id": null,
-          "slug": "transportation-department"
-        },
-        {
-          "raw_name": "National Highway Traffic Safety Administration",
-          "name": "National Highway Traffic Safety Administration",
-          "id": 345,
-          "url": "https://www.federalregister.gov/agencies/national-highway-traffic-safety-administration",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/345",
-          "parent_id": 492,
-          "slug": "national-highway-traffic-safety-administration"
-        }
-      ],
-      "comments_close_on": "2026-11-21",
-      "comment_url": "http://www.regulations.gov/commenton/NHTSA-2023-0031-0037",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "2127-AM20"
       ]
     },
     {
