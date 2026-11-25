@@ -1,8 +1,337 @@
 {
-  "updated_at": "2026-11-24T18:54:39.871650+00:00",
-  "as_of": "2026-11-24",
-  "count": 202,
+  "updated_at": "2026-11-25T17:59:19.239083+00:00",
+  "as_of": "2026-11-25",
+  "count": 211,
   "documents": [
+    {
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 707 airplanes; Model 720 and 720B series airplanes; Model 727C, 727-100, -100C, -200, and -200F series airplanes; and Model 747-100, -100B, -100B SUD, -200B, -200C, -200F, - 300, 747SR, and 747SP series airplanes. This proposed AD was prompted by reports that using some adaptors while performing tests of the cabin altitude warning switch (CAWS) could lead to incorrect failures. This proposed AD would require repetitive operational tests or replacements of the CAWS and applicable on-condition actions. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-24017",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-24017/airworthiness-directives-the-boeing-company-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-25/pdf/2026-24017.pdf",
+      "publication_date": "2026-11-25",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-11",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-13830-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-13830"
+    },
+    {
+      "title": "VIAVI Solutions; Filing of Color Additive Petition",
+      "type": "Proposed Rule",
+      "abstract": "The Food and Drug Administration (FDA or we) is announcing that we have filed a color additive petition, submitted by VIAVI Solutions, proposing that the color additive regulations be amended to provide for the safe use of magnesium fluoride-aluminum flake for use in nail polish at a maximum level of 16 percent of the final product.",
+      "document_number": "2026-24009",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-24009/viavi-solutions-filing-of-color-additive-petition",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-25/pdf/2026-24009.pdf",
+      "publication_date": "2026-11-25",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Food and Drug Administration",
+          "name": "Food and Drug Administration",
+          "id": 199,
+          "url": "https://www.federalregister.gov/agencies/food-and-drug-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/199",
+          "parent_id": 221,
+          "slug": "food-and-drug-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-28",
+      "comment_url": "http://www.regulations.gov/commenton/FDA-2026-C-13763-0001",
+      "effective_on": "2026-11-05",
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "FDA-2026-C-13763"
+    },
+    {
+      "title": "Petition for Rulemaking To Consider Amendments to Regulations Governing Interim Use of Rights-of-Way as Trails",
+      "type": "Proposed Rule",
+      "abstract": "The Board partially grants a petition for rulemaking and proposes amendments to its regulations implementing section 208 of the National Trails System Act Amendments of 1983 to streamline the railbanking process. Under the proposal, the Board would no longer issue Notices or Certificates of Interim Trail Use during trail-use negotiations. Only after an agreement is reached would the Board issue an order authorizing transfer to the trail sponsor. Abandonment authority would no longer be prerequisite to railbanking. The Board would also confirm that by authorizing transfer the Board is not exercising any power of eminent domain or authorizing a taking.",
+      "document_number": "2026-24003",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-24003/petition-for-rulemaking-to-consider-amendments-to-regulations-governing-interim-use-of-rights-of-way",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-25/pdf/2026-24003.pdf",
+      "publication_date": "2026-11-25",
+      "agencies": [
+        {
+          "raw_name": "SURFACE TRANSPORTATION BOARD",
+          "name": "Surface Transportation Board",
+          "id": 481,
+          "url": "https://www.federalregister.gov/agencies/surface-transportation-board",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/481",
+          "parent_id": null,
+          "slug": "surface-transportation-board"
+        }
+      ],
+      "comments_close_on": "2027-02-08",
+      "comment_url": null,
+      "effective_on": "2027-01-08",
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": null
+    },
+    {
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to supersede Airworthiness Directive (AD) 2024-19-04, which applies to all Airbus SAS Model A350-941 and -1041 airplanes. AD 2024-19-04 requires a one-time detailed inspection of the engine nacelle anti-icing (NAI) forward bulkhead locating holes for elongation and loose fasteners and applicable corrective actions and prohibits the installation of affected parts under certain conditions. Since the FAA issued AD 2024-19-04, it has been determined that affected parts must accumulate at least 2,000 flight cycles (FC) since installation prior to the inspection to ensure that the inspection will detect discrepancies. This proposed AD would continue to require the actions in AD 2024-19-04 and would amend the compliance time for the inspection. This proposed AD would also prohibit the installation of affected parts under certain conditions. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-23985",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23985/airworthiness-directives-airbus-sas-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-25/pdf/2026-23985.pdf",
+      "publication_date": "2026-11-25",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-11",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-13827-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-13827"
+    },
+    {
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "type": "Proposed Rule",
+      "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 757-200 and -300 series airplanes. This proposed AD was prompted by a report of missing and/or incorrectly installed lockwire on backshells found during engineering validation tests in the wing leading edge and engine struts for high intensity radiated field (HIRF)/lightning protection features. This proposed AD would require inspection of the backshells at the left- and right-wing leading edge and nacelle strut for missing and incorrectly installed lockwire and applicable on-condition actions. The FAA is proposing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-23979",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23979/airworthiness-directives-the-boeing-company-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-25/pdf/2026-23979.pdf",
+      "publication_date": "2026-11-25",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-11",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-13824-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-13824"
+    },
+    {
+      "title": "Establishment of Class E Airspace; Canton, TX",
+      "type": "Proposed Rule",
+      "abstract": "This action proposes to establish Class E airspace at Mother Frances-Canton Heliport, Canton, TX. The FAA is proposing this action to support new instrument procedures and instrument flight rule (IFR) operations.",
+      "document_number": "2026-23977",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23977/establishment-of-class-e-airspace-canton-tx",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-25/pdf/2026-23977.pdf",
+      "publication_date": "2026-11-25",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-11",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-15215-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2120-AA66"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-15215"
+    },
+    {
+      "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for the Rio Grande Shiner",
+      "type": "Proposed Rule",
+      "abstract": "We, the U.S. Fish and Wildlife Service (Service), propose to list the Rio Grande shiner (Notropis jemezanus), a fish species from the Rio Grande Basin in New Mexico, Texas, and Mexico, as an endangered species under the Endangered Species Act of 1973, as amended (Act). This determination also serves as our 12-month finding on a petition to list the Rio Grande shiner. After a review of the best scientific and commercial data available, we find that listing the species is warranted. If we finalize this rule as proposed, it would add this species to the List of Endangered and Threatened Wildlife and extend the Act's protections to the species. We find that critical habitat for this species is not determinable at this time.",
+      "document_number": "2026-23969",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23969/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-the-rio-grande-shiner",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-25/pdf/2026-23969.pdf",
+      "publication_date": "2026-11-25",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "Fish and Wildlife Service",
+          "name": "Fish and Wildlife Service",
+          "id": 197,
+          "url": "https://www.federalregister.gov/agencies/fish-and-wildlife-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/197",
+          "parent_id": 253,
+          "slug": "fish-and-wildlife-service"
+        }
+      ],
+      "comments_close_on": "2027-01-25",
+      "comment_url": "http://www.regulations.gov/commenton/FWS-R2-ES-2026-2278-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1018-BI86"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "FWS-R2-ES-2026-2278"
+    },
+    {
+      "title": "Endangered and Threatened Wildlife and Plants; Endangered Species Status for Peppered Shiner",
+      "type": "Proposed Rule",
+      "abstract": "We, the U.S. Fish and Wildlife Service (Service), propose to list the peppered shiner (Miniellus perpallidus), a fish species from southeast Oklahoma and southern Arkansas, as an endangered species under the Endangered Species Act of 1973, as amended (Act). This determination also serves as our 12-month finding on a petition to list the peppered shiner. After a review of the best available scientific and commercial information, we find that listing the species is warranted. Accordingly, we propose to list the peppered shiner as an endangered species under the Act. If finalized as proposed, this rule would add this species to the List of Endangered and Threatened Wildlife and extend the Act's protections to the species.",
+      "document_number": "2026-23968",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23968/endangered-and-threatened-wildlife-and-plants-endangered-species-status-for-peppered-shiner",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-25/pdf/2026-23968.pdf",
+      "publication_date": "2026-11-25",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "Fish and Wildlife Service",
+          "name": "Fish and Wildlife Service",
+          "id": 197,
+          "url": "https://www.federalregister.gov/agencies/fish-and-wildlife-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/197",
+          "parent_id": 253,
+          "slug": "fish-and-wildlife-service"
+        }
+      ],
+      "comments_close_on": "2027-01-25",
+      "comment_url": "http://www.regulations.gov/commenton/FWS-R4-ES-2024-0045-0001",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1018-BH42"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FWS-R4-ES-2024-0045"
+    },
+    {
+      "title": "Medicare Program; Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Programs of All-Inclusive Care for the Elderly",
+      "type": "Proposed Rule",
+      "abstract": "This proposed rule would revise the Medicare Advantage (Part C), Medicare Prescription Drug Benefit (Part D), and Programs of All- Inclusive Care for the Elderly regulations to implement changes related to marketing and communications, drug coverage, enrollment processes, special needs plans, and other programmatic areas. Additionally, it would establish and implement a mandatory Medicare Advantage (MA) CMS Innovation Center model.",
+      "document_number": "2026-23960",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/25/2026-23960/medicare-program-contract-year-2028-policy-and-technical-changes-to-the-medicare-advantage-program",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-25/pdf/2026-23960.pdf",
+      "publication_date": "2026-11-25",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+          "name": "Health and Human Services Department",
+          "id": 221,
+          "url": "https://www.federalregister.gov/agencies/health-and-human-services-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/221",
+          "parent_id": null,
+          "slug": "health-and-human-services-department"
+        },
+        {
+          "raw_name": "Centers for Medicare & Medicaid Services",
+          "name": "Centers for Medicare & Medicaid Services",
+          "id": 45,
+          "url": "https://www.federalregister.gov/agencies/centers-for-medicare-medicaid-services",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/45",
+          "parent_id": 221,
+          "slug": "centers-for-medicare-medicaid-services"
+        }
+      ],
+      "comments_close_on": "2027-01-19",
+      "comment_url": "http://www.regulations.gov/commenton/CMS-2026-3533-0005",
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0938-AV88"
+      ],
+      "significant": null,
+      "comments_count": 0,
+      "docket_id": "CMS-2026-3533"
+    },
     {
       "title": "Restructuring the Governance and Funding Model of the Consolidated Audit Trail",
       "type": "Proposed Rule",
@@ -67,8 +396,46 @@
         "1210-AC37"
       ],
       "significant": true,
-      "comments_count": 0,
+      "comments_count": 5,
       "docket_id": "EBSA-2026-0463"
+    },
+    {
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "type": "Rule",
+      "abstract": "The FAA is superseding Airworthiness Directive (AD) 2026-21- 08, which applied to certain The Boeing Company Model 737-700, -700C, - 800, and -900ER series airplanes. AD 2026-21-08 required a detailed inspection of the left- and right-side form-in-place (FiP) gasket at the engine fuel shutoff valve access panel for correct sealant installation, a fluid leak test of the engine fuel shutoff valve access panels for any leak, and applicable on-condition actions. Since the FAA issued AD 2026-21-08, the FAA has determined that the compliance time exception specified in paragraph (h) of AD 2026-21-08 omits reference to a certain date. This AD retains all of the requirements of AD 2026- 21-08 and adds the omitted reference to the compliance time exception specified in paragraph (h) of this AD. The FAA is issuing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-23926",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/24/2026-23926/airworthiness-directives-the-boeing-company-airplanes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-24/pdf/2026-23926.pdf",
+      "publication_date": "2026-11-24",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2026-12-24",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-13828-0001",
+      "effective_on": "2026-12-01",
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-13828"
     },
     {
       "title": "Streamlining the Application Process for Grants for Adaptive Sports Programs for Disabled Veterans and Disabled Members of the Armed Forces",
@@ -96,7 +463,7 @@
         "2900-AS64"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "VA-2026-VHA-0496"
     },
     {
@@ -134,8 +501,46 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-13832"
+    },
+    {
+      "title": "Airworthiness Directives; Bell Textron Canada Limited Helicopters",
+      "type": "Rule",
+      "abstract": "The FAA is adopting a new airworthiness directive (AD) for certain Bell Textron Canada Limited (Bell) Model 429 helicopters. This AD was prompted by reports of premature wear-out of certain spherical bearings due to a quality escape of the spherical bearing monoballs not receiving the required hard coating. This AD requires repetitively inspecting the tail rotor (TR) pitch link assemblies and their bearings for cracks, wear, and mechanical or corrosion damage and, depending on the results, replacing any affected TR pitch link assembly. This AD also allows an affected part to be installed in a helicopter if certain requirements are met. The FAA is issuing this AD to address the unsafe condition on these products.",
+      "document_number": "2026-23877",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/24/2026-23877/airworthiness-directives-bell-textron-canada-limited-helicopters",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-24/pdf/2026-23877.pdf",
+      "publication_date": "2026-11-24",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "Federal Aviation Administration",
+          "name": "Federal Aviation Administration",
+          "id": 159,
+          "url": "https://www.federalregister.gov/agencies/federal-aviation-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/159",
+          "parent_id": 492,
+          "slug": "federal-aviation-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-08",
+      "comment_url": "http://www.regulations.gov/commenton/FAA-2026-13825-0001",
+      "effective_on": "2026-12-09",
+      "regulation_id_numbers": [
+        "2120-AA64"
+      ],
+      "significant": false,
+      "comments_count": 0,
+      "docket_id": "FAA-2026-13825"
     },
     {
       "title": "Airworthiness Directives; Airbus Helicopters Deutschland GmbH (AHD) Helicopters",
@@ -172,7 +577,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FAA-2026-13831"
     },
     {
@@ -210,7 +615,7 @@
         "1014-AA56"
       ],
       "significant": true,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "MMA-2026-0166"
     },
     {
@@ -481,7 +886,7 @@
         "1018-BH87"
       ],
       "significant": false,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "FWS-R2-ES-2026-1651"
     },
     {
@@ -830,7 +1235,7 @@
         "2900-AS94"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 6,
       "docket_id": "VA-2026-VBA-0463"
     },
     {
@@ -868,7 +1273,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "FAA-2026-13818"
     },
     {
@@ -1014,7 +1419,7 @@
         "0938-AV97"
       ],
       "significant": null,
-      "comments_count": 24,
+      "comments_count": 27,
       "docket_id": "CMS-2026-0826"
     },
     {
@@ -1169,7 +1574,7 @@
         "0648-BO60"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "NOAA-NMFS-2026-2014"
     },
     {
@@ -1348,7 +1753,7 @@
         "1205-AC29"
       ],
       "significant": null,
-      "comments_count": 709,
+      "comments_count": 758,
       "docket_id": "ETA-2026-0133"
     },
     {
@@ -1708,7 +2113,7 @@
         "1024-AF13"
       ],
       "significant": null,
-      "comments_count": 39,
+      "comments_count": 41,
       "docket_id": "NPS-2026-0265"
     },
     {
@@ -1898,7 +2303,7 @@
         "1082-AA05"
       ],
       "significant": null,
-      "comments_count": 13,
+      "comments_count": 14,
       "docket_id": "BSEE-2026-0133"
     },
     {
@@ -2115,7 +2520,7 @@
         "0579-AE93"
       ],
       "significant": null,
-      "comments_count": 154,
+      "comments_count": 159,
       "docket_id": "APHIS-2026-0067"
     },
     {
@@ -2292,7 +2697,7 @@
         "1219-AC22"
       ],
       "significant": null,
-      "comments_count": 28,
+      "comments_count": 29,
       "docket_id": "MSHA-2026-0200"
     },
     {
@@ -2330,7 +2735,7 @@
         "0596-AD75"
       ],
       "significant": null,
-      "comments_count": 799,
+      "comments_count": 810,
       "docket_id": "FS-2026-0199"
     },
     {
@@ -2543,7 +2948,7 @@
         "0584-AF09"
       ],
       "significant": null,
-      "comments_count": 65,
+      "comments_count": 67,
       "docket_id": "FNA-2026-0628"
     },
     {
@@ -2581,7 +2986,7 @@
         "0584-AF10"
       ],
       "significant": true,
-      "comments_count": 4254,
+      "comments_count": 4531,
       "docket_id": "FNA-2026-0661"
     },
     {
@@ -2695,7 +3100,7 @@
         "1205-AC31"
       ],
       "significant": null,
-      "comments_count": 25,
+      "comments_count": 31,
       "docket_id": "ETA-2026-0100"
     },
     {
@@ -2843,7 +3248,7 @@
         "1004-AF53"
       ],
       "significant": null,
-      "comments_count": 8531,
+      "comments_count": 8801,
       "docket_id": "BLM-2026-0298"
     },
     {
@@ -2881,7 +3286,7 @@
         "0938-AW04"
       ],
       "significant": null,
-      "comments_count": 12579,
+      "comments_count": 13655,
       "docket_id": "CMS-2026-3631"
     },
     {
@@ -2982,7 +3387,7 @@
         "0648-BN99"
       ],
       "significant": null,
-      "comments_count": 3651,
+      "comments_count": 14087,
       "docket_id": "NOAA-NMFS-2026-2410"
     },
     {
@@ -3020,7 +3425,7 @@
         "2120-AM33"
       ],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "FAA-2026-9942"
     },
     {
@@ -3058,7 +3463,7 @@
         "2120-AM43"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "FAA-2026-9937"
     },
     {
@@ -4159,7 +4564,7 @@
         "2070-AB27"
       ],
       "significant": false,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "EPA-HQ-OPPT-2026-5974"
     },
     {
@@ -4298,7 +4703,7 @@
         "0970-AD49"
       ],
       "significant": null,
-      "comments_count": 6,
+      "comments_count": 7,
       "docket_id": "ACF_FRDOC_0001"
     },
     {
@@ -4412,7 +4817,7 @@
         "2060-AW73"
       ],
       "significant": true,
-      "comments_count": 9532,
+      "comments_count": 9626,
       "docket_id": "EPA-HQ-OAR-2025-0163"
     },
     {
@@ -4536,12 +4941,12 @@
         }
       ],
       "comments_close_on": "2026-12-07",
-      "comment_url": "http://www.regulations.gov/commenton/COLC-2026-0199-0001",
+      "comment_url": "http://www.regulations.gov/commenton/COLC-2026-0100-0084",
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 60,
-      "docket_id": "COLC-2026-0199"
+      "docket_id": "COLC-2026-0100"
     },
     {
       "title": "Airworthiness Directives; Airbus Helicopters",
@@ -4719,7 +5124,7 @@
         "0938-AW03"
       ],
       "significant": null,
-      "comments_count": 60,
+      "comments_count": 75,
       "docket_id": "CMS-2026-3367"
     },
     {
@@ -4833,7 +5238,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 13,
+      "comments_count": 14,
       "docket_id": "FAA-2026-11817"
     },
     {
@@ -4925,7 +5330,7 @@
         "2127-AM70"
       ],
       "significant": true,
-      "comments_count": 61,
+      "comments_count": 62,
       "docket_id": "NHTSA-2026-1519"
     },
     {
@@ -4963,7 +5368,7 @@
         "1505-AC94"
       ],
       "significant": null,
-      "comments_count": 42,
+      "comments_count": 49,
       "docket_id": "TREAS-DO-2026-0595"
     },
     {
@@ -5073,7 +5478,7 @@
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": 34,
+      "comments_count": 35,
       "docket_id": "FNA-2026-0496"
     },
     {
@@ -5511,7 +5916,7 @@
         "2060-AX09"
       ],
       "significant": null,
-      "comments_count": 302,
+      "comments_count": 311,
       "docket_id": "EPA-HQ-OAR-2024-0505"
     },
     {
@@ -5549,7 +5954,7 @@
         "1219-AC17"
       ],
       "significant": false,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "MSHA-2025-0089"
     },
     {
@@ -5737,7 +6142,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 12,
+      "comments_count": 14,
       "docket_id": "FMC-2026-0463"
     },
     {
@@ -5775,7 +6180,7 @@
         "1545-BS15"
       ],
       "significant": null,
-      "comments_count": 13,
+      "comments_count": 23,
       "docket_id": "IRS-2026-1420"
     },
     {
@@ -5813,7 +6218,7 @@
         "2120-AA64"
       ],
       "significant": false,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "FAA-2026-11810"
     },
     {
@@ -5947,7 +6352,7 @@
         "2060-AX07"
       ],
       "significant": null,
-      "comments_count": 11,
+      "comments_count": 17,
       "docket_id": "EPA-HQ-OAR-2025-0186"
     },
     {
@@ -6014,7 +6419,7 @@
         "3038-AF80"
       ],
       "significant": null,
-      "comments_count": 34,
+      "comments_count": 35,
       "docket_id": "CFTC-2026-2179"
     },
     {
@@ -6204,7 +6609,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 464,
+      "comments_count": 506,
       "docket_id": "CMS-2026-3235"
     },
     {
@@ -6383,7 +6788,7 @@
         "1545-BR97"
       ],
       "significant": null,
-      "comments_count": 27211,
+      "comments_count": 27516,
       "docket_id": "IRS-2026-1354"
     },
     {
@@ -6450,7 +6855,7 @@
         "3084-AB90"
       ],
       "significant": null,
-      "comments_count": 225,
+      "comments_count": 231,
       "docket_id": "FTC-2026-1552"
     },
     {
@@ -6488,7 +6893,7 @@
         "1018-BI13"
       ],
       "significant": false,
-      "comments_count": 27,
+      "comments_count": 29,
       "docket_id": "FWS-HQ-MB-2026-0133"
     },
     {
@@ -6593,7 +6998,7 @@
         "1400-AF40"
       ],
       "significant": true,
-      "comments_count": 14,
+      "comments_count": 15,
       "docket_id": "DOS-2026-0991"
     },
     {
@@ -6631,7 +7036,7 @@
         "1545-BR91"
       ],
       "significant": null,
-      "comments_count": 143,
+      "comments_count": 147,
       "docket_id": "IRS-2026-1321"
     },
     {
@@ -6722,82 +7127,6 @@
       "docket_id": null
     },
     {
-      "title": "Revising Requirements and Exceptions for Storing Explosives",
-      "type": "Proposed Rule",
-      "abstract": "The Bureau of Alcohol, Tobacco, Firearms, and Explosives (\"ATF\") proposes amending Department of Justice regulations listing exceptions to the requirement that explosive materials must be stored in locked magazines. Specifically, ATF proposes adding a testing exception; removing restrictions limiting existing exceptions to materials being physically handled or transported to a site for storing or using; excepting materials to be imminently used or transported; and adopting a perforating gun exception. These changes would streamline on-site operations, acknowledge developments in industry practices, increase safety during these activities by reducing how often explosives are moved, and eliminate the requirement for type 3 magazines.",
-      "document_number": "2026-19692",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/25/2026-19692/revising-requirements-and-exceptions-for-storing-explosives",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-25/pdf/2026-19692.pdf",
-      "publication_date": "2026-09-25",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF JUSTICE",
-          "name": "Justice Department",
-          "id": 268,
-          "url": "https://www.federalregister.gov/agencies/justice-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/268",
-          "parent_id": null,
-          "slug": "justice-department"
-        },
-        {
-          "raw_name": "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
-          "name": "Alcohol, Tobacco, Firearms, and Explosives Bureau",
-          "id": 19,
-          "url": "https://www.federalregister.gov/agencies/alcohol-tobacco-firearms-and-explosives-bureau",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/19",
-          "parent_id": 268,
-          "slug": "alcohol-tobacco-firearms-and-explosives-bureau"
-        }
-      ],
-      "comments_close_on": "2026-11-24",
-      "comment_url": "http://www.regulations.gov/commenton/ATF-2026-0365-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1140-AA86"
-      ],
-      "significant": null,
-      "comments_count": 10,
-      "docket_id": "ATF-2026-0365"
-    },
-    {
-      "title": "Explosives Magazine Safety Requirements",
-      "type": "Proposed Rule",
-      "abstract": "The Bureau of Alcohol, Tobacco, Firearms, and Explosives (\"ATF\") proposes amending Department of Justice (\"Department\") regulations to streamline requirements for maintaining structures used for storing explosives, called \"magazines.\" ATF proposes consolidating many requirements from four regulatory sections into one, while eliminating other provisions within those sections. The new section would address three topics: safety requirements outside a magazine, inside a magazine, and storing requirements. This proposal would remove unnecessary provisions and examples confusing to the public; update other provisions; and rescind two regulatory sections. The consolidated regulation would also incorporate ATF guidance authorizing alternative methods for storing explosives within containers.",
-      "document_number": "2026-19691",
-      "html_url": "https://www.federalregister.gov/documents/2026/09/25/2026-19691/explosives-magazine-safety-requirements",
-      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-09-25/pdf/2026-19691.pdf",
-      "publication_date": "2026-09-25",
-      "agencies": [
-        {
-          "raw_name": "DEPARTMENT OF JUSTICE",
-          "name": "Justice Department",
-          "id": 268,
-          "url": "https://www.federalregister.gov/agencies/justice-department",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/268",
-          "parent_id": null,
-          "slug": "justice-department"
-        },
-        {
-          "raw_name": "Bureau of Alcohol, Tobacco, Firearms, and Explosives",
-          "name": "Alcohol, Tobacco, Firearms, and Explosives Bureau",
-          "id": 19,
-          "url": "https://www.federalregister.gov/agencies/alcohol-tobacco-firearms-and-explosives-bureau",
-          "json_url": "https://www.federalregister.gov/api/v1/agencies/19",
-          "parent_id": 268,
-          "slug": "alcohol-tobacco-firearms-and-explosives-bureau"
-        }
-      ],
-      "comments_close_on": "2026-11-24",
-      "comment_url": "http://www.regulations.gov/commenton/ATF-2026-0364-0001",
-      "effective_on": null,
-      "regulation_id_numbers": [
-        "1140-AA67"
-      ],
-      "significant": null,
-      "comments_count": 14,
-      "docket_id": "ATF-2026-0364"
-    },
-    {
       "title": "Nonclinical Testing Terminology",
       "type": "Rule",
       "abstract": "The Food and Drug Administration (FDA, Agency, or we) is issuing a direct final rule that substitutes references to \"animal\" tests or studies with \"nonclinical\" tests or studies, adds a definition of the terms \"nonclinical test\" and \"nonclinical study,\" and makes other comparable or conforming amendments in certain safety and reporting sections of its regulations. The direct final rule also substitutes \"nonclinical\" for \"preclinical\" and \"in vitro\" for consistency in terminology. The Agency is issuing these amendments directly as a final rule because we believe they are noncontroversial changes in terminology that are not expected to affect industry practice and FDA anticipates no significant adverse comments. These amendments align with recent amendments to the Federal Food, Drug, and Cosmetic Act (FD&C Act) and the Public Health Service Act (PHS Act) and are intended to remove an emphasis, in certain places, on the use of animal testing as the only scientific methodology to assess the safety of a drug in the nonclinical setting. These changes may also foster the development and use of scientifically valid new testing methodologies, potentially improving predictive accuracy of product safety testing while replacing, reducing, or refining animal use. The rule adds no new requirements.",
@@ -6832,7 +7161,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 4792,
+      "comments_count": 4835,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -6870,7 +7199,7 @@
         "0910-AJ27"
       ],
       "significant": null,
-      "comments_count": 403,
+      "comments_count": 409,
       "docket_id": "FDA-2026-N-5347"
     },
     {
@@ -6935,7 +7264,7 @@
         "1685-AA47"
       ],
       "significant": null,
-      "comments_count": 97,
+      "comments_count": 103,
       "docket_id": "USCBP-2026-1058"
     },
     {
@@ -6973,7 +7302,7 @@
         "0910-AJ02"
       ],
       "significant": true,
-      "comments_count": 1276,
+      "comments_count": 1284,
       "docket_id": "FDA-2025-N-3262"
     }
   ]
