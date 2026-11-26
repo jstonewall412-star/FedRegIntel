@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-25T17:59:19.239083+00:00",
-  "count": 403,
+  "updated_at": "2026-11-26T17:44:22.389637+00:00",
+  "count": 413,
   "documents": {
     "2026-11545": {
       "title": "Exemptions To Permit Circumvention of Access Controls on Copyrighted Works",
@@ -2439,7 +2439,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 1284,
+      "comments_count": 1301,
       "docket_id": "FDA-2025-N-3262"
     },
     "2026-16313": {
@@ -4926,7 +4926,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 103,
+      "comments_count": 109,
       "docket_id": "USCBP-2026-1058"
     },
     "2026-17939": {
@@ -6527,7 +6527,7 @@
       "significant": true,
       "comments_count": 19,
       "docket_id": "OPM-2026-0166",
-      "final_checked": "2026-11-18"
+      "final_checked": "2026-11-26"
     },
     "2026-19254": {
       "title": "Great Lakes Pilotage Rates-2027 Annual Review and Revisions to Methodology",
@@ -6750,7 +6750,7 @@
       "significant": null,
       "comments_count": 4,
       "docket_id": "GSA-GSAR-2026-0563",
-      "final_checked": "2026-11-18"
+      "final_checked": "2026-11-26"
     },
     "2026-19332": {
       "title": "Revisions to the Office of Hearings and Appeals Procedural Regulations for the DOE Contractor Employee Protection Program",
@@ -6781,7 +6781,7 @@
       "significant": false,
       "comments_count": 1,
       "docket_id": "DOE-HQ-2026-0496",
-      "final_checked": "2026-11-18"
+      "final_checked": "2026-11-26"
     },
     "2026-19346": {
       "title": "Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; Pacific Coast Groundfish Fishery Management Plan; Amendment 38; 2027-28 Biennial Specifications and Management Measures",
@@ -6821,7 +6821,7 @@
       "significant": null,
       "comments_count": 0,
       "docket_id": "NOAA-NMFS-2026-1354",
-      "final_checked": "2026-11-18"
+      "final_checked": "2026-11-26"
     },
     "2026-19349": {
       "title": "Nonclinical Testing Terminology",
@@ -6859,7 +6859,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 409,
+      "comments_count": 412,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19350": {
@@ -6898,7 +6898,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 4835,
+      "comments_count": 4890,
       "docket_id": "FDA-2026-N-5347"
     },
     "2026-19361": {
@@ -7007,7 +7007,7 @@
       "significant": false,
       "comments_count": 1,
       "docket_id": "NHTSA-2023-0031",
-      "final_checked": "2026-11-18"
+      "final_checked": "2026-11-26"
     },
     "2026-19400": {
       "title": "Schedules of Controlled Substances: Placement of 4-Hydroxy-N,N-Diisopropyltryptamine (4-OH-DiPT), 5-Methoxy-alpha-Methyltryptamine (5-MeO-AMT), 5-Methoxy-N-Methyl-N-Isopropyltryptamine (5-MeO-MiPT), 5-Methoxy-N,N-Diethyltryptamine (5-MeO-DET), and N,N-Diisopropyltryptamine (DiPT) Into Schedule I",
@@ -7214,7 +7214,7 @@
       "significant": null,
       "comments_count": 51,
       "docket_id": "NRC-2025-1138",
-      "final_checked": "2026-11-18"
+      "final_checked": "2026-11-26"
     },
     "2026-19579": {
       "title": "Substantial Product Hazard List: Amendments to Requirements for Window Covering Cords",
@@ -7575,7 +7575,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 8,
+      "comments_count": 9,
       "docket_id": "TREAS-DO-2026-0562"
     },
     "2026-20027": {
@@ -7614,7 +7614,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 147,
+      "comments_count": 148,
       "docket_id": "IRS-2026-1321"
     },
     "2026-20038": {
@@ -7700,7 +7700,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": true,
-      "comments_count": 15,
+      "comments_count": 16,
       "docket_id": "DOS-2026-0991"
     },
     "2026-20084": {
@@ -7875,7 +7875,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 231,
+      "comments_count": 239,
       "docket_id": "FTC-2026-1552"
     },
     "2026-20169": {
@@ -7981,7 +7981,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": false,
-      "comments_count": 260,
+      "comments_count": 262,
       "docket_id": "NPS-2026-0199"
     },
     "2026-20277": {
@@ -8020,7 +8020,7 @@
       ],
       "first_seen": "2026-10-03",
       "significant": null,
-      "comments_count": 27516,
+      "comments_count": 28794,
       "docket_id": "IRS-2026-1354"
     },
     "2026-20296": {
@@ -8052,7 +8052,7 @@
       "significant": false,
       "comments_count": 0,
       "docket_id": "CPSC_FRDOC_0001",
-      "final_checked": "2026-11-18"
+      "final_checked": "2026-11-26"
     },
     "2026-20317": {
       "title": "General Services Administration Acquisition Regulation; GSAR Implementation of Executive Order 14275, Acquisition of Utility Services",
@@ -8083,7 +8083,7 @@
       "significant": null,
       "comments_count": 4,
       "docket_id": "GSA-GSAR-2026-0595",
-      "final_checked": "2026-11-19"
+      "final_checked": "2026-11-26"
     },
     "2026-20328": {
       "title": "Decennial Census of the Population of Americans; Proposed Residence Criteria and Proposed Regulations for Demographic Questions; Extension of Comment Period",
@@ -8123,7 +8123,7 @@
       "significant": null,
       "comments_count": null,
       "docket_id": "USBC_FRDOC_0001",
-      "final_checked": "2026-11-18"
+      "final_checked": "2026-11-26"
     },
     "2026-20329": {
       "title": "Reforming Federal Reporting and Assessments in Child Welfare",
@@ -8163,7 +8163,7 @@
       "significant": null,
       "comments_count": 170,
       "docket_id": "ACF-2026-0562",
-      "final_checked": "2026-11-19"
+      "final_checked": "2026-11-26"
     },
     "2026-20335": {
       "title": "Exemptions From Materials Licensing",
@@ -8194,7 +8194,7 @@
       "significant": null,
       "comments_count": 739,
       "docket_id": "NRC-2025-1568",
-      "final_checked": "2026-11-19"
+      "final_checked": "2026-11-26"
     },
     "2026-20336": {
       "title": "Exemptions From Materials Licensing",
@@ -8331,7 +8331,7 @@
       "significant": null,
       "comments_count": 6,
       "docket_id": "FINCEN-2026-0265",
-      "final_checked": "2026-11-19"
+      "final_checked": "2026-11-26"
     },
     "2026-20372": {
       "title": "Amendment of Domestic Very High Frequency Omnidirectional Range (VOR) Federal Airways V-16, V-184, and Revocation of V-284 and V-577; Eastern United States",
@@ -8439,7 +8439,7 @@
       "significant": null,
       "comments_count": 4,
       "docket_id": "FAA-2026-9934",
-      "final_checked": "2026-11-19"
+      "final_checked": "2026-11-26"
     },
     "2026-20387": {
       "title": "Digital Modernization for Licensing Electronic Application Submissions",
@@ -8479,7 +8479,7 @@
       "significant": null,
       "comments_count": 8,
       "docket_id": "FAA-2026-9935",
-      "final_checked": "2026-11-19"
+      "final_checked": "2026-11-26"
     },
     "2026-20388": {
       "title": "Streamlining Flight Safety Analysis Methodology Means of Compliance",
@@ -8519,7 +8519,7 @@
       "significant": null,
       "comments_count": 6,
       "docket_id": "FAA-2026-9936",
-      "final_checked": "2026-11-19"
+      "final_checked": "2026-11-26"
     },
     "2026-20391": {
       "title": "Lightning Hazard Mitigation Burden-Reducing Exception",
@@ -8559,7 +8559,7 @@
       "significant": null,
       "comments_count": 5,
       "docket_id": "FAA-2026-9940",
-      "final_checked": "2026-11-19"
+      "final_checked": "2026-11-26"
     },
     "2026-20392": {
       "title": "Overpressure Blast Effects Analysis Burden Reducing Clarification",
@@ -8599,7 +8599,7 @@
       "significant": null,
       "comments_count": 6,
       "docket_id": "FAA-2026-9941",
-      "final_checked": "2026-11-19"
+      "final_checked": "2026-11-26"
     },
     "2026-20466": {
       "title": "Adviser and Regulated Fund Custody Rules; Crypto Custody Rules",
@@ -8749,7 +8749,7 @@
       "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-10-07",
-      "final_checked": "2026-11-19"
+      "final_checked": "2026-11-26"
     },
     "2026-20532": {
       "title": "Privacy Act of 1974; Implementation",
@@ -8842,7 +8842,7 @@
         "0938-AV89"
       ],
       "significant": null,
-      "comments_count": 506,
+      "comments_count": 538,
       "docket_id": "CMS-2026-3235",
       "first_seen": "2026-10-08"
     },
@@ -8914,7 +8914,7 @@
       "comments_count": 7439,
       "docket_id": "ICEB-2026-0100",
       "first_seen": "2026-10-08",
-      "final_checked": "2026-11-18"
+      "final_checked": "2026-11-26"
     },
     "2026-20721": {
       "title": "Requirements for Additional Traceability Records for Certain Foods: Enforcement Policy for Certain Retail Food Establishments and Restaurants; Draft Guidance for Industry; Availability",
@@ -8982,7 +8982,7 @@
       "comments_count": 0,
       "docket_id": null,
       "first_seen": "2026-10-25",
-      "final_checked": "2026-11-19"
+      "final_checked": "2026-11-26"
     },
     "2026-20865": {
       "title": "Periodic Reporting",
@@ -9077,7 +9077,7 @@
         "3038-AF80"
       ],
       "significant": null,
-      "comments_count": 35,
+      "comments_count": 36,
       "docket_id": "CFTC-2026-2179",
       "first_seen": "2026-10-25"
     },
@@ -9236,7 +9236,7 @@
         "2060-AX07"
       ],
       "significant": null,
-      "comments_count": 17,
+      "comments_count": 20,
       "docket_id": "EPA-HQ-OAR-2025-0186",
       "first_seen": "2026-10-25"
     },
@@ -9434,7 +9434,7 @@
         "1545-BS15"
       ],
       "significant": null,
-      "comments_count": 23,
+      "comments_count": 34,
       "docket_id": "IRS-2026-1420",
       "first_seen": "2026-10-25"
     },
@@ -9744,7 +9744,7 @@
         "2060-AX09"
       ],
       "significant": null,
-      "comments_count": 311,
+      "comments_count": 315,
       "docket_id": "EPA-HQ-OAR-2024-0505",
       "first_seen": "2026-10-25"
     },
@@ -10026,7 +10026,7 @@
       "comments_count": 48,
       "docket_id": "CFTC-2026-2213",
       "first_seen": "2026-10-25",
-      "final_checked": "2026-11-19"
+      "final_checked": "2026-11-26"
     },
     "2026-21383": {
       "title": "New Source Performance Standards and National Emission Standards for Hazardous Air Pollutants; Delegation of Authority to Northwest Clean Air Agency, Washington State",
@@ -10091,7 +10091,7 @@
         "0938-AV88"
       ],
       "significant": null,
-      "comments_count": 33,
+      "comments_count": 34,
       "docket_id": "CMS-2026-3533",
       "first_seen": "2026-10-25"
     },
@@ -10410,7 +10410,7 @@
         "0584-AE99"
       ],
       "significant": true,
-      "comments_count": 35,
+      "comments_count": 37,
       "docket_id": "FNA-2026-0496",
       "first_seen": "2026-10-25"
     },
@@ -10650,7 +10650,7 @@
         "1505-AC94"
       ],
       "significant": null,
-      "comments_count": 49,
+      "comments_count": 53,
       "docket_id": "TREAS-DO-2026-0595",
       "first_seen": "2026-10-25"
     },
@@ -10691,7 +10691,8 @@
       "significant": true,
       "comments_count": 62,
       "docket_id": "NHTSA-2026-1519",
-      "first_seen": "2026-10-25"
+      "first_seen": "2026-10-25",
+      "final_checked": "2026-11-26"
     },
     "2026-21818": {
       "title": "Space Modernization for the 21st Century",
@@ -10775,7 +10776,7 @@
         "0938-AW03"
       ],
       "significant": null,
-      "comments_count": 75,
+      "comments_count": 103,
       "docket_id": "CMS-2026-3367",
       "first_seen": "2026-10-27"
     },
@@ -10812,7 +10813,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "FAA-2026-10627",
       "first_seen": "2026-10-27"
     },
@@ -10918,7 +10919,7 @@
         "2060-AW73"
       ],
       "significant": true,
-      "comments_count": 9626,
+      "comments_count": 9699,
       "docket_id": "EPA-HQ-OAR-2025-0163",
       "first_seen": "2026-10-29"
     },
@@ -10976,7 +10977,7 @@
         "0930-AA41"
       ],
       "significant": null,
-      "comments_count": 3,
+      "comments_count": 4,
       "docket_id": "SAMHSA-2026-0001",
       "first_seen": "2026-10-29"
     },
@@ -11006,7 +11007,7 @@
         "0930-AA40"
       ],
       "significant": null,
-      "comments_count": 10,
+      "comments_count": 11,
       "docket_id": "SAMHSA-2026-0002",
       "first_seen": "2026-10-29"
     },
@@ -11468,7 +11469,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 48,
+      "comments_count": 49,
       "docket_id": "ED-2026-OS-3169",
       "first_seen": "2026-11-05"
     },
@@ -11613,7 +11614,7 @@
         "1018-BB21"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FWS-R8-ES-2026-0530",
       "first_seen": "2026-11-06"
     },
@@ -11691,7 +11692,7 @@
         "2120-AM37"
       ],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "FAA-2026-9943",
       "first_seen": "2026-11-09"
     },
@@ -11730,7 +11731,7 @@
         "2120-AM43"
       ],
       "significant": null,
-      "comments_count": 4,
+      "comments_count": 5,
       "docket_id": "FAA-2026-9937",
       "first_seen": "2026-11-09"
     },
@@ -11808,7 +11809,7 @@
         "0938-AW04"
       ],
       "significant": null,
-      "comments_count": 13655,
+      "comments_count": 14299,
       "docket_id": "CMS-2026-3631",
       "first_seen": "2026-11-10"
     },
@@ -11847,7 +11848,7 @@
         "0648-BN99"
       ],
       "significant": null,
-      "comments_count": 14087,
+      "comments_count": 17351,
       "docket_id": "NOAA-NMFS-2026-2410",
       "first_seen": "2026-11-09"
     },
@@ -11884,7 +11885,7 @@
       "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "AMS-SC-25-0881",
       "first_seen": "2026-11-09"
     },
@@ -11951,7 +11952,7 @@
         "1004-AF53"
       ],
       "significant": null,
-      "comments_count": 8801,
+      "comments_count": 9554,
       "docket_id": "BLM-2026-0298",
       "first_seen": "2026-11-10"
     },
@@ -11988,7 +11989,7 @@
       "effective_on": "2027-01-11",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 2,
+      "comments_count": 3,
       "docket_id": "FDA-2023-C-5679",
       "first_seen": "2026-11-11"
     },
@@ -12025,7 +12026,7 @@
       "effective_on": "2027-01-11",
       "regulation_id_numbers": [],
       "significant": null,
-      "comments_count": 1,
+      "comments_count": 2,
       "docket_id": "FDA-2026-C-3071",
       "first_seen": "2026-11-11"
     },
@@ -12064,7 +12065,7 @@
         "1205-AC31"
       ],
       "significant": null,
-      "comments_count": 31,
+      "comments_count": 33,
       "docket_id": "ETA-2026-0100",
       "first_seen": "2026-11-10"
     },
@@ -12103,7 +12104,7 @@
         "0584-AF10"
       ],
       "significant": true,
-      "comments_count": 4531,
+      "comments_count": 4692,
       "docket_id": "FNA-2026-0661",
       "first_seen": "2026-11-10"
     },
@@ -12142,7 +12143,7 @@
         "0584-AF09"
       ],
       "significant": null,
-      "comments_count": 67,
+      "comments_count": 68,
       "docket_id": "FNA-2026-0628",
       "first_seen": "2026-11-10"
     },
@@ -12372,7 +12373,7 @@
         "1219-AC22"
       ],
       "significant": null,
-      "comments_count": 29,
+      "comments_count": 30,
       "docket_id": "MSHA-2026-0200",
       "first_seen": "2026-11-11"
     },
@@ -12476,7 +12477,7 @@
         "0579-AE93"
       ],
       "significant": null,
-      "comments_count": 159,
+      "comments_count": 161,
       "docket_id": "APHIS-2026-0067",
       "first_seen": "2026-11-13"
     },
@@ -12524,7 +12525,7 @@
         "1082-AA05"
       ],
       "significant": null,
-      "comments_count": 14,
+      "comments_count": 15,
       "docket_id": "BSEE-2026-0133",
       "first_seen": "2026-11-13"
     },
@@ -12858,7 +12859,7 @@
         "1205-AC29"
       ],
       "significant": null,
-      "comments_count": 758,
+      "comments_count": 784,
       "docket_id": "ETA-2026-0133",
       "first_seen": "2026-11-17"
     },
@@ -13006,7 +13007,7 @@
         "0938-AV97"
       ],
       "significant": null,
-      "comments_count": 27,
+      "comments_count": 29,
       "docket_id": "CMS-2026-0826",
       "first_seen": "2026-11-19"
     },
@@ -13181,7 +13182,7 @@
         "1506-AB78"
       ],
       "significant": null,
-      "comments_count": 13,
+      "comments_count": 15,
       "docket_id": "FINCEN-2026-0298",
       "first_seen": "2026-11-19"
     },
@@ -13278,7 +13279,7 @@
         "1018-BJ02"
       ],
       "significant": null,
-      "comments_count": 8,
+      "comments_count": 1479,
       "docket_id": "FWS-R8-ES-2026-2938",
       "first_seen": "2026-11-20"
     },
@@ -13433,9 +13434,9 @@
           "slug": "federal-communications-commission"
         }
       ],
-      "comments_close_on": "2027-01-22",
+      "comments_close_on": "2026-12-23",
       "comment_url": null,
-      "effective_on": "2026-12-23",
+      "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 0,
@@ -13546,7 +13547,7 @@
         "1210-AC37"
       ],
       "significant": true,
-      "comments_count": 5,
+      "comments_count": 6,
       "docket_id": "EBSA-2026-0463",
       "first_seen": "2026-11-24"
     },
@@ -13615,7 +13616,7 @@
         "0938-AV88"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 29,
       "docket_id": "CMS-2026-3533",
       "first_seen": "2026-11-25"
     },
@@ -13654,7 +13655,7 @@
         "1018-BH42"
       ],
       "significant": false,
-      "comments_count": 0,
+      "comments_count": 2,
       "docket_id": "FWS-R4-ES-2024-0045",
       "first_seen": "2026-11-25"
     },
@@ -13693,7 +13694,7 @@
         "1018-BI86"
       ],
       "significant": null,
-      "comments_count": 0,
+      "comments_count": 1,
       "docket_id": "FWS-R2-ES-2026-2278",
       "first_seen": "2026-11-25"
     },
@@ -13716,9 +13717,9 @@
           "slug": "surface-transportation-board"
         }
       ],
-      "comments_close_on": "2027-02-08",
+      "comments_close_on": "2027-01-08",
       "comment_url": null,
-      "effective_on": "2027-01-08",
+      "effective_on": null,
       "regulation_id_numbers": [],
       "significant": null,
       "comments_count": 0,
@@ -13761,6 +13762,349 @@
       "comments_count": 0,
       "docket_id": "FDA-2026-C-13763",
       "first_seen": "2026-11-25"
+    },
+    "2026-24080": {
+      "title": "Reducing Complexity in Management of Leather Waste",
+      "type": "Proposed Rule",
+      "abstract": "EPA is proposing to revise the regulations defining solid wastes that are not hazardous wastes by adding a new exclusion. The proposed revision specifies that leather articles used as personal protective equipment are not hazardous wastes when discarded, if they meet the same standards applicable to the currently excluded waste scrap leather from various leather product manufacturing industries.",
+      "document_number": "2026-24080",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/27/2026-24080/reducing-complexity-in-management-of-leather-waste",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-27/pdf/2026-24080.pdf",
+      "publication_date": "2026-11-27",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2027-01-26",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2050-AH51"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-11-26"
+    },
+    "2026-24082": {
+      "title": "Significant New Use Rule on a Chemical Substance (P-24-195)",
+      "type": "Proposed Rule",
+      "abstract": "EPA is proposing a significant new use rule (SNUR) under the Toxic Substances Control Act (TSCA) for a chemical substance that was the subject of a premanufacture notice (PMN) and is also subject to an Order issued by EPA pursuant to TSCA. The SNUR requires persons to notify EPA at least 90 days before commencing the manufacture (defined by statute to include import) or processing of this chemical substance for an activity that is designated as a significant new use in the SNUR. The required notification initiates EPA's evaluation of the conditions of that use for that chemical substance. In addition, the manufacture or processing for the significant new use may not commence until EPA has conducted a review of the required notification; made an appropriate determination regarding that notification; and taken such actions as required by that determination.",
+      "document_number": "2026-24082",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/27/2026-24082/significant-new-use-rule-on-a-chemical-substance-p-24-195",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-27/pdf/2026-24082.pdf",
+      "publication_date": "2026-11-27",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-12-28",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2070-AB27"
+      ],
+      "significant": false,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-11-26"
+    },
+    "2026-24084": {
+      "title": "Technical Updates to the RCRA Hazardous Waste Permitting Regulations-Permitting Technical Updates Rule",
+      "type": "Proposed Rule",
+      "abstract": "The Environmental Protection Agency (EPA) is proposing technical updates to the regulations implementing the Resource Conservation and Recovery Act (RCRA) governing hazardous waste treatment, storage, and disposal facilities (TSDFs), as well as associated permitting requirements. The proposal also includes a few conforming technical updates to the generator and transporter regulations. The RCRA hazardous waste TSDF permitting regulations have remained largely unchanged for over three decades, despite evolving standards and practices. Collectively, these revisions are intended to address inadvertent errors, remove obsolete references, reflect current information and standards, and implement targeted updates to the RCRA permitting regulations to improve clarity, consistency, and efficiency in the hazardous waste TSDF permitting program. Through a separate Federal Register document, EPA will be seeking input on areas in the RCRA permitting program and permitting regulations to consider for permitting policy or regulatory reform. This proposed rule helps clear the way for potential future regulatory actions that could improve implementation of the RCRA hazardous waste permitting program. It serves as a maintenance action and does not preclude the possibility of future permitting reform.",
+      "document_number": "2026-24084",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/27/2026-24084/technical-updates-to-the-rcra-hazardous-waste-permitting-regulations-permitting-technical-updates",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-27/pdf/2026-24084.pdf",
+      "publication_date": "2026-11-27",
+      "agencies": [
+        {
+          "raw_name": "ENVIRONMENTAL PROTECTION AGENCY",
+          "name": "Environmental Protection Agency",
+          "id": 145,
+          "url": "https://www.federalregister.gov/agencies/environmental-protection-agency",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/145",
+          "parent_id": null,
+          "slug": "environmental-protection-agency"
+        }
+      ],
+      "comments_close_on": "2026-12-28",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2050-AH30"
+      ],
+      "significant": false,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-11-26"
+    },
+    "2026-24097": {
+      "title": "Endangered and Threatened Wildlife and Plants; Threatened Species Status With Section 4(d) Rule for Ciliate-Leaf Tickseed",
+      "type": "Proposed Rule",
+      "abstract": "We, the U.S. Fish and Wildlife Service (Service), propose to list the ciliate-leaf tickseed (Coreopsis integrifolia), a plant species from Florida, Georgia, and South Carolina as a threatened species with protective regulations under section 4(d) of the Endangered Species Act of 1973, as amended (Act). This determination also serves as our 12-month finding on a petition to list the ciliate- leaf tickseed. After a review of the best scientific and commercial data available, we find that listing the species is warranted. If we finalize this rule as proposed, it would add this species to the List of Endangered and Threatened Plants and extend the Act's protections to the species.",
+      "document_number": "2026-24097",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/27/2026-24097/endangered-and-threatened-wildlife-and-plants-threatened-species-status-with-section-4d-rule-for",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-27/pdf/2026-24097.pdf",
+      "publication_date": "2026-11-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF THE INTERIOR",
+          "name": "Interior Department",
+          "id": 253,
+          "url": "https://www.federalregister.gov/agencies/interior-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/253",
+          "parent_id": null,
+          "slug": "interior-department"
+        },
+        {
+          "raw_name": "Fish and Wildlife Service",
+          "name": "Fish and Wildlife Service",
+          "id": 197,
+          "url": "https://www.federalregister.gov/agencies/fish-and-wildlife-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/197",
+          "parent_id": 253,
+          "slug": "fish-and-wildlife-service"
+        }
+      ],
+      "comments_close_on": "2027-01-26",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "1018-BI19"
+      ],
+      "significant": false,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-11-26"
+    },
+    "2026-24110": {
+      "title": "Exceptional Addressing Changes",
+      "type": "Proposed Rule",
+      "abstract": "The Postal Service is proposing to amend Mailing Standards of the United States Postal Service, Domestic Mail Manual (DMM[supreg]) in various subsections to eliminate the use of exceptional addressing for Priority Mail, First-Class Mail and USPS Ground Advantage.",
+      "document_number": "2026-24110",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/27/2026-24110/exceptional-addressing-changes",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-27/pdf/2026-24110.pdf",
+      "publication_date": "2026-11-27",
+      "agencies": [
+        {
+          "raw_name": "POSTAL SERVICE",
+          "name": "Postal Service",
+          "id": 410,
+          "url": "https://www.federalregister.gov/agencies/postal-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/410",
+          "parent_id": null,
+          "slug": "postal-service"
+        }
+      ],
+      "comments_close_on": "2026-12-28",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-11-26"
+    },
+    "2026-24118": {
+      "title": "Reef Fish Fishery of the Gulf of America; Amendment 63",
+      "type": "Proposed Rule",
+      "abstract": "The Gulf Council (Council) has submitted Amendment 63 to the Fishery Management Plan for the Reef Fish Resources of the Gulf (FMP) (Amendment 63) for review, approval, and implementation by NMFS. If approved, Amendment 63 would, for red grouper in the Gulf of America (Gulf), establish a commercial quota pool under a 3-year pilot program within the Grouper-Tilefish Individual Fishing Quota (IFQ) program. The purpose of Amendment 63 is to test whether a new method of distributing a portion of the red grouper commercial quota improves access to red grouper commercial allocation within the IFQ program, reduces bycatch and discards of IFQ species, and enhances economic profitability for quota pool participants.",
+      "document_number": "2026-24118",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/27/2026-24118/reef-fish-fishery-of-the-gulf-of-america-amendment-63",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-27/pdf/2026-24118.pdf",
+      "publication_date": "2026-11-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF COMMERCE",
+          "name": "Commerce Department",
+          "id": 54,
+          "url": "https://www.federalregister.gov/agencies/commerce-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/54",
+          "parent_id": null,
+          "slug": "commerce-department"
+        },
+        {
+          "raw_name": "National Oceanic and Atmospheric Administration",
+          "name": "National Oceanic and Atmospheric Administration",
+          "id": 361,
+          "url": "https://www.federalregister.gov/agencies/national-oceanic-and-atmospheric-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/361",
+          "parent_id": 54,
+          "slug": "national-oceanic-and-atmospheric-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-26",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0648-BO32"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-11-26"
+    },
+    "2026-24129": {
+      "title": "Locatable Minerals",
+      "type": "Proposed Rule",
+      "abstract": "The U.S. Department of Agriculture, Forest Service (Agency) is reopening the comment period for the proposed rule, \"Locatable Minerals,\" which published in the Federal Register on February 20, 2026 (91 FR 8316). The proposed rule would revise regulations governing occupancy and use of National Forest System lands in connection with prospecting, exploration, development, mining, processing, and reclamation conducted under the mining laws. The Agency is reopening the comment period to allow the public additional time to review the proposed revisions and submit comments. The proposed regulatory text and supporting analyses, including the draft environmental impact statement and cost-benefit analysis are unchanged by this notice.",
+      "document_number": "2026-24129",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/27/2026-24129/locatable-minerals",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-27/pdf/2026-24129.pdf",
+      "publication_date": "2026-11-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        },
+        {
+          "raw_name": "Forest Service",
+          "name": "Forest Service",
+          "id": 209,
+          "url": "https://www.federalregister.gov/agencies/forest-service",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/209",
+          "parent_id": 12,
+          "slug": "forest-service"
+        }
+      ],
+      "comments_close_on": "2026-12-11",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "0596-AD32"
+      ],
+      "significant": true,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-11-26"
+    },
+    "2026-24140": {
+      "title": "Federal Motor Vehicle Safety Standards: Automatic Emergency Braking Systems for Light Vehicles",
+      "type": "Proposed Rule",
+      "abstract": "NHTSA proposes to modify Federal Motor Vehicle Safety Standard No. 127; Automatic emergency braking systems for light vehicles. NHTSA proposes to delay the compliance date by two years so that manufacturers have more time to comply with the standard. NHTSA also proposes test procedures for testing the malfunction telltale and to clarify the test speed tolerance. The agency seeks comment on other potential modifications to the standard.",
+      "document_number": "2026-24140",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/27/2026-24140/federal-motor-vehicle-safety-standards-automatic-emergency-braking-systems-for-light-vehicles",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-27/pdf/2026-24140.pdf",
+      "publication_date": "2026-11-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF TRANSPORTATION",
+          "name": "Transportation Department",
+          "id": 492,
+          "url": "https://www.federalregister.gov/agencies/transportation-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/492",
+          "parent_id": null,
+          "slug": "transportation-department"
+        },
+        {
+          "raw_name": "National Highway Traffic Safety Administration",
+          "name": "National Highway Traffic Safety Administration",
+          "id": 345,
+          "url": "https://www.federalregister.gov/agencies/national-highway-traffic-safety-administration",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/345",
+          "parent_id": 492,
+          "slug": "national-highway-traffic-safety-administration"
+        }
+      ],
+      "comments_close_on": "2027-01-26",
+      "comment_url": null,
+      "effective_on": null,
+      "regulation_id_numbers": [
+        "2127-AM69"
+      ],
+      "significant": true,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-11-26"
+    },
+    "2026-24143": {
+      "title": "Agricultural Foreign Investment Disclosure Act of 1978",
+      "type": "Proposed Rule",
+      "abstract": "On June 25, 2026, the United States Department of Agriculture (the Agency) published a proposed rule to update its regulations regarding the Agricultural Foreign Investment Disclosure Act of 1978 (AFIDA) (91 FR 38315) and requested public comment by August 10, 2026. The Agency is reopening the comment period in response to a request from stakeholders to extend the comment period to allow additional time for interested parties to review the proposed revisions and submit comments.",
+      "document_number": "2026-24143",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/27/2026-24143/agricultural-foreign-investment-disclosure-act-of-1978",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-27/pdf/2026-24143.pdf",
+      "publication_date": "2026-11-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF AGRICULTURE",
+          "name": "Agriculture Department",
+          "id": 12,
+          "url": "https://www.federalregister.gov/agencies/agriculture-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/12",
+          "parent_id": null,
+          "slug": "agriculture-department"
+        }
+      ],
+      "comments_close_on": "2026-12-11",
+      "comment_url": null,
+      "effective_on": "2026-06-25",
+      "regulation_id_numbers": [
+        "0560-AI70"
+      ],
+      "significant": false,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-11-26"
+    },
+    "2026-24149": {
+      "title": "Heightened Import Disclosures for Supply Chain Visibility; Extension of Comment Period",
+      "type": "Proposed Rule",
+      "abstract": "This document announces that U.S. Customs and Border Protection (CBP) will extend the comment period for an additional 45 days for interested parties to submit comments on the advance notice of proposed rulemaking (ANPRM) regarding supply chain visibility. The ANPRM was published in the Federal Register on September 2, 2026, with comments due on or before December 1, 2026. To allow for as much public participation as possible in the formulation of a Notice of Proposed Rulemaking, CBP is extending the comment period to January 15, 2027.",
+      "document_number": "2026-24149",
+      "html_url": "https://www.federalregister.gov/documents/2026/11/27/2026-24149/heightened-import-disclosures-for-supply-chain-visibility-extension-of-comment-period",
+      "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-27/pdf/2026-24149.pdf",
+      "publication_date": "2026-11-27",
+      "agencies": [
+        {
+          "raw_name": "DEPARTMENT OF HOMELAND SECURITY",
+          "name": "Homeland Security Department",
+          "id": 227,
+          "url": "https://www.federalregister.gov/agencies/homeland-security-department",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/227",
+          "parent_id": null,
+          "slug": "homeland-security-department"
+        },
+        {
+          "raw_name": "U.S. Customs and Border Protection",
+          "name": "U.S. Customs and Border Protection",
+          "id": 501,
+          "url": "https://www.federalregister.gov/agencies/u-s-customs-and-border-protection",
+          "json_url": "https://www.federalregister.gov/api/v1/agencies/501",
+          "parent_id": 227,
+          "slug": "u-s-customs-and-border-protection"
+        }
+      ],
+      "comments_close_on": "2027-01-15",
+      "comment_url": null,
+      "effective_on": "2026-09-02",
+      "regulation_id_numbers": [
+        "1685-AA47"
+      ],
+      "significant": null,
+      "comments_count": null,
+      "docket_id": null,
+      "first_seen": "2026-11-26"
     },
     "C1-2026-20360": {
       "title": "Interval Fund Modernization; Expansion of Multiple Share Class to Registered Closed-End Management Investment Companies and Business Development Companies",
